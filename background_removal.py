@@ -48,4 +48,3 @@ if __name__ == "__main__":
     # 배경을 지운 이미지들을 저장할 경로
     output_path = "../ai06-level1-project/train_output/"
     result = background_removal(input_path, output_path)
-    result.show()
