@@ -4,6 +4,7 @@ from carvekit.api.high import HiInterface
 import torch
 import cv2
 import numpy as np
+import argparse
 
 
 def background_removal(input_path, output_path):
@@ -43,8 +44,19 @@ def background_removal(input_path, output_path):
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='입력 폴더의 이미지를 출력 폴더에 생성')
+    parser.add_argument('input_path', help='원본 이미지 폴더')
+    parser.add_argument('output_path', help='원본 이미지 폴더')
+
+    args = parser.parse_args()
+
     # 배경을 지울 이미지들이 있는 경로
-    input_path = "../ai06-level1-project/train_images/"
+    input_path = "../ai06-level1-project/test_images/"
+    if args.input_path:
+        input_path=args.input_path
     # 배경을 지운 이미지들을 저장할 경로
-    output_path = "../ai06-level1-project/train_output/"
+    output_path = "../ai06-level1-project/test_cleaned/"
+    if args.output_path:
+        output_path=args.output_path
+    os.makedirs(os.path.join(output_path), exist_ok=True)
     result = background_removal(input_path, output_path)
