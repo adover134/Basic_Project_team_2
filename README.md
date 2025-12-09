@@ -20,3 +20,8 @@ data_load.ipynb 파일을 사용하면 됩니다. 코드 셀들은 다음의 기
 3. annotation 파일들을 COCO 객체로 사용할 수 있는 형태로 결합
 4. COCO 객체로 변환
 5. YOLO 학습에 활용 가능한 형태로 변환
+
+# 업데이트 내역
+2025/12/09
+추가 데이터의 라벨링 데이터 업로드</br>
+[추가 데이터의 배경 지운 이미지 링크](https://drive.google.com/drive/folders/1D-aRz5nsbGubS3pPAP_DnG4oK4K3Kbx5?usp=drive_link)
