@@ -1,0 +1,140 @@
+{
+    "images": [
+        {
+            "file_name": "K-012420-016551-029451-033208_0_2_0_2_75_000_200.png",
+            "width": 976,
+            "height": 1280,
+            "imgfile": "K-012420-016551-029451-033208_0_2_0_2_75_000_200.png",
+            "drug_N": "K-012420",
+            "drug_S": "정상알약",
+            "back_color": "연회색 배경",
+            "drug_dir": "앞면",
+            "light_color": "주백색",
+            "camera_la": 75,
+            "camera_lo": 0,
+            "size": 200,
+            "dl_idx": "12419",
+            "dl_mapping_code": "K-012420",
+            "dl_name": "자이프렉사정 2.5mg",
+            "dl_name_en": "Zyprexa Tab. 2.5mg",
+            "img_key": "http://connectdi.com/design/img/drug/151317985218500074.jpg",
+            "dl_material": "올란자핀",
+            "dl_material_en": "Olaparib",
+            "dl_custom_shape": "정제, 저작정",
+            "dl_company": "한국릴리(유)",
+            "dl_company_en": "Eli Lilly Korea",
+            "di_company_mf": "Lilly S.A.",
+            "di_company_mf_en": "",
+            "item_seq": 200209622,
+            "di_item_permit_date": "20020419",
+            "di_class_no": "[01170]정신신경용제",
+            "di_etc_otc_code": "전문의약품",
+            "di_edi_code": "670800200,E00510431",
+            "chart": "필름코팅된 백색의 원형정제",
+            "drug_shape": "원형",
+            "thick": 3.3,
+            "leng_long": 7.2,
+            "leng_short": 7.2,
+            "print_front": "LILLY4112",
+            "print_back": "",
+            "color_class1": "하양",
+            "color_class2": "",
+            "line_front": "",
+            "line_back": "",
+            "img_regist_ts": "20041222",
+            "form_code_name": "필름코팅정",
+            "mark_code_front_anal": "",
+            "mark_code_back_anal": "",
+            "mark_code_front_img": "",
+            "mark_code_back_img": "",
+            "mark_code_front": "",
+            "mark_code_back": "",
+            "change_date": "20201221",
+            "id": 7531
+        }
+    ],
+    "annotations": [
+        {
+            "area": 33942,
+            "iscrowd": 0,
+            "bbox": [
+                84,
+                220,
+                182,
+                181
+            ],
+            "category_id": 12419,
+            "ignore": 0,
+            "segmentation": [],
+            "id": 23430,
+            "image_id": 7531
+        },
+        {
+            "area": 133541,
+            "iscrowd": 0,
+            "bbox": [
+                521,
+                163,
+                289,
+                469
+            ],
+            "category_id": 16550,
+            "ignore": 0,
+            "segmentation": [],
+            "id": 23431,
+            "image_id": 7531
+        },
+        {
+            "area": 112203,
+            "iscrowd": 0,
+            "bbox": [
+                103,
+                672,
+                273,
+                411
+            ],
+            "category_id": 29450,
+            "ignore": 0,
+            "segmentation": [],
+            "id": 23432,
+            "image_id": 7531
+        },
+        {
+            "area": 43665,
+            "iscrowd": 0,
+            "bbox": [
+                614,
+                810,
+                213,
+                205
+            ],
+            "category_id": 33207,
+            "ignore": 0,
+            "segmentation": [],
+            "id": 23433,
+            "image_id": 7531
+        }
+    ],
+    "categories": [
+        {
+            "supercategory": "pill",
+            "id": 12419,
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "supercategory": "pill",
+            "id": 16550,
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "supercategory": "pill",
+            "id": 29450,
+            "name": "레일라정"
+        },
+        {
+            "supercategory": "pill",
+            "id": 33207,
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}

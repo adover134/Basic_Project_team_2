@@ -1,0 +1,140 @@
+{
+    "images": [
+        {
+            "file_name": "K-001900-010224-016548-021026_0_2_0_2_70_000_200.png",
+            "width": 976,
+            "height": 1280,
+            "imgfile": "K-001900-010224-016548-021026_0_2_0_2_70_000_200.png",
+            "drug_N": "K-001900",
+            "drug_S": "정상알약",
+            "back_color": "연회색 배경",
+            "drug_dir": "앞면",
+            "light_color": "주백색",
+            "camera_la": 70,
+            "camera_lo": 0,
+            "size": 200,
+            "dl_idx": "1899",
+            "dl_mapping_code": "K-001900",
+            "dl_name": "보령부스파정 5mg",
+            "dl_name_en": "Buspar Tab. 5mg Boryung",
+            "img_key": "http://connectdi.com/design/img/drug/1Mxwka5v0lL.jpg",
+            "dl_material": "부스피론염산염",
+            "dl_material_en": "Buspirone Hydrochloride",
+            "dl_custom_shape": "정제, 저작정",
+            "dl_company": "보령제약(주)",
+            "dl_company_en": "Boryung",
+            "di_company_mf": "",
+            "di_company_mf_en": "",
+            "item_seq": 198700706,
+            "di_item_permit_date": "19870323",
+            "di_class_no": "[01170]정신신경용제",
+            "di_etc_otc_code": "전문의약품",
+            "di_edi_code": "641901280,A09302381",
+            "chart": "이약은 양면볼록한 장방형의 흰색정제이다",
+            "drug_shape": "장방형",
+            "thick": 2.5,
+            "leng_long": 8,
+            "leng_short": 4.5,
+            "print_front": "BSP",
+            "print_back": "5",
+            "color_class1": "하양",
+            "color_class2": "",
+            "line_front": "",
+            "line_back": "",
+            "img_regist_ts": "20070910",
+            "form_code_name": "나정",
+            "mark_code_front_anal": "",
+            "mark_code_back_anal": "",
+            "mark_code_front_img": "",
+            "mark_code_back_img": "",
+            "mark_code_front": "",
+            "mark_code_back": "",
+            "change_date": "20160825",
+            "id": 2974
+        }
+    ],
+    "annotations": [
+        {
+            "area": 28560,
+            "iscrowd": 0,
+            "bbox": [
+                187,
+                272,
+                204,
+                140
+            ],
+            "category_id": 1899,
+            "ignore": 0,
+            "segmentation": [],
+            "id": 8923,
+            "image_id": 2974
+        },
+        {
+            "area": 108576,
+            "iscrowd": 0,
+            "bbox": [
+                649,
+                738,
+                261,
+                416
+            ],
+            "category_id": 10223,
+            "ignore": 0,
+            "segmentation": [],
+            "id": 8924,
+            "image_id": 2974
+        },
+        {
+            "area": 58316,
+            "iscrowd": 0,
+            "bbox": [
+                119,
+                893,
+                244,
+                239
+            ],
+            "category_id": 16547,
+            "ignore": 0,
+            "segmentation": [],
+            "id": 8925,
+            "image_id": 2974
+        },
+        {
+            "area": 31140,
+            "iscrowd": 0,
+            "bbox": [
+                683,
+                274,
+                180,
+                173
+            ],
+            "category_id": 21025,
+            "ignore": 0,
+            "segmentation": [],
+            "id": 8926,
+            "image_id": 2974
+        }
+    ],
+    "categories": [
+        {
+            "supercategory": "pill",
+            "id": 1899,
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "supercategory": "pill",
+            "id": 10223,
+            "name": "넥시움정 40mg"
+        },
+        {
+            "supercategory": "pill",
+            "id": 16547,
+            "name": "가바토파정 100mg"
+        },
+        {
+            "supercategory": "pill",
+            "id": 21025,
+            "name": "펠루비정(펠루비프로펜)"
+        }
+    ]
+}

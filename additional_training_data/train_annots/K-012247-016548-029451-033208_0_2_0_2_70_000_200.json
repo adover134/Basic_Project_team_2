@@ -1,0 +1,140 @@
+{
+    "images": [
+        {
+            "file_name": "K-012247-016548-029451-033208_0_2_0_2_70_000_200.png",
+            "width": 976,
+            "height": 1280,
+            "imgfile": "K-012247-016548-029451-033208_0_2_0_2_70_000_200.png",
+            "drug_N": "K-012247",
+            "drug_S": "정상알약",
+            "back_color": "연회색 배경",
+            "drug_dir": "앞면",
+            "light_color": "주백색",
+            "camera_la": 70,
+            "camera_lo": 0,
+            "size": 200,
+            "dl_idx": "12246",
+            "dl_mapping_code": "K-012247",
+            "dl_name": "아빌리파이정 10mg",
+            "dl_name_en": "Abilify Tab.10mg",
+            "img_key": "http://connectdi.com/design/img/drug/151317985218500137.jpg",
+            "dl_material": "아리피프라졸",
+            "dl_material_en": "Aripiprazole",
+            "dl_custom_shape": "정제, 저작정",
+            "dl_company": "한국오츠카제약(주)",
+            "dl_company_en": "Korea Otsuka Pharmaceutical",
+            "di_company_mf": "",
+            "di_company_mf_en": "",
+            "item_seq": 200202889,
+            "di_item_permit_date": "20020801",
+            "di_class_no": "[01170]정신신경용제",
+            "di_etc_otc_code": "전문의약품",
+            "di_edi_code": "649900120,A04270241",
+            "chart": "분홍색의 장방형 정제(각인 A-008 10)",
+            "drug_shape": "장방형",
+            "thick": 2.65,
+            "leng_long": 8,
+            "leng_short": 4.5,
+            "print_front": "A-008 10",
+            "print_back": "",
+            "color_class1": "분홍",
+            "color_class2": "",
+            "line_front": "",
+            "line_back": "",
+            "img_regist_ts": "20041222",
+            "form_code_name": "나정",
+            "mark_code_front_anal": "",
+            "mark_code_back_anal": "",
+            "mark_code_front_img": "",
+            "mark_code_back_img": "",
+            "mark_code_front": "",
+            "mark_code_back": "",
+            "change_date": "20191023",
+            "id": 7206
+        }
+    ],
+    "annotations": [
+        {
+            "area": 28728,
+            "iscrowd": 0,
+            "bbox": [
+                638,
+                894,
+                216,
+                133
+            ],
+            "category_id": 12246,
+            "ignore": 0,
+            "segmentation": [],
+            "id": 22144,
+            "image_id": 7206
+        },
+        {
+            "area": 57358,
+            "iscrowd": 0,
+            "bbox": [
+                114,
+                806,
+                238,
+                241
+            ],
+            "category_id": 16547,
+            "ignore": 0,
+            "segmentation": [],
+            "id": 22145,
+            "image_id": 7206
+        },
+        {
+            "area": 91537,
+            "iscrowd": 0,
+            "bbox": [
+                653,
+                231,
+                239,
+                383
+            ],
+            "category_id": 29450,
+            "ignore": 0,
+            "segmentation": [],
+            "id": 22146,
+            "image_id": 7206
+        },
+        {
+            "area": 40976,
+            "iscrowd": 0,
+            "bbox": [
+                174,
+                290,
+                208,
+                197
+            ],
+            "category_id": 33207,
+            "ignore": 0,
+            "segmentation": [],
+            "id": 22147,
+            "image_id": 7206
+        }
+    ],
+    "categories": [
+        {
+            "supercategory": "pill",
+            "id": 12246,
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "supercategory": "pill",
+            "id": 16547,
+            "name": "가바토파정 100mg"
+        },
+        {
+            "supercategory": "pill",
+            "id": 29450,
+            "name": "레일라정"
+        },
+        {
+            "supercategory": "pill",
+            "id": 33207,
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}
