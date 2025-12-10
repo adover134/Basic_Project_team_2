@@ -58,7 +58,7 @@
 		{
 			"area": 145700,
 			"iscrowd": 0,
-			"bbox": [499,177,310,470],
+			"bbox": [499,130,310,470],
 			"category_id": 1,
 			"ignore": 0,
 			"segmentation": [],
