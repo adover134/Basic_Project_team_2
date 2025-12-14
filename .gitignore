@@ -1,3 +1,12 @@
 additional_training_data/train_images/
 additional_training_data/train_cleaned/
 yolo_dataset
+additional_training_data
+ai06-level1-project
+cropped_images
+pill_images
+base_data
+runs
+train_checkpoints
+yolou_dataset_v2
+additional_pill_images
