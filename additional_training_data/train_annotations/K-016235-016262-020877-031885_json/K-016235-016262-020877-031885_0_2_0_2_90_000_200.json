@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7818,
+            "file_name": "K-016235-016262-020877-031885_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22367,
+            "image_id": 7818,
+            "category_id": 31884,
+            "bbox": [
+                122,
+                121,
+                299,
+                506
+            ],
+            "area": 151294,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22368,
+            "image_id": 7818,
+            "category_id": 16261,
+            "bbox": [
+                606,
+                177,
+                212,
+                212
+            ],
+            "area": 44944,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22369,
+            "image_id": 7818,
+            "category_id": 20876,
+            "bbox": [
+                152,
+                839,
+                244,
+                291
+            ],
+            "area": 71004,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

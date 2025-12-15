@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6901,
+            "file_name": "K-015710-020238-025469-028763_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19981,
+            "image_id": 6901,
+            "category_id": 25468,
+            "bbox": [
+                572,
+                222,
+                326,
+                219
+            ],
+            "area": 71394,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19982,
+            "image_id": 6901,
+            "category_id": 20237,
+            "bbox": [
+                160,
+                885,
+                205,
+                208
+            ],
+            "area": 42640,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19983,
+            "image_id": 6901,
+            "category_id": 28762,
+            "bbox": [
+                671,
+                847,
+                191,
+                192
+            ],
+            "area": 36672,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

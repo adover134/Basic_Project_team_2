@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 604,
+            "file_name": "K-003544-004543-012247-016548_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2256,
+            "image_id": 604,
+            "category_id": 16547,
+            "bbox": [
+                149,
+                255,
+                206,
+                208
+            ],
+            "area": 42848,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2257,
+            "image_id": 604,
+            "category_id": 12246,
+            "bbox": [
+                631,
+                326,
+                153,
+                174
+            ],
+            "area": 26622,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2258,
+            "image_id": 604,
+            "category_id": 4542,
+            "bbox": [
+                152,
+                874,
+                190,
+                194
+            ],
+            "area": 36860,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2259,
+            "image_id": 604,
+            "category_id": 3543,
+            "bbox": [
+                666,
+                897,
+                195,
+                198
+            ],
+            "area": 38610,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        }
+    ]
+}

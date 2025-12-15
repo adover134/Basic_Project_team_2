@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5327,
+            "file_name": "K-011220-020877-022347-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15277,
+            "image_id": 5327,
+            "category_id": 22346,
+            "bbox": [
+                102,
+                186,
+                181,
+                182
+            ],
+            "area": 32942,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15278,
+            "image_id": 5327,
+            "category_id": 35205,
+            "bbox": [
+                578,
+                112,
+                167,
+                372
+            ],
+            "area": 62124,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15279,
+            "image_id": 5327,
+            "category_id": 20876,
+            "bbox": [
+                55,
+                805,
+                300,
+                239
+            ],
+            "area": 71700,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

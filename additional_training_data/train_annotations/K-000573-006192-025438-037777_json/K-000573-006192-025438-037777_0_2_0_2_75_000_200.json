@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 845,
+            "file_name": "K-000573-006192-025438-037777_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1654,
+            "image_id": 845,
+            "category_id": 6191,
+            "bbox": [
+                520,
+                124,
+                326,
+                410
+            ],
+            "area": 133660,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1655,
+            "image_id": 845,
+            "category_id": 25437,
+            "bbox": [
+                116,
+                841,
+                241,
+                245
+            ],
+            "area": 59045,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        }
+    ]
+}

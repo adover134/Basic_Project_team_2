@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5162,
+            "file_name": "K-011220-019861-020238-022347_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14782,
+            "image_id": 5162,
+            "category_id": 22346,
+            "bbox": [
+                97,
+                214,
+                182,
+                183
+            ],
+            "area": 33306,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14783,
+            "image_id": 5162,
+            "category_id": 20237,
+            "bbox": [
+                621,
+                180,
+                197,
+                199
+            ],
+            "area": 39203,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14784,
+            "image_id": 5162,
+            "category_id": 19860,
+            "bbox": [
+                92,
+                833,
+                209,
+                162
+            ],
+            "area": 33858,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 464,
+            "file_name": "K-003483-020238-025469-030308_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1696,
+            "image_id": 464,
+            "category_id": 30307,
+            "bbox": [
+                62,
+                134,
+                358,
+                377
+            ],
+            "area": 134966,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1697,
+            "image_id": 464,
+            "category_id": 20237,
+            "bbox": [
+                628,
+                203,
+                200,
+                200
+            ],
+            "area": 40000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1698,
+            "image_id": 464,
+            "category_id": 25468,
+            "bbox": [
+                59,
+                868,
+                342,
+                197
+            ],
+            "area": 67374,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1699,
+            "image_id": 464,
+            "category_id": 3482,
+            "bbox": [
+                611,
+                849,
+                256,
+                177
+            ],
+            "area": 45312,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

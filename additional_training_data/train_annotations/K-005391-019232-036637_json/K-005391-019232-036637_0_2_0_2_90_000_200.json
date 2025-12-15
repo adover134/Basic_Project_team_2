@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 4050,
+            "file_name": "K-005391-019232-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10799,
+            "image_id": 4050,
+            "category_id": 19231,
+            "bbox": [
+                189,
+                732,
+                229,
+                326
+            ],
+            "area": 74654,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10800,
+            "image_id": 4050,
+            "category_id": 36636,
+            "bbox": [
+                613,
+                810,
+                196,
+                230
+            ],
+            "area": 45080,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        }
+    ]
+}

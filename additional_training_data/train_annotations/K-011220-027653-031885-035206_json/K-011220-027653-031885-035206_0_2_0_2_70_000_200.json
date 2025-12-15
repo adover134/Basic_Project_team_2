@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5506,
+            "file_name": "K-011220-027653-031885-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15814,
+            "image_id": 5506,
+            "category_id": 27652,
+            "bbox": [
+                693,
+                269,
+                183,
+                179
+            ],
+            "area": 32757,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15815,
+            "image_id": 5506,
+            "category_id": 35205,
+            "bbox": [
+                145,
+                816,
+                187,
+                391
+            ],
+            "area": 73117,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15816,
+            "image_id": 5506,
+            "category_id": 31884,
+            "bbox": [
+                531,
+                596,
+                355,
+                501
+            ],
+            "area": 177855,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        }
+    ]
+}

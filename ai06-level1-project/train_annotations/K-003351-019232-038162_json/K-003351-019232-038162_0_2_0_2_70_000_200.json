@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 284,
+            "file_name": "K-003351-019232-038162_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1038,
+            "image_id": 284,
+            "category_id": 38161,
+            "bbox": [
+                159,
+                261,
+                193,
+                253
+            ],
+            "area": 48829,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1039,
+            "image_id": 284,
+            "category_id": 19231,
+            "bbox": [
+                550,
+                253,
+                225,
+                305
+            ],
+            "area": 68625,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1040,
+            "image_id": 284,
+            "category_id": 3350,
+            "bbox": [
+                420,
+                885,
+                170,
+                178
+            ],
+            "area": 30260,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 38161,
+            "supercategory": "pill",
+            "name": "로수바미브정 10/20mg"
+        },
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

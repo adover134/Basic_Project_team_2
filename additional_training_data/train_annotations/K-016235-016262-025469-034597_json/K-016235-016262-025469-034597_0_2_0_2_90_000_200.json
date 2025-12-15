@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7857,
+            "file_name": "K-016235-016262-025469-034597_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22484,
+            "image_id": 7857,
+            "category_id": 34596,
+            "bbox": [
+                34,
+                160,
+                416,
+                368
+            ],
+            "area": 153088,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22485,
+            "image_id": 7857,
+            "category_id": 16261,
+            "bbox": [
+                579,
+                203,
+                212,
+                213
+            ],
+            "area": 45156,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22486,
+            "image_id": 7857,
+            "category_id": 25468,
+            "bbox": [
+                26,
+                867,
+                344,
+                180
+            ],
+            "area": 61920,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5292,
+            "file_name": "K-011220-020238-027653-030308_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15172,
+            "image_id": 5292,
+            "category_id": 30307,
+            "bbox": [
+                68,
+                129,
+                361,
+                375
+            ],
+            "area": 135375,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15173,
+            "image_id": 5292,
+            "category_id": 20237,
+            "bbox": [
+                664,
+                186,
+                200,
+                200
+            ],
+            "area": 40000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15174,
+            "image_id": 5292,
+            "category_id": 27652,
+            "bbox": [
+                115,
+                858,
+                187,
+                188
+            ],
+            "area": 35156,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        }
+    ]
+}

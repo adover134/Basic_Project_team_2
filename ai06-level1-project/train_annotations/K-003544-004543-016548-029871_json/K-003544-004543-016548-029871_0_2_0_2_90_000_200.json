@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 616,
+            "file_name": "K-003544-004543-016548-029871_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2304,
+            "image_id": 616,
+            "category_id": 3543,
+            "bbox": [
+                124,
+                172,
+                189,
+                189
+            ],
+            "area": 35721,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2305,
+            "image_id": 616,
+            "category_id": 4542,
+            "bbox": [
+                648,
+                149,
+                188,
+                187
+            ],
+            "area": 35156,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2306,
+            "image_id": 616,
+            "category_id": 16547,
+            "bbox": [
+                162,
+                818,
+                210,
+                216
+            ],
+            "area": 45360,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2307,
+            "image_id": 616,
+            "category_id": 29870,
+            "bbox": [
+                640,
+                815,
+                182,
+                205
+            ],
+            "area": 37310,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

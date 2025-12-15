@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 271,
+            "file_name": "K-003351-018357-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 999,
+            "image_id": 271,
+            "category_id": 35205,
+            "bbox": [
+                206,
+                206,
+                201,
+                373
+            ],
+            "area": 74973,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1000,
+            "image_id": 271,
+            "category_id": 18356,
+            "bbox": [
+                621,
+                232,
+                239,
+                313
+            ],
+            "area": 74807,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1001,
+            "image_id": 271,
+            "category_id": 3350,
+            "bbox": [
+                446,
+                867,
+                170,
+                177
+            ],
+            "area": 30090,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 18356,
+            "supercategory": "pill",
+            "name": "종근당글리아티린연질캡슐(콜린알포세레이트)"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

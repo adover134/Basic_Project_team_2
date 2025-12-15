@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 775,
+            "file_name": "K-000573-005002-022627-025438_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1514,
+            "image_id": 775,
+            "category_id": 25437,
+            "bbox": [
+                101,
+                163,
+                231,
+                232
+            ],
+            "area": 53592,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1515,
+            "image_id": 775,
+            "category_id": 22626,
+            "bbox": [
+                538,
+                127,
+                221,
+                411
+            ],
+            "area": 90831,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        }
+    ]
+}

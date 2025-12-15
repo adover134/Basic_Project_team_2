@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 6059,
+            "file_name": "K-012420-016551-031705-044199_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17894,
+            "image_id": 6059,
+            "category_id": 12419,
+            "bbox": [
+                146,
+                259,
+                164,
+                165
+            ],
+            "area": 27060,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17895,
+            "image_id": 6059,
+            "category_id": 16550,
+            "bbox": [
+                574,
+                77,
+                242,
+                434
+            ],
+            "area": 105028,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17896,
+            "image_id": 6059,
+            "category_id": 31704,
+            "bbox": [
+                91,
+                627,
+                243,
+                413
+            ],
+            "area": 100359,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17897,
+            "image_id": 6059,
+            "category_id": 44198,
+            "bbox": [
+                638,
+                776,
+                133,
+                268
+            ],
+            "area": 35644,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        },
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4562,
+            "file_name": "K-010221-016548-021026-024850_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12596,
+            "image_id": 4562,
+            "category_id": 24849,
+            "bbox": [
+                144,
+                212,
+                261,
+                152
+            ],
+            "area": 39672,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12597,
+            "image_id": 4562,
+            "category_id": 16547,
+            "bbox": [
+                605,
+                124,
+                205,
+                210
+            ],
+            "area": 43050,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12598,
+            "image_id": 4562,
+            "category_id": 21025,
+            "bbox": [
+                107,
+                827,
+                164,
+                166
+            ],
+            "area": 27224,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12599,
+            "image_id": 4562,
+            "category_id": 10220,
+            "bbox": [
+                594,
+                781,
+                202,
+                207
+            ],
+            "area": 41814,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

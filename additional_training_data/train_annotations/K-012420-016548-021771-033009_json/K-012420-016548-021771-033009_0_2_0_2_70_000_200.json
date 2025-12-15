@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5911,
+            "file_name": "K-012420-016548-021771-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17302,
+            "image_id": 5911,
+            "category_id": 33008,
+            "bbox": [
+                127,
+                241,
+                252,
+                295
+            ],
+            "area": 74340,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17303,
+            "image_id": 5911,
+            "category_id": 21770,
+            "bbox": [
+                675,
+                303,
+                168,
+                166
+            ],
+            "area": 27888,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17304,
+            "image_id": 5911,
+            "category_id": 16547,
+            "bbox": [
+                104,
+                902,
+                217,
+                224
+            ],
+            "area": 48608,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17305,
+            "image_id": 5911,
+            "category_id": 12419,
+            "bbox": [
+                655,
+                915,
+                172,
+                175
+            ],
+            "area": 30100,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

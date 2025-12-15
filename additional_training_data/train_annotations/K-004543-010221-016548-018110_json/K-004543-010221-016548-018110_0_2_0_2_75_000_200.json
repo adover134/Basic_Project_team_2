@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3155,
+            "file_name": "K-004543-010221-016548-018110_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8264,
+            "image_id": 3155,
+            "category_id": 4542,
+            "bbox": [
+                112,
+                228,
+                183,
+                186
+            ],
+            "area": 34038,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8265,
+            "image_id": 3155,
+            "category_id": 10220,
+            "bbox": [
+                609,
+                168,
+                195,
+                200
+            ],
+            "area": 39000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8266,
+            "image_id": 3155,
+            "category_id": 16547,
+            "bbox": [
+                94,
+                783,
+                217,
+                219
+            ],
+            "area": 47523,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8267,
+            "image_id": 3155,
+            "category_id": 18109,
+            "bbox": [
+                535,
+                762,
+                274,
+                279
+            ],
+            "area": 76446,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        }
+    ]
+}

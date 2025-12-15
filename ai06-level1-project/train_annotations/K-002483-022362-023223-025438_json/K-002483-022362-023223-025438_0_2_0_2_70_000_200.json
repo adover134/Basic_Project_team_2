@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 187,
+            "file_name": "K-002483-022362-023223-025438_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 745,
+            "image_id": 187,
+            "category_id": 22361,
+            "bbox": [
+                112,
+                134,
+                215,
+                353
+            ],
+            "area": 75895,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 746,
+            "image_id": 187,
+            "category_id": 25437,
+            "bbox": [
+                533,
+                169,
+                230,
+                232
+            ],
+            "area": 53360,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 747,
+            "image_id": 187,
+            "category_id": 2482,
+            "bbox": [
+                123,
+                676,
+                188,
+                438
+            ],
+            "area": 82344,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 748,
+            "image_id": 187,
+            "category_id": 23222,
+            "bbox": [
+                558,
+                649,
+                241,
+                452
+            ],
+            "area": 108932,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        }
+    ]
+}

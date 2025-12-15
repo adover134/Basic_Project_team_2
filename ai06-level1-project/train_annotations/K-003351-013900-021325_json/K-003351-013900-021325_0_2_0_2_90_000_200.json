@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 212,
+            "file_name": "K-003351-013900-021325_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 822,
+            "image_id": 212,
+            "category_id": 3350,
+            "bbox": [
+                414,
+                270,
+                167,
+                168
+            ],
+            "area": 28056,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 823,
+            "image_id": 212,
+            "category_id": 21324,
+            "bbox": [
+                216,
+                761,
+                140,
+                221
+            ],
+            "area": 30940,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 824,
+            "image_id": 212,
+            "category_id": 13899,
+            "bbox": [
+                601,
+                803,
+                184,
+                232
+            ],
+            "area": 42688,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 21324,
+            "supercategory": "pill",
+            "name": "아토르바정 10mg"
+        },
+        {
+            "id": 13899,
+            "supercategory": "pill",
+            "name": "에빅사정(메만틴염산염)(비매품)"
+        }
+    ]
+}

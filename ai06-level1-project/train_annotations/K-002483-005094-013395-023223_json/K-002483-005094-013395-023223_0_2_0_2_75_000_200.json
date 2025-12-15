@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 152,
+            "file_name": "K-002483-005094-013395-023223_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 605,
+            "image_id": 152,
+            "category_id": 23222,
+            "bbox": [
+                167,
+                177,
+                224,
+                434
+            ],
+            "area": 97216,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 606,
+            "image_id": 152,
+            "category_id": 2482,
+            "bbox": [
+                639,
+                134,
+                197,
+                413
+            ],
+            "area": 81361,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 607,
+            "image_id": 152,
+            "category_id": 5093,
+            "bbox": [
+                161,
+                858,
+                256,
+                262
+            ],
+            "area": 67072,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 608,
+            "image_id": 152,
+            "category_id": 13394,
+            "bbox": [
+                665,
+                700,
+                213,
+                461
+            ],
+            "area": 98193,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

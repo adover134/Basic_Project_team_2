@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7632,
+            "file_name": "K-016232-020014-024752_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21878,
+            "image_id": 7632,
+            "category_id": 16231,
+            "bbox": [
+                382,
+                242,
+                177,
+                176
+            ],
+            "area": 31152,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21879,
+            "image_id": 7632,
+            "category_id": 20013,
+            "bbox": [
+                66,
+                682,
+                311,
+                311
+            ],
+            "area": 96721,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 20013,
+            "supercategory": "pill",
+            "name": "마도파정"
+        }
+    ]
+}

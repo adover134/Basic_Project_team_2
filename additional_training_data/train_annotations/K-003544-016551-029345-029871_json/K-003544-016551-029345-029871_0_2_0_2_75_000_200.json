@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1691,
+            "file_name": "K-003544-016551-029345-029871_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4106,
+            "image_id": 1691,
+            "category_id": 3543,
+            "bbox": [
+                132,
+                272,
+                186,
+                187
+            ],
+            "area": 34782,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4107,
+            "image_id": 1691,
+            "category_id": 16550,
+            "bbox": [
+                566,
+                60,
+                231,
+                437
+            ],
+            "area": 100947,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4108,
+            "image_id": 1691,
+            "category_id": 29344,
+            "bbox": [
+                76,
+                739,
+                228,
+                420
+            ],
+            "area": 95760,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4109,
+            "image_id": 1691,
+            "category_id": 29870,
+            "bbox": [
+                629,
+                810,
+                226,
+                156
+            ],
+            "area": 35256,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7308,
+            "file_name": "K-016206-018357-020238_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21107,
+            "image_id": 7308,
+            "category_id": 18356,
+            "bbox": [
+                155,
+                731,
+                319,
+                260
+            ],
+            "area": 82940,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21108,
+            "image_id": 7308,
+            "category_id": 20237,
+            "bbox": [
+                605,
+                841,
+                206,
+                207
+            ],
+            "area": 42642,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 18356,
+            "supercategory": "pill",
+            "name": "종근당글리아티린연질캡슐(콜린알포세레이트)"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        }
+    ]
+}

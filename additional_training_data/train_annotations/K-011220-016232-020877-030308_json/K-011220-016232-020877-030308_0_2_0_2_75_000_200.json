@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 4976,
+            "file_name": "K-011220-016232-020877-030308_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14224,
+            "image_id": 4976,
+            "category_id": 30307,
+            "bbox": [
+                52,
+                106,
+                261,
+                413
+            ],
+            "area": 107793,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14225,
+            "image_id": 4976,
+            "category_id": 16231,
+            "bbox": [
+                613,
+                195,
+                170,
+                171
+            ],
+            "area": 29070,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14226,
+            "image_id": 4976,
+            "category_id": 20876,
+            "bbox": [
+                56,
+                804,
+                299,
+                240
+            ],
+            "area": 71760,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

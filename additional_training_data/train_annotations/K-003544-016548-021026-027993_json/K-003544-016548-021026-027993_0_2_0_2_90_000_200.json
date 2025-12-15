@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1575,
+            "file_name": "K-003544-016548-021026-027993_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3642,
+            "image_id": 1575,
+            "category_id": 3543,
+            "bbox": [
+                121,
+                227,
+                189,
+                189
+            ],
+            "area": 35721,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3643,
+            "image_id": 1575,
+            "category_id": 16547,
+            "bbox": [
+                594,
+                197,
+                211,
+                211
+            ],
+            "area": 44521,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3644,
+            "image_id": 1575,
+            "category_id": 21025,
+            "bbox": [
+                156,
+                871,
+                162,
+                163
+            ],
+            "area": 26406,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3645,
+            "image_id": 1575,
+            "category_id": 27992,
+            "bbox": [
+                624,
+                792,
+                250,
+                252
+            ],
+            "area": 63000,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        }
+    ]
+}

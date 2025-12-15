@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3302,
+            "file_name": "K-004543-016548-018110-029871_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8852,
+            "image_id": 3302,
+            "category_id": 4542,
+            "bbox": [
+                132,
+                143,
+                183,
+                184
+            ],
+            "area": 33672,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8853,
+            "image_id": 3302,
+            "category_id": 16547,
+            "bbox": [
+                627,
+                181,
+                208,
+                210
+            ],
+            "area": 43680,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8854,
+            "image_id": 3302,
+            "category_id": 18109,
+            "bbox": [
+                50,
+                727,
+                272,
+                278
+            ],
+            "area": 75616,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8855,
+            "image_id": 3302,
+            "category_id": 29870,
+            "bbox": [
+                613,
+                777,
+                184,
+                209
+            ],
+            "area": 38456,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

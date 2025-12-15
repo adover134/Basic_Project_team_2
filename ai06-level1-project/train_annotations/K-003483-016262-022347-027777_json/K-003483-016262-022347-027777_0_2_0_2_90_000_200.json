@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 401,
+            "file_name": "K-003483-016262-022347-027777_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1444,
+            "image_id": 401,
+            "category_id": 22346,
+            "bbox": [
+                113,
+                207,
+                184,
+                185
+            ],
+            "area": 34040,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1445,
+            "image_id": 401,
+            "category_id": 16261,
+            "bbox": [
+                616,
+                202,
+                213,
+                212
+            ],
+            "area": 45156,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1446,
+            "image_id": 401,
+            "category_id": 27776,
+            "bbox": [
+                185,
+                820,
+                156,
+                193
+            ],
+            "area": 30108,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1447,
+            "image_id": 401,
+            "category_id": 3482,
+            "bbox": [
+                573,
+                819,
+                243,
+                205
+            ],
+            "area": 49815,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

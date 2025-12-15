@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5603,
+            "file_name": "K-012081-013161-019552-025438_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16105,
+            "image_id": 5603,
+            "category_id": 19551,
+            "bbox": [
+                128,
+                202,
+                284,
+                399
+            ],
+            "area": 113316,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16106,
+            "image_id": 5603,
+            "category_id": 25437,
+            "bbox": [
+                128,
+                840,
+                241,
+                246
+            ],
+            "area": 59286,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16107,
+            "image_id": 5603,
+            "category_id": 12080,
+            "bbox": [
+                667,
+                735,
+                214,
+                418
+            ],
+            "area": 89452,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

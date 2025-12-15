@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2337,
+            "file_name": "K-003614-027777-029667-034597_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 6071,
+            "image_id": 2337,
+            "category_id": 34596,
+            "bbox": [
+                101,
+                164,
+                364,
+                418
+            ],
+            "area": 152152,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6072,
+            "image_id": 2337,
+            "category_id": 29666,
+            "bbox": [
+                670,
+                201,
+                201,
+                200
+            ],
+            "area": 40200,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6073,
+            "image_id": 2337,
+            "category_id": 27776,
+            "bbox": [
+                192,
+                819,
+                155,
+                193
+            ],
+            "area": 29915,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        }
+    ]
+}

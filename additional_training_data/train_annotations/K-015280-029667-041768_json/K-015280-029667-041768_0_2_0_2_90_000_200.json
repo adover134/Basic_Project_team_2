@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6540,
+            "file_name": "K-015280-029667-041768_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18935,
+            "image_id": 6540,
+            "category_id": 29666,
+            "bbox": [
+                164,
+                796,
+                207,
+                206
+            ],
+            "area": 42642,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18936,
+            "image_id": 6540,
+            "category_id": 41767,
+            "bbox": [
+                606,
+                716,
+                239,
+                294
+            ],
+            "area": 70266,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        }
+    ]
+}

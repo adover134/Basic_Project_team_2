@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 6051,
+            "file_name": "K-012420-016551-029451-033208_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17862,
+            "image_id": 6051,
+            "category_id": 12419,
+            "bbox": [
+                107,
+                236,
+                165,
+                165
+            ],
+            "area": 27225,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17863,
+            "image_id": 6051,
+            "category_id": 16550,
+            "bbox": [
+                567,
+                200,
+                246,
+                447
+            ],
+            "area": 109962,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17864,
+            "image_id": 6051,
+            "category_id": 29450,
+            "bbox": [
+                154,
+                735,
+                215,
+                373
+            ],
+            "area": 80195,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17865,
+            "image_id": 6051,
+            "category_id": 33207,
+            "bbox": [
+                650,
+                851,
+                185,
+                183
+            ],
+            "area": 33855,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}

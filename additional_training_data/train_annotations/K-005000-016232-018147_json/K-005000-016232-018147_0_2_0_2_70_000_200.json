@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3463,
+            "file_name": "K-005000-016232-018147_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9441,
+            "image_id": 3463,
+            "category_id": 18146,
+            "bbox": [
+                209,
+                203,
+                157,
+                381
+            ],
+            "area": 59817,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9442,
+            "image_id": 3463,
+            "category_id": 16231,
+            "bbox": [
+                622,
+                299,
+                172,
+                178
+            ],
+            "area": 30616,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 18146,
+            "supercategory": "pill",
+            "name": "리리카캡슐 150mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        }
+    ]
+}

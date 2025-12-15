@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4257,
+            "file_name": "K-006563-010224-016548-033878_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11376,
+            "image_id": 4257,
+            "category_id": 10223,
+            "bbox": [
+                86,
+                31,
+                249,
+                356
+            ],
+            "area": 88644,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11377,
+            "image_id": 4257,
+            "category_id": 16547,
+            "bbox": [
+                622,
+                219,
+                211,
+                211
+            ],
+            "area": 44521,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11378,
+            "image_id": 4257,
+            "category_id": 6562,
+            "bbox": [
+                200,
+                724,
+                179,
+                336
+            ],
+            "area": 60144,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11379,
+            "image_id": 4257,
+            "category_id": 33877,
+            "bbox": [
+                638,
+                857,
+                198,
+                122
+            ],
+            "area": 24156,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        }
+    ]
+}

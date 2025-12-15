@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 605,
+            "file_name": "K-003544-004543-012247-016548_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2260,
+            "image_id": 605,
+            "category_id": 3543,
+            "bbox": [
+                122,
+                174,
+                185,
+                186
+            ],
+            "area": 34410,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2261,
+            "image_id": 605,
+            "category_id": 4542,
+            "bbox": [
+                616,
+                196,
+                181,
+                184
+            ],
+            "area": 33304,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2262,
+            "image_id": 605,
+            "category_id": 12246,
+            "bbox": [
+                171,
+                769,
+                161,
+                185
+            ],
+            "area": 29785,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2263,
+            "image_id": 605,
+            "category_id": 16547,
+            "bbox": [
+                617,
+                797,
+                216,
+                219
+            ],
+            "area": 47304,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        }
+    ]
+}

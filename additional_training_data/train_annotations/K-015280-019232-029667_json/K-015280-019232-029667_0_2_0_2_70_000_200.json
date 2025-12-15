@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6460,
+            "file_name": "K-015280-019232-029667_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18775,
+            "image_id": 6460,
+            "category_id": 29666,
+            "bbox": [
+                96,
+                325,
+                206,
+                211
+            ],
+            "area": 43466,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18776,
+            "image_id": 6460,
+            "category_id": 19231,
+            "bbox": [
+                534,
+                219,
+                211,
+                311
+            ],
+            "area": 65621,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        }
+    ]
+}

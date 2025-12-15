@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5787,
+            "file_name": "K-012247-016551-021026-024850_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16806,
+            "image_id": 5787,
+            "category_id": 24849,
+            "bbox": [
+                118,
+                252,
+                261,
+                164
+            ],
+            "area": 42804,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16807,
+            "image_id": 5787,
+            "category_id": 16550,
+            "bbox": [
+                561,
+                134,
+                344,
+                394
+            ],
+            "area": 135536,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16808,
+            "image_id": 5787,
+            "category_id": 21025,
+            "bbox": [
+                143,
+                864,
+                162,
+                163
+            ],
+            "area": 26406,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16809,
+            "image_id": 5787,
+            "category_id": 12246,
+            "bbox": [
+                620,
+                854,
+                187,
+                140
+            ],
+            "area": 26180,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        }
+    ]
+}

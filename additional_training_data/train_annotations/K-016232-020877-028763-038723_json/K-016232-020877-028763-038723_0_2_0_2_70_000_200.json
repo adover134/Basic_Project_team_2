@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7669,
+            "file_name": "K-016232-020877-028763-038723_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21957,
+            "image_id": 7669,
+            "category_id": 20876,
+            "bbox": [
+                606,
+                188,
+                239,
+                278
+            ],
+            "area": 66442,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21958,
+            "image_id": 7669,
+            "category_id": 16231,
+            "bbox": [
+                153,
+                882,
+                178,
+                180
+            ],
+            "area": 32040,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21959,
+            "image_id": 7669,
+            "category_id": 28762,
+            "bbox": [
+                690,
+                839,
+                190,
+                191
+            ],
+            "area": 36290,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

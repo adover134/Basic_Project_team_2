@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 1996,
+            "file_name": "K-003614-020238-020877-022347_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5048,
+            "image_id": 1996,
+            "category_id": 20876,
+            "bbox": [
+                606,
+                224,
+                289,
+                228
+            ],
+            "area": 65892,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5049,
+            "image_id": 1996,
+            "category_id": 20237,
+            "bbox": [
+                120,
+                837,
+                204,
+                208
+            ],
+            "area": 42432,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5050,
+            "image_id": 1996,
+            "category_id": 22346,
+            "bbox": [
+                640,
+                840,
+                189,
+                191
+            ],
+            "area": 36099,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        }
+    ]
+}

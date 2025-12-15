@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 545,
+            "file_name": "K-000573-001866-002483-012778_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1089,
+            "image_id": 545,
+            "category_id": 2482,
+            "bbox": [
+                174,
+                686,
+                196,
+                444
+            ],
+            "area": 87024,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1090,
+            "image_id": 545,
+            "category_id": 12777,
+            "bbox": [
+                623,
+                784,
+                303,
+                443
+            ],
+            "area": 134229,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

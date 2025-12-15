@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4471,
+            "file_name": "K-006563-016551-027993-044199_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12232,
+            "image_id": 4471,
+            "category_id": 27992,
+            "bbox": [
+                139,
+                262,
+                269,
+                215
+            ],
+            "area": 57835,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12233,
+            "image_id": 4471,
+            "category_id": 6562,
+            "bbox": [
+                605,
+                247,
+                175,
+                310
+            ],
+            "area": 54250,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12234,
+            "image_id": 4471,
+            "category_id": 16550,
+            "bbox": [
+                25,
+                828,
+                445,
+                292
+            ],
+            "area": 129940,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12235,
+            "image_id": 4471,
+            "category_id": 44198,
+            "bbox": [
+                623,
+                821,
+                222,
+                237
+            ],
+            "area": 52614,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        }
+    ]
+}

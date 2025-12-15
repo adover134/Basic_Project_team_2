@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3332,
+            "file_name": "K-004543-016548-023203-024850_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8972,
+            "image_id": 3332,
+            "category_id": 4542,
+            "bbox": [
+                98,
+                195,
+                182,
+                184
+            ],
+            "area": 33488,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8973,
+            "image_id": 3332,
+            "category_id": 16547,
+            "bbox": [
+                601,
+                162,
+                208,
+                210
+            ],
+            "area": 43680,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8974,
+            "image_id": 3332,
+            "category_id": 23202,
+            "bbox": [
+                160,
+                847,
+                122,
+                123
+            ],
+            "area": 15006,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8975,
+            "image_id": 3332,
+            "category_id": 24849,
+            "bbox": [
+                611,
+                754,
+                162,
+                266
+            ],
+            "area": 43092,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5665,
+            "file_name": "K-012247-016548-019607-029451_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16318,
+            "image_id": 5665,
+            "category_id": 29450,
+            "bbox": [
+                113,
+                235,
+                282,
+                321
+            ],
+            "area": 90522,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16319,
+            "image_id": 5665,
+            "category_id": 19606,
+            "bbox": [
+                675,
+                320,
+                137,
+                137
+            ],
+            "area": 18769,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16320,
+            "image_id": 5665,
+            "category_id": 16547,
+            "bbox": [
+                194,
+                827,
+                215,
+                221
+            ],
+            "area": 47515,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16321,
+            "image_id": 5665,
+            "category_id": 12246,
+            "bbox": [
+                656,
+                901,
+                193,
+                117
+            ],
+            "area": 22581,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        }
+    ]
+}

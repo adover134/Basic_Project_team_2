@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 663,
+            "file_name": "K-000573-002483-006192-025438_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1280,
+            "image_id": 663,
+            "category_id": 2482,
+            "bbox": [
+                658,
+                82,
+                182,
+                441
+            ],
+            "area": 80262,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1281,
+            "image_id": 663,
+            "category_id": 6191,
+            "bbox": [
+                125,
+                707,
+                243,
+                463
+            ],
+            "area": 112509,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1282,
+            "image_id": 663,
+            "category_id": 25437,
+            "bbox": [
+                627,
+                862,
+                238,
+                238
+            ],
+            "area": 56644,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        }
+    ]
+}

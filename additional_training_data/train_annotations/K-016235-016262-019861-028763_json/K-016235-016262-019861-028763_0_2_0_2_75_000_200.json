@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7796,
+            "file_name": "K-016235-016262-019861-028763_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22301,
+            "image_id": 7796,
+            "category_id": 28762,
+            "bbox": [
+                137,
+                198,
+                182,
+                182
+            ],
+            "area": 33124,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22302,
+            "image_id": 7796,
+            "category_id": 16261,
+            "bbox": [
+                612,
+                182,
+                207,
+                210
+            ],
+            "area": 43470,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22303,
+            "image_id": 7796,
+            "category_id": 19860,
+            "bbox": [
+                95,
+                837,
+                207,
+                160
+            ],
+            "area": 33120,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

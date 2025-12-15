@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4513,
+            "file_name": "K-010221-010224-016551-029451_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12400,
+            "image_id": 4513,
+            "category_id": 29450,
+            "bbox": [
+                203,
+                195,
+                189,
+                359
+            ],
+            "area": 67851,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12401,
+            "image_id": 4513,
+            "category_id": 16550,
+            "bbox": [
+                651,
+                202,
+                273,
+                413
+            ],
+            "area": 112749,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12402,
+            "image_id": 4513,
+            "category_id": 10223,
+            "bbox": [
+                90,
+                820,
+                366,
+                255
+            ],
+            "area": 93330,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12403,
+            "image_id": 4513,
+            "category_id": 10220,
+            "bbox": [
+                658,
+                851,
+                205,
+                209
+            ],
+            "area": 42845,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

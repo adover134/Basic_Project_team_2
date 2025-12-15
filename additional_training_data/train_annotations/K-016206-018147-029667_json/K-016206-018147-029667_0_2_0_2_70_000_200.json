@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7294,
+            "file_name": "K-016206-018147-029667_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21079,
+            "image_id": 7294,
+            "category_id": 29666,
+            "bbox": [
+                158,
+                255,
+                204,
+                208
+            ],
+            "area": 42432,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21080,
+            "image_id": 7294,
+            "category_id": 18146,
+            "bbox": [
+                522,
+                215,
+                349,
+                295
+            ],
+            "area": 102955,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 18146,
+            "supercategory": "pill",
+            "name": "리리카캡슐 150mg"
+        }
+    ]
+}

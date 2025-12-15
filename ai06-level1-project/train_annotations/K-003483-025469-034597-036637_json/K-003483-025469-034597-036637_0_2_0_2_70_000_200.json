@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 561,
+            "file_name": "K-003483-025469-034597-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2084,
+            "image_id": 561,
+            "category_id": 3482,
+            "bbox": [
+                140,
+                282,
+                247,
+                170
+            ],
+            "area": 41990,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2085,
+            "image_id": 561,
+            "category_id": 25468,
+            "bbox": [
+                593,
+                194,
+                293,
+                267
+            ],
+            "area": 78231,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2086,
+            "image_id": 561,
+            "category_id": 36636,
+            "bbox": [
+                144,
+                839,
+                161,
+                248
+            ],
+            "area": 39928,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2087,
+            "image_id": 561,
+            "category_id": 34596,
+            "bbox": [
+                499,
+                700,
+                410,
+                408
+            ],
+            "area": 167280,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        }
+    ]
+}

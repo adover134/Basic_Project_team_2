@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 2881,
+            "file_name": "K-003832-016688-020852_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7552,
+            "image_id": 2881,
+            "category_id": 3831,
+            "bbox": [
+                94,
+                296,
+                344,
+                340
+            ],
+            "area": 116960,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7553,
+            "image_id": 2881,
+            "category_id": 16687,
+            "bbox": [
+                497,
+                137,
+                378,
+                497
+            ],
+            "area": 187866,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 16687,
+            "supercategory": "pill",
+            "name": "오마코연질캡슐(오메가-3-산에틸에스테르90)"
+        }
+    ]
+}

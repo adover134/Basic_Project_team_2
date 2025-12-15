@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2012,
+            "file_name": "K-003614-020238-020877-034597_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5096,
+            "image_id": 2012,
+            "category_id": 34596,
+            "bbox": [
+                96,
+                165,
+                356,
+                418
+            ],
+            "area": 148808,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5097,
+            "image_id": 2012,
+            "category_id": 20237,
+            "bbox": [
+                633,
+                218,
+                196,
+                198
+            ],
+            "area": 38808,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5098,
+            "image_id": 2012,
+            "category_id": 20876,
+            "bbox": [
+                57,
+                808,
+                299,
+                239
+            ],
+            "area": 71461,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

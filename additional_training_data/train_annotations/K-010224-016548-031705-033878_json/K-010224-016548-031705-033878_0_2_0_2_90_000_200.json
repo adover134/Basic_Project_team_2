@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4872,
+            "file_name": "K-010224-016548-031705-033878_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13836,
+            "image_id": 4872,
+            "category_id": 10223,
+            "bbox": [
+                73,
+                240,
+                371,
+                190
+            ],
+            "area": 70490,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13837,
+            "image_id": 4872,
+            "category_id": 16547,
+            "bbox": [
+                644,
+                200,
+                212,
+                213
+            ],
+            "area": 45156,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13838,
+            "image_id": 4872,
+            "category_id": 31704,
+            "bbox": [
+                180,
+                706,
+                221,
+                414
+            ],
+            "area": 91494,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13839,
+            "image_id": 4872,
+            "category_id": 33877,
+            "bbox": [
+                673,
+                866,
+                193,
+                124
+            ],
+            "area": 23932,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        }
+    ]
+}

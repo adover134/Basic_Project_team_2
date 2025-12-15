@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 165,
+            "file_name": "K-000250-002483-022362-023223_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 328,
+            "image_id": 165,
+            "category_id": 23222,
+            "bbox": [
+                174,
+                159,
+                220,
+                450
+            ],
+            "area": 99000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 329,
+            "image_id": 165,
+            "category_id": 2482,
+            "bbox": [
+                647,
+                81,
+                178,
+                443
+            ],
+            "area": 78854,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 330,
+            "image_id": 165,
+            "category_id": 22361,
+            "bbox": [
+                636,
+                798,
+                215,
+                374
+            ],
+            "area": 80410,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        }
+    ]
+}

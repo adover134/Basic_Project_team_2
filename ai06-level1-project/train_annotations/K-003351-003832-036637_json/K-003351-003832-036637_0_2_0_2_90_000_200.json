@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 206,
+            "file_name": "K-003351-003832-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 804,
+            "image_id": 206,
+            "category_id": 3350,
+            "bbox": [
+                404,
+                222,
+                167,
+                168
+            ],
+            "area": 28056,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 805,
+            "image_id": 206,
+            "category_id": 3831,
+            "bbox": [
+                111,
+                762,
+                347,
+                350
+            ],
+            "area": 121450,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 806,
+            "image_id": 206,
+            "category_id": 36636,
+            "bbox": [
+                634,
+                766,
+                176,
+                241
+            ],
+            "area": 42416,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3538,
+            "file_name": "K-005000-018147-021325_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9592,
+            "image_id": 3538,
+            "category_id": 21324,
+            "bbox": [
+                188,
+                341,
+                136,
+                219
+            ],
+            "area": 29784,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9593,
+            "image_id": 3538,
+            "category_id": 18146,
+            "bbox": [
+                618,
+                272,
+                237,
+                368
+            ],
+            "area": 87216,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 21324,
+            "supercategory": "pill",
+            "name": "아토르바정 10mg"
+        },
+        {
+            "id": 18146,
+            "supercategory": "pill",
+            "name": "리리카캡슐 150mg"
+        }
+    ]
+}

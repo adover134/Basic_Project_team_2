@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 189,
+            "file_name": "K-003351-003832-016232_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 753,
+            "image_id": 189,
+            "category_id": 3350,
+            "bbox": [
+                347,
+                181,
+                166,
+                170
+            ],
+            "area": 28220,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 754,
+            "image_id": 189,
+            "category_id": 3831,
+            "bbox": [
+                120,
+                588,
+                362,
+                340
+            ],
+            "area": 123080,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 755,
+            "image_id": 189,
+            "category_id": 16231,
+            "bbox": [
+                628,
+                754,
+                173,
+                182
+            ],
+            "area": 31486,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        }
+    ]
+}

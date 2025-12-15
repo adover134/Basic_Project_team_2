@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 2790,
+            "file_name": "K-003832-005391-038162_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7370,
+            "image_id": 2790,
+            "category_id": 3831,
+            "bbox": [
+                378,
+                169,
+                298,
+                387
+            ],
+            "area": 115326,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7371,
+            "image_id": 2790,
+            "category_id": 38161,
+            "bbox": [
+                637,
+                800,
+                212,
+                249
+            ],
+            "area": 52788,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 38161,
+            "supercategory": "pill",
+            "name": "로수바미브정 10/20mg"
+        }
+    ]
+}

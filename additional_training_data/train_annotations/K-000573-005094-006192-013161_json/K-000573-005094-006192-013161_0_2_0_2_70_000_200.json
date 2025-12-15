@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 781,
+            "file_name": "K-000573-005094-006192-013161_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1526,
+            "image_id": 781,
+            "category_id": 6191,
+            "bbox": [
+                563,
+                159,
+                269,
+                425
+            ],
+            "area": 114325,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1527,
+            "image_id": 781,
+            "category_id": 5093,
+            "bbox": [
+                78,
+                771,
+                257,
+                260
+            ],
+            "area": 66820,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        }
+    ]
+}

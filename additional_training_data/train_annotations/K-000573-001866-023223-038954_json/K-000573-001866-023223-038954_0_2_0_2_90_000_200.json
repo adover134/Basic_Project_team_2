@@ -1,0 +1,33 @@
+{
+    "images": [
+        {
+            "id": 627,
+            "file_name": "K-000573-001866-023223-038954_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1181,
+            "image_id": 627,
+            "category_id": 23222,
+            "bbox": [
+                133,
+                695,
+                288,
+                430
+            ],
+            "area": 123840,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6113,
+            "file_name": "K-013395-019552-025438-038954_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18064,
+            "image_id": 6113,
+            "category_id": 19551,
+            "bbox": [
+                143,
+                222,
+                229,
+                435
+            ],
+            "area": 99615,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18065,
+            "image_id": 6113,
+            "category_id": 25437,
+            "bbox": [
+                130,
+                831,
+                242,
+                245
+            ],
+            "area": 59290,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18066,
+            "image_id": 6113,
+            "category_id": 13394,
+            "bbox": [
+                619,
+                742,
+                192,
+                464
+            ],
+            "area": 89088,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

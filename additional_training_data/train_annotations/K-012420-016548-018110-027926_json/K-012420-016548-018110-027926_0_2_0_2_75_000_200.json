@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5855,
+            "file_name": "K-012420-016548-018110-027926_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17078,
+            "image_id": 5855,
+            "category_id": 12419,
+            "bbox": [
+                133,
+                204,
+                162,
+                163
+            ],
+            "area": 26406,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17079,
+            "image_id": 5855,
+            "category_id": 16547,
+            "bbox": [
+                595,
+                132,
+                206,
+                209
+            ],
+            "area": 43054,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17080,
+            "image_id": 5855,
+            "category_id": 18109,
+            "bbox": [
+                54,
+                738,
+                271,
+                278
+            ],
+            "area": 75338,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17081,
+            "image_id": 5855,
+            "category_id": 27925,
+            "bbox": [
+                600,
+                673,
+                209,
+                451
+            ],
+            "area": 94259,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        }
+    ]
+}

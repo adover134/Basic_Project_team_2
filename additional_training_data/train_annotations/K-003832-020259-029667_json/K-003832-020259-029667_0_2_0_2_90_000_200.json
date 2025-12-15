@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 2916,
+            "file_name": "K-003832-020259-029667_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7622,
+            "image_id": 2916,
+            "category_id": 3831,
+            "bbox": [
+                377,
+                101,
+                253,
+                408
+            ],
+            "area": 103224,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7623,
+            "image_id": 2916,
+            "category_id": 29666,
+            "bbox": [
+                644,
+                819,
+                207,
+                206
+            ],
+            "area": 42642,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        }
+    ]
+}

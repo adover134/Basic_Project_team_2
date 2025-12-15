@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1421,
+            "file_name": "K-001900-004543-016551-018110_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3026,
+            "image_id": 1421,
+            "category_id": 1899,
+            "bbox": [
+                144,
+                210,
+                127,
+                184
+            ],
+            "area": 23368,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3027,
+            "image_id": 1421,
+            "category_id": 4542,
+            "bbox": [
+                587,
+                213,
+                183,
+                185
+            ],
+            "area": 33855,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3028,
+            "image_id": 1421,
+            "category_id": 16550,
+            "bbox": [
+                109,
+                564,
+                241,
+                455
+            ],
+            "area": 109655,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3029,
+            "image_id": 1421,
+            "category_id": 18109,
+            "bbox": [
+                542,
+                775,
+                273,
+                280
+            ],
+            "area": 76440,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        }
+    ]
+}

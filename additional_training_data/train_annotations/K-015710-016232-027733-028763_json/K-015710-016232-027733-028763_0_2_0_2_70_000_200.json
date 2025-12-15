@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6661,
+            "file_name": "K-015710-016232-027733-028763_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19261,
+            "image_id": 6661,
+            "category_id": 27732,
+            "bbox": [
+                591,
+                234,
+                282,
+                240
+            ],
+            "area": 67680,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19262,
+            "image_id": 6661,
+            "category_id": 16231,
+            "bbox": [
+                147,
+                878,
+                175,
+                179
+            ],
+            "area": 31325,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19263,
+            "image_id": 6661,
+            "category_id": 28762,
+            "bbox": [
+                665,
+                907,
+                194,
+                194
+            ],
+            "area": 37636,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4683,
+            "file_name": "K-010221-016551-021771-031705_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13080,
+            "image_id": 4683,
+            "category_id": 10220,
+            "bbox": [
+                140,
+                207,
+                199,
+                199
+            ],
+            "area": 39601,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13081,
+            "image_id": 4683,
+            "category_id": 16550,
+            "bbox": [
+                629,
+                102,
+                237,
+                447
+            ],
+            "area": 105939,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13082,
+            "image_id": 4683,
+            "category_id": 21770,
+            "bbox": [
+                148,
+                846,
+                172,
+                173
+            ],
+            "area": 29756,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13083,
+            "image_id": 4683,
+            "category_id": 31704,
+            "bbox": [
+                616,
+                732,
+                223,
+                414
+            ],
+            "area": 92322,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        }
+    ]
+}

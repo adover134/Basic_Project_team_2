@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4854,
+            "file_name": "K-010224-016548-029345-029871_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13764,
+            "image_id": 4854,
+            "category_id": 10223,
+            "bbox": [
+                97,
+                181,
+                229,
+                362
+            ],
+            "area": 82898,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13765,
+            "image_id": 4854,
+            "category_id": 16547,
+            "bbox": [
+                627,
+                262,
+                211,
+                211
+            ],
+            "area": 44521,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13766,
+            "image_id": 4854,
+            "category_id": 29344,
+            "bbox": [
+                111,
+                782,
+                226,
+                413
+            ],
+            "area": 93338,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13767,
+            "image_id": 4854,
+            "category_id": 29870,
+            "bbox": [
+                656,
+                845,
+                225,
+                148
+            ],
+            "area": 33300,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

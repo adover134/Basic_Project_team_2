@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 1801,
+            "file_name": "K-003614-016232-027733-030308_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4459,
+            "image_id": 1801,
+            "category_id": 27732,
+            "bbox": [
+                589,
+                235,
+                282,
+                240
+            ],
+            "area": 67680,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4460,
+            "image_id": 1801,
+            "category_id": 16231,
+            "bbox": [
+                194,
+                845,
+                177,
+                179
+            ],
+            "area": 31683,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4461,
+            "image_id": 1801,
+            "category_id": 30307,
+            "bbox": [
+                605,
+                705,
+                355,
+                396
+            ],
+            "area": 140580,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        }
+    ]
+}

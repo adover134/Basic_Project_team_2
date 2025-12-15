@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 951,
+            "file_name": "K-001866-002483-012081-023223_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1916,
+            "image_id": 951,
+            "category_id": 23222,
+            "bbox": [
+                67,
+                134,
+                245,
+                445
+            ],
+            "area": 109025,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1917,
+            "image_id": 951,
+            "category_id": 2482,
+            "bbox": [
+                656,
+                119,
+                177,
+                443
+            ],
+            "area": 78411,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1918,
+            "image_id": 951,
+            "category_id": 12080,
+            "bbox": [
+                647,
+                740,
+                204,
+                408
+            ],
+            "area": 83232,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

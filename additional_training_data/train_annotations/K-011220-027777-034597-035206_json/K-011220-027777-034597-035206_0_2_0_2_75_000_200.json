@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5585,
+            "file_name": "K-011220-027777-034597-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16051,
+            "image_id": 5585,
+            "category_id": 34596,
+            "bbox": [
+                70,
+                152,
+                331,
+                432
+            ],
+            "area": 142992,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16052,
+            "image_id": 5585,
+            "category_id": 35205,
+            "bbox": [
+                599,
+                139,
+                188,
+                367
+            ],
+            "area": 68996,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16053,
+            "image_id": 5585,
+            "category_id": 27776,
+            "bbox": [
+                156,
+                785,
+                158,
+                196
+            ],
+            "area": 30968,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        }
+    ]
+}

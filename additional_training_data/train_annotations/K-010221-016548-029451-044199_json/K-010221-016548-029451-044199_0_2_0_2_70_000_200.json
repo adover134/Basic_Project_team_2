@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4612,
+            "file_name": "K-010221-016548-029451-044199_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12796,
+            "image_id": 4612,
+            "category_id": 44198,
+            "bbox": [
+                113,
+                269,
+                251,
+                155
+            ],
+            "area": 38905,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12797,
+            "image_id": 4612,
+            "category_id": 29450,
+            "bbox": [
+                659,
+                173,
+                204,
+                354
+            ],
+            "area": 72216,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12798,
+            "image_id": 4612,
+            "category_id": 16547,
+            "bbox": [
+                125,
+                802,
+                215,
+                220
+            ],
+            "area": 47300,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12799,
+            "image_id": 4612,
+            "category_id": 10220,
+            "bbox": [
+                688,
+                840,
+                206,
+                211
+            ],
+            "area": 43466,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

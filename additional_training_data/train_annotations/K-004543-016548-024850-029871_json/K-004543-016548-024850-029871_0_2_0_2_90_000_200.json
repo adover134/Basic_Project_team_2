@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3345,
+            "file_name": "K-004543-016548-024850-029871_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9024,
+            "image_id": 3345,
+            "category_id": 4542,
+            "bbox": [
+                148,
+                146,
+                186,
+                188
+            ],
+            "area": 34968,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9025,
+            "image_id": 3345,
+            "category_id": 16547,
+            "bbox": [
+                620,
+                135,
+                213,
+                213
+            ],
+            "area": 45369,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9026,
+            "image_id": 3345,
+            "category_id": 24849,
+            "bbox": [
+                138,
+                799,
+                212,
+                226
+            ],
+            "area": 47912,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9027,
+            "image_id": 3345,
+            "category_id": 29870,
+            "bbox": [
+                639,
+                814,
+                183,
+                205
+            ],
+            "area": 37515,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

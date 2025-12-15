@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2224,
+            "file_name": "K-003614-025469-029667-034597_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5732,
+            "image_id": 2224,
+            "category_id": 25468,
+            "bbox": [
+                585,
+                280,
+                317,
+                248
+            ],
+            "area": 78616,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5733,
+            "image_id": 2224,
+            "category_id": 29666,
+            "bbox": [
+                196,
+                824,
+                203,
+                211
+            ],
+            "area": 42833,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5734,
+            "image_id": 2224,
+            "category_id": 34596,
+            "bbox": [
+                547,
+                672,
+                391,
+                423
+            ],
+            "area": 165393,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        }
+    ]
+}

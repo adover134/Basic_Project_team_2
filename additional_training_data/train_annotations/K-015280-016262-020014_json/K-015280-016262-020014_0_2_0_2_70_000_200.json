@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6373,
+            "file_name": "K-015280-016262-020014_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18607,
+            "image_id": 6373,
+            "category_id": 20013,
+            "bbox": [
+                118,
+                263,
+                305,
+                296
+            ],
+            "area": 90280,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18608,
+            "image_id": 6373,
+            "category_id": 16261,
+            "bbox": [
+                630,
+                290,
+                213,
+                217
+            ],
+            "area": 46221,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20013,
+            "supercategory": "pill",
+            "name": "마도파정"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        }
+    ]
+}

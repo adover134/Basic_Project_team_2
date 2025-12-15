@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2484,
+            "file_name": "K-003743-005002-019552-022362_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 6512,
+            "image_id": 2484,
+            "category_id": 19551,
+            "bbox": [
+                119,
+                160,
+                244,
+                437
+            ],
+            "area": 106628,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6513,
+            "image_id": 2484,
+            "category_id": 3742,
+            "bbox": [
+                134,
+                844,
+                295,
+                295
+            ],
+            "area": 87025,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6514,
+            "image_id": 2484,
+            "category_id": 22361,
+            "bbox": [
+                617,
+                757,
+                230,
+                372
+            ],
+            "area": 85560,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        }
+    ]
+}

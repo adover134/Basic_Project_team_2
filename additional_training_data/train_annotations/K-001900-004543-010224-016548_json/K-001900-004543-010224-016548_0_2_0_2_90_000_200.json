@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1398,
+            "file_name": "K-001900-004543-010224-016548_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2934,
+            "image_id": 1398,
+            "category_id": 1899,
+            "bbox": [
+                165,
+                228,
+                112,
+                186
+            ],
+            "area": 20832,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2935,
+            "image_id": 1398,
+            "category_id": 4542,
+            "bbox": [
+                653,
+                143,
+                186,
+                188
+            ],
+            "area": 34968,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2936,
+            "image_id": 1398,
+            "category_id": 10223,
+            "bbox": [
+                123,
+                674,
+                193,
+                372
+            ],
+            "area": 71796,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2937,
+            "image_id": 1398,
+            "category_id": 16547,
+            "bbox": [
+                632,
+                825,
+                212,
+                212
+            ],
+            "area": 44944,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        }
+    ]
+}

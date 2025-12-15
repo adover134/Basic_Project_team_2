@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1450,
+            "file_name": "K-001900-006563-016548-021771_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3142,
+            "image_id": 1450,
+            "category_id": 1899,
+            "bbox": [
+                197,
+                284,
+                171,
+                160
+            ],
+            "area": 27360,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3143,
+            "image_id": 1450,
+            "category_id": 6562,
+            "bbox": [
+                612,
+                252,
+                175,
+                310
+            ],
+            "area": 54250,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3144,
+            "image_id": 1450,
+            "category_id": 16547,
+            "bbox": [
+                121,
+                853,
+                216,
+                221
+            ],
+            "area": 47736,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3145,
+            "image_id": 1450,
+            "category_id": 21770,
+            "bbox": [
+                655,
+                895,
+                178,
+                180
+            ],
+            "area": 32040,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        }
+    ]
+}

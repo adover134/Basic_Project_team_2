@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5702,
+            "file_name": "K-012247-016548-024850-027926_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16466,
+            "image_id": 5702,
+            "category_id": 12246,
+            "bbox": [
+                137,
+                181,
+                164,
+                169
+            ],
+            "area": 27716,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16467,
+            "image_id": 5702,
+            "category_id": 16547,
+            "bbox": [
+                609,
+                126,
+                206,
+                210
+            ],
+            "area": 43260,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16468,
+            "image_id": 5702,
+            "category_id": 24849,
+            "bbox": [
+                124,
+                745,
+                154,
+                271
+            ],
+            "area": 41734,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16469,
+            "image_id": 5702,
+            "category_id": 27925,
+            "bbox": [
+                579,
+                609,
+                210,
+                450
+            ],
+            "area": 94500,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        }
+    ]
+}

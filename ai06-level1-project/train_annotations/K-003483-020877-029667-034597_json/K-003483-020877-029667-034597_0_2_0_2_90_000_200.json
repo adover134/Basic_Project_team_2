@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 501,
+            "file_name": "K-003483-020877-029667-034597_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1844,
+            "image_id": 501,
+            "category_id": 34596,
+            "bbox": [
+                41,
+                65,
+                412,
+                376
+            ],
+            "area": 154912,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1845,
+            "image_id": 501,
+            "category_id": 29666,
+            "bbox": [
+                634,
+                193,
+                201,
+                201
+            ],
+            "area": 40401,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1846,
+            "image_id": 501,
+            "category_id": 20876,
+            "bbox": [
+                82,
+                809,
+                299,
+                228
+            ],
+            "area": 68172,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1847,
+            "image_id": 501,
+            "category_id": 3482,
+            "bbox": [
+                654,
+                759,
+                187,
+                253
+            ],
+            "area": 47311,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

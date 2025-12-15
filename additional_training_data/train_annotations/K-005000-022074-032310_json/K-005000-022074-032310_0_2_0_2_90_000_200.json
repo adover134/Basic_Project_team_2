@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3648,
+            "file_name": "K-005000-022074-032310_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9809,
+            "image_id": 3648,
+            "category_id": 22073,
+            "bbox": [
+                121,
+                848,
+                172,
+                174
+            ],
+            "area": 29928,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9810,
+            "image_id": 3648,
+            "category_id": 32309,
+            "bbox": [
+                541,
+                766,
+                231,
+                350
+            ],
+            "area": 80850,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22073,
+            "supercategory": "pill",
+            "name": "리피로우정 20mg"
+        },
+        {
+            "id": 32309,
+            "supercategory": "pill",
+            "name": "글리아타민연질캡슐"
+        }
+    ]
+}

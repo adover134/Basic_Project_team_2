@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6578,
+            "file_name": "K-015710-016232-019861-022347_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19012,
+            "image_id": 6578,
+            "category_id": 22346,
+            "bbox": [
+                115,
+                228,
+                183,
+                180
+            ],
+            "area": 32940,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19013,
+            "image_id": 6578,
+            "category_id": 16231,
+            "bbox": [
+                605,
+                183,
+                165,
+                171
+            ],
+            "area": 28215,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19014,
+            "image_id": 6578,
+            "category_id": 19860,
+            "bbox": [
+                93,
+                834,
+                207,
+                161
+            ],
+            "area": 33327,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

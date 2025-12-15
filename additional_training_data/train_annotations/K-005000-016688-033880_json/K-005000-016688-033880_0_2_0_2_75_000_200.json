@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3530,
+            "file_name": "K-005000-016688-033880_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9576,
+            "image_id": 3530,
+            "category_id": 33879,
+            "bbox": [
+                88,
+                574,
+                277,
+                408
+            ],
+            "area": 113016,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9577,
+            "image_id": 3530,
+            "category_id": 16687,
+            "bbox": [
+                537,
+                510,
+                244,
+                590
+            ],
+            "area": 143960,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33879,
+            "supercategory": "pill",
+            "name": "글리틴정(콜린알포세레이트)"
+        },
+        {
+            "id": 16687,
+            "supercategory": "pill",
+            "name": "오마코연질캡슐(오메가-3-산에틸에스테르90)"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4438,
+            "file_name": "K-006563-016551-021771-023203_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12100,
+            "image_id": 4438,
+            "category_id": 23202,
+            "bbox": [
+                228,
+                299,
+                117,
+                122
+            ],
+            "area": 14274,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12101,
+            "image_id": 4438,
+            "category_id": 6562,
+            "bbox": [
+                607,
+                246,
+                175,
+                310
+            ],
+            "area": 54250,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12102,
+            "image_id": 4438,
+            "category_id": 16550,
+            "bbox": [
+                136,
+                733,
+                243,
+                461
+            ],
+            "area": 112023,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12103,
+            "image_id": 4438,
+            "category_id": 21770,
+            "bbox": [
+                719,
+                874,
+                177,
+                179
+            ],
+            "area": 31683,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        }
+    ]
+}

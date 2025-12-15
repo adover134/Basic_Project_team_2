@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5907,
+            "file_name": "K-012420-016548-021771-029451_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17286,
+            "image_id": 5907,
+            "category_id": 12419,
+            "bbox": [
+                149,
+                223,
+                165,
+                164
+            ],
+            "area": 27060,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17287,
+            "image_id": 5907,
+            "category_id": 16547,
+            "bbox": [
+                632,
+                183,
+                210,
+                211
+            ],
+            "area": 44310,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17288,
+            "image_id": 5907,
+            "category_id": 21770,
+            "bbox": [
+                186,
+                884,
+                171,
+                173
+            ],
+            "area": 29583,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17289,
+            "image_id": 5907,
+            "category_id": 29450,
+            "bbox": [
+                566,
+                790,
+                315,
+                312
+            ],
+            "area": 98280,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

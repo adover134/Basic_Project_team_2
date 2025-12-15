@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4417,
+            "file_name": "K-006563-016551-018110-027993_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12016,
+            "image_id": 4417,
+            "category_id": 27992,
+            "bbox": [
+                141,
+                261,
+                269,
+                216
+            ],
+            "area": 58104,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12017,
+            "image_id": 4417,
+            "category_id": 6562,
+            "bbox": [
+                606,
+                246,
+                174,
+                311
+            ],
+            "area": 54114,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12018,
+            "image_id": 4417,
+            "category_id": 16550,
+            "bbox": [
+                48,
+                794,
+                404,
+                359
+            ],
+            "area": 145036,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12019,
+            "image_id": 4417,
+            "category_id": 18109,
+            "bbox": [
+                673,
+                862,
+                277,
+                284
+            ],
+            "area": 78668,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        }
+    ]
+}

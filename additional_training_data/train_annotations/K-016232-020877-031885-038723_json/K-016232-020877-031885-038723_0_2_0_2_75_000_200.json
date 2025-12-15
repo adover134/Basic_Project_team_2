@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7676,
+            "file_name": "K-016232-020877-031885-038723_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21978,
+            "image_id": 7676,
+            "category_id": 31884,
+            "bbox": [
+                77,
+                24,
+                320,
+                480
+            ],
+            "area": 153600,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21979,
+            "image_id": 7676,
+            "category_id": 16231,
+            "bbox": [
+                626,
+                201,
+                170,
+                170
+            ],
+            "area": 28900,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21980,
+            "image_id": 7676,
+            "category_id": 20876,
+            "bbox": [
+                109,
+                793,
+                245,
+                296
+            ],
+            "area": 72520,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

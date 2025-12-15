@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4640,
+            "file_name": "K-010221-016551-018110-031705_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12908,
+            "image_id": 4640,
+            "category_id": 10220,
+            "bbox": [
+                123,
+                194,
+                196,
+                200
+            ],
+            "area": 39200,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12909,
+            "image_id": 4640,
+            "category_id": 16550,
+            "bbox": [
+                536,
+                94,
+                235,
+                435
+            ],
+            "area": 102225,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12910,
+            "image_id": 4640,
+            "category_id": 18109,
+            "bbox": [
+                119,
+                774,
+                271,
+                277
+            ],
+            "area": 75067,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12911,
+            "image_id": 4640,
+            "category_id": 31704,
+            "bbox": [
+                586,
+                693,
+                227,
+                420
+            ],
+            "area": 95340,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        }
+    ]
+}

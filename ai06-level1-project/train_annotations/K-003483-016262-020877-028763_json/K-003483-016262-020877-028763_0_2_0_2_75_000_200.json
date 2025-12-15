@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 391,
+            "file_name": "K-003483-016262-020877-028763_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1404,
+            "image_id": 391,
+            "category_id": 28762,
+            "bbox": [
+                127,
+                204,
+                184,
+                184
+            ],
+            "area": 33856,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1405,
+            "image_id": 391,
+            "category_id": 16261,
+            "bbox": [
+                614,
+                194,
+                208,
+                211
+            ],
+            "area": 43888,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1406,
+            "image_id": 391,
+            "category_id": 20876,
+            "bbox": [
+                96,
+                735,
+                307,
+                224
+            ],
+            "area": 68768,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1407,
+            "image_id": 391,
+            "category_id": 3482,
+            "bbox": [
+                628,
+                723,
+                190,
+                255
+            ],
+            "area": 48450,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

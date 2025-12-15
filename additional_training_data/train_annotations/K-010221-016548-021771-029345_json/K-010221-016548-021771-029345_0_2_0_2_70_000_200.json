@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4573,
+            "file_name": "K-010221-016548-021771-029345_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12640,
+            "image_id": 4573,
+            "category_id": 29344,
+            "bbox": [
+                151,
+                181,
+                225,
+                382
+            ],
+            "area": 85950,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12641,
+            "image_id": 4573,
+            "category_id": 21770,
+            "bbox": [
+                673,
+                276,
+                167,
+                169
+            ],
+            "area": 28223,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12642,
+            "image_id": 4573,
+            "category_id": 16547,
+            "bbox": [
+                171,
+                845,
+                215,
+                221
+            ],
+            "area": 47515,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12643,
+            "image_id": 4573,
+            "category_id": 10220,
+            "bbox": [
+                638,
+                847,
+                204,
+                210
+            ],
+            "area": 42840,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

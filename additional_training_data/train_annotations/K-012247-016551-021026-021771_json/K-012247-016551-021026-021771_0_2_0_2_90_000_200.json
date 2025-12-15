@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5784,
+            "file_name": "K-012247-016551-021026-021771_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16794,
+            "image_id": 5784,
+            "category_id": 21770,
+            "bbox": [
+                154,
+                184,
+                171,
+                173
+            ],
+            "area": 29583,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16795,
+            "image_id": 5784,
+            "category_id": 16550,
+            "bbox": [
+                564,
+                183,
+                367,
+                376
+            ],
+            "area": 137992,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16796,
+            "image_id": 5784,
+            "category_id": 21025,
+            "bbox": [
+                143,
+                863,
+                162,
+                164
+            ],
+            "area": 26568,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16797,
+            "image_id": 5784,
+            "category_id": 12246,
+            "bbox": [
+                620,
+                854,
+                187,
+                140
+            ],
+            "area": 26180,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        }
+    ]
+}

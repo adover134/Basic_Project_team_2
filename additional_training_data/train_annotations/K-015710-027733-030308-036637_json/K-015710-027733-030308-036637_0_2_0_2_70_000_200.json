@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7165,
+            "file_name": "K-015710-027733-030308-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20773,
+            "image_id": 7165,
+            "category_id": 27732,
+            "bbox": [
+                591,
+                234,
+                282,
+                239
+            ],
+            "area": 67398,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20774,
+            "image_id": 7165,
+            "category_id": 36636,
+            "bbox": [
+                133,
+                882,
+                169,
+                245
+            ],
+            "area": 41405,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20775,
+            "image_id": 7165,
+            "category_id": 30307,
+            "bbox": [
+                498,
+                735,
+                438,
+                282
+            ],
+            "area": 123516,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        }
+    ]
+}

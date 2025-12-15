@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7758,
+            "file_name": "K-016232-027777-030308-038723_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22211,
+            "image_id": 7758,
+            "category_id": 30307,
+            "bbox": [
+                86,
+                110,
+                350,
+                386
+            ],
+            "area": 135100,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22212,
+            "image_id": 7758,
+            "category_id": 16231,
+            "bbox": [
+                662,
+                203,
+                171,
+                170
+            ],
+            "area": 29070,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22213,
+            "image_id": 7758,
+            "category_id": 27776,
+            "bbox": [
+                162,
+                829,
+                152,
+                189
+            ],
+            "area": 28728,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2431,
+            "file_name": "K-003743-005002-005886-006192_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 6353,
+            "image_id": 2431,
+            "category_id": 5885,
+            "bbox": [
+                125,
+                102,
+                205,
+                423
+            ],
+            "area": 86715,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6354,
+            "image_id": 2431,
+            "category_id": 3742,
+            "bbox": [
+                558,
+                167,
+                288,
+                280
+            ],
+            "area": 80640,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6355,
+            "image_id": 2431,
+            "category_id": 6191,
+            "bbox": [
+                559,
+                631,
+                307,
+                445
+            ],
+            "area": 136615,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        }
+    ]
+}

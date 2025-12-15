@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4550,
+            "file_name": "K-010221-016548-019607-029451_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12548,
+            "image_id": 4550,
+            "category_id": 10220,
+            "bbox": [
+                88,
+                213,
+                197,
+                200
+            ],
+            "area": 39400,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12549,
+            "image_id": 4550,
+            "category_id": 16547,
+            "bbox": [
+                547,
+                193,
+                206,
+                210
+            ],
+            "area": 43260,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12550,
+            "image_id": 4550,
+            "category_id": 19606,
+            "bbox": [
+                120,
+                830,
+                142,
+                144
+            ],
+            "area": 20448,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12551,
+            "image_id": 4550,
+            "category_id": 29450,
+            "bbox": [
+                480,
+                780,
+                379,
+                223
+            ],
+            "area": 84517,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

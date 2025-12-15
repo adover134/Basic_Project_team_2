@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 171,
+            "file_name": "K-002483-012081-012778-025438_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 681,
+            "image_id": 171,
+            "category_id": 12777,
+            "bbox": [
+                122,
+                89,
+                236,
+                451
+            ],
+            "area": 106436,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 682,
+            "image_id": 171,
+            "category_id": 2482,
+            "bbox": [
+                589,
+                135,
+                263,
+                423
+            ],
+            "area": 111249,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 683,
+            "image_id": 171,
+            "category_id": 25437,
+            "bbox": [
+                126,
+                827,
+                238,
+                239
+            ],
+            "area": 56882,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 684,
+            "image_id": 171,
+            "category_id": 12080,
+            "bbox": [
+                661,
+                731,
+                202,
+                409
+            ],
+            "area": 82618,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

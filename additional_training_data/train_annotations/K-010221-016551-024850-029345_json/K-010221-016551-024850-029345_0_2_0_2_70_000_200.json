@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4690,
+            "file_name": "K-010221-016551-024850-029345_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13108,
+            "image_id": 4690,
+            "category_id": 29344,
+            "bbox": [
+                151,
+                181,
+                225,
+                382
+            ],
+            "area": 85950,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13109,
+            "image_id": 4690,
+            "category_id": 24849,
+            "bbox": [
+                623,
+                224,
+                160,
+                242
+            ],
+            "area": 38720,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13110,
+            "image_id": 4690,
+            "category_id": 16550,
+            "bbox": [
+                116,
+                747,
+                245,
+                462
+            ],
+            "area": 113190,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13111,
+            "image_id": 4690,
+            "category_id": 10220,
+            "bbox": [
+                638,
+                847,
+                204,
+                210
+            ],
+            "area": 42840,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

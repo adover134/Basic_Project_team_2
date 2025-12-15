@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5180,
+            "file_name": "K-011220-019861-022347-029667_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14836,
+            "image_id": 5180,
+            "category_id": 22346,
+            "bbox": [
+                121,
+                230,
+                181,
+                182
+            ],
+            "area": 32942,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14837,
+            "image_id": 5180,
+            "category_id": 29666,
+            "bbox": [
+                641,
+                196,
+                197,
+                201
+            ],
+            "area": 39597,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14838,
+            "image_id": 5180,
+            "category_id": 19860,
+            "bbox": [
+                98,
+                833,
+                208,
+                162
+            ],
+            "area": 33696,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

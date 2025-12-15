@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5866,
+            "file_name": "K-012420-016548-018110-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17122,
+            "image_id": 5866,
+            "category_id": 33008,
+            "bbox": [
+                126,
+                242,
+                252,
+                297
+            ],
+            "area": 74844,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17123,
+            "image_id": 5866,
+            "category_id": 18109,
+            "bbox": [
+                565,
+                262,
+                262,
+                265
+            ],
+            "area": 69430,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17124,
+            "image_id": 5866,
+            "category_id": 16547,
+            "bbox": [
+                115,
+                881,
+                218,
+                222
+            ],
+            "area": 48396,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17125,
+            "image_id": 5866,
+            "category_id": 12419,
+            "bbox": [
+                656,
+                915,
+                171,
+                175
+            ],
+            "area": 29925,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

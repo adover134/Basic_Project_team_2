@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3688,
+            "file_name": "K-005000-033880-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9889,
+            "image_id": 3688,
+            "category_id": 36636,
+            "bbox": [
+                187,
+                344,
+                168,
+                239
+            ],
+            "area": 40152,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9890,
+            "image_id": 3688,
+            "category_id": 33879,
+            "bbox": [
+                580,
+                215,
+                260,
+                386
+            ],
+            "area": 100360,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 33879,
+            "supercategory": "pill",
+            "name": "글리틴정(콜린알포세레이트)"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4450,
+            "file_name": "K-006563-016551-023203-024850_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12148,
+            "image_id": 4450,
+            "category_id": 23202,
+            "bbox": [
+                229,
+                299,
+                115,
+                122
+            ],
+            "area": 14030,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12149,
+            "image_id": 4450,
+            "category_id": 6562,
+            "bbox": [
+                608,
+                246,
+                174,
+                310
+            ],
+            "area": 53940,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12150,
+            "image_id": 4450,
+            "category_id": 16550,
+            "bbox": [
+                55,
+                773,
+                391,
+                374
+            ],
+            "area": 146234,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12151,
+            "image_id": 4450,
+            "category_id": 24849,
+            "bbox": [
+                696,
+                797,
+                155,
+                273
+            ],
+            "area": 42315,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        }
+    ]
+}

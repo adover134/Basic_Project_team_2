@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5478,
+            "file_name": "K-011220-025469-034597-035206_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15730,
+            "image_id": 5478,
+            "category_id": 34596,
+            "bbox": [
+                44,
+                167,
+                399,
+                390
+            ],
+            "area": 155610,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15731,
+            "image_id": 5478,
+            "category_id": 35205,
+            "bbox": [
+                623,
+                140,
+                178,
+                378
+            ],
+            "area": 67284,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15732,
+            "image_id": 5478,
+            "category_id": 25468,
+            "bbox": [
+                59,
+                868,
+                342,
+                197
+            ],
+            "area": 67374,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        }
+    ]
+}

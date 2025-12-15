@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 654,
+            "file_name": "K-000573-002483-005094-019552_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1254,
+            "image_id": 654,
+            "category_id": 2482,
+            "bbox": [
+                648,
+                99,
+                189,
+                443
+            ],
+            "area": 83727,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1255,
+            "image_id": 654,
+            "category_id": 5093,
+            "bbox": [
+                121,
+                812,
+                251,
+                251
+            ],
+            "area": 63001,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1256,
+            "image_id": 654,
+            "category_id": 19551,
+            "bbox": [
+                662,
+                708,
+                237,
+                442
+            ],
+            "area": 104754,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        }
+    ]
+}

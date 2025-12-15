@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4603,
+            "file_name": "K-010221-016548-027926-044199_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12760,
+            "image_id": 4603,
+            "category_id": 44198,
+            "bbox": [
+                194,
+                279,
+                126,
+                254
+            ],
+            "area": 32004,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12761,
+            "image_id": 4603,
+            "category_id": 27925,
+            "bbox": [
+                645,
+                179,
+                211,
+                418
+            ],
+            "area": 88198,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12762,
+            "image_id": 4603,
+            "category_id": 16547,
+            "bbox": [
+                138,
+                862,
+                215,
+                222
+            ],
+            "area": 47730,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12763,
+            "image_id": 4603,
+            "category_id": 10220,
+            "bbox": [
+                658,
+                874,
+                207,
+                210
+            ],
+            "area": 43470,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

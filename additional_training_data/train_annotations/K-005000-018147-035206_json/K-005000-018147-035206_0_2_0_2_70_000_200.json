@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3547,
+            "file_name": "K-005000-018147-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9610,
+            "image_id": 3547,
+            "category_id": 35205,
+            "bbox": [
+                141,
+                282,
+                313,
+                318
+            ],
+            "area": 99534,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9611,
+            "image_id": 3547,
+            "category_id": 18146,
+            "bbox": [
+                566,
+                300,
+                240,
+                370
+            ],
+            "area": 88800,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 18146,
+            "supercategory": "pill",
+            "name": "리리카캡슐 150mg"
+        }
+    ]
+}

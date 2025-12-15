@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 1992,
+            "file_name": "K-003614-019861-034597-035206_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5036,
+            "image_id": 1992,
+            "category_id": 34596,
+            "bbox": [
+                74,
+                32,
+                384,
+                405
+            ],
+            "area": 155520,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5037,
+            "image_id": 1992,
+            "category_id": 35205,
+            "bbox": [
+                653,
+                144,
+                190,
+                376
+            ],
+            "area": 71440,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5038,
+            "image_id": 1992,
+            "category_id": 19860,
+            "bbox": [
+                129,
+                872,
+                203,
+                156
+            ],
+            "area": 31668,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

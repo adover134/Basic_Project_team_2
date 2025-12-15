@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 64,
+            "file_name": "K-001900-016551-018110-033009_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 253,
+            "image_id": 64,
+            "category_id": 1899,
+            "bbox": [
+                141,
+                249,
+                175,
+                153
+            ],
+            "area": 26775,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 254,
+            "image_id": 64,
+            "category_id": 16550,
+            "bbox": [
+                598,
+                67,
+                231,
+                437
+            ],
+            "area": 100947,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 255,
+            "image_id": 64,
+            "category_id": 18109,
+            "bbox": [
+                58,
+                758,
+                272,
+                278
+            ],
+            "area": 75616,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 256,
+            "image_id": 64,
+            "category_id": 33008,
+            "bbox": [
+                530,
+                803,
+                348,
+                191
+            ],
+            "area": 66468,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3148,
+            "file_name": "K-004543-010221-010224-016548_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8236,
+            "image_id": 3148,
+            "category_id": 16547,
+            "bbox": [
+                122,
+                277,
+                207,
+                210
+            ],
+            "area": 43470,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8237,
+            "image_id": 3148,
+            "category_id": 10223,
+            "bbox": [
+                676,
+                183,
+                190,
+                354
+            ],
+            "area": 67260,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8238,
+            "image_id": 3148,
+            "category_id": 10220,
+            "bbox": [
+                149,
+                893,
+                204,
+                210
+            ],
+            "area": 42840,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8239,
+            "image_id": 3148,
+            "category_id": 4542,
+            "bbox": [
+                685,
+                835,
+                192,
+                193
+            ],
+            "area": 37056,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

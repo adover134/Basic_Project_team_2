@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 4117,
+            "file_name": "K-005391-029667-033880_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10933,
+            "image_id": 4117,
+            "category_id": 29666,
+            "bbox": [
+                136,
+                295,
+                203,
+                209
+            ],
+            "area": 42427,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10934,
+            "image_id": 4117,
+            "category_id": 33879,
+            "bbox": [
+                592,
+                192,
+                256,
+                386
+            ],
+            "area": 98816,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 33879,
+            "supercategory": "pill",
+            "name": "글리틴정(콜린알포세레이트)"
+        }
+    ]
+}

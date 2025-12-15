@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3679,
+            "file_name": "K-005000-032310-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9871,
+            "image_id": 3679,
+            "category_id": 36636,
+            "bbox": [
+                133,
+                284,
+                246,
+                145
+            ],
+            "area": 35670,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9872,
+            "image_id": 3679,
+            "category_id": 32309,
+            "bbox": [
+                623,
+                211,
+                237,
+                310
+            ],
+            "area": 73470,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 32309,
+            "supercategory": "pill",
+            "name": "글리아타민연질캡슐"
+        }
+    ]
+}

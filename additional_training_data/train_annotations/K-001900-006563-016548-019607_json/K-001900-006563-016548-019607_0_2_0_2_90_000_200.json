@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1449,
+            "file_name": "K-001900-006563-016548-019607_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3138,
+            "image_id": 1449,
+            "category_id": 19606,
+            "bbox": [
+                155,
+                253,
+                141,
+                141
+            ],
+            "area": 19881,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3139,
+            "image_id": 1449,
+            "category_id": 16547,
+            "bbox": [
+                642,
+                177,
+                211,
+                211
+            ],
+            "area": 44521,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3140,
+            "image_id": 1449,
+            "category_id": 6562,
+            "bbox": [
+                203,
+                724,
+                180,
+                336
+            ],
+            "area": 60480,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3141,
+            "image_id": 1449,
+            "category_id": 1899,
+            "bbox": [
+                632,
+                866,
+                177,
+                157
+            ],
+            "area": 27789,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

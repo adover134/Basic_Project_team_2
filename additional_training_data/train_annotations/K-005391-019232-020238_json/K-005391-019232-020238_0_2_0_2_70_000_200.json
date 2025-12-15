@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 4033,
+            "file_name": "K-005391-019232-020238_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10765,
+            "image_id": 4033,
+            "category_id": 20237,
+            "bbox": [
+                131,
+                307,
+                206,
+                205
+            ],
+            "area": 42230,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10766,
+            "image_id": 4033,
+            "category_id": 19231,
+            "bbox": [
+                514,
+                247,
+                302,
+                239
+            ],
+            "area": 72178,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        }
+    ]
+}

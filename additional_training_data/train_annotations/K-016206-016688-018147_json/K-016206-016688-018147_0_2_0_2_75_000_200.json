@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7265,
+            "file_name": "K-016206-016688-018147_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21024,
+            "image_id": 7265,
+            "category_id": 16687,
+            "bbox": [
+                53,
+                544,
+                383,
+                535
+            ],
+            "area": 204905,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21025,
+            "image_id": 7265,
+            "category_id": 18146,
+            "bbox": [
+                596,
+                596,
+                258,
+                392
+            ],
+            "area": 101136,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16687,
+            "supercategory": "pill",
+            "name": "오마코연질캡슐(오메가-3-산에틸에스테르90)"
+        },
+        {
+            "id": 18146,
+            "supercategory": "pill",
+            "name": "리리카캡슐 150mg"
+        }
+    ]
+}

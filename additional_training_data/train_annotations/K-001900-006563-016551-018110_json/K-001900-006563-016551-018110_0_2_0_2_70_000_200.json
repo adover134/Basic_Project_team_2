@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1462,
+            "file_name": "K-001900-006563-016551-018110_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3190,
+            "image_id": 1462,
+            "category_id": 1899,
+            "bbox": [
+                196,
+                285,
+                171,
+                159
+            ],
+            "area": 27189,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3191,
+            "image_id": 1462,
+            "category_id": 6562,
+            "bbox": [
+                611,
+                252,
+                175,
+                311
+            ],
+            "area": 54425,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3192,
+            "image_id": 1462,
+            "category_id": 16550,
+            "bbox": [
+                53,
+                778,
+                373,
+                386
+            ],
+            "area": 143978,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3193,
+            "image_id": 1462,
+            "category_id": 18109,
+            "bbox": [
+                661,
+                760,
+                274,
+                281
+            ],
+            "area": 76994,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        }
+    ]
+}

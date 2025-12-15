@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 548,
+            "file_name": "K-003483-025367-027777-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2032,
+            "image_id": 548,
+            "category_id": 25366,
+            "bbox": [
+                98,
+                122,
+                317,
+                441
+            ],
+            "area": 139797,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2033,
+            "image_id": 548,
+            "category_id": 36636,
+            "bbox": [
+                672,
+                189,
+                167,
+                236
+            ],
+            "area": 39412,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2034,
+            "image_id": 548,
+            "category_id": 27776,
+            "bbox": [
+                186,
+                819,
+                156,
+                193
+            ],
+            "area": 30108,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2035,
+            "image_id": 548,
+            "category_id": 3482,
+            "bbox": [
+                574,
+                817,
+                244,
+                206
+            ],
+            "area": 50264,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7408,
+            "file_name": "K-016206-029667-032310_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21304,
+            "image_id": 7408,
+            "category_id": 32309,
+            "bbox": [
+                81,
+                247,
+                345,
+                212
+            ],
+            "area": 73140,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21305,
+            "image_id": 7408,
+            "category_id": 29666,
+            "bbox": [
+                648,
+                262,
+                198,
+                205
+            ],
+            "area": 40590,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 32309,
+            "supercategory": "pill",
+            "name": "글리아타민연질캡슐"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        }
+    ]
+}

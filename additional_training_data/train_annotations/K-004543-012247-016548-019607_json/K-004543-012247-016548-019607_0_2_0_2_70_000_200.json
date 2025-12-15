@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3229,
+            "file_name": "K-004543-012247-016548-019607_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8560,
+            "image_id": 3229,
+            "category_id": 19606,
+            "bbox": [
+                205,
+                325,
+                138,
+                138
+            ],
+            "area": 19044,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8561,
+            "image_id": 3229,
+            "category_id": 16547,
+            "bbox": [
+                641,
+                295,
+                209,
+                209
+            ],
+            "area": 43681,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8562,
+            "image_id": 3229,
+            "category_id": 12246,
+            "bbox": [
+                169,
+                889,
+                147,
+                194
+            ],
+            "area": 28518,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8563,
+            "image_id": 3229,
+            "category_id": 4542,
+            "bbox": [
+                672,
+                868,
+                191,
+                194
+            ],
+            "area": 37054,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

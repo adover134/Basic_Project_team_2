@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6368,
+            "file_name": "K-015280-016262-018357_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18597,
+            "image_id": 6368,
+            "category_id": 16261,
+            "bbox": [
+                48,
+                680,
+                219,
+                223
+            ],
+            "area": 48837,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18598,
+            "image_id": 6368,
+            "category_id": 18356,
+            "bbox": [
+                510,
+                646,
+                229,
+                340
+            ],
+            "area": 77860,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 18356,
+            "supercategory": "pill",
+            "name": "종근당글리아티린연질캡슐(콜린알포세레이트)"
+        }
+    ]
+}

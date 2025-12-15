@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5380,
+            "file_name": "K-011220-022347-025469-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15436,
+            "image_id": 5380,
+            "category_id": 25468,
+            "bbox": [
+                593,
+                241,
+                333,
+                196
+            ],
+            "area": 65268,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15437,
+            "image_id": 5380,
+            "category_id": 35205,
+            "bbox": [
+                178,
+                735,
+                189,
+                389
+            ],
+            "area": 73521,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15438,
+            "image_id": 5380,
+            "category_id": 22346,
+            "bbox": [
+                689,
+                835,
+                189,
+                190
+            ],
+            "area": 35910,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        }
+    ]
+}

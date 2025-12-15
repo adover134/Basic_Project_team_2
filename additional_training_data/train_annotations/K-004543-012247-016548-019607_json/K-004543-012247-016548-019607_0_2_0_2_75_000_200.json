@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3230,
+            "file_name": "K-004543-012247-016548-019607_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8564,
+            "image_id": 3230,
+            "category_id": 4542,
+            "bbox": [
+                119,
+                201,
+                183,
+                185
+            ],
+            "area": 33855,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8565,
+            "image_id": 3230,
+            "category_id": 12246,
+            "bbox": [
+                642,
+                193,
+                136,
+                182
+            ],
+            "area": 24752,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8566,
+            "image_id": 3230,
+            "category_id": 16547,
+            "bbox": [
+                104,
+                751,
+                217,
+                219
+            ],
+            "area": 47523,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8567,
+            "image_id": 3230,
+            "category_id": 19606,
+            "bbox": [
+                629,
+                810,
+                142,
+                144
+            ],
+            "area": 20448,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        }
+    ]
+}

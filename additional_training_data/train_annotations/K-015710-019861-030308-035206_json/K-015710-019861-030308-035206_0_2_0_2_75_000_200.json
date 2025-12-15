@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6842,
+            "file_name": "K-015710-019861-030308-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19804,
+            "image_id": 6842,
+            "category_id": 30307,
+            "bbox": [
+                86,
+                160,
+                389,
+                320
+            ],
+            "area": 124480,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19805,
+            "image_id": 6842,
+            "category_id": 35205,
+            "bbox": [
+                600,
+                134,
+                190,
+                370
+            ],
+            "area": 70300,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19806,
+            "image_id": 6842,
+            "category_id": 19860,
+            "bbox": [
+                93,
+                833,
+                208,
+                162
+            ],
+            "area": 33696,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

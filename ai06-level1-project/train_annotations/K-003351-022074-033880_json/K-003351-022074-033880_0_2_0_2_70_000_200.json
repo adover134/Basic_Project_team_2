@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 317,
+            "file_name": "K-003351-022074-033880_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1137,
+            "image_id": 317,
+            "category_id": 22073,
+            "bbox": [
+                115,
+                330,
+                170,
+                177
+            ],
+            "area": 30090,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1138,
+            "image_id": 317,
+            "category_id": 33879,
+            "bbox": [
+                495,
+                263,
+                399,
+                255
+            ],
+            "area": 101745,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1139,
+            "image_id": 317,
+            "category_id": 3350,
+            "bbox": [
+                403,
+                886,
+                170,
+                177
+            ],
+            "area": 30090,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22073,
+            "supercategory": "pill",
+            "name": "리피로우정 20mg"
+        },
+        {
+            "id": 33879,
+            "supercategory": "pill",
+            "name": "글리틴정(콜린알포세레이트)"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

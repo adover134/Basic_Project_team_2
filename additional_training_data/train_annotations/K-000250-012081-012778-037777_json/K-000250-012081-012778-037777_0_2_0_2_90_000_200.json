@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 402,
+            "file_name": "K-000250-012081-012778-037777_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 803,
+            "image_id": 402,
+            "category_id": 12777,
+            "bbox": [
+                175,
+                239,
+                205,
+                461
+            ],
+            "area": 94505,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 804,
+            "image_id": 402,
+            "category_id": 12080,
+            "bbox": [
+                665,
+                731,
+                191,
+                409
+            ],
+            "area": 78119,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

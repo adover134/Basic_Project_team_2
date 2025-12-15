@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3118,
+            "file_name": "K-004378-013161-023223-025438_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8146,
+            "image_id": 3118,
+            "category_id": 4377,
+            "bbox": [
+                93,
+                132,
+                178,
+                390
+            ],
+            "area": 69420,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8147,
+            "image_id": 3118,
+            "category_id": 25437,
+            "bbox": [
+                568,
+                185,
+                230,
+                233
+            ],
+            "area": 53590,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8148,
+            "image_id": 3118,
+            "category_id": 23222,
+            "bbox": [
+                566,
+                662,
+                230,
+                456
+            ],
+            "area": 104880,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        }
+    ]
+}

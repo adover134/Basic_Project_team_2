@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1504,
+            "file_name": "K-001900-010224-016551-029345_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3358,
+            "image_id": 1504,
+            "category_id": 29344,
+            "bbox": [
+                142,
+                171,
+                227,
+                383
+            ],
+            "area": 86941,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3359,
+            "image_id": 1504,
+            "category_id": 16550,
+            "bbox": [
+                634,
+                189,
+                244,
+                431
+            ],
+            "area": 105164,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3360,
+            "image_id": 1504,
+            "category_id": 10223,
+            "bbox": [
+                181,
+                815,
+                195,
+                386
+            ],
+            "area": 75270,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3361,
+            "image_id": 1504,
+            "category_id": 1899,
+            "bbox": [
+                697,
+                816,
+                109,
+                189
+            ],
+            "area": 20601,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

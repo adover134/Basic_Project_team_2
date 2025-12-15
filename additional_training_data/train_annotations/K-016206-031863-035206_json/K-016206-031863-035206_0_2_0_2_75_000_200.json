@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7418,
+            "file_name": "K-016206-031863-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21324,
+            "image_id": 7418,
+            "category_id": 35205,
+            "bbox": [
+                138,
+                563,
+                233,
+                383
+            ],
+            "area": 89239,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21325,
+            "image_id": 7418,
+            "category_id": 31862,
+            "bbox": [
+                580,
+                755,
+                192,
+                197
+            ],
+            "area": 37824,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 31862,
+            "supercategory": "pill",
+            "name": "아질렉트정(라사길린메실산염)"
+        }
+    ]
+}

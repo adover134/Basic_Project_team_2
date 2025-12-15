@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5918,
+            "file_name": "K-012420-016548-024850-029345_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17330,
+            "image_id": 5918,
+            "category_id": 12419,
+            "bbox": [
+                156,
+                259,
+                163,
+                165
+            ],
+            "area": 26895,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17331,
+            "image_id": 5918,
+            "category_id": 16547,
+            "bbox": [
+                633,
+                243,
+                208,
+                212
+            ],
+            "area": 44096,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17332,
+            "image_id": 5918,
+            "category_id": 24849,
+            "bbox": [
+                85,
+                862,
+                273,
+                155
+            ],
+            "area": 42315,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17333,
+            "image_id": 5918,
+            "category_id": 29344,
+            "bbox": [
+                647,
+                740,
+                231,
+                419
+            ],
+            "area": 96789,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        }
+    ]
+}

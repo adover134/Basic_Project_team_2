@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4685,
+            "file_name": "K-010221-016551-021771-033009_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13088,
+            "image_id": 4685,
+            "category_id": 10220,
+            "bbox": [
+                149,
+                198,
+                194,
+                200
+            ],
+            "area": 38800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13089,
+            "image_id": 4685,
+            "category_id": 16550,
+            "bbox": [
+                602,
+                99,
+                230,
+                439
+            ],
+            "area": 100970,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13090,
+            "image_id": 4685,
+            "category_id": 21770,
+            "bbox": [
+                118,
+                775,
+                175,
+                176
+            ],
+            "area": 30800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13091,
+            "image_id": 4685,
+            "category_id": 33008,
+            "bbox": [
+                577,
+                710,
+                304,
+                277
+            ],
+            "area": 84208,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

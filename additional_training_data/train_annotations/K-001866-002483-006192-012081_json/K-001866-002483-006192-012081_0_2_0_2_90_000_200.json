@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 933,
+            "file_name": "K-001866-002483-006192-012081_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1862,
+            "image_id": 933,
+            "category_id": 6191,
+            "bbox": [
+                111,
+                200,
+                341,
+                414
+            ],
+            "area": 141174,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1863,
+            "image_id": 933,
+            "category_id": 2482,
+            "bbox": [
+                657,
+                119,
+                176,
+                442
+            ],
+            "area": 77792,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1864,
+            "image_id": 933,
+            "category_id": 12080,
+            "bbox": [
+                648,
+                739,
+                202,
+                409
+            ],
+            "area": 82618,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

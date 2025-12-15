@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1507,
+            "file_name": "K-001900-010224-016551-029451_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3370,
+            "image_id": 1507,
+            "category_id": 29450,
+            "bbox": [
+                64,
+                249,
+                368,
+                198
+            ],
+            "area": 72864,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3371,
+            "image_id": 1507,
+            "category_id": 16550,
+            "bbox": [
+                589,
+                185,
+                247,
+                427
+            ],
+            "area": 105469,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3372,
+            "image_id": 1507,
+            "category_id": 10223,
+            "bbox": [
+                134,
+                751,
+                247,
+                365
+            ],
+            "area": 90155,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3373,
+            "image_id": 1507,
+            "category_id": 1899,
+            "bbox": [
+                644,
+                904,
+                190,
+                142
+            ],
+            "area": 26980,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

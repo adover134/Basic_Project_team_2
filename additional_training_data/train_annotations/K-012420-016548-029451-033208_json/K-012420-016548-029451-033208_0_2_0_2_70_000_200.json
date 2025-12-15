@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5941,
+            "file_name": "K-012420-016548-029451-033208_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17422,
+            "image_id": 5941,
+            "category_id": 33207,
+            "bbox": [
+                169,
+                275,
+                180,
+                181
+            ],
+            "area": 32580,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17423,
+            "image_id": 5941,
+            "category_id": 29450,
+            "bbox": [
+                624,
+                210,
+                212,
+                352
+            ],
+            "area": 74624,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17424,
+            "image_id": 5941,
+            "category_id": 16547,
+            "bbox": [
+                130,
+                821,
+                214,
+                220
+            ],
+            "area": 47080,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17425,
+            "image_id": 5941,
+            "category_id": 12419,
+            "bbox": [
+                684,
+                830,
+                170,
+                172
+            ],
+            "area": 29240,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

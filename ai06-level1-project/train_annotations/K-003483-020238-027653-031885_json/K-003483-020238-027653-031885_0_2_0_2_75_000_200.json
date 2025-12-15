@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 469,
+            "file_name": "K-003483-020238-027653-031885_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1716,
+            "image_id": 469,
+            "category_id": 31884,
+            "bbox": [
+                88,
+                86,
+                354,
+                477
+            ],
+            "area": 168858,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1717,
+            "image_id": 469,
+            "category_id": 20237,
+            "bbox": [
+                605,
+                181,
+                195,
+                198
+            ],
+            "area": 38610,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1718,
+            "image_id": 469,
+            "category_id": 27652,
+            "bbox": [
+                74,
+                821,
+                199,
+                191
+            ],
+            "area": 38009,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1719,
+            "image_id": 469,
+            "category_id": 3482,
+            "bbox": [
+                571,
+                815,
+                263,
+                164
+            ],
+            "area": 43132,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

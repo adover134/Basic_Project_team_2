@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5669,
+            "file_name": "K-012247-016548-019607-031705_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16334,
+            "image_id": 5669,
+            "category_id": 12246,
+            "bbox": [
+                170,
+                238,
+                109,
+                186
+            ],
+            "area": 20274,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16335,
+            "image_id": 5669,
+            "category_id": 16547,
+            "bbox": [
+                630,
+                207,
+                207,
+                212
+            ],
+            "area": 43884,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16336,
+            "image_id": 5669,
+            "category_id": 19606,
+            "bbox": [
+                149,
+                833,
+                142,
+                143
+            ],
+            "area": 20306,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16337,
+            "image_id": 5669,
+            "category_id": 31704,
+            "bbox": [
+                525,
+                739,
+                405,
+                275
+            ],
+            "area": 111375,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "images": [
+        {
+            "id": 598,
+            "file_name": "K-000573-001866-013161-022627_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1152,
+            "image_id": 598,
+            "category_id": 22626,
+            "bbox": [
+                69,
+                140,
+                248,
+                400
+            ],
+            "area": 99200,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        }
+    ]
+}

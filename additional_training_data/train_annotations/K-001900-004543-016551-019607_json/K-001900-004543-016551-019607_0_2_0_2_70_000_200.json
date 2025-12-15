@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1423,
+            "file_name": "K-001900-004543-016551-019607_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3034,
+            "image_id": 1423,
+            "category_id": 19606,
+            "bbox": [
+                214,
+                336,
+                139,
+                138
+            ],
+            "area": 19182,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3035,
+            "image_id": 1423,
+            "category_id": 16550,
+            "bbox": [
+                616,
+                274,
+                250,
+                432
+            ],
+            "area": 108000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3036,
+            "image_id": 1423,
+            "category_id": 4542,
+            "bbox": [
+                147,
+                920,
+                192,
+                195
+            ],
+            "area": 37440,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3037,
+            "image_id": 1423,
+            "category_id": 1899,
+            "bbox": [
+                705,
+                822,
+                147,
+                191
+            ],
+            "area": 28077,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

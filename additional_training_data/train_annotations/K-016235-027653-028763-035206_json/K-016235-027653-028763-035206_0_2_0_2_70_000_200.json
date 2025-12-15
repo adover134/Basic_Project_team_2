@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 8215,
+            "file_name": "K-016235-027653-028763-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 23558,
+            "image_id": 8215,
+            "category_id": 27652,
+            "bbox": [
+                697,
+                264,
+                182,
+                178
+            ],
+            "area": 32396,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23559,
+            "image_id": 8215,
+            "category_id": 35205,
+            "bbox": [
+                131,
+                682,
+                201,
+                383
+            ],
+            "area": 76983,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23560,
+            "image_id": 8215,
+            "category_id": 28762,
+            "bbox": [
+                655,
+                877,
+                193,
+                193
+            ],
+            "area": 37249,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 591,
+            "file_name": "K-003483-027777-029667-031885_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2204,
+            "image_id": 591,
+            "category_id": 3482,
+            "bbox": [
+                190,
+                284,
+                235,
+                198
+            ],
+            "area": 46530,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2205,
+            "image_id": 591,
+            "category_id": 27776,
+            "bbox": [
+                652,
+                301,
+                152,
+                184
+            ],
+            "area": 27968,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2206,
+            "image_id": 591,
+            "category_id": 29666,
+            "bbox": [
+                140,
+                888,
+                205,
+                211
+            ],
+            "area": 43255,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2207,
+            "image_id": 591,
+            "category_id": 31884,
+            "bbox": [
+                588,
+                683,
+                319,
+                515
+            ],
+            "area": 164285,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        }
+    ]
+}

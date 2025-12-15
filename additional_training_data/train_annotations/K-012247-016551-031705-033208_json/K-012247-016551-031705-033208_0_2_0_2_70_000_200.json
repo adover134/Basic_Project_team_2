@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5842,
+            "file_name": "K-012247-016551-031705-033208_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17026,
+            "image_id": 5842,
+            "category_id": 33207,
+            "bbox": [
+                143,
+                240,
+                180,
+                178
+            ],
+            "area": 32040,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17027,
+            "image_id": 5842,
+            "category_id": 31704,
+            "bbox": [
+                561,
+                222,
+                381,
+                279
+            ],
+            "area": 106299,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17028,
+            "image_id": 5842,
+            "category_id": 16550,
+            "bbox": [
+                90,
+                668,
+                241,
+                457
+            ],
+            "area": 110137,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17029,
+            "image_id": 5842,
+            "category_id": 12246,
+            "bbox": [
+                694,
+                842,
+                113,
+                195
+            ],
+            "area": 22035,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        }
+    ]
+}

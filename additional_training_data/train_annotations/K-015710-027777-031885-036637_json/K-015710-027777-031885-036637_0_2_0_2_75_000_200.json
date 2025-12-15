@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7208,
+            "file_name": "K-015710-027777-031885-036637_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20902,
+            "image_id": 7208,
+            "category_id": 31884,
+            "bbox": [
+                84,
+                72,
+                283,
+                494
+            ],
+            "area": 139802,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20903,
+            "image_id": 7208,
+            "category_id": 36636,
+            "bbox": [
+                635,
+                152,
+                158,
+                232
+            ],
+            "area": 36656,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20904,
+            "image_id": 7208,
+            "category_id": 27776,
+            "bbox": [
+                156,
+                779,
+                158,
+                196
+            ],
+            "area": 30968,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        }
+    ]
+}

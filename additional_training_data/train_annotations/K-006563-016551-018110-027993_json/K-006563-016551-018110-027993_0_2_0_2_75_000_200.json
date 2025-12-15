@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4418,
+            "file_name": "K-006563-016551-018110-027993_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12020,
+            "image_id": 4418,
+            "category_id": 18109,
+            "bbox": [
+                39,
+                118,
+                262,
+                268
+            ],
+            "area": 70216,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12021,
+            "image_id": 4418,
+            "category_id": 16550,
+            "bbox": [
+                512,
+                94,
+                378,
+                342
+            ],
+            "area": 129276,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12022,
+            "image_id": 4418,
+            "category_id": 6562,
+            "bbox": [
+                176,
+                688,
+                182,
+                339
+            ],
+            "area": 61698,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12023,
+            "image_id": 4418,
+            "category_id": 27992,
+            "bbox": [
+                560,
+                785,
+                283,
+                227
+            ],
+            "area": 64241,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        }
+    ]
+}

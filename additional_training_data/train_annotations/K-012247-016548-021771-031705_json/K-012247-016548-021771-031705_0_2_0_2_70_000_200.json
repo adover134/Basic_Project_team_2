@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5695,
+            "file_name": "K-012247-016548-021771-031705_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16438,
+            "image_id": 5695,
+            "category_id": 31704,
+            "bbox": [
+                148,
+                220,
+                215,
+                392
+            ],
+            "area": 84280,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16439,
+            "image_id": 5695,
+            "category_id": 21770,
+            "bbox": [
+                655,
+                287,
+                168,
+                165
+            ],
+            "area": 27720,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16440,
+            "image_id": 5695,
+            "category_id": 16547,
+            "bbox": [
+                152,
+                853,
+                216,
+                221
+            ],
+            "area": 47736,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16441,
+            "image_id": 5695,
+            "category_id": 12246,
+            "bbox": [
+                717,
+                853,
+                115,
+                195
+            ],
+            "area": 22425,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        }
+    ]
+}

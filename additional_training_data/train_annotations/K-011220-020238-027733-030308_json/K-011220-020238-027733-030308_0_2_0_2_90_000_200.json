@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5304,
+            "file_name": "K-011220-020238-027733-030308_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15208,
+            "image_id": 5304,
+            "category_id": 30307,
+            "bbox": [
+                50,
+                116,
+                373,
+                363
+            ],
+            "area": 135399,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15209,
+            "image_id": 5304,
+            "category_id": 20237,
+            "bbox": [
+                633,
+                200,
+                200,
+                199
+            ],
+            "area": 39800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15210,
+            "image_id": 5304,
+            "category_id": 27732,
+            "bbox": [
+                115,
+                828,
+                289,
+                248
+            ],
+            "area": 71672,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        }
+    ]
+}

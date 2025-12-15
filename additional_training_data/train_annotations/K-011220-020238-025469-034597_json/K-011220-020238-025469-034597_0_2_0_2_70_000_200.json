@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5284,
+            "file_name": "K-011220-020238-025469-034597_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15148,
+            "image_id": 5284,
+            "category_id": 25468,
+            "bbox": [
+                585,
+                279,
+                317,
+                248
+            ],
+            "area": 78616,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15149,
+            "image_id": 5284,
+            "category_id": 20237,
+            "bbox": [
+                165,
+                854,
+                205,
+                208
+            ],
+            "area": 42640,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15150,
+            "image_id": 5284,
+            "category_id": 34596,
+            "bbox": [
+                511,
+                694,
+                419,
+                396
+            ],
+            "area": 165924,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        }
+    ]
+}

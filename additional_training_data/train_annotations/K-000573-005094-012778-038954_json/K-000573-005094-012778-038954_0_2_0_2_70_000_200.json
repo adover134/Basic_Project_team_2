@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 799,
+            "file_name": "K-000573-005094-012778-038954_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1562,
+            "image_id": 799,
+            "category_id": 12777,
+            "bbox": [
+                592,
+                108,
+                211,
+                434
+            ],
+            "area": 91574,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1563,
+            "image_id": 799,
+            "category_id": 5093,
+            "bbox": [
+                83,
+                756,
+                257,
+                261
+            ],
+            "area": 67077,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5691,
+            "file_name": "K-012247-016548-021771-029345_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16422,
+            "image_id": 5691,
+            "category_id": 12246,
+            "bbox": [
+                190,
+                269,
+                109,
+                187
+            ],
+            "area": 20383,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16423,
+            "image_id": 5691,
+            "category_id": 16547,
+            "bbox": [
+                594,
+                250,
+                210,
+                211
+            ],
+            "area": 44310,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16424,
+            "image_id": 5691,
+            "category_id": 21770,
+            "bbox": [
+                140,
+                854,
+                171,
+                172
+            ],
+            "area": 29412,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16425,
+            "image_id": 5691,
+            "category_id": 29344,
+            "bbox": [
+                645,
+                754,
+                219,
+                414
+            ],
+            "area": 90666,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        }
+    ]
+}

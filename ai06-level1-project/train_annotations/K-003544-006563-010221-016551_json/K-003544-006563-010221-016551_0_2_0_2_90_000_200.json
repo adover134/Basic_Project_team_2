@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 623,
+            "file_name": "K-003544-006563-010221-016551_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2332,
+            "image_id": 623,
+            "category_id": 3543,
+            "bbox": [
+                150,
+                195,
+                189,
+                189
+            ],
+            "area": 35721,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2333,
+            "image_id": 623,
+            "category_id": 16550,
+            "bbox": [
+                583,
+                158,
+                363,
+                376
+            ],
+            "area": 136488,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2334,
+            "image_id": 623,
+            "category_id": 6562,
+            "bbox": [
+                198,
+                722,
+                179,
+                335
+            ],
+            "area": 59965,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2335,
+            "image_id": 623,
+            "category_id": 10220,
+            "bbox": [
+                632,
+                835,
+                200,
+                201
+            ],
+            "area": 40200,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

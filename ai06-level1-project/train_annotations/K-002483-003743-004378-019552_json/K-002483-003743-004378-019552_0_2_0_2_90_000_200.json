@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 104,
+            "file_name": "K-002483-003743-004378-019552_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 413,
+            "image_id": 104,
+            "category_id": 19551,
+            "bbox": [
+                161,
+                112,
+                255,
+                430
+            ],
+            "area": 109650,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 414,
+            "image_id": 104,
+            "category_id": 2482,
+            "bbox": [
+                649,
+                61,
+                162,
+                441
+            ],
+            "area": 71442,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 415,
+            "image_id": 104,
+            "category_id": 3742,
+            "bbox": [
+                142,
+                817,
+                295,
+                295
+            ],
+            "area": 87025,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 416,
+            "image_id": 104,
+            "category_id": 4377,
+            "bbox": [
+                601,
+                728,
+                192,
+                410
+            ],
+            "area": 78720,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        }
+    ]
+}

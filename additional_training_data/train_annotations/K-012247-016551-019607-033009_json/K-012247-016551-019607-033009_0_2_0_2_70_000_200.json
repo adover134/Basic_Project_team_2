@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5779,
+            "file_name": "K-012247-016551-019607-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16774,
+            "image_id": 5779,
+            "category_id": 33008,
+            "bbox": [
+                119,
+                265,
+                330,
+                187
+            ],
+            "area": 61710,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16775,
+            "image_id": 5779,
+            "category_id": 19606,
+            "bbox": [
+                685,
+                334,
+                137,
+                135
+            ],
+            "area": 18495,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16776,
+            "image_id": 5779,
+            "category_id": 16550,
+            "bbox": [
+                57,
+                746,
+                261,
+                456
+            ],
+            "area": 119016,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16777,
+            "image_id": 5779,
+            "category_id": 12246,
+            "bbox": [
+                672,
+                919,
+                194,
+                120
+            ],
+            "area": 23280,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        }
+    ]
+}

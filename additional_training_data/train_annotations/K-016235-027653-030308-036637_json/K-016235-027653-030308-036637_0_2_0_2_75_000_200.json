@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 8234,
+            "file_name": "K-016235-027653-030308-036637_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 23615,
+            "image_id": 8234,
+            "category_id": 30307,
+            "bbox": [
+                111,
+                168,
+                328,
+                381
+            ],
+            "area": 124968,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23616,
+            "image_id": 8234,
+            "category_id": 36636,
+            "bbox": [
+                672,
+                182,
+                146,
+                237
+            ],
+            "area": 34602,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23617,
+            "image_id": 8234,
+            "category_id": 27652,
+            "bbox": [
+                72,
+                822,
+                193,
+                192
+            ],
+            "area": 37056,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        }
+    ]
+}

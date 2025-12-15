@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1425,
+            "file_name": "K-001900-004543-016551-019607_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3042,
+            "image_id": 1425,
+            "category_id": 1899,
+            "bbox": [
+                147,
+                266,
+                142,
+                185
+            ],
+            "area": 26270,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3043,
+            "image_id": 1425,
+            "category_id": 4542,
+            "bbox": [
+                646,
+                154,
+                187,
+                187
+            ],
+            "area": 34969,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3044,
+            "image_id": 1425,
+            "category_id": 16550,
+            "bbox": [
+                122,
+                573,
+                255,
+                441
+            ],
+            "area": 112455,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3045,
+            "image_id": 1425,
+            "category_id": 19606,
+            "bbox": [
+                646,
+                830,
+                141,
+                140
+            ],
+            "area": 19740,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        }
+    ]
+}

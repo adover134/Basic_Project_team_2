@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4782,
+            "file_name": "K-010224-012420-016548-031705_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13476,
+            "image_id": 4782,
+            "category_id": 10223,
+            "bbox": [
+                152,
+                77,
+                202,
+                369
+            ],
+            "area": 74538,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13477,
+            "image_id": 4782,
+            "category_id": 12419,
+            "bbox": [
+                668,
+                202,
+                166,
+                166
+            ],
+            "area": 27556,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13478,
+            "image_id": 4782,
+            "category_id": 16547,
+            "bbox": [
+                128,
+                832,
+                210,
+                214
+            ],
+            "area": 44940,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13479,
+            "image_id": 4782,
+            "category_id": 31704,
+            "bbox": [
+                520,
+                827,
+                408,
+                241
+            ],
+            "area": 98328,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        }
+    ]
+}

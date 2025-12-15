@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3031,
+            "file_name": "K-004378-005094-006192-037777_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7885,
+            "image_id": 3031,
+            "category_id": 4377,
+            "bbox": [
+                158,
+                139,
+                176,
+                390
+            ],
+            "area": 68640,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7886,
+            "image_id": 3031,
+            "category_id": 5093,
+            "bbox": [
+                565,
+                203,
+                243,
+                247
+            ],
+            "area": 60021,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7887,
+            "image_id": 3031,
+            "category_id": 6191,
+            "bbox": [
+                608,
+                628,
+                212,
+                477
+            ],
+            "area": 101124,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        }
+    ]
+}

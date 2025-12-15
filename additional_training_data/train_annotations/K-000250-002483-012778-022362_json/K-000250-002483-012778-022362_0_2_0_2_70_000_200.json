@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 145,
+            "file_name": "K-000250-002483-012778-022362_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 268,
+            "image_id": 145,
+            "category_id": 22361,
+            "bbox": [
+                94,
+                107,
+                210,
+                352
+            ],
+            "area": 73920,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 269,
+            "image_id": 145,
+            "category_id": 2482,
+            "bbox": [
+                111,
+                696,
+                168,
+                448
+            ],
+            "area": 75264,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 270,
+            "image_id": 145,
+            "category_id": 12777,
+            "bbox": [
+                565,
+                624,
+                215,
+                464
+            ],
+            "area": 99760,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

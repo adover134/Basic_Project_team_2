@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1571,
+            "file_name": "K-003544-016548-021026-023203_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3626,
+            "image_id": 1571,
+            "category_id": 3543,
+            "bbox": [
+                131,
+                232,
+                185,
+                187
+            ],
+            "area": 34595,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3627,
+            "image_id": 1571,
+            "category_id": 16547,
+            "bbox": [
+                587,
+                181,
+                207,
+                211
+            ],
+            "area": 43677,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3628,
+            "image_id": 1571,
+            "category_id": 21025,
+            "bbox": [
+                122,
+                836,
+                164,
+                166
+            ],
+            "area": 27224,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3629,
+            "image_id": 1571,
+            "category_id": 23202,
+            "bbox": [
+                660,
+                829,
+                123,
+                126
+            ],
+            "area": 15498,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        }
+    ]
+}

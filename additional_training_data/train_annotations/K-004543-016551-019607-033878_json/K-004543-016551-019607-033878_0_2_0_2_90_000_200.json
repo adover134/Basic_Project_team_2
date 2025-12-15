@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3390,
+            "file_name": "K-004543-016551-019607-033878_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9204,
+            "image_id": 3390,
+            "category_id": 4542,
+            "bbox": [
+                159,
+                192,
+                186,
+                187
+            ],
+            "area": 34782,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9205,
+            "image_id": 3390,
+            "category_id": 16550,
+            "bbox": [
+                655,
+                53,
+                245,
+                445
+            ],
+            "area": 109025,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9206,
+            "image_id": 3390,
+            "category_id": 19606,
+            "bbox": [
+                160,
+                867,
+                140,
+                141
+            ],
+            "area": 19740,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9207,
+            "image_id": 3390,
+            "category_id": 33877,
+            "bbox": [
+                655,
+                840,
+                128,
+                197
+            ],
+            "area": 25216,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        }
+    ]
+}

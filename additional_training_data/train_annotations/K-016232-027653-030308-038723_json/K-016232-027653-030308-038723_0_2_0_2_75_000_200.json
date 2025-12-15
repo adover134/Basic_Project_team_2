@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7733,
+            "file_name": "K-016232-027653-030308-038723_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22136,
+            "image_id": 7733,
+            "category_id": 30307,
+            "bbox": [
+                65,
+                118,
+                290,
+                401
+            ],
+            "area": 116290,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22137,
+            "image_id": 7733,
+            "category_id": 16231,
+            "bbox": [
+                588,
+                165,
+                163,
+                169
+            ],
+            "area": 27547,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22138,
+            "image_id": 7733,
+            "category_id": 27652,
+            "bbox": [
+                77,
+                824,
+                193,
+                191
+            ],
+            "area": 36863,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        }
+    ]
+}

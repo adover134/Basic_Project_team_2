@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 805,
+            "file_name": "K-000573-005094-013161-019552_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1574,
+            "image_id": 805,
+            "category_id": 19551,
+            "bbox": [
+                16,
+                153,
+                350,
+                335
+            ],
+            "area": 117250,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1575,
+            "image_id": 805,
+            "category_id": 5093,
+            "bbox": [
+                78,
+                773,
+                257,
+                261
+            ],
+            "area": 67077,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        }
+    ]
+}

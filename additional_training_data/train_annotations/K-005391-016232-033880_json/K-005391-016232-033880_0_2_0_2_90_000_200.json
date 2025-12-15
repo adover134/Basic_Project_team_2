@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3942,
+            "file_name": "K-005391-016232-033880_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10586,
+            "image_id": 3942,
+            "category_id": 33879,
+            "bbox": [
+                66,
+                798,
+                409,
+                256
+            ],
+            "area": 104704,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10587,
+            "image_id": 3942,
+            "category_id": 16231,
+            "bbox": [
+                650,
+                804,
+                178,
+                178
+            ],
+            "area": 31684,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33879,
+            "supercategory": "pill",
+            "name": "글리틴정(콜린알포세레이트)"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        }
+    ]
+}

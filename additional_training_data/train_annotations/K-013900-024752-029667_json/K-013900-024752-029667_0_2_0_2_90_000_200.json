@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6309,
+            "file_name": "K-013900-024752-029667_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18479,
+            "image_id": 6309,
+            "category_id": 29666,
+            "bbox": [
+                147,
+                821,
+                206,
+                207
+            ],
+            "area": 42642,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18480,
+            "image_id": 6309,
+            "category_id": 13899,
+            "bbox": [
+                626,
+                769,
+                156,
+                247
+            ],
+            "area": 38532,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 13899,
+            "supercategory": "pill",
+            "name": "에빅사정(메만틴염산염)(비매품)"
+        }
+    ]
+}

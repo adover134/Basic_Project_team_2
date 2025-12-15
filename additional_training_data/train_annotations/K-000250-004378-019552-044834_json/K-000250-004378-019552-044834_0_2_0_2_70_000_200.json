@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 220,
+            "file_name": "K-000250-004378-019552-044834_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 439,
+            "image_id": 220,
+            "category_id": 4377,
+            "bbox": [
+                155,
+                139,
+                178,
+                390
+            ],
+            "area": 69420,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 440,
+            "image_id": 220,
+            "category_id": 19551,
+            "bbox": [
+                538,
+                586,
+                238,
+                444
+            ],
+            "area": 105672,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        },
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        }
+    ]
+}

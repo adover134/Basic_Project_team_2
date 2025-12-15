@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6363,
+            "file_name": "K-015280-016232-041768_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18587,
+            "image_id": 6363,
+            "category_id": 16231,
+            "bbox": [
+                197,
+                827,
+                175,
+                177
+            ],
+            "area": 30975,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18588,
+            "image_id": 6363,
+            "category_id": 41767,
+            "bbox": [
+                602,
+                726,
+                241,
+                292
+            ],
+            "area": 70372,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        }
+    ]
+}

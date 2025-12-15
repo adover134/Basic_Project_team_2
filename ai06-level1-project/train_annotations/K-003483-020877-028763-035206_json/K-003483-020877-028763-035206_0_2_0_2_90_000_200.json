@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 496,
+            "file_name": "K-003483-020877-028763-035206_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1824,
+            "image_id": 496,
+            "category_id": 28762,
+            "bbox": [
+                162,
+                211,
+                188,
+                187
+            ],
+            "area": 35156,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1825,
+            "image_id": 496,
+            "category_id": 35205,
+            "bbox": [
+                674,
+                191,
+                185,
+                377
+            ],
+            "area": 69745,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1826,
+            "image_id": 496,
+            "category_id": 20876,
+            "bbox": [
+                128,
+                780,
+                305,
+                215
+            ],
+            "area": 65575,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1827,
+            "image_id": 496,
+            "category_id": 3482,
+            "bbox": [
+                658,
+                755,
+                186,
+                253
+            ],
+            "area": 47058,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1699,
+            "file_name": "K-003544-016551-029451-033878_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4138,
+            "image_id": 1699,
+            "category_id": 33877,
+            "bbox": [
+                167,
+                263,
+                188,
+                133
+            ],
+            "area": 25004,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4139,
+            "image_id": 1699,
+            "category_id": 29450,
+            "bbox": [
+                529,
+                256,
+                371,
+                194
+            ],
+            "area": 71974,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4140,
+            "image_id": 1699,
+            "category_id": 16550,
+            "bbox": [
+                102,
+                628,
+                256,
+                452
+            ],
+            "area": 115712,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4141,
+            "image_id": 1699,
+            "category_id": 3543,
+            "bbox": [
+                650,
+                816,
+                193,
+                195
+            ],
+            "area": 37635,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        }
+    ]
+}

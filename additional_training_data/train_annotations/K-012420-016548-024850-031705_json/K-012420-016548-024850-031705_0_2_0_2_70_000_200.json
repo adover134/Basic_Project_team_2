@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5923,
+            "file_name": "K-012420-016548-024850-031705_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17350,
+            "image_id": 5923,
+            "category_id": 31704,
+            "bbox": [
+                90,
+                231,
+                396,
+                238
+            ],
+            "area": 94248,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17351,
+            "image_id": 5923,
+            "category_id": 24849,
+            "bbox": [
+                696,
+                278,
+                138,
+                256
+            ],
+            "area": 35328,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17352,
+            "image_id": 5923,
+            "category_id": 16547,
+            "bbox": [
+                161,
+                824,
+                214,
+                219
+            ],
+            "area": 46866,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17353,
+            "image_id": 5923,
+            "category_id": 12419,
+            "bbox": [
+                649,
+                875,
+                171,
+                174
+            ],
+            "area": 29754,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

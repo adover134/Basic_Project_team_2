@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 2931,
+            "file_name": "K-003832-020852-022074_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7652,
+            "image_id": 2931,
+            "category_id": 3831,
+            "bbox": [
+                377,
+                192,
+                236,
+                411
+            ],
+            "area": 96996,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7653,
+            "image_id": 2931,
+            "category_id": 22073,
+            "bbox": [
+                660,
+                855,
+                174,
+                175
+            ],
+            "area": 30450,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 22073,
+            "supercategory": "pill",
+            "name": "리피로우정 20mg"
+        }
+    ]
+}

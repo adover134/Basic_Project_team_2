@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 160,
+            "file_name": "K-000250-002483-022362-022627_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 313,
+            "image_id": 160,
+            "category_id": 22361,
+            "bbox": [
+                94,
+                107,
+                210,
+                352
+            ],
+            "area": 73920,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 314,
+            "image_id": 160,
+            "category_id": 2482,
+            "bbox": [
+                110,
+                696,
+                170,
+                447
+            ],
+            "area": 75990,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 315,
+            "image_id": 160,
+            "category_id": 22626,
+            "bbox": [
+                526,
+                633,
+                254,
+                432
+            ],
+            "area": 109728,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        }
+    ]
+}

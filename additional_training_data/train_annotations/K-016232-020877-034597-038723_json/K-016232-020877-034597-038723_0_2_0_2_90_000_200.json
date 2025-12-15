@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7680,
+            "file_name": "K-016232-020877-034597-038723_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21990,
+            "image_id": 7680,
+            "category_id": 34596,
+            "bbox": [
+                51,
+                186,
+                378,
+                410
+            ],
+            "area": 154980,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21991,
+            "image_id": 7680,
+            "category_id": 16231,
+            "bbox": [
+                655,
+                210,
+                174,
+                168
+            ],
+            "area": 29232,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21992,
+            "image_id": 7680,
+            "category_id": 20876,
+            "bbox": [
+                142,
+                836,
+                243,
+                291
+            ],
+            "area": 70713,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

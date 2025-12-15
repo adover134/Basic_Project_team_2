@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 8036,
+            "file_name": "K-016235-020238-027733-034597_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 23021,
+            "image_id": 8036,
+            "category_id": 34596,
+            "bbox": [
+                76,
+                117,
+                309,
+                442
+            ],
+            "area": 136578,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23022,
+            "image_id": 8036,
+            "category_id": 20237,
+            "bbox": [
+                638,
+                207,
+                197,
+                197
+            ],
+            "area": 38809,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23023,
+            "image_id": 8036,
+            "category_id": 27732,
+            "bbox": [
+                66,
+                782,
+                298,
+                245
+            ],
+            "area": 73010,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        }
+    ]
+}

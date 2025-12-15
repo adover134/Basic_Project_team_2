@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 125,
+            "file_name": "K-000250-002483-006192-013395_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 208,
+            "image_id": 125,
+            "category_id": 6191,
+            "bbox": [
+                145,
+                209,
+                213,
+                458
+            ],
+            "area": 97554,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 209,
+            "image_id": 125,
+            "category_id": 2482,
+            "bbox": [
+                637,
+                167,
+                164,
+                417
+            ],
+            "area": 68388,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 210,
+            "image_id": 125,
+            "category_id": 13394,
+            "bbox": [
+                662,
+                702,
+                214,
+                460
+            ],
+            "area": 98440,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

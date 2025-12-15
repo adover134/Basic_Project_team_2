@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6708,
+            "file_name": "K-015710-016262-020877-028763_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19402,
+            "image_id": 6708,
+            "category_id": 28762,
+            "bbox": [
+                130,
+                197,
+                187,
+                187
+            ],
+            "area": 34969,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19403,
+            "image_id": 6708,
+            "category_id": 16261,
+            "bbox": [
+                592,
+                231,
+                212,
+                213
+            ],
+            "area": 45156,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19404,
+            "image_id": 6708,
+            "category_id": 20876,
+            "bbox": [
+                118,
+                856,
+                279,
+                256
+            ],
+            "area": 71424,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

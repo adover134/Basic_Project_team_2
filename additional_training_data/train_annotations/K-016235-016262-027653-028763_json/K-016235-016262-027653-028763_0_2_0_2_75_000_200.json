@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7859,
+            "file_name": "K-016235-016262-027653-028763_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22490,
+            "image_id": 7859,
+            "category_id": 28762,
+            "bbox": [
+                167,
+                214,
+                183,
+                182
+            ],
+            "area": 33306,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22491,
+            "image_id": 7859,
+            "category_id": 16261,
+            "bbox": [
+                577,
+                162,
+                207,
+                211
+            ],
+            "area": 43677,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22492,
+            "image_id": 7859,
+            "category_id": 27652,
+            "bbox": [
+                73,
+                823,
+                193,
+                191
+            ],
+            "area": 36863,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        }
+    ]
+}

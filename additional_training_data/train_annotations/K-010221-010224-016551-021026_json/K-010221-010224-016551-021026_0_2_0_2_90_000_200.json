@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4506,
+            "file_name": "K-010221-010224-016551-021026_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12372,
+            "image_id": 4506,
+            "category_id": 10223,
+            "bbox": [
+                151,
+                157,
+                201,
+                372
+            ],
+            "area": 74772,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12373,
+            "image_id": 4506,
+            "category_id": 16550,
+            "bbox": [
+                515,
+                182,
+                284,
+                428
+            ],
+            "area": 121552,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12374,
+            "image_id": 4506,
+            "category_id": 21025,
+            "bbox": [
+                141,
+                862,
+                162,
+                164
+            ],
+            "area": 26568,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12375,
+            "image_id": 4506,
+            "category_id": 10220,
+            "bbox": [
+                622,
+                820,
+                199,
+                200
+            ],
+            "area": 39800,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

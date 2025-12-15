@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4202,
+            "file_name": "K-006563-010221-016548-019607_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11156,
+            "image_id": 4202,
+            "category_id": 19606,
+            "bbox": [
+                127,
+                236,
+                138,
+                138
+            ],
+            "area": 19044,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11157,
+            "image_id": 4202,
+            "category_id": 16547,
+            "bbox": [
+                565,
+                172,
+                207,
+                211
+            ],
+            "area": 43677,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11158,
+            "image_id": 4202,
+            "category_id": 6562,
+            "bbox": [
+                166,
+                680,
+                182,
+                338
+            ],
+            "area": 61516,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11159,
+            "image_id": 4202,
+            "category_id": 10220,
+            "bbox": [
+                604,
+                797,
+                204,
+                207
+            ],
+            "area": 42228,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

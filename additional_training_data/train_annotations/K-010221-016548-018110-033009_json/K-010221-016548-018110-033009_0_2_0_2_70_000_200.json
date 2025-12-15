@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4537,
+            "file_name": "K-010221-016548-018110-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12496,
+            "image_id": 4537,
+            "category_id": 33008,
+            "bbox": [
+                98,
+                282,
+                326,
+                196
+            ],
+            "area": 63896,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12497,
+            "image_id": 4537,
+            "category_id": 18109,
+            "bbox": [
+                645,
+                263,
+                262,
+                265
+            ],
+            "area": 69430,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12498,
+            "image_id": 4537,
+            "category_id": 16547,
+            "bbox": [
+                130,
+                897,
+                218,
+                223
+            ],
+            "area": 48614,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12499,
+            "image_id": 4537,
+            "category_id": 10220,
+            "bbox": [
+                648,
+                884,
+                206,
+                212
+            ],
+            "area": 43672,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

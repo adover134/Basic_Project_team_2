@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3336,
+            "file_name": "K-004543-016548-023203-033208_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8988,
+            "image_id": 3336,
+            "category_id": 4542,
+            "bbox": [
+                165,
+                174,
+                186,
+                187
+            ],
+            "area": 34782,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8989,
+            "image_id": 3336,
+            "category_id": 16547,
+            "bbox": [
+                707,
+                194,
+                213,
+                214
+            ],
+            "area": 45582,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8990,
+            "image_id": 3336,
+            "category_id": 23202,
+            "bbox": [
+                190,
+                895,
+                119,
+                121
+            ],
+            "area": 14399,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8991,
+            "image_id": 3336,
+            "category_id": 33207,
+            "bbox": [
+                640,
+                822,
+                186,
+                184
+            ],
+            "area": 34224,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}

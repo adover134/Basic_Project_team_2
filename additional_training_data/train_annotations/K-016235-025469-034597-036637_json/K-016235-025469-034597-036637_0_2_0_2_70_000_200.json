@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 8209,
+            "file_name": "K-016235-025469-034597-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 23540,
+            "image_id": 8209,
+            "category_id": 25468,
+            "bbox": [
+                621,
+                259,
+                335,
+                181
+            ],
+            "area": 60635,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23541,
+            "image_id": 8209,
+            "category_id": 36636,
+            "bbox": [
+                181,
+                828,
+                141,
+                254
+            ],
+            "area": 35814,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23542,
+            "image_id": 8209,
+            "category_id": 34596,
+            "bbox": [
+                497,
+                627,
+                398,
+                412
+            ],
+            "area": 163976,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 185,
+            "file_name": "K-002483-019552-022362-025438_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 737,
+            "image_id": 185,
+            "category_id": 19551,
+            "bbox": [
+                123,
+                130,
+                297,
+                406
+            ],
+            "area": 120582,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 738,
+            "image_id": 185,
+            "category_id": 2482,
+            "bbox": [
+                626,
+                108,
+                201,
+                438
+            ],
+            "area": 88038,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 739,
+            "image_id": 185,
+            "category_id": 25437,
+            "bbox": [
+                151,
+                851,
+                238,
+                239
+            ],
+            "area": 56882,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 740,
+            "image_id": 185,
+            "category_id": 22361,
+            "bbox": [
+                604,
+                768,
+                219,
+                372
+            ],
+            "area": 81468,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        }
+    ]
+}

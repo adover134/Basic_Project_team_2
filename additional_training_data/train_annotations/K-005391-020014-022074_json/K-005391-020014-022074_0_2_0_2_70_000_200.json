@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 4060,
+            "file_name": "K-005391-020014-022074_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10819,
+            "image_id": 4060,
+            "category_id": 22073,
+            "bbox": [
+                154,
+                310,
+                170,
+                177
+            ],
+            "area": 30090,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10820,
+            "image_id": 4060,
+            "category_id": 20013,
+            "bbox": [
+                626,
+                288,
+                306,
+                297
+            ],
+            "area": 90882,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22073,
+            "supercategory": "pill",
+            "name": "리피로우정 20mg"
+        },
+        {
+            "id": 20013,
+            "supercategory": "pill",
+            "name": "마도파정"
+        }
+    ]
+}

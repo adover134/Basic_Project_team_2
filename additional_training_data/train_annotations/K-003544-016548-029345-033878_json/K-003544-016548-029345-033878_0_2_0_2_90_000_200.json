@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1623,
+            "file_name": "K-003544-016548-029345-033878_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3834,
+            "image_id": 1623,
+            "category_id": 3543,
+            "bbox": [
+                190,
+                188,
+                188,
+                189
+            ],
+            "area": 35532,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3835,
+            "image_id": 1623,
+            "category_id": 16547,
+            "bbox": [
+                611,
+                194,
+                211,
+                212
+            ],
+            "area": 44732,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3836,
+            "image_id": 1623,
+            "category_id": 29344,
+            "bbox": [
+                108,
+                784,
+                303,
+                382
+            ],
+            "area": 115746,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3837,
+            "image_id": 1623,
+            "category_id": 33877,
+            "bbox": [
+                691,
+                897,
+                197,
+                125
+            ],
+            "area": 24625,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        }
+    ]
+}

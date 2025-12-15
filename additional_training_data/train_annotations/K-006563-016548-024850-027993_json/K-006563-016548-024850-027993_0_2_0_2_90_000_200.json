@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4389,
+            "file_name": "K-006563-016548-024850-027993_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11904,
+            "image_id": 4389,
+            "category_id": 24849,
+            "bbox": [
+                128,
+                197,
+                200,
+                234
+            ],
+            "area": 46800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11905,
+            "image_id": 4389,
+            "category_id": 16547,
+            "bbox": [
+                654,
+                223,
+                212,
+                211
+            ],
+            "area": 44732,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11906,
+            "image_id": 4389,
+            "category_id": 6562,
+            "bbox": [
+                208,
+                731,
+                179,
+                334
+            ],
+            "area": 59786,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11907,
+            "image_id": 4389,
+            "category_id": 27992,
+            "bbox": [
+                587,
+                826,
+                278,
+                216
+            ],
+            "area": 60048,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        }
+    ]
+}

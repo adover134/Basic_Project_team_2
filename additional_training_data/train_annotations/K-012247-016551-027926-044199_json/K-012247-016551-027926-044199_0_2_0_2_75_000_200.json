@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5828,
+            "file_name": "K-012247-016551-027926-044199_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16970,
+            "image_id": 5828,
+            "category_id": 12246,
+            "bbox": [
+                164,
+                159,
+                115,
+                186
+            ],
+            "area": 21390,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16971,
+            "image_id": 5828,
+            "category_id": 16550,
+            "bbox": [
+                566,
+                111,
+                234,
+                439
+            ],
+            "area": 102726,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16972,
+            "image_id": 5828,
+            "category_id": 27925,
+            "bbox": [
+                123,
+                657,
+                206,
+                451
+            ],
+            "area": 92906,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16973,
+            "image_id": 5828,
+            "category_id": 44198,
+            "bbox": [
+                610,
+                798,
+                144,
+                270
+            ],
+            "area": 38880,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        },
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        }
+    ]
+}

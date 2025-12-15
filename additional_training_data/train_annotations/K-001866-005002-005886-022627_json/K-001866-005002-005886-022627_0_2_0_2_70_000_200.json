@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 1060,
+            "file_name": "K-001866-005002-005886-022627_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2159,
+            "image_id": 1060,
+            "category_id": 5885,
+            "bbox": [
+                136,
+                118,
+                189,
+                425
+            ],
+            "area": 80325,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2160,
+            "image_id": 1060,
+            "category_id": 22626,
+            "bbox": [
+                518,
+                669,
+                291,
+                418
+            ],
+            "area": 121638,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        },
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        }
+    ]
+}

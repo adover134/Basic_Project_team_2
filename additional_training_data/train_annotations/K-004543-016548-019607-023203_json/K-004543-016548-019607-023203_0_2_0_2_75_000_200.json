@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3308,
+            "file_name": "K-004543-016548-019607-023203_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8876,
+            "image_id": 3308,
+            "category_id": 4542,
+            "bbox": [
+                150,
+                165,
+                183,
+                185
+            ],
+            "area": 33855,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8877,
+            "image_id": 3308,
+            "category_id": 16547,
+            "bbox": [
+                601,
+                172,
+                209,
+                212
+            ],
+            "area": 44308,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8878,
+            "image_id": 3308,
+            "category_id": 19606,
+            "bbox": [
+                147,
+                789,
+                142,
+                144
+            ],
+            "area": 20448,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8879,
+            "image_id": 3308,
+            "category_id": 23202,
+            "bbox": [
+                633,
+                829,
+                123,
+                124
+            ],
+            "area": 15252,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        }
+    ]
+}

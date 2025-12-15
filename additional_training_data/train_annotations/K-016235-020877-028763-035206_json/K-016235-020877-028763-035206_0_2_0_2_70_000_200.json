@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 8071,
+            "file_name": "K-016235-020877-028763-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 23126,
+            "image_id": 8071,
+            "category_id": 20876,
+            "bbox": [
+                604,
+                185,
+                238,
+                278
+            ],
+            "area": 66164,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23127,
+            "image_id": 8071,
+            "category_id": 35205,
+            "bbox": [
+                164,
+                762,
+                164,
+                391
+            ],
+            "area": 64124,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23128,
+            "image_id": 8071,
+            "category_id": 28762,
+            "bbox": [
+                688,
+                843,
+                192,
+                191
+            ],
+            "area": 36672,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

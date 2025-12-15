@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 6034,
+            "file_name": "K-012420-016551-024850-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17794,
+            "image_id": 6034,
+            "category_id": 33008,
+            "bbox": [
+                127,
+                241,
+                252,
+                296
+            ],
+            "area": 74592,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17795,
+            "image_id": 6034,
+            "category_id": 24849,
+            "bbox": [
+                667,
+                230,
+                141,
+                251
+            ],
+            "area": 35391,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17796,
+            "image_id": 6034,
+            "category_id": 16550,
+            "bbox": [
+                114,
+                775,
+                245,
+                463
+            ],
+            "area": 113435,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17797,
+            "image_id": 6034,
+            "category_id": 12419,
+            "bbox": [
+                655,
+                916,
+                172,
+                174
+            ],
+            "area": 29928,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

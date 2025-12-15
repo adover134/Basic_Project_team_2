@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 542,
+            "file_name": "K-000573-001866-002483-006192_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1083,
+            "image_id": 542,
+            "category_id": 2482,
+            "bbox": [
+                175,
+                687,
+                196,
+                445
+            ],
+            "area": 87220,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1084,
+            "image_id": 542,
+            "category_id": 6191,
+            "bbox": [
+                594,
+                768,
+                373,
+                411
+            ],
+            "area": 153303,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        }
+    ]
+}

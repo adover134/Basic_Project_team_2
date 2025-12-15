@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4806,
+            "file_name": "K-010224-016548-021026-023203_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13572,
+            "image_id": 4806,
+            "category_id": 10223,
+            "bbox": [
+                100,
+                150,
+                228,
+                364
+            ],
+            "area": 82992,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13573,
+            "image_id": 4806,
+            "category_id": 16547,
+            "bbox": [
+                617,
+                183,
+                210,
+                213
+            ],
+            "area": 44730,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13574,
+            "image_id": 4806,
+            "category_id": 21025,
+            "bbox": [
+                156,
+                870,
+                161,
+                164
+            ],
+            "area": 26404,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13575,
+            "image_id": 4806,
+            "category_id": 23202,
+            "bbox": [
+                687,
+                862,
+                119,
+                119
+            ],
+            "area": 14161,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        }
+    ]
+}

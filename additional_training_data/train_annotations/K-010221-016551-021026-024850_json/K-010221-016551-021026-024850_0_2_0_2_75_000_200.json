@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4664,
+            "file_name": "K-010221-016551-021026-024850_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13004,
+            "image_id": 4664,
+            "category_id": 24849,
+            "bbox": [
+                144,
+                212,
+                261,
+                153
+            ],
+            "area": 39933,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13005,
+            "image_id": 4664,
+            "category_id": 16550,
+            "bbox": [
+                539,
+                139,
+                320,
+                396
+            ],
+            "area": 126720,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13006,
+            "image_id": 4664,
+            "category_id": 21025,
+            "bbox": [
+                107,
+                827,
+                164,
+                167
+            ],
+            "area": 27388,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13007,
+            "image_id": 4664,
+            "category_id": 10220,
+            "bbox": [
+                594,
+                781,
+                202,
+                207
+            ],
+            "area": 41814,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

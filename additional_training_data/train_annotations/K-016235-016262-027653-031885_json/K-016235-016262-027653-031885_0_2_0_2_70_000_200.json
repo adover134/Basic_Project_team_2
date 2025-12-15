@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7864,
+            "file_name": "K-016235-016262-027653-031885_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22505,
+            "image_id": 7864,
+            "category_id": 27652,
+            "bbox": [
+                696,
+                264,
+                183,
+                178
+            ],
+            "area": 32574,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22506,
+            "image_id": 7864,
+            "category_id": 16261,
+            "bbox": [
+                164,
+                878,
+                218,
+                223
+            ],
+            "area": 48614,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22507,
+            "image_id": 7864,
+            "category_id": 31884,
+            "bbox": [
+                629,
+                707,
+                272,
+                520
+            ],
+            "area": 141440,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        }
+    ]
+}

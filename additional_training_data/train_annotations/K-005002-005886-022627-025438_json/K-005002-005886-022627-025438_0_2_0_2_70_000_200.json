@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3772,
+            "file_name": "K-005002-005886-022627-025438_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10126,
+            "image_id": 3772,
+            "category_id": 5885,
+            "bbox": [
+                132,
+                123,
+                190,
+                425
+            ],
+            "area": 80750,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10127,
+            "image_id": 3772,
+            "category_id": 25437,
+            "bbox": [
+                551,
+                188,
+                230,
+                233
+            ],
+            "area": 53590,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10128,
+            "image_id": 3772,
+            "category_id": 22626,
+            "bbox": [
+                535,
+                705,
+                262,
+                433
+            ],
+            "area": 113446,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        }
+    ]
+}

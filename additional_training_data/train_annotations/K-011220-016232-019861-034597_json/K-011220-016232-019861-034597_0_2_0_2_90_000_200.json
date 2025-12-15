@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 4965,
+            "file_name": "K-011220-016232-019861-034597_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14191,
+            "image_id": 4965,
+            "category_id": 34596,
+            "bbox": [
+                113,
+                104,
+                360,
+                423
+            ],
+            "area": 152280,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14192,
+            "image_id": 4965,
+            "category_id": 16231,
+            "bbox": [
+                623,
+                228,
+                170,
+                173
+            ],
+            "area": 29410,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14193,
+            "image_id": 4965,
+            "category_id": 19860,
+            "bbox": [
+                128,
+                872,
+                203,
+                157
+            ],
+            "area": 31871,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 287,
+            "file_name": "K-003351-020014-020238_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1047,
+            "image_id": 287,
+            "category_id": 3350,
+            "bbox": [
+                355,
+                196,
+                165,
+                172
+            ],
+            "area": 28380,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1048,
+            "image_id": 287,
+            "category_id": 20013,
+            "bbox": [
+                64,
+                628,
+                314,
+                312
+            ],
+            "area": 97968,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1049,
+            "image_id": 287,
+            "category_id": 20237,
+            "bbox": [
+                541,
+                739,
+                208,
+                211
+            ],
+            "area": 43888,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 20013,
+            "supercategory": "pill",
+            "name": "마도파정"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        }
+    ]
+}

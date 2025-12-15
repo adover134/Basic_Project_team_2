@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 93,
+            "file_name": "K-000250-002483-004378-006192_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 112,
+            "image_id": 93,
+            "category_id": 6191,
+            "bbox": [
+                131,
+                122,
+                209,
+                474
+            ],
+            "area": 99066,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 113,
+            "image_id": 93,
+            "category_id": 2482,
+            "bbox": [
+                616,
+                90,
+                185,
+                440
+            ],
+            "area": 81400,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 114,
+            "image_id": 93,
+            "category_id": 4377,
+            "bbox": [
+                606,
+                728,
+                189,
+                410
+            ],
+            "area": 77490,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        }
+    ]
+}

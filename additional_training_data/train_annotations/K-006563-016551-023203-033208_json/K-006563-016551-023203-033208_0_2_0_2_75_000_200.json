@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4454,
+            "file_name": "K-006563-016551-023203-033208_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12164,
+            "image_id": 4454,
+            "category_id": 33207,
+            "bbox": [
+                108,
+                180,
+                180,
+                181
+            ],
+            "area": 32580,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12165,
+            "image_id": 4454,
+            "category_id": 16550,
+            "bbox": [
+                570,
+                94,
+                251,
+                431
+            ],
+            "area": 108181,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12166,
+            "image_id": 4454,
+            "category_id": 6562,
+            "bbox": [
+                176,
+                688,
+                182,
+                339
+            ],
+            "area": 61698,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12167,
+            "image_id": 4454,
+            "category_id": 23202,
+            "bbox": [
+                628,
+                856,
+                123,
+                125
+            ],
+            "area": 15375,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        }
+    ]
+}

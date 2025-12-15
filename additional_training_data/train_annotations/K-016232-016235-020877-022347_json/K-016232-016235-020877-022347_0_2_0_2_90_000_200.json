@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7473,
+            "file_name": "K-016232-016235-020877-022347_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21454,
+            "image_id": 7473,
+            "category_id": 22346,
+            "bbox": [
+                161,
+                230,
+                185,
+                185
+            ],
+            "area": 34225,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21455,
+            "image_id": 7473,
+            "category_id": 16231,
+            "bbox": [
+                650,
+                247,
+                173,
+                169
+            ],
+            "area": 29237,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21456,
+            "image_id": 7473,
+            "category_id": 20876,
+            "bbox": [
+                146,
+                840,
+                243,
+                291
+            ],
+            "area": 70713,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7273,
+            "file_name": "K-016206-016688-020014_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21040,
+            "image_id": 7273,
+            "category_id": 20013,
+            "bbox": [
+                69,
+                307,
+                306,
+                299
+            ],
+            "area": 91494,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21041,
+            "image_id": 7273,
+            "category_id": 16687,
+            "bbox": [
+                452,
+                175,
+                467,
+                433
+            ],
+            "area": 202211,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20013,
+            "supercategory": "pill",
+            "name": "마도파정"
+        },
+        {
+            "id": 16687,
+            "supercategory": "pill",
+            "name": "오마코연질캡슐(오메가-3-산에틸에스테르90)"
+        }
+    ]
+}

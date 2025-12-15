@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2555,
+            "file_name": "K-003743-006192-012081-037777_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 6725,
+            "image_id": 2555,
+            "category_id": 6191,
+            "bbox": [
+                167,
+                203,
+                201,
+                461
+            ],
+            "area": 92661,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6726,
+            "image_id": 2555,
+            "category_id": 3742,
+            "bbox": [
+                132,
+                811,
+                300,
+                302
+            ],
+            "area": 90600,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6727,
+            "image_id": 2555,
+            "category_id": 12080,
+            "bbox": [
+                628,
+                743,
+                202,
+                418
+            ],
+            "area": 84436,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3741,
+            "file_name": "K-005002-005094-012778-013395_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10033,
+            "image_id": 3741,
+            "category_id": 12777,
+            "bbox": [
+                133,
+                148,
+                219,
+                455
+            ],
+            "area": 99645,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10034,
+            "image_id": 3741,
+            "category_id": 5093,
+            "bbox": [
+                160,
+                849,
+                250,
+                253
+            ],
+            "area": 63250,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10035,
+            "image_id": 3741,
+            "category_id": 13394,
+            "bbox": [
+                659,
+                700,
+                200,
+                452
+            ],
+            "area": 90400,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

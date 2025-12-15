@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4577,
+            "file_name": "K-010221-016548-021771-029451_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12656,
+            "image_id": 4577,
+            "category_id": 10220,
+            "bbox": [
+                109,
+                243,
+                195,
+                200
+            ],
+            "area": 39000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12657,
+            "image_id": 4577,
+            "category_id": 16547,
+            "bbox": [
+                555,
+                155,
+                206,
+                210
+            ],
+            "area": 43260,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12658,
+            "image_id": 4577,
+            "category_id": 21770,
+            "bbox": [
+                158,
+                806,
+                174,
+                177
+            ],
+            "area": 30798,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12659,
+            "image_id": 4577,
+            "category_id": 29450,
+            "bbox": [
+                571,
+                699,
+                197,
+                387
+            ],
+            "area": 76239,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

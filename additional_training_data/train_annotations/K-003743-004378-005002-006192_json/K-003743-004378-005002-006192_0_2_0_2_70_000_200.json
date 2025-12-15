@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2356,
+            "file_name": "K-003743-004378-005002-006192_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 6128,
+            "image_id": 2356,
+            "category_id": 4377,
+            "bbox": [
+                153,
+                139,
+                183,
+                389
+            ],
+            "area": 71187,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6129,
+            "image_id": 2356,
+            "category_id": 3742,
+            "bbox": [
+                497,
+                163,
+                286,
+                281
+            ],
+            "area": 80366,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6130,
+            "image_id": 2356,
+            "category_id": 6191,
+            "bbox": [
+                609,
+                633,
+                207,
+                480
+            ],
+            "area": 99360,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        }
+    ]
+}

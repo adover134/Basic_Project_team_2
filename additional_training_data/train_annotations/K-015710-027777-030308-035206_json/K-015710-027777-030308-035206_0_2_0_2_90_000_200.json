@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7200,
+            "file_name": "K-015710-027777-030308-035206_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20878,
+            "image_id": 7200,
+            "category_id": 30307,
+            "bbox": [
+                101,
+                154,
+                328,
+                403
+            ],
+            "area": 132184,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20879,
+            "image_id": 7200,
+            "category_id": 35205,
+            "bbox": [
+                658,
+                146,
+                152,
+                380
+            ],
+            "area": 57760,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20880,
+            "image_id": 7200,
+            "category_id": 27776,
+            "bbox": [
+                187,
+                818,
+                154,
+                192
+            ],
+            "area": 29568,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        }
+    ]
+}

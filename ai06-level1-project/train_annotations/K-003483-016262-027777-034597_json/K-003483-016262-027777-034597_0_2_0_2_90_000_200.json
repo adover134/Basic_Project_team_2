@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 424,
+            "file_name": "K-003483-016262-027777-034597_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1536,
+            "image_id": 424,
+            "category_id": 34596,
+            "bbox": [
+                86,
+                132,
+                352,
+                426
+            ],
+            "area": 149952,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1537,
+            "image_id": 424,
+            "category_id": 16261,
+            "bbox": [
+                616,
+                202,
+                212,
+                212
+            ],
+            "area": 44944,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1538,
+            "image_id": 424,
+            "category_id": 27776,
+            "bbox": [
+                185,
+                820,
+                156,
+                193
+            ],
+            "area": 30108,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1539,
+            "image_id": 424,
+            "category_id": 3482,
+            "bbox": [
+                573,
+                819,
+                244,
+                206
+            ],
+            "area": 50264,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 1970,
+            "file_name": "K-003614-019861-029667-030308_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4970,
+            "image_id": 1970,
+            "category_id": 30307,
+            "bbox": [
+                54,
+                144,
+                373,
+                342
+            ],
+            "area": 127566,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4971,
+            "image_id": 1970,
+            "category_id": 29666,
+            "bbox": [
+                604,
+                204,
+                196,
+                201
+            ],
+            "area": 39396,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4972,
+            "image_id": 1970,
+            "category_id": 19860,
+            "bbox": [
+                94,
+                833,
+                207,
+                162
+            ],
+            "area": 33534,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

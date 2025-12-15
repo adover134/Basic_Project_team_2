@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7761,
+            "file_name": "K-016232-027777-031885-038723_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22220,
+            "image_id": 7761,
+            "category_id": 31884,
+            "bbox": [
+                92,
+                71,
+                315,
+                500
+            ],
+            "area": 157500,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22221,
+            "image_id": 7761,
+            "category_id": 16231,
+            "bbox": [
+                661,
+                204,
+                170,
+                169
+            ],
+            "area": 28730,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22222,
+            "image_id": 7761,
+            "category_id": 27776,
+            "bbox": [
+                162,
+                829,
+                151,
+                189
+            ],
+            "area": 28539,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        }
+    ]
+}

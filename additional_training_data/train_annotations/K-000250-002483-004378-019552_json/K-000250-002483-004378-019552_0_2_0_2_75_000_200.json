@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 98,
+            "file_name": "K-000250-002483-004378-019552_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 127,
+            "image_id": 98,
+            "category_id": 19551,
+            "bbox": [
+                160,
+                194,
+                240,
+                425
+            ],
+            "area": 102000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 128,
+            "image_id": 98,
+            "category_id": 2482,
+            "bbox": [
+                614,
+                133,
+                172,
+                417
+            ],
+            "area": 71724,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 129,
+            "image_id": 98,
+            "category_id": 4377,
+            "bbox": [
+                612,
+                730,
+                200,
+                419
+            ],
+            "area": 83800,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        }
+    ]
+}

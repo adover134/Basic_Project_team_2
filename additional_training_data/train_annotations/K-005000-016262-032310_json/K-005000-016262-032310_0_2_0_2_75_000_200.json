@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3503,
+            "file_name": "K-005000-016262-032310_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9522,
+            "image_id": 3503,
+            "category_id": 16261,
+            "bbox": [
+                40,
+                784,
+                221,
+                226
+            ],
+            "area": 49946,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9523,
+            "image_id": 3503,
+            "category_id": 32309,
+            "bbox": [
+                528,
+                743,
+                354,
+                239
+            ],
+            "area": 84606,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 32309,
+            "supercategory": "pill",
+            "name": "글리아타민연질캡슐"
+        }
+    ]
+}

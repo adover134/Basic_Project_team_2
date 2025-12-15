@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 162,
+            "file_name": "K-002483-005886-019552-025438_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 645,
+            "image_id": 162,
+            "category_id": 19551,
+            "bbox": [
+                168,
+                87,
+                237,
+                441
+            ],
+            "area": 104517,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 646,
+            "image_id": 162,
+            "category_id": 2482,
+            "bbox": [
+                682,
+                88,
+                162,
+                443
+            ],
+            "area": 71766,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 647,
+            "image_id": 162,
+            "category_id": 25437,
+            "bbox": [
+                142,
+                846,
+                238,
+                239
+            ],
+            "area": 56882,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 648,
+            "image_id": 162,
+            "category_id": 5885,
+            "bbox": [
+                612,
+                707,
+                203,
+                448
+            ],
+            "area": 90944,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        }
+    ]
+}

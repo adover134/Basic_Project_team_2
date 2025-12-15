@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5201,
+            "file_name": "K-011220-019861-028763-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14899,
+            "image_id": 5201,
+            "category_id": 28762,
+            "bbox": [
+                121,
+                185,
+                182,
+                184
+            ],
+            "area": 33488,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14900,
+            "image_id": 5201,
+            "category_id": 35205,
+            "bbox": [
+                575,
+                139,
+                202,
+                365
+            ],
+            "area": 73730,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14901,
+            "image_id": 5201,
+            "category_id": 19860,
+            "bbox": [
+                99,
+                833,
+                207,
+                162
+            ],
+            "area": 33534,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

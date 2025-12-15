@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 460,
+            "file_name": "K-000250-012778-022362-037777_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 919,
+            "image_id": 460,
+            "category_id": 22361,
+            "bbox": [
+                105,
+                106,
+                214,
+                352
+            ],
+            "area": 75328,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 920,
+            "image_id": 460,
+            "category_id": 12777,
+            "bbox": [
+                574,
+                686,
+                281,
+                450
+            ],
+            "area": 126450,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

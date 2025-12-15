@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 646,
+            "file_name": "K-000573-002483-005094-006192_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1230,
+            "image_id": 646,
+            "category_id": 6191,
+            "bbox": [
+                150,
+                152,
+                223,
+                438
+            ],
+            "area": 97674,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1231,
+            "image_id": 646,
+            "category_id": 5093,
+            "bbox": [
+                544,
+                197,
+                244,
+                245
+            ],
+            "area": 59780,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1232,
+            "image_id": 646,
+            "category_id": 2482,
+            "bbox": [
+                81,
+                718,
+                378,
+                346
+            ],
+            "area": 130788,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        }
+    ]
+}

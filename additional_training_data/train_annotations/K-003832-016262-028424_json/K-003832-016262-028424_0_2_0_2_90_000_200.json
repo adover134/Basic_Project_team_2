@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 2874,
+            "file_name": "K-003832-016262-028424_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7538,
+            "image_id": 2874,
+            "category_id": 3831,
+            "bbox": [
+                381,
+                131,
+                204,
+                417
+            ],
+            "area": 85068,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7539,
+            "image_id": 2874,
+            "category_id": 16261,
+            "bbox": [
+                58,
+                835,
+                217,
+                218
+            ],
+            "area": 47306,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2284,
+            "file_name": "K-003614-027733-028763-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5912,
+            "image_id": 2284,
+            "category_id": 27732,
+            "bbox": [
+                590,
+                235,
+                282,
+                240
+            ],
+            "area": 67680,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5913,
+            "image_id": 2284,
+            "category_id": 35205,
+            "bbox": [
+                133,
+                754,
+                209,
+                385
+            ],
+            "area": 80465,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5914,
+            "image_id": 2284,
+            "category_id": 28762,
+            "bbox": [
+                647,
+                868,
+                191,
+                192
+            ],
+            "area": 36672,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3765,
+            "file_name": "K-005002-005886-006192-025438_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10105,
+            "image_id": 3765,
+            "category_id": 6191,
+            "bbox": [
+                106,
+                96,
+                265,
+                455
+            ],
+            "area": 120575,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10106,
+            "image_id": 3765,
+            "category_id": 25437,
+            "bbox": [
+                144,
+                845,
+                237,
+                239
+            ],
+            "area": 56643,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10107,
+            "image_id": 3765,
+            "category_id": 5885,
+            "bbox": [
+                615,
+                705,
+                200,
+                449
+            ],
+            "area": 89800,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4867,
+            "file_name": "K-010224-016548-029871-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13816,
+            "image_id": 4867,
+            "category_id": 33008,
+            "bbox": [
+                161,
+                234,
+                182,
+                322
+            ],
+            "area": 58604,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13817,
+            "image_id": 4867,
+            "category_id": 29870,
+            "bbox": [
+                642,
+                272,
+                185,
+                193
+            ],
+            "area": 35705,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13818,
+            "image_id": 4867,
+            "category_id": 16547,
+            "bbox": [
+                158,
+                848,
+                215,
+                221
+            ],
+            "area": 47515,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13819,
+            "image_id": 4867,
+            "category_id": 10223,
+            "bbox": [
+                564,
+                816,
+                371,
+                247
+            ],
+            "area": 91637,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        }
+    ]
+}

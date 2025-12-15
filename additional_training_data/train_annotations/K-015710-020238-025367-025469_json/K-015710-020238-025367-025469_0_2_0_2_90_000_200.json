@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6891,
+            "file_name": "K-015710-020238-025367-025469_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19951,
+            "image_id": 6891,
+            "category_id": 25366,
+            "bbox": [
+                68,
+                151,
+                340,
+                428
+            ],
+            "area": 145520,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19952,
+            "image_id": 6891,
+            "category_id": 20237,
+            "bbox": [
+                621,
+                177,
+                200,
+                199
+            ],
+            "area": 39800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19953,
+            "image_id": 6891,
+            "category_id": 25468,
+            "bbox": [
+                88,
+                861,
+                333,
+                228
+            ],
+            "area": 75924,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        }
+    ]
+}

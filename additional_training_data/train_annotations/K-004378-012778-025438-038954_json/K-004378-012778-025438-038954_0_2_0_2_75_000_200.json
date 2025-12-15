@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3107,
+            "file_name": "K-004378-012778-025438-038954_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8113,
+            "image_id": 3107,
+            "category_id": 12777,
+            "bbox": [
+                115,
+                187,
+                235,
+                439
+            ],
+            "area": 103165,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8114,
+            "image_id": 3107,
+            "category_id": 25437,
+            "bbox": [
+                129,
+                862,
+                242,
+                247
+            ],
+            "area": 59774,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8115,
+            "image_id": 3107,
+            "category_id": 4377,
+            "bbox": [
+                687,
+                737,
+                173,
+                420
+            ],
+            "area": 72660,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        }
+    ]
+}

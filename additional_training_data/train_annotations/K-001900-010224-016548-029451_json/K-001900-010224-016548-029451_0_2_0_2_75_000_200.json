@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1490,
+            "file_name": "K-001900-010224-016548-029451_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3302,
+            "image_id": 1490,
+            "category_id": 1899,
+            "bbox": [
+                146,
+                225,
+                182,
+                138
+            ],
+            "area": 25116,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3303,
+            "image_id": 1490,
+            "category_id": 10223,
+            "bbox": [
+                576,
+                142,
+                245,
+                350
+            ],
+            "area": 85750,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3304,
+            "image_id": 1490,
+            "category_id": 16547,
+            "bbox": [
+                124,
+                801,
+                215,
+                219
+            ],
+            "area": 47085,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3305,
+            "image_id": 1490,
+            "category_id": 29450,
+            "bbox": [
+                537,
+                816,
+                386,
+                209
+            ],
+            "area": 80674,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

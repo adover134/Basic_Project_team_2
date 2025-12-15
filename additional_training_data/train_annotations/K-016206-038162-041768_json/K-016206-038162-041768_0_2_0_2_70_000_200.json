@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7450,
+            "file_name": "K-016206-038162-041768_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21388,
+            "image_id": 7450,
+            "category_id": 41767,
+            "bbox": [
+                74,
+                291,
+                316,
+                159
+            ],
+            "area": 50244,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21389,
+            "image_id": 7450,
+            "category_id": 38161,
+            "bbox": [
+                601,
+                289,
+                157,
+                274
+            ],
+            "area": 43018,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        },
+        {
+            "id": 38161,
+            "supercategory": "pill",
+            "name": "로수바미브정 10/20mg"
+        }
+    ]
+}

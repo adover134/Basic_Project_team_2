@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6973,
+            "file_name": "K-015710-020877-028763-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20197,
+            "image_id": 6973,
+            "category_id": 20876,
+            "bbox": [
+                606,
+                224,
+                289,
+                227
+            ],
+            "area": 65603,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20198,
+            "image_id": 6973,
+            "category_id": 36636,
+            "bbox": [
+                172,
+                822,
+                144,
+                251
+            ],
+            "area": 36144,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20199,
+            "image_id": 6973,
+            "category_id": 28762,
+            "bbox": [
+                660,
+                897,
+                193,
+                194
+            ],
+            "area": 37442,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

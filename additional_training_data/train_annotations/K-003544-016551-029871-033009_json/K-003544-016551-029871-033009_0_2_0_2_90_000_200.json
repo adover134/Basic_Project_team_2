@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1707,
+            "file_name": "K-003544-016551-029871-033009_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4170,
+            "image_id": 1707,
+            "category_id": 3543,
+            "bbox": [
+                183,
+                218,
+                189,
+                189
+            ],
+            "area": 35721,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4171,
+            "image_id": 1707,
+            "category_id": 16550,
+            "bbox": [
+                634,
+                76,
+                240,
+                447
+            ],
+            "area": 107280,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4172,
+            "image_id": 1707,
+            "category_id": 29870,
+            "bbox": [
+                162,
+                837,
+                154,
+                225
+            ],
+            "area": 34650,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4173,
+            "image_id": 1707,
+            "category_id": 33008,
+            "bbox": [
+                593,
+                797,
+                323,
+                226
+            ],
+            "area": 72998,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

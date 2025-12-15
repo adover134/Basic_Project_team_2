@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1389,
+            "file_name": "K-001900-003544-016551-029451_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2898,
+            "image_id": 1389,
+            "category_id": 1899,
+            "bbox": [
+                174,
+                254,
+                165,
+                170
+            ],
+            "area": 28050,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2899,
+            "image_id": 1389,
+            "category_id": 3543,
+            "bbox": [
+                667,
+                207,
+                189,
+                188
+            ],
+            "area": 35532,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2900,
+            "image_id": 1389,
+            "category_id": 16550,
+            "bbox": [
+                65,
+                743,
+                251,
+                443
+            ],
+            "area": 111193,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2901,
+            "image_id": 1389,
+            "category_id": 29450,
+            "bbox": [
+                512,
+                837,
+                360,
+                243
+            ],
+            "area": 87480,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

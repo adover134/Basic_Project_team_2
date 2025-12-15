@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7849,
+            "file_name": "K-016235-016262-025469-030308_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22460,
+            "image_id": 7849,
+            "category_id": 25468,
+            "bbox": [
+                623,
+                258,
+                335,
+                180
+            ],
+            "area": 60300,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22461,
+            "image_id": 7849,
+            "category_id": 16261,
+            "bbox": [
+                192,
+                844,
+                217,
+                222
+            ],
+            "area": 48174,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22462,
+            "image_id": 7849,
+            "category_id": 30307,
+            "bbox": [
+                582,
+                785,
+                384,
+                375
+            ],
+            "area": 144000,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        }
+    ]
+}

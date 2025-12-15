@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4237,
+            "file_name": "K-006563-010224-012247-016551_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11296,
+            "image_id": 4237,
+            "category_id": 12246,
+            "bbox": [
+                197,
+                306,
+                184,
+                111
+            ],
+            "area": 20424,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11297,
+            "image_id": 4237,
+            "category_id": 6562,
+            "bbox": [
+                615,
+                255,
+                175,
+                311
+            ],
+            "area": 54425,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11298,
+            "image_id": 4237,
+            "category_id": 16550,
+            "bbox": [
+                85,
+                767,
+                298,
+                442
+            ],
+            "area": 131716,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11299,
+            "image_id": 4237,
+            "category_id": 10223,
+            "bbox": [
+                661,
+                751,
+                198,
+                387
+            ],
+            "area": 76626,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        }
+    ]
+}

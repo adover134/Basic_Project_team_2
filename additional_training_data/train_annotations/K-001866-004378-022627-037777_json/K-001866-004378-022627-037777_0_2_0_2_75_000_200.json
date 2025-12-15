@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 1034,
+            "file_name": "K-001866-004378-022627-037777_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2107,
+            "image_id": 1034,
+            "category_id": 22626,
+            "bbox": [
+                168,
+                154,
+                221,
+                421
+            ],
+            "area": 93041,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2108,
+            "image_id": 1034,
+            "category_id": 4377,
+            "bbox": [
+                641,
+                753,
+                186,
+                420
+            ],
+            "area": 78120,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        },
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        }
+    ]
+}

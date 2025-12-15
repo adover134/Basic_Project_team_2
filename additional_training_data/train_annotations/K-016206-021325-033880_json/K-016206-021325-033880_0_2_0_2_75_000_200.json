@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7388,
+            "file_name": "K-016206-021325-033880_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21264,
+            "image_id": 7388,
+            "category_id": 33879,
+            "bbox": [
+                119,
+                579,
+                281,
+                405
+            ],
+            "area": 113805,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21265,
+            "image_id": 7388,
+            "category_id": 21324,
+            "bbox": [
+                620,
+                737,
+                183,
+                201
+            ],
+            "area": 36783,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33879,
+            "supercategory": "pill",
+            "name": "글리틴정(콜린알포세레이트)"
+        },
+        {
+            "id": 21324,
+            "supercategory": "pill",
+            "name": "아토르바정 10mg"
+        }
+    ]
+}

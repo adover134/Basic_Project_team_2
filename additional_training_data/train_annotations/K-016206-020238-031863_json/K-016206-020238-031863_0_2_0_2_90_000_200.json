@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7371,
+            "file_name": "K-016206-020238-031863_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21230,
+            "image_id": 7371,
+            "category_id": 20237,
+            "bbox": [
+                168,
+                813,
+                206,
+                207
+            ],
+            "area": 42642,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21231,
+            "image_id": 7371,
+            "category_id": 31862,
+            "bbox": [
+                620,
+                842,
+                192,
+                192
+            ],
+            "area": 36864,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 31862,
+            "supercategory": "pill",
+            "name": "아질렉트정(라사길린메실산염)"
+        }
+    ]
+}

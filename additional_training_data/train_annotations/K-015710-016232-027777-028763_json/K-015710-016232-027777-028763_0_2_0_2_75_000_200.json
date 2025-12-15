@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6674,
+            "file_name": "K-015710-016232-027777-028763_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19300,
+            "image_id": 6674,
+            "category_id": 28762,
+            "bbox": [
+                136,
+                214,
+                183,
+                183
+            ],
+            "area": 33489,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19301,
+            "image_id": 6674,
+            "category_id": 16231,
+            "bbox": [
+                613,
+                188,
+                163,
+                170
+            ],
+            "area": 27710,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19302,
+            "image_id": 6674,
+            "category_id": 27776,
+            "bbox": [
+                158,
+                780,
+                158,
+                195
+            ],
+            "area": 30810,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        }
+    ]
+}

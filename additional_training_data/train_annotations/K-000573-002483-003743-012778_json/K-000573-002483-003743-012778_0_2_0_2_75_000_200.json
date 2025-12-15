@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 635,
+            "file_name": "K-000573-002483-003743-012778_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1197,
+            "image_id": 635,
+            "category_id": 12777,
+            "bbox": [
+                120,
+                214,
+                347,
+                381
+            ],
+            "area": 132207,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1198,
+            "image_id": 635,
+            "category_id": 2482,
+            "bbox": [
+                620,
+                142,
+                183,
+                417
+            ],
+            "area": 76311,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1199,
+            "image_id": 635,
+            "category_id": 3742,
+            "bbox": [
+                144,
+                805,
+                300,
+                302
+            ],
+            "area": 90600,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        }
+    ]
+}

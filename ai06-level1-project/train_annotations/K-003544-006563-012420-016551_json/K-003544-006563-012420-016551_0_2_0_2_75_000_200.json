@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 626,
+            "file_name": "K-003544-006563-012420-016551_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2344,
+            "image_id": 626,
+            "category_id": 3543,
+            "bbox": [
+                102,
+                234,
+                185,
+                188
+            ],
+            "area": 34780,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2345,
+            "image_id": 626,
+            "category_id": 16550,
+            "bbox": [
+                582,
+                63,
+                235,
+                436
+            ],
+            "area": 102460,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2346,
+            "image_id": 626,
+            "category_id": 6562,
+            "bbox": [
+                176,
+                689,
+                182,
+                339
+            ],
+            "area": 61698,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2347,
+            "image_id": 626,
+            "category_id": 12419,
+            "bbox": [
+                635,
+                821,
+                169,
+                172
+            ],
+            "area": 29068,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

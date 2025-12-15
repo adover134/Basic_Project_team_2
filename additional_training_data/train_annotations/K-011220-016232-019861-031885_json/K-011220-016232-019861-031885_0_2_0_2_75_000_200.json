@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 4961,
+            "file_name": "K-011220-016232-019861-031885_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14179,
+            "image_id": 4961,
+            "category_id": 31884,
+            "bbox": [
+                104,
+                74,
+                262,
+                501
+            ],
+            "area": 131262,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14180,
+            "image_id": 4961,
+            "category_id": 16231,
+            "bbox": [
+                594,
+                221,
+                167,
+                171
+            ],
+            "area": 28557,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14181,
+            "image_id": 4961,
+            "category_id": 19860,
+            "bbox": [
+                92,
+                833,
+                207,
+                162
+            ],
+            "area": 33534,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

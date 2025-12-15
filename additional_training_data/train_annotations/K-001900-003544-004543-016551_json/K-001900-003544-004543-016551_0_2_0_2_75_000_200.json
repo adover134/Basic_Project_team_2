@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1352,
+            "file_name": "K-001900-003544-004543-016551_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2750,
+            "image_id": 1352,
+            "category_id": 1899,
+            "bbox": [
+                130,
+                255,
+                139,
+                181
+            ],
+            "area": 25159,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2751,
+            "image_id": 1352,
+            "category_id": 3543,
+            "bbox": [
+                652,
+                197,
+                185,
+                187
+            ],
+            "area": 34595,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2752,
+            "image_id": 1352,
+            "category_id": 4542,
+            "bbox": [
+                118,
+                780,
+                188,
+                191
+            ],
+            "area": 35908,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2753,
+            "image_id": 1352,
+            "category_id": 16550,
+            "bbox": [
+                610,
+                626,
+                254,
+                454
+            ],
+            "area": 115316,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        }
+    ]
+}

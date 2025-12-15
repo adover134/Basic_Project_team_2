@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1603,
+            "file_name": "K-003544-016548-027926-033878_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3754,
+            "image_id": 1603,
+            "category_id": 33877,
+            "bbox": [
+                195,
+                297,
+                166,
+                167
+            ],
+            "area": 27722,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3755,
+            "image_id": 1603,
+            "category_id": 27925,
+            "bbox": [
+                662,
+                190,
+                224,
+                418
+            ],
+            "area": 93632,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3756,
+            "image_id": 1603,
+            "category_id": 16547,
+            "bbox": [
+                157,
+                859,
+                218,
+                222
+            ],
+            "area": 48396,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3757,
+            "image_id": 1603,
+            "category_id": 3543,
+            "bbox": [
+                673,
+                880,
+                194,
+                197
+            ],
+            "area": 38218,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        }
+    ]
+}

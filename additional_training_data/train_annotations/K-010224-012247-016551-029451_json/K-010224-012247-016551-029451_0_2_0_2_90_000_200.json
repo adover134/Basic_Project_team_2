@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4761,
+            "file_name": "K-010224-012247-016551-029451_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13392,
+            "image_id": 4761,
+            "category_id": 10223,
+            "bbox": [
+                130,
+                148,
+                222,
+                364
+            ],
+            "area": 80808,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13393,
+            "image_id": 4761,
+            "category_id": 12246,
+            "bbox": [
+                678,
+                228,
+                180,
+                156
+            ],
+            "area": 28080,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13394,
+            "image_id": 4761,
+            "category_id": 16550,
+            "bbox": [
+                98,
+                690,
+                236,
+                449
+            ],
+            "area": 105964,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13395,
+            "image_id": 4761,
+            "category_id": 29450,
+            "bbox": [
+                604,
+                734,
+                283,
+                336
+            ],
+            "area": 95088,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

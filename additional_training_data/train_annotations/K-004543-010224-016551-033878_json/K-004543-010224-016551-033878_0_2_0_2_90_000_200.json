@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3225,
+            "file_name": "K-004543-010224-016551-033878_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8544,
+            "image_id": 3225,
+            "category_id": 4542,
+            "bbox": [
+                158,
+                168,
+                186,
+                186
+            ],
+            "area": 34596,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8545,
+            "image_id": 3225,
+            "category_id": 10223,
+            "bbox": [
+                650,
+                66,
+                202,
+                371
+            ],
+            "area": 74942,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8546,
+            "image_id": 3225,
+            "category_id": 16550,
+            "bbox": [
+                57,
+                646,
+                310,
+                417
+            ],
+            "area": 129270,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8547,
+            "image_id": 3225,
+            "category_id": 33877,
+            "bbox": [
+                657,
+                840,
+                124,
+                197
+            ],
+            "area": 24428,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        }
+    ]
+}

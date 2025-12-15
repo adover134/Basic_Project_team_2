@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 368,
+            "file_name": "K-003483-016232-025469-028763_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1312,
+            "image_id": 368,
+            "category_id": 3482,
+            "bbox": [
+                138,
+                282,
+                249,
+                171
+            ],
+            "area": 42579,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1313,
+            "image_id": 368,
+            "category_id": 25468,
+            "bbox": [
+                593,
+                241,
+                333,
+                196
+            ],
+            "area": 65268,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1314,
+            "image_id": 368,
+            "category_id": 16231,
+            "bbox": [
+                174,
+                862,
+                174,
+                177
+            ],
+            "area": 30798,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1315,
+            "image_id": 368,
+            "category_id": 28762,
+            "bbox": [
+                655,
+                844,
+                191,
+                192
+            ],
+            "area": 36672,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

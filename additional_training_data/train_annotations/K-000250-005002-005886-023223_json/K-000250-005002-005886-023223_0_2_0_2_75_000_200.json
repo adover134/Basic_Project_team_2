@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 254,
+            "file_name": "K-000250-005002-005886-023223_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 507,
+            "image_id": 254,
+            "category_id": 23222,
+            "bbox": [
+                93,
+                136,
+                337,
+                385
+            ],
+            "area": 129745,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 508,
+            "image_id": 254,
+            "category_id": 5885,
+            "bbox": [
+                605,
+                701,
+                220,
+                456
+            ],
+            "area": 100320,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        }
+    ]
+}

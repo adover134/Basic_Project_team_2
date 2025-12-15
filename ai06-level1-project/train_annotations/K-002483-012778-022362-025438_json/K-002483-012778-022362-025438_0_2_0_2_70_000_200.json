@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 176,
+            "file_name": "K-002483-012778-022362-025438_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 701,
+            "image_id": 176,
+            "category_id": 22361,
+            "bbox": [
+                123,
+                134,
+                211,
+                353
+            ],
+            "area": 74483,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 702,
+            "image_id": 176,
+            "category_id": 25437,
+            "bbox": [
+                544,
+                184,
+                230,
+                232
+            ],
+            "area": 53360,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 703,
+            "image_id": 176,
+            "category_id": 2482,
+            "bbox": [
+                95,
+                678,
+                218,
+                435
+            ],
+            "area": 94830,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 704,
+            "image_id": 176,
+            "category_id": 12777,
+            "bbox": [
+                584,
+                669,
+                208,
+                470
+            ],
+            "area": 97760,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2017,
+            "file_name": "K-003614-020238-022347-027653_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5111,
+            "image_id": 2017,
+            "category_id": 27652,
+            "bbox": [
+                696,
+                265,
+                182,
+                177
+            ],
+            "area": 32214,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5112,
+            "image_id": 2017,
+            "category_id": 20237,
+            "bbox": [
+                173,
+                862,
+                206,
+                208
+            ],
+            "area": 42848,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5113,
+            "image_id": 2017,
+            "category_id": 22346,
+            "bbox": [
+                620,
+                863,
+                190,
+                191
+            ],
+            "area": 36290,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        }
+    ]
+}

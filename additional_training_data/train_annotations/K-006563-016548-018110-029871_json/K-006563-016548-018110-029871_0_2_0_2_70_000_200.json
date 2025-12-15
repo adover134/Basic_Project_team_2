@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4348,
+            "file_name": "K-006563-016548-018110-029871_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11740,
+            "image_id": 4348,
+            "category_id": 29870,
+            "bbox": [
+                213,
+                248,
+                145,
+                220
+            ],
+            "area": 31900,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11741,
+            "image_id": 4348,
+            "category_id": 6562,
+            "bbox": [
+                609,
+                251,
+                175,
+                312
+            ],
+            "area": 54600,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11742,
+            "image_id": 4348,
+            "category_id": 16547,
+            "bbox": [
+                106,
+                914,
+                217,
+                224
+            ],
+            "area": 48608,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11743,
+            "image_id": 4348,
+            "category_id": 18109,
+            "bbox": [
+                642,
+                832,
+                276,
+                283
+            ],
+            "area": 78108,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        }
+    ]
+}

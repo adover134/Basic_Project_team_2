@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 574,
+            "file_name": "K-003483-027733-028763-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2136,
+            "image_id": 574,
+            "category_id": 3482,
+            "bbox": [
+                138,
+                314,
+                245,
+                187
+            ],
+            "area": 45815,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2137,
+            "image_id": 574,
+            "category_id": 27732,
+            "bbox": [
+                580,
+                265,
+                272,
+                254
+            ],
+            "area": 69088,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2138,
+            "image_id": 574,
+            "category_id": 35205,
+            "bbox": [
+                145,
+                745,
+                227,
+                379
+            ],
+            "area": 86033,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2139,
+            "image_id": 574,
+            "category_id": 28762,
+            "bbox": [
+                647,
+                856,
+                192,
+                194
+            ],
+            "area": 37248,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

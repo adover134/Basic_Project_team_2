@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5945,
+            "file_name": "K-012420-016548-029451-044199_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17438,
+            "image_id": 5945,
+            "category_id": 12419,
+            "bbox": [
+                90,
+                227,
+                163,
+                164
+            ],
+            "area": 26732,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17439,
+            "image_id": 5945,
+            "category_id": 16547,
+            "bbox": [
+                584,
+                220,
+                205,
+                210
+            ],
+            "area": 43050,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17440,
+            "image_id": 5945,
+            "category_id": 29450,
+            "bbox": [
+                122,
+                693,
+                216,
+                379
+            ],
+            "area": 81864,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17441,
+            "image_id": 5945,
+            "category_id": 44198,
+            "bbox": [
+                621,
+                832,
+                247,
+                198
+            ],
+            "area": 48906,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 944,
+            "file_name": "K-001866-002483-012081-019552_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1895,
+            "image_id": 944,
+            "category_id": 19551,
+            "bbox": [
+                145,
+                134,
+                233,
+                423
+            ],
+            "area": 98559,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1896,
+            "image_id": 944,
+            "category_id": 2482,
+            "bbox": [
+                646,
+                162,
+                181,
+                416
+            ],
+            "area": 75296,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1897,
+            "image_id": 944,
+            "category_id": 12080,
+            "bbox": [
+                660,
+                745,
+                199,
+                418
+            ],
+            "area": 83182,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

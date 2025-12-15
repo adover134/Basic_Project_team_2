@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6456,
+            "file_name": "K-015280-019232-021325_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18767,
+            "image_id": 6456,
+            "category_id": 19231,
+            "bbox": [
+                155,
+                814,
+                312,
+                251
+            ],
+            "area": 78312,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18768,
+            "image_id": 6456,
+            "category_id": 21324,
+            "bbox": [
+                634,
+                792,
+                150,
+                217
+            ],
+            "area": 32550,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        },
+        {
+            "id": 21324,
+            "supercategory": "pill",
+            "name": "아토르바정 10mg"
+        }
+    ]
+}

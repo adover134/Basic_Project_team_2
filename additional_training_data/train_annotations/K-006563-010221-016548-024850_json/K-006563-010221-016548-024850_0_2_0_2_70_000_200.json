@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4207,
+            "file_name": "K-006563-010221-016548-024850_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11176,
+            "image_id": 4207,
+            "category_id": 10220,
+            "bbox": [
+                166,
+                269,
+                195,
+                197
+            ],
+            "area": 38415,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11177,
+            "image_id": 4207,
+            "category_id": 6562,
+            "bbox": [
+                610,
+                250,
+                174,
+                311
+            ],
+            "area": 54114,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11178,
+            "image_id": 4207,
+            "category_id": 16547,
+            "bbox": [
+                111,
+                821,
+                216,
+                221
+            ],
+            "area": 47736,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11179,
+            "image_id": 4207,
+            "category_id": 24849,
+            "bbox": [
+                627,
+                859,
+                250,
+                200
+            ],
+            "area": 50000,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        }
+    ]
+}

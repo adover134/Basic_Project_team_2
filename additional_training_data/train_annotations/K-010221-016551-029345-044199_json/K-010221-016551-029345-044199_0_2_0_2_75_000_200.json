@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4712,
+            "file_name": "K-010221-016551-029345-044199_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13196,
+            "image_id": 4712,
+            "category_id": 10220,
+            "bbox": [
+                142,
+                238,
+                195,
+                201
+            ],
+            "area": 39195,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13197,
+            "image_id": 4712,
+            "category_id": 16550,
+            "bbox": [
+                588,
+                131,
+                231,
+                441
+            ],
+            "area": 101871,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13198,
+            "image_id": 4712,
+            "category_id": 29344,
+            "bbox": [
+                81,
+                706,
+                223,
+                420
+            ],
+            "area": 93660,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13199,
+            "image_id": 4712,
+            "category_id": 44198,
+            "bbox": [
+                680,
+                781,
+                132,
+                269
+            ],
+            "area": 35508,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        }
+    ]
+}

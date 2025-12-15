@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 274,
+            "file_name": "K-003351-018357-038162_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1008,
+            "image_id": 274,
+            "category_id": 3350,
+            "bbox": [
+                396,
+                237,
+                167,
+                167
+            ],
+            "area": 27889,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1009,
+            "image_id": 274,
+            "category_id": 18356,
+            "bbox": [
+                133,
+                743,
+                223,
+                343
+            ],
+            "area": 76489,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1010,
+            "image_id": 274,
+            "category_id": 38161,
+            "bbox": [
+                626,
+                785,
+                208,
+                251
+            ],
+            "area": 52208,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 18356,
+            "supercategory": "pill",
+            "name": "종근당글리아티린연질캡슐(콜린알포세레이트)"
+        },
+        {
+            "id": 38161,
+            "supercategory": "pill",
+            "name": "로수바미브정 10/20mg"
+        }
+    ]
+}

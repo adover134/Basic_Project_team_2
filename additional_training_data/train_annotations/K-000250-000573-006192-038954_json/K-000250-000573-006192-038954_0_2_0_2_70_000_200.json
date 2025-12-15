@@ -1,0 +1,33 @@
+{
+    "images": [
+        {
+            "id": 37,
+            "file_name": "K-000250-000573-006192-038954_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 52,
+            "image_id": 37,
+            "category_id": 6191,
+            "bbox": [
+                449,
+                692,
+                407,
+                372
+            ],
+            "area": 151404,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        }
+    ]
+}

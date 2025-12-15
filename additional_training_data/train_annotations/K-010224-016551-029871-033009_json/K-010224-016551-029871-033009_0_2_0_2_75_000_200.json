@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4940,
+            "file_name": "K-010224-016551-029871-033009_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14108,
+            "image_id": 4940,
+            "category_id": 10223,
+            "bbox": [
+                52,
+                193,
+                352,
+                236
+            ],
+            "area": 83072,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14109,
+            "image_id": 4940,
+            "category_id": 16550,
+            "bbox": [
+                606,
+                138,
+                261,
+                426
+            ],
+            "area": 111186,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14110,
+            "image_id": 4940,
+            "category_id": 29870,
+            "bbox": [
+                125,
+                807,
+                195,
+                200
+            ],
+            "area": 39000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14111,
+            "image_id": 4940,
+            "category_id": 33008,
+            "bbox": [
+                627,
+                697,
+                194,
+                344
+            ],
+            "area": 66736,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

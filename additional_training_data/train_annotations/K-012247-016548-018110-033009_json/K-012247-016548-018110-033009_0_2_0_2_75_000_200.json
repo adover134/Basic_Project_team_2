@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5654,
+            "file_name": "K-012247-016548-018110-033009_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16274,
+            "image_id": 5654,
+            "category_id": 12246,
+            "bbox": [
+                123,
+                264,
+                184,
+                115
+            ],
+            "area": 21160,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16275,
+            "image_id": 5654,
+            "category_id": 16547,
+            "bbox": [
+                598,
+                164,
+                208,
+                210
+            ],
+            "area": 43680,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16276,
+            "image_id": 5654,
+            "category_id": 18109,
+            "bbox": [
+                32,
+                798,
+                272,
+                278
+            ],
+            "area": 75616,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16277,
+            "image_id": 5654,
+            "category_id": 33008,
+            "bbox": [
+                518,
+                810,
+                356,
+                194
+            ],
+            "area": 69064,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2364,
+            "file_name": "K-003743-004378-005002-019552_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 6152,
+            "image_id": 2364,
+            "category_id": 19551,
+            "bbox": [
+                155,
+                103,
+                237,
+                441
+            ],
+            "area": 104517,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6153,
+            "image_id": 2364,
+            "category_id": 3742,
+            "bbox": [
+                142,
+                817,
+                295,
+                295
+            ],
+            "area": 87025,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6154,
+            "image_id": 2364,
+            "category_id": 4377,
+            "bbox": [
+                601,
+                728,
+                192,
+                410
+            ],
+            "area": 78720,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        }
+    ]
+}

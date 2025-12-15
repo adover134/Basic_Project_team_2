@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6629,
+            "file_name": "K-015710-016232-025367-027653_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19165,
+            "image_id": 6629,
+            "category_id": 25366,
+            "bbox": [
+                32,
+                181,
+                315,
+                428
+            ],
+            "area": 134820,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19166,
+            "image_id": 6629,
+            "category_id": 16231,
+            "bbox": [
+                600,
+                199,
+                164,
+                170
+            ],
+            "area": 27880,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19167,
+            "image_id": 6629,
+            "category_id": 27652,
+            "bbox": [
+                74,
+                823,
+                192,
+                191
+            ],
+            "area": 36672,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        }
+    ]
+}

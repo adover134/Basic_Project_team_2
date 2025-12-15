@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2112,
+            "file_name": "K-003614-020877-029667-030308_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5396,
+            "image_id": 2112,
+            "category_id": 30307,
+            "bbox": [
+                96,
+                151,
+                339,
+                393
+            ],
+            "area": 133227,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5397,
+            "image_id": 2112,
+            "category_id": 29666,
+            "bbox": [
+                626,
+                156,
+                199,
+                202
+            ],
+            "area": 40198,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5398,
+            "image_id": 2112,
+            "category_id": 20876,
+            "bbox": [
+                90,
+                850,
+                297,
+                235
+            ],
+            "area": 69795,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

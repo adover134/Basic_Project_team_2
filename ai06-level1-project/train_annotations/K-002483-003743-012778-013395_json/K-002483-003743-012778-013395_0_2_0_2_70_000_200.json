@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 120,
+            "file_name": "K-002483-003743-012778-013395_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 477,
+            "image_id": 120,
+            "category_id": 13394,
+            "bbox": [
+                97,
+                122,
+                188,
+                430
+            ],
+            "area": 80840,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 478,
+            "image_id": 120,
+            "category_id": 3742,
+            "bbox": [
+                499,
+                135,
+                285,
+                280
+            ],
+            "area": 79800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 479,
+            "image_id": 120,
+            "category_id": 2482,
+            "bbox": [
+                71,
+                674,
+                178,
+                444
+            ],
+            "area": 79032,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 480,
+            "image_id": 120,
+            "category_id": 12777,
+            "bbox": [
+                545,
+                644,
+                224,
+                462
+            ],
+            "area": 103488,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

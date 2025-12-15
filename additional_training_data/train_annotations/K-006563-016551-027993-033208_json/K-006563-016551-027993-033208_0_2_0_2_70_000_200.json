@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4468,
+            "file_name": "K-006563-016551-027993-033208_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12220,
+            "image_id": 4468,
+            "category_id": 27992,
+            "bbox": [
+                140,
+                262,
+                269,
+                215
+            ],
+            "area": 57835,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12221,
+            "image_id": 4468,
+            "category_id": 6562,
+            "bbox": [
+                605,
+                247,
+                175,
+                311
+            ],
+            "area": 54425,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12222,
+            "image_id": 4468,
+            "category_id": 16550,
+            "bbox": [
+                75,
+                749,
+                444,
+                283
+            ],
+            "area": 125652,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12223,
+            "image_id": 4468,
+            "category_id": 33207,
+            "bbox": [
+                722,
+                839,
+                188,
+                192
+            ],
+            "area": 36096,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}

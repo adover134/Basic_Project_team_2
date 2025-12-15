@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4939,
+            "file_name": "K-010224-016551-029871-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14104,
+            "image_id": 4939,
+            "category_id": 33008,
+            "bbox": [
+                161,
+                234,
+                183,
+                322
+            ],
+            "area": 58926,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14105,
+            "image_id": 4939,
+            "category_id": 29870,
+            "bbox": [
+                642,
+                273,
+                185,
+                192
+            ],
+            "area": 35520,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14106,
+            "image_id": 4939,
+            "category_id": 16550,
+            "bbox": [
+                76,
+                664,
+                280,
+                443
+            ],
+            "area": 124040,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14107,
+            "image_id": 4939,
+            "category_id": 10223,
+            "bbox": [
+                564,
+                816,
+                371,
+                247
+            ],
+            "area": 91637,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        }
+    ]
+}

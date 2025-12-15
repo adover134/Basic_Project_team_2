@@ -1,0 +1,33 @@
+{
+    "images": [
+        {
+            "id": 2740,
+            "file_name": "K-003832-005000-020238_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7271,
+            "image_id": 2740,
+            "category_id": 3831,
+            "bbox": [
+                306,
+                621,
+                282,
+                402
+            ],
+            "area": 113364,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        }
+    ]
+}

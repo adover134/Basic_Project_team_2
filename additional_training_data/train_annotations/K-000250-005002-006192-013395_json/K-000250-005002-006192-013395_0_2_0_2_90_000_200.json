@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 261,
+            "file_name": "K-000250-005002-006192-013395_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 521,
+            "image_id": 261,
+            "category_id": 6191,
+            "bbox": [
+                138,
+                118,
+                211,
+                473
+            ],
+            "area": 99803,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 522,
+            "image_id": 261,
+            "category_id": 13394,
+            "bbox": [
+                648,
+                701,
+                197,
+                452
+            ],
+            "area": 89044,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

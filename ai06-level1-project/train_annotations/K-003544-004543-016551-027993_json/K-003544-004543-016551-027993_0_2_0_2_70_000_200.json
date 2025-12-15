@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 619,
+            "file_name": "K-003544-004543-016551-027993_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2316,
+            "image_id": 619,
+            "category_id": 27992,
+            "bbox": [
+                165,
+                264,
+                296,
+                143
+            ],
+            "area": 42328,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2317,
+            "image_id": 619,
+            "category_id": 16550,
+            "bbox": [
+                641,
+                256,
+                261,
+                428
+            ],
+            "area": 111708,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2318,
+            "image_id": 619,
+            "category_id": 4542,
+            "bbox": [
+                155,
+                877,
+                191,
+                194
+            ],
+            "area": 37054,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2319,
+            "image_id": 619,
+            "category_id": 3543,
+            "bbox": [
+                633,
+                875,
+                194,
+                197
+            ],
+            "area": 38218,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        }
+    ]
+}

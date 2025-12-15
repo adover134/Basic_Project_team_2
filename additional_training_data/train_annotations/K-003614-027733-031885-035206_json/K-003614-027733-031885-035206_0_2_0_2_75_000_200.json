@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2306,
+            "file_name": "K-003614-027733-031885-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5978,
+            "image_id": 2306,
+            "category_id": 31884,
+            "bbox": [
+                76,
+                116,
+                303,
+                490
+            ],
+            "area": 148470,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5979,
+            "image_id": 2306,
+            "category_id": 35205,
+            "bbox": [
+                619,
+                115,
+                191,
+                368
+            ],
+            "area": 70288,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5980,
+            "image_id": 2306,
+            "category_id": 27732,
+            "bbox": [
+                78,
+                784,
+                296,
+                247
+            ],
+            "area": 73112,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        }
+    ]
+}

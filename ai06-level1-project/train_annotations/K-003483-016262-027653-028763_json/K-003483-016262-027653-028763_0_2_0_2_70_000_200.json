@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 410,
+            "file_name": "K-003483-016262-027653-028763_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1480,
+            "image_id": 410,
+            "category_id": 3482,
+            "bbox": [
+                146,
+                299,
+                253,
+                153
+            ],
+            "area": 38709,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1481,
+            "image_id": 410,
+            "category_id": 27652,
+            "bbox": [
+                695,
+                266,
+                183,
+                177
+            ],
+            "area": 32391,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1482,
+            "image_id": 410,
+            "category_id": 16261,
+            "bbox": [
+                134,
+                855,
+                217,
+                222
+            ],
+            "area": 48174,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1483,
+            "image_id": 410,
+            "category_id": 28762,
+            "bbox": [
+                657,
+                852,
+                192,
+                191
+            ],
+            "area": 36672,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

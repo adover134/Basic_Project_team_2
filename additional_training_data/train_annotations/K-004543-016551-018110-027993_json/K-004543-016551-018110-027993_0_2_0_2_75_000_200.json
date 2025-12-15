@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3371,
+            "file_name": "K-004543-016551-018110-027993_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9128,
+            "image_id": 3371,
+            "category_id": 4542,
+            "bbox": [
+                90,
+                226,
+                183,
+                185
+            ],
+            "area": 33855,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9129,
+            "image_id": 3371,
+            "category_id": 16550,
+            "bbox": [
+                509,
+                75,
+                345,
+                381
+            ],
+            "area": 131445,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9130,
+            "image_id": 3371,
+            "category_id": 18109,
+            "bbox": [
+                68,
+                698,
+                270,
+                278
+            ],
+            "area": 75060,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9131,
+            "image_id": 3371,
+            "category_id": 27992,
+            "bbox": [
+                508,
+                863,
+                308,
+                146
+            ],
+            "area": 44968,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 28,
+            "file_name": "K-001900-016548-021026-024850_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 109,
+            "image_id": 28,
+            "category_id": 24849,
+            "bbox": [
+                135,
+                152,
+                144,
+                258
+            ],
+            "area": 37152,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 110,
+            "image_id": 28,
+            "category_id": 16547,
+            "bbox": [
+                581,
+                152,
+                210,
+                210
+            ],
+            "area": 44100,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 111,
+            "image_id": 28,
+            "category_id": 21025,
+            "bbox": [
+                98,
+                838,
+                165,
+                166
+            ],
+            "area": 27390,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 112,
+            "image_id": 28,
+            "category_id": 1899,
+            "bbox": [
+                590,
+                876,
+                190,
+                126
+            ],
+            "area": 23940,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

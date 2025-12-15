@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 440,
+            "file_name": "K-003483-019861-025367-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1600,
+            "image_id": 440,
+            "category_id": 25366,
+            "bbox": [
+                50,
+                66,
+                303,
+                429
+            ],
+            "area": 129987,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1601,
+            "image_id": 440,
+            "category_id": 35205,
+            "bbox": [
+                572,
+                102,
+                240,
+                350
+            ],
+            "area": 84000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1602,
+            "image_id": 440,
+            "category_id": 19860,
+            "bbox": [
+                98,
+                832,
+                208,
+                162
+            ],
+            "area": 33696,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1603,
+            "image_id": 440,
+            "category_id": 3482,
+            "bbox": [
+                582,
+                836,
+                240,
+                226
+            ],
+            "area": 54240,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

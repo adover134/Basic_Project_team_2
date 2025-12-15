@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4735,
+            "file_name": "K-010224-012247-016548-027926_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13288,
+            "image_id": 4735,
+            "category_id": 27925,
+            "bbox": [
+                191,
+                202,
+                198,
+                425
+            ],
+            "area": 84150,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13289,
+            "image_id": 4735,
+            "category_id": 16547,
+            "bbox": [
+                668,
+                302,
+                207,
+                209
+            ],
+            "area": 43263,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13290,
+            "image_id": 4735,
+            "category_id": 12246,
+            "bbox": [
+                129,
+                915,
+                187,
+                156
+            ],
+            "area": 29172,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13291,
+            "image_id": 4735,
+            "category_id": 10223,
+            "bbox": [
+                616,
+                795,
+                207,
+                383
+            ],
+            "area": 79281,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2103,
+            "file_name": "K-003614-020877-028763-029667_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5369,
+            "image_id": 2103,
+            "category_id": 28762,
+            "bbox": [
+                177,
+                200,
+                187,
+                187
+            ],
+            "area": 34969,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5370,
+            "image_id": 2103,
+            "category_id": 29666,
+            "bbox": [
+                608,
+                212,
+                200,
+                201
+            ],
+            "area": 40200,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5371,
+            "image_id": 2103,
+            "category_id": 20876,
+            "bbox": [
+                90,
+                850,
+                296,
+                236
+            ],
+            "area": 69856,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

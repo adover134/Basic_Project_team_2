@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 4035,
+            "file_name": "K-005391-019232-020238_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10769,
+            "image_id": 4035,
+            "category_id": 19231,
+            "bbox": [
+                148,
+                809,
+                311,
+                251
+            ],
+            "area": 78061,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10770,
+            "image_id": 4035,
+            "category_id": 20237,
+            "bbox": [
+                645,
+                810,
+                206,
+                206
+            ],
+            "area": 42436,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6799,
+            "file_name": "K-015710-019861-020238-030308_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19675,
+            "image_id": 6799,
+            "category_id": 19860,
+            "bbox": [
+                659,
+                284,
+                199,
+                156
+            ],
+            "area": 31044,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19676,
+            "image_id": 6799,
+            "category_id": 20237,
+            "bbox": [
+                142,
+                905,
+                205,
+                209
+            ],
+            "area": 42845,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19677,
+            "image_id": 6799,
+            "category_id": 30307,
+            "bbox": [
+                590,
+                798,
+                386,
+                366
+            ],
+            "area": 141276,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 1277,
+            "file_name": "K-001866-013161-013395-019552_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2592,
+            "image_id": 1277,
+            "category_id": 19551,
+            "bbox": [
+                175,
+                199,
+                229,
+                433
+            ],
+            "area": 99157,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2593,
+            "image_id": 1277,
+            "category_id": 13394,
+            "bbox": [
+                633,
+                748,
+                193,
+                463
+            ],
+            "area": 89359,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

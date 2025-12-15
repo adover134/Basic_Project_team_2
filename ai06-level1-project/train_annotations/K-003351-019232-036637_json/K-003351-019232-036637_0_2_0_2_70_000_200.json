@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 282,
+            "file_name": "K-003351-019232-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1032,
+            "image_id": 282,
+            "category_id": 36636,
+            "bbox": [
+                148,
+                303,
+                213,
+                208
+            ],
+            "area": 44304,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1033,
+            "image_id": 282,
+            "category_id": 19231,
+            "bbox": [
+                568,
+                253,
+                247,
+                291
+            ],
+            "area": 71877,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1034,
+            "image_id": 282,
+            "category_id": 3350,
+            "bbox": [
+                449,
+                887,
+                171,
+                178
+            ],
+            "area": 30438,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

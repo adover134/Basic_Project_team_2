@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3149,
+            "file_name": "K-004543-010221-010224-016548_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8240,
+            "image_id": 3149,
+            "category_id": 4542,
+            "bbox": [
+                104,
+                234,
+                184,
+                184
+            ],
+            "area": 33856,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8241,
+            "image_id": 3149,
+            "category_id": 10220,
+            "bbox": [
+                603,
+                160,
+                195,
+                199
+            ],
+            "area": 38805,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8242,
+            "image_id": 3149,
+            "category_id": 10223,
+            "bbox": [
+                88,
+                711,
+                195,
+                382
+            ],
+            "area": 74490,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8243,
+            "image_id": 3149,
+            "category_id": 16547,
+            "bbox": [
+                644,
+                771,
+                215,
+                220
+            ],
+            "area": 47300,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        }
+    ]
+}

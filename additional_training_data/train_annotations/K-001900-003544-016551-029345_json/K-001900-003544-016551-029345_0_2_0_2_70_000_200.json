@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1384,
+            "file_name": "K-001900-003544-016551-029345_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2878,
+            "image_id": 1384,
+            "category_id": 29344,
+            "bbox": [
+                137,
+                182,
+                267,
+                372
+            ],
+            "area": 99324,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2879,
+            "image_id": 1384,
+            "category_id": 16550,
+            "bbox": [
+                658,
+                178,
+                246,
+                430
+            ],
+            "area": 105780,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2880,
+            "image_id": 1384,
+            "category_id": 3543,
+            "bbox": [
+                181,
+                844,
+                193,
+                196
+            ],
+            "area": 37828,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2881,
+            "image_id": 1384,
+            "category_id": 1899,
+            "bbox": [
+                697,
+                816,
+                109,
+                190
+            ],
+            "area": 20710,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

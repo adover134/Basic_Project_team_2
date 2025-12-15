@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 651,
+            "file_name": "K-000573-002483-005094-012778_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1245,
+            "image_id": 651,
+            "category_id": 2482,
+            "bbox": [
+                492,
+                159,
+                364,
+                359
+            ],
+            "area": 130676,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1246,
+            "image_id": 651,
+            "category_id": 5093,
+            "bbox": [
+                115,
+                808,
+                251,
+                251
+            ],
+            "area": 63001,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1247,
+            "image_id": 651,
+            "category_id": 12777,
+            "bbox": [
+                575,
+                622,
+                263,
+                442
+            ],
+            "area": 116246,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

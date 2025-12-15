@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6658,
+            "file_name": "K-015710-016232-027653-034597_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19252,
+            "image_id": 6658,
+            "category_id": 27652,
+            "bbox": [
+                695,
+                264,
+                182,
+                178
+            ],
+            "area": 32396,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19253,
+            "image_id": 6658,
+            "category_id": 16231,
+            "bbox": [
+                186,
+                883,
+                172,
+                179
+            ],
+            "area": 30788,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19254,
+            "image_id": 6658,
+            "category_id": 34596,
+            "bbox": [
+                502,
+                689,
+                399,
+                417
+            ],
+            "area": 166383,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        }
+    ]
+}

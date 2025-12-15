@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6223,
+            "file_name": "K-013900-016262-033026_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18307,
+            "image_id": 6223,
+            "category_id": 13899,
+            "bbox": [
+                188,
+                290,
+                189,
+                218
+            ],
+            "area": 41202,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18308,
+            "image_id": 6223,
+            "category_id": 16261,
+            "bbox": [
+                586,
+                317,
+                215,
+                219
+            ],
+            "area": 47085,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 13899,
+            "supercategory": "pill",
+            "name": "에빅사정(메만틴염산염)(비매품)"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        }
+    ]
+}

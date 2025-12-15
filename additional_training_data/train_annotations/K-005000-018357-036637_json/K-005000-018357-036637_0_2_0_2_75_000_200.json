@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3572,
+            "file_name": "K-005000-018357-036637_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9657,
+            "image_id": 3572,
+            "category_id": 18356,
+            "bbox": [
+                38,
+                679,
+                313,
+                273
+            ],
+            "area": 85449,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9658,
+            "image_id": 3572,
+            "category_id": 36636,
+            "bbox": [
+                632,
+                723,
+                152,
+                257
+            ],
+            "area": 39064,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 18356,
+            "supercategory": "pill",
+            "name": "종근당글리아티린연질캡슐(콜린알포세레이트)"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        }
+    ]
+}

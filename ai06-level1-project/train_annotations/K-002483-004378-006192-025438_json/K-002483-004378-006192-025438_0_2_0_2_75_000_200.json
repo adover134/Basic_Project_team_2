@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 132,
+            "file_name": "K-002483-004378-006192-025438_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 525,
+            "image_id": 132,
+            "category_id": 6191,
+            "bbox": [
+                131,
+                210,
+                208,
+                457
+            ],
+            "area": 95056,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 526,
+            "image_id": 132,
+            "category_id": 2482,
+            "bbox": [
+                611,
+                137,
+                218,
+                408
+            ],
+            "area": 88944,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 527,
+            "image_id": 132,
+            "category_id": 25437,
+            "bbox": [
+                118,
+                850,
+                242,
+                245
+            ],
+            "area": 59290,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 528,
+            "image_id": 132,
+            "category_id": 4377,
+            "bbox": [
+                674,
+                736,
+                178,
+                419
+            ],
+            "area": 74582,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        }
+    ]
+}

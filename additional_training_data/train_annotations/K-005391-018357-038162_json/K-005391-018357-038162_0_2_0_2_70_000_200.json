@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 4030,
+            "file_name": "K-005391-018357-038162_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10759,
+            "image_id": 4030,
+            "category_id": 38161,
+            "bbox": [
+                149,
+                271,
+                205,
+                246
+            ],
+            "area": 50430,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10760,
+            "image_id": 4030,
+            "category_id": 18356,
+            "bbox": [
+                505,
+                245,
+                336,
+                212
+            ],
+            "area": 71232,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 38161,
+            "supercategory": "pill",
+            "name": "로수바미브정 10/20mg"
+        },
+        {
+            "id": 18356,
+            "supercategory": "pill",
+            "name": "종근당글리아티린연질캡슐(콜린알포세레이트)"
+        }
+    ]
+}

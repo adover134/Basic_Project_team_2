@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3167,
+            "file_name": "K-004543-010221-016548-033208_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8312,
+            "image_id": 3167,
+            "category_id": 4542,
+            "bbox": [
+                141,
+                186,
+                183,
+                184
+            ],
+            "area": 33672,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8313,
+            "image_id": 3167,
+            "category_id": 10220,
+            "bbox": [
+                586,
+                196,
+                195,
+                201
+            ],
+            "area": 39195,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8314,
+            "image_id": 3167,
+            "category_id": 16547,
+            "bbox": [
+                84,
+                774,
+                216,
+                218
+            ],
+            "area": 47088,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8315,
+            "image_id": 3167,
+            "category_id": 33207,
+            "bbox": [
+                607,
+                792,
+                188,
+                190
+            ],
+            "area": 35720,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}

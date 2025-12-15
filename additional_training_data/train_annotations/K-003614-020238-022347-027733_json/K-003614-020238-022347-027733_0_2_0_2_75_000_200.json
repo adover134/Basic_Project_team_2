@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2021,
+            "file_name": "K-003614-020238-022347-027733_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5123,
+            "image_id": 2021,
+            "category_id": 22346,
+            "bbox": [
+                95,
+                219,
+                180,
+                183
+            ],
+            "area": 32940,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5124,
+            "image_id": 2021,
+            "category_id": 20237,
+            "bbox": [
+                582,
+                164,
+                197,
+                198
+            ],
+            "area": 39006,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5125,
+            "image_id": 2021,
+            "category_id": 27732,
+            "bbox": [
+                79,
+                784,
+                296,
+                248
+            ],
+            "area": 73408,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        }
+    ]
+}

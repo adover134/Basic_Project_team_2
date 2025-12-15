@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3516,
+            "file_name": "K-005000-016688-018357_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9548,
+            "image_id": 3516,
+            "category_id": 16687,
+            "bbox": [
+                98,
+                639,
+                376,
+                545
+            ],
+            "area": 204920,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9549,
+            "image_id": 3516,
+            "category_id": 18356,
+            "bbox": [
+                684,
+                639,
+                219,
+                346
+            ],
+            "area": 75774,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16687,
+            "supercategory": "pill",
+            "name": "오마코연질캡슐(오메가-3-산에틸에스테르90)"
+        },
+        {
+            "id": 18356,
+            "supercategory": "pill",
+            "name": "종근당글리아티린연질캡슐(콜린알포세레이트)"
+        }
+    ]
+}

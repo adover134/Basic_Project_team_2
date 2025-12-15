@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2100,
+            "file_name": "K-003614-020877-025367-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5360,
+            "image_id": 2100,
+            "category_id": 25366,
+            "bbox": [
+                109,
+                129,
+                290,
+                451
+            ],
+            "area": 130790,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5361,
+            "image_id": 2100,
+            "category_id": 36636,
+            "bbox": [
+                658,
+                137,
+                138,
+                247
+            ],
+            "area": 34086,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5362,
+            "image_id": 2100,
+            "category_id": 20876,
+            "bbox": [
+                91,
+                850,
+                296,
+                235
+            ],
+            "area": 69560,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3089,
+            "file_name": "K-004378-006192-013161-025438_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8059,
+            "image_id": 3089,
+            "category_id": 6191,
+            "bbox": [
+                118,
+                164,
+                201,
+                459
+            ],
+            "area": 92259,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8060,
+            "image_id": 3089,
+            "category_id": 25437,
+            "bbox": [
+                128,
+                862,
+                241,
+                246
+            ],
+            "area": 59286,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8061,
+            "image_id": 3089,
+            "category_id": 4377,
+            "bbox": [
+                683,
+                737,
+                177,
+                421
+            ],
+            "area": 74517,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        }
+    ]
+}

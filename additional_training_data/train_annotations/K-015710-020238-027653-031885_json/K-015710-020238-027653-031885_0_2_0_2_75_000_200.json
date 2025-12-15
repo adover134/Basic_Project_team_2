@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6920,
+            "file_name": "K-015710-020238-027653-031885_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20038,
+            "image_id": 6920,
+            "category_id": 31884,
+            "bbox": [
+                92,
+                61,
+                280,
+                499
+            ],
+            "area": 139720,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20039,
+            "image_id": 6920,
+            "category_id": 20237,
+            "bbox": [
+                617,
+                170,
+                195,
+                198
+            ],
+            "area": 38610,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20040,
+            "image_id": 6920,
+            "category_id": 27652,
+            "bbox": [
+                75,
+                823,
+                191,
+                191
+            ],
+            "area": 36481,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        }
+    ]
+}

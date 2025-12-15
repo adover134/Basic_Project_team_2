@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 278,
+            "file_name": "K-003351-019232-029667_0_2_1_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1020,
+            "image_id": 278,
+            "category_id": 29666,
+            "bbox": [
+                96,
+                322,
+                205,
+                210
+            ],
+            "area": 43050,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1021,
+            "image_id": 278,
+            "category_id": 19231,
+            "bbox": [
+                534,
+                217,
+                210,
+                311
+            ],
+            "area": 65310,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1022,
+            "image_id": 278,
+            "category_id": 3350,
+            "bbox": [
+                399,
+                899,
+                171,
+                178
+            ],
+            "area": 30438,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

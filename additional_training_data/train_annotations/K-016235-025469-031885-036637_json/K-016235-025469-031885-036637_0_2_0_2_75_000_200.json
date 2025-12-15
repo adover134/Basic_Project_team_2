@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 8204,
+            "file_name": "K-016235-025469-031885-036637_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 23525,
+            "image_id": 8204,
+            "category_id": 31884,
+            "bbox": [
+                75,
+                129,
+                367,
+                470
+            ],
+            "area": 172490,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23526,
+            "image_id": 8204,
+            "category_id": 36636,
+            "bbox": [
+                635,
+                184,
+                134,
+                241
+            ],
+            "area": 32294,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23527,
+            "image_id": 8204,
+            "category_id": 25468,
+            "bbox": [
+                0,
+                821,
+                341,
+                185
+            ],
+            "area": 63085,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        }
+    ]
+}

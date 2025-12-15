@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4582,
+            "file_name": "K-010221-016548-021771-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12676,
+            "image_id": 4582,
+            "category_id": 33008,
+            "bbox": [
+                103,
+                274,
+                289,
+                263
+            ],
+            "area": 76007,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12677,
+            "image_id": 4582,
+            "category_id": 21770,
+            "bbox": [
+                669,
+                321,
+                168,
+                168
+            ],
+            "area": 28224,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12678,
+            "image_id": 4582,
+            "category_id": 16547,
+            "bbox": [
+                110,
+                907,
+                219,
+                223
+            ],
+            "area": 48837,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12679,
+            "image_id": 4582,
+            "category_id": 10220,
+            "bbox": [
+                628,
+                852,
+                205,
+                210
+            ],
+            "area": 43050,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

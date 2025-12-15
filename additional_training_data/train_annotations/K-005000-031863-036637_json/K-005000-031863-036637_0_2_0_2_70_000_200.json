@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3670,
+            "file_name": "K-005000-031863-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9853,
+            "image_id": 3670,
+            "category_id": 36636,
+            "bbox": [
+                234,
+                326,
+                189,
+                227
+            ],
+            "area": 42903,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9854,
+            "image_id": 3670,
+            "category_id": 31862,
+            "bbox": [
+                661,
+                285,
+                188,
+                191
+            ],
+            "area": 35908,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 31862,
+            "supercategory": "pill",
+            "name": "아질렉트정(라사길린메실산염)"
+        }
+    ]
+}

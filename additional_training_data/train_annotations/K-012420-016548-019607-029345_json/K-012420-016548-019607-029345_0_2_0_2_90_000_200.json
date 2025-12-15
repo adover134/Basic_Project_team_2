@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5877,
+            "file_name": "K-012420-016548-019607-029345_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17166,
+            "image_id": 5877,
+            "category_id": 12419,
+            "bbox": [
+                149,
+                231,
+                165,
+                167
+            ],
+            "area": 27555,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17167,
+            "image_id": 5877,
+            "category_id": 16547,
+            "bbox": [
+                662,
+                189,
+                211,
+                211
+            ],
+            "area": 44521,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17168,
+            "image_id": 5877,
+            "category_id": 19606,
+            "bbox": [
+                213,
+                928,
+                140,
+                140
+            ],
+            "area": 19600,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17169,
+            "image_id": 5877,
+            "category_id": 29344,
+            "bbox": [
+                675,
+                778,
+                225,
+                413
+            ],
+            "area": 92925,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        }
+    ]
+}

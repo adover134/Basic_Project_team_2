@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5555,
+            "file_name": "K-011220-027777-028763-029667_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15961,
+            "image_id": 5555,
+            "category_id": 28762,
+            "bbox": [
+                90,
+                231,
+                182,
+                184
+            ],
+            "area": 33488,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15962,
+            "image_id": 5555,
+            "category_id": 29666,
+            "bbox": [
+                577,
+                196,
+                198,
+                202
+            ],
+            "area": 39996,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15963,
+            "image_id": 5555,
+            "category_id": 27776,
+            "bbox": [
+                156,
+                786,
+                159,
+                196
+            ],
+            "area": 31164,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        }
+    ]
+}

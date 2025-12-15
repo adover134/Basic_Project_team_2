@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4556,
+            "file_name": "K-010221-016548-019607-033009_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12572,
+            "image_id": 4556,
+            "category_id": 10220,
+            "bbox": [
+                169,
+                210,
+                194,
+                200
+            ],
+            "area": 38800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12573,
+            "image_id": 4556,
+            "category_id": 16547,
+            "bbox": [
+                602,
+                162,
+                207,
+                211
+            ],
+            "area": 43677,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12574,
+            "image_id": 4556,
+            "category_id": 19606,
+            "bbox": [
+                135,
+                811,
+                143,
+                145
+            ],
+            "area": 20735,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12575,
+            "image_id": 4556,
+            "category_id": 33008,
+            "bbox": [
+                545,
+                777,
+                351,
+                204
+            ],
+            "area": 71604,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

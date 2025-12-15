@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4906,
+            "file_name": "K-010224-016551-027926-029871_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13972,
+            "image_id": 4906,
+            "category_id": 29870,
+            "bbox": [
+                141,
+                302,
+                219,
+                152
+            ],
+            "area": 33288,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13973,
+            "image_id": 4906,
+            "category_id": 27925,
+            "bbox": [
+                587,
+                222,
+                207,
+                424
+            ],
+            "area": 87768,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13974,
+            "image_id": 4906,
+            "category_id": 16550,
+            "bbox": [
+                115,
+                681,
+                240,
+                457
+            ],
+            "area": 109680,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13975,
+            "image_id": 4906,
+            "category_id": 10223,
+            "bbox": [
+                582,
+                842,
+                381,
+                208
+            ],
+            "area": 79248,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        }
+    ]
+}

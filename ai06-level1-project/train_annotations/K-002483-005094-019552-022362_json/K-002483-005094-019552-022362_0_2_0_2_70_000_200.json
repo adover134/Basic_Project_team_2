@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 153,
+            "file_name": "K-002483-005094-019552-022362_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 609,
+            "image_id": 153,
+            "category_id": 22361,
+            "bbox": [
+                101,
+                104,
+                212,
+                352
+            ],
+            "area": 74624,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 610,
+            "image_id": 153,
+            "category_id": 5093,
+            "bbox": [
+                533,
+                163,
+                243,
+                244
+            ],
+            "area": 59292,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 611,
+            "image_id": 153,
+            "category_id": 2482,
+            "bbox": [
+                100,
+                667,
+                167,
+                447
+            ],
+            "area": 74649,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 612,
+            "image_id": 153,
+            "category_id": 19551,
+            "bbox": [
+                541,
+                608,
+                257,
+                435
+            ],
+            "area": 111795,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        }
+    ]
+}

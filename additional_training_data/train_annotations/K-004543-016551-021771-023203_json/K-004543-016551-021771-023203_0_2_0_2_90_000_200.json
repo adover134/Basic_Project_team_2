@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3393,
+            "file_name": "K-004543-016551-021771-023203_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9216,
+            "image_id": 3393,
+            "category_id": 4542,
+            "bbox": [
+                114,
+                205,
+                186,
+                187
+            ],
+            "area": 34782,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9217,
+            "image_id": 3393,
+            "category_id": 16550,
+            "bbox": [
+                669,
+                141,
+                239,
+                447
+            ],
+            "area": 106833,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9218,
+            "image_id": 3393,
+            "category_id": 21770,
+            "bbox": [
+                145,
+                841,
+                171,
+                174
+            ],
+            "area": 29754,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9219,
+            "image_id": 3393,
+            "category_id": 23202,
+            "bbox": [
+                662,
+                861,
+                121,
+                121
+            ],
+            "area": 14641,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        }
+    ]
+}

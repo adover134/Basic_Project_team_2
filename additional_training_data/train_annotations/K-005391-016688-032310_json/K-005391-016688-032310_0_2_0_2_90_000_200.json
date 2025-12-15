@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3987,
+            "file_name": "K-005391-016688-032310_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10676,
+            "image_id": 3987,
+            "category_id": 16687,
+            "bbox": [
+                97,
+                639,
+                376,
+                546
+            ],
+            "area": 205296,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10677,
+            "image_id": 3987,
+            "category_id": 32309,
+            "bbox": [
+                601,
+                739,
+                296,
+                301
+            ],
+            "area": 89096,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16687,
+            "supercategory": "pill",
+            "name": "오마코연질캡슐(오메가-3-산에틸에스테르90)"
+        },
+        {
+            "id": 32309,
+            "supercategory": "pill",
+            "name": "글리아타민연질캡슐"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 254,
+            "file_name": "K-003351-016688-041768_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 948,
+            "image_id": 254,
+            "category_id": 3350,
+            "bbox": [
+                389,
+                232,
+                166,
+                168
+            ],
+            "area": 27888,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 949,
+            "image_id": 254,
+            "category_id": 16687,
+            "bbox": [
+                175,
+                640,
+                230,
+                592
+            ],
+            "area": 136160,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 950,
+            "image_id": 254,
+            "category_id": 41767,
+            "bbox": [
+                600,
+                817,
+                273,
+                264
+            ],
+            "area": 72072,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 16687,
+            "supercategory": "pill",
+            "name": "오마코연질캡슐(오메가-3-산에틸에스테르90)"
+        },
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        }
+    ]
+}

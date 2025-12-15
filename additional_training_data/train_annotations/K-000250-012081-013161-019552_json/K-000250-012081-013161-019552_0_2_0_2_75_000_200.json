@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 410,
+            "file_name": "K-000250-012081-013161-019552_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 819,
+            "image_id": 410,
+            "category_id": 19551,
+            "bbox": [
+                138,
+                214,
+                233,
+                430
+            ],
+            "area": 100190,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 820,
+            "image_id": 410,
+            "category_id": 12080,
+            "bbox": [
+                668,
+                736,
+                204,
+                418
+            ],
+            "area": 85272,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

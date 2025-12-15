@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4662,
+            "file_name": "K-010221-016551-021026-021771_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12996,
+            "image_id": 4662,
+            "category_id": 21770,
+            "bbox": [
+                157,
+                227,
+                172,
+                173
+            ],
+            "area": 29756,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12997,
+            "image_id": 4662,
+            "category_id": 16550,
+            "bbox": [
+                421,
+                218,
+                439,
+                260
+            ],
+            "area": 114140,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12998,
+            "image_id": 4662,
+            "category_id": 21025,
+            "bbox": [
+                141,
+                862,
+                162,
+                164
+            ],
+            "area": 26568,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12999,
+            "image_id": 4662,
+            "category_id": 10220,
+            "bbox": [
+                622,
+                821,
+                199,
+                199
+            ],
+            "area": 39601,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

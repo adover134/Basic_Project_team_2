@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5533,
+            "file_name": "K-011220-027733-029667-034597_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15895,
+            "image_id": 5533,
+            "category_id": 27732,
+            "bbox": [
+                591,
+                235,
+                280,
+                240
+            ],
+            "area": 67200,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15896,
+            "image_id": 5533,
+            "category_id": 29666,
+            "bbox": [
+                153,
+                896,
+                205,
+                214
+            ],
+            "area": 43870,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15897,
+            "image_id": 5533,
+            "category_id": 34596,
+            "bbox": [
+                574,
+                772,
+                378,
+                440
+            ],
+            "area": 166320,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        }
+    ]
+}

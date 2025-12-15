@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4501,
+            "file_name": "K-010221-010224-016548-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12352,
+            "image_id": 4501,
+            "category_id": 33008,
+            "bbox": [
+                103,
+                275,
+                289,
+                262
+            ],
+            "area": 75718,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12353,
+            "image_id": 4501,
+            "category_id": 16547,
+            "bbox": [
+                570,
+                292,
+                206,
+                207
+            ],
+            "area": 42642,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12354,
+            "image_id": 4501,
+            "category_id": 10223,
+            "bbox": [
+                58,
+                820,
+                360,
+                264
+            ],
+            "area": 95040,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12355,
+            "image_id": 4501,
+            "category_id": 10220,
+            "bbox": [
+                638,
+                832,
+                206,
+                210
+            ],
+            "area": 43260,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

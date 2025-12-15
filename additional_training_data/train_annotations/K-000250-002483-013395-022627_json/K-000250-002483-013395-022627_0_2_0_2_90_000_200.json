@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 153,
+            "file_name": "K-000250-002483-013395-022627_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 292,
+            "image_id": 153,
+            "category_id": 22626,
+            "bbox": [
+                140,
+                182,
+                226,
+                431
+            ],
+            "area": 97406,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 293,
+            "image_id": 153,
+            "category_id": 2482,
+            "bbox": [
+                638,
+                125,
+                170,
+                443
+            ],
+            "area": 75310,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 294,
+            "image_id": 153,
+            "category_id": 13394,
+            "bbox": [
+                648,
+                701,
+                197,
+                452
+            ],
+            "area": 89044,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

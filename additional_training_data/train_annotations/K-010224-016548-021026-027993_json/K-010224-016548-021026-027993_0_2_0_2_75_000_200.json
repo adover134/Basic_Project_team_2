@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4808,
+            "file_name": "K-010224-016548-021026-027993_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13580,
+            "image_id": 4808,
+            "category_id": 10223,
+            "bbox": [
+                115,
+                110,
+                209,
+                361
+            ],
+            "area": 75449,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13581,
+            "image_id": 4808,
+            "category_id": 16547,
+            "bbox": [
+                557,
+                187,
+                206,
+                210
+            ],
+            "area": 43260,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13582,
+            "image_id": 4808,
+            "category_id": 21025,
+            "bbox": [
+                122,
+                837,
+                165,
+                166
+            ],
+            "area": 27390,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13583,
+            "image_id": 4808,
+            "category_id": 27992,
+            "bbox": [
+                597,
+                755,
+                255,
+                257
+            ],
+            "area": 65535,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        }
+    ]
+}

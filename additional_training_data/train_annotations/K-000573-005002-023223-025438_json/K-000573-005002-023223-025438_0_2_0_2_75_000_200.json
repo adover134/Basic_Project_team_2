@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 779,
+            "file_name": "K-000573-005002-023223-025438_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1522,
+            "image_id": 779,
+            "category_id": 23222,
+            "bbox": [
+                142,
+                738,
+                225,
+                460
+            ],
+            "area": 103500,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1523,
+            "image_id": 779,
+            "category_id": 25437,
+            "bbox": [
+                618,
+                882,
+                243,
+                247
+            ],
+            "area": 60021,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        }
+    ]
+}

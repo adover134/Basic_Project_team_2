@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1401,
+            "file_name": "K-001900-004543-010224-016551_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2946,
+            "image_id": 1401,
+            "category_id": 1899,
+            "bbox": [
+                165,
+                228,
+                113,
+                186
+            ],
+            "area": 21018,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2947,
+            "image_id": 1401,
+            "category_id": 4542,
+            "bbox": [
+                653,
+                144,
+                186,
+                187
+            ],
+            "area": 34782,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2948,
+            "image_id": 1401,
+            "category_id": 10223,
+            "bbox": [
+                124,
+                674,
+                192,
+                372
+            ],
+            "area": 71424,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2949,
+            "image_id": 1401,
+            "category_id": 16550,
+            "bbox": [
+                613,
+                719,
+                309,
+                418
+            ],
+            "area": 129162,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        }
+    ]
+}

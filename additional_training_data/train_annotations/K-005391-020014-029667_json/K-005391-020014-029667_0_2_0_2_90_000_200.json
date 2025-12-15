@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 4065,
+            "file_name": "K-005391-020014-029667_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10829,
+            "image_id": 4065,
+            "category_id": 20013,
+            "bbox": [
+                102,
+                692,
+                311,
+                311
+            ],
+            "area": 96721,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10830,
+            "image_id": 4065,
+            "category_id": 29666,
+            "bbox": [
+                610,
+                829,
+                206,
+                205
+            ],
+            "area": 42230,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20013,
+            "supercategory": "pill",
+            "name": "마도파정"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 302,
+            "file_name": "K-003351-020238-033880_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1092,
+            "image_id": 302,
+            "category_id": 3350,
+            "bbox": [
+                334,
+                164,
+                164,
+                171
+            ],
+            "area": 28044,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1093,
+            "image_id": 302,
+            "category_id": 33879,
+            "bbox": [
+                96,
+                659,
+                356,
+                355
+            ],
+            "area": 126380,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1094,
+            "image_id": 302,
+            "category_id": 20237,
+            "bbox": [
+                642,
+                679,
+                207,
+                212
+            ],
+            "area": 43884,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 33879,
+            "supercategory": "pill",
+            "name": "글리틴정(콜린알포세레이트)"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        }
+    ]
+}

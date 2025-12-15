@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 1081,
+            "file_name": "K-001866-005002-012081-022627_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2201,
+            "image_id": 1081,
+            "category_id": 12080,
+            "bbox": [
+                92,
+                134,
+                200,
+                388
+            ],
+            "area": 77600,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2202,
+            "image_id": 1081,
+            "category_id": 22626,
+            "bbox": [
+                594,
+                716,
+                237,
+                440
+            ],
+            "area": 104280,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        },
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        }
+    ]
+}

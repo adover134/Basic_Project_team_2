@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7191,
+            "file_name": "K-015710-027777-029667-030308_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20851,
+            "image_id": 7191,
+            "category_id": 30307,
+            "bbox": [
+                72,
+                210,
+                417,
+                304
+            ],
+            "area": 126768,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20852,
+            "image_id": 7191,
+            "category_id": 29666,
+            "bbox": [
+                642,
+                209,
+                200,
+                200
+            ],
+            "area": 40000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20853,
+            "image_id": 7191,
+            "category_id": 27776,
+            "bbox": [
+                192,
+                817,
+                155,
+                192
+            ],
+            "area": 29760,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 277,
+            "file_name": "K-000250-005002-012778-013395_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 553,
+            "image_id": 277,
+            "category_id": 13394,
+            "bbox": [
+                108,
+                122,
+                185,
+                431
+            ],
+            "area": 79735,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 554,
+            "image_id": 277,
+            "category_id": 12777,
+            "bbox": [
+                611,
+                617,
+                213,
+                463
+            ],
+            "area": 98619,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

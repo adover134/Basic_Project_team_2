@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 521,
+            "file_name": "K-003483-022347-027733-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1924,
+            "image_id": 521,
+            "category_id": 3482,
+            "bbox": [
+                138,
+                313,
+                246,
+                187
+            ],
+            "area": 46002,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1925,
+            "image_id": 521,
+            "category_id": 27732,
+            "bbox": [
+                576,
+                260,
+                271,
+                253
+            ],
+            "area": 68563,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1926,
+            "image_id": 521,
+            "category_id": 36636,
+            "bbox": [
+                111,
+                888,
+                247,
+                163
+            ],
+            "area": 40261,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1927,
+            "image_id": 521,
+            "category_id": 22346,
+            "bbox": [
+                666,
+                898,
+                192,
+                194
+            ],
+            "area": 37248,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        }
+    ]
+}

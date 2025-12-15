@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 166,
+            "file_name": "K-000250-004378-005002-006192_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 331,
+            "image_id": 166,
+            "category_id": 4377,
+            "bbox": [
+                151,
+                140,
+                179,
+                389
+            ],
+            "area": 69631,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 332,
+            "image_id": 166,
+            "category_id": 6191,
+            "bbox": [
+                594,
+                654,
+                209,
+                477
+            ],
+            "area": 99693,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        },
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        }
+    ]
+}

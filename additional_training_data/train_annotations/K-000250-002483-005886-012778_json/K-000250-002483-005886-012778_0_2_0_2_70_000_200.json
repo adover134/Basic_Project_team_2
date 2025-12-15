@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 109,
+            "file_name": "K-000250-002483-005886-012778_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 160,
+            "image_id": 109,
+            "category_id": 5885,
+            "bbox": [
+                137,
+                132,
+                200,
+                424
+            ],
+            "area": 84800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 161,
+            "image_id": 109,
+            "category_id": 2482,
+            "bbox": [
+                54,
+                704,
+                252,
+                428
+            ],
+            "area": 107856,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 162,
+            "image_id": 109,
+            "category_id": 12777,
+            "bbox": [
+                520,
+                708,
+                325,
+                429
+            ],
+            "area": 139425,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

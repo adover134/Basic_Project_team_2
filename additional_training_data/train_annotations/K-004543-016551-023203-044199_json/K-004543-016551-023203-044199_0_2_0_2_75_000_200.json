@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3407,
+            "file_name": "K-004543-016551-023203-044199_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9272,
+            "image_id": 3407,
+            "category_id": 4542,
+            "bbox": [
+                148,
+                166,
+                182,
+                186
+            ],
+            "area": 33852,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9273,
+            "image_id": 3407,
+            "category_id": 16550,
+            "bbox": [
+                592,
+                88,
+                255,
+                430
+            ],
+            "area": 109650,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9274,
+            "image_id": 3407,
+            "category_id": 23202,
+            "bbox": [
+                156,
+                859,
+                128,
+                124
+            ],
+            "area": 15872,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9275,
+            "image_id": 3407,
+            "category_id": 44198,
+            "bbox": [
+                556,
+                815,
+                266,
+                135
+            ],
+            "area": 35910,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        }
+    ]
+}

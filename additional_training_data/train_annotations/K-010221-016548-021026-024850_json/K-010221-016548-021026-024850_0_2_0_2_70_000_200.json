@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4561,
+            "file_name": "K-010221-016548-021026-024850_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12592,
+            "image_id": 4561,
+            "category_id": 10220,
+            "bbox": [
+                182,
+                281,
+                195,
+                199
+            ],
+            "area": 38805,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12593,
+            "image_id": 4561,
+            "category_id": 21025,
+            "bbox": [
+                688,
+                292,
+                159,
+                158
+            ],
+            "area": 25122,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12594,
+            "image_id": 4561,
+            "category_id": 16547,
+            "bbox": [
+                135,
+                918,
+                216,
+                222
+            ],
+            "area": 47952,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12595,
+            "image_id": 4561,
+            "category_id": 24849,
+            "bbox": [
+                562,
+                890,
+                274,
+                159
+            ],
+            "area": 43566,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        }
+    ]
+}

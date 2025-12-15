@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 498,
+            "file_name": "K-000250-013395-022627-037777_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 995,
+            "image_id": 498,
+            "category_id": 22626,
+            "bbox": [
+                154,
+                74,
+                235,
+                428
+            ],
+            "area": 100580,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 996,
+            "image_id": 498,
+            "category_id": 13394,
+            "bbox": [
+                655,
+                702,
+                201,
+                452
+            ],
+            "area": 90852,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

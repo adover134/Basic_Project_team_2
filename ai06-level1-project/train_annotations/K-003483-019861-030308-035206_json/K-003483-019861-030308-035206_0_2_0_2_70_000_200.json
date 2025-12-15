@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 449,
+            "file_name": "K-003483-019861-030308-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1636,
+            "image_id": 449,
+            "category_id": 3482,
+            "bbox": [
+                162,
+                226,
+                226,
+                205
+            ],
+            "area": 46330,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1637,
+            "image_id": 449,
+            "category_id": 19860,
+            "bbox": [
+                653,
+                284,
+                200,
+                156
+            ],
+            "area": 31200,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1638,
+            "image_id": 449,
+            "category_id": 35205,
+            "bbox": [
+                129,
+                785,
+                260,
+                369
+            ],
+            "area": 95940,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1639,
+            "image_id": 449,
+            "category_id": 30307,
+            "bbox": [
+                641,
+                716,
+                225,
+                450
+            ],
+            "area": 101250,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        }
+    ]
+}

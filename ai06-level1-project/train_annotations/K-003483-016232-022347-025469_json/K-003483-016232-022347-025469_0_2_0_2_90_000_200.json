@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 359,
+            "file_name": "K-003483-016232-022347-025469_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1276,
+            "image_id": 359,
+            "category_id": 22346,
+            "bbox": [
+                130,
+                203,
+                185,
+                186
+            ],
+            "area": 34410,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1277,
+            "image_id": 359,
+            "category_id": 16231,
+            "bbox": [
+                638,
+                225,
+                171,
+                175
+            ],
+            "area": 29925,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1278,
+            "image_id": 359,
+            "category_id": 25468,
+            "bbox": [
+                59,
+                868,
+                342,
+                198
+            ],
+            "area": 67716,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1279,
+            "image_id": 359,
+            "category_id": 3482,
+            "bbox": [
+                611,
+                849,
+                257,
+                178
+            ],
+            "area": 45746,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5870,
+            "file_name": "K-012420-016548-019607-021026_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17138,
+            "image_id": 5870,
+            "category_id": 19606,
+            "bbox": [
+                145,
+                217,
+                139,
+                138
+            ],
+            "area": 19182,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17139,
+            "image_id": 5870,
+            "category_id": 16547,
+            "bbox": [
+                609,
+                201,
+                206,
+                212
+            ],
+            "area": 43672,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17140,
+            "image_id": 5870,
+            "category_id": 21025,
+            "bbox": [
+                120,
+                838,
+                164,
+                165
+            ],
+            "area": 27060,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17141,
+            "image_id": 5870,
+            "category_id": 12419,
+            "bbox": [
+                640,
+                843,
+                171,
+                170
+            ],
+            "area": 29070,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

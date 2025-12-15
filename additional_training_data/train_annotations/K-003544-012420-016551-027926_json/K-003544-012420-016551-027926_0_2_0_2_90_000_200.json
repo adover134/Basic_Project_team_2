@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1557,
+            "file_name": "K-003544-012420-016551-027926_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3570,
+            "image_id": 1557,
+            "category_id": 3543,
+            "bbox": [
+                165,
+                200,
+                188,
+                188
+            ],
+            "area": 35344,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3571,
+            "image_id": 1557,
+            "category_id": 12419,
+            "bbox": [
+                695,
+                165,
+                167,
+                167
+            ],
+            "area": 27889,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3572,
+            "image_id": 1557,
+            "category_id": 16550,
+            "bbox": [
+                139,
+                668,
+                236,
+                449
+            ],
+            "area": 105964,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3573,
+            "image_id": 1557,
+            "category_id": 27925,
+            "bbox": [
+                629,
+                719,
+                204,
+                443
+            ],
+            "area": 90372,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        }
+    ]
+}

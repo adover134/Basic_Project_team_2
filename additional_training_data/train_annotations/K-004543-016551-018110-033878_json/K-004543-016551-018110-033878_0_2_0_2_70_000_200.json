@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3376,
+            "file_name": "K-004543-016551-018110-033878_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9148,
+            "image_id": 3376,
+            "category_id": 33877,
+            "bbox": [
+                221,
+                268,
+                122,
+                193
+            ],
+            "area": 23546,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9149,
+            "image_id": 3376,
+            "category_id": 18109,
+            "bbox": [
+                633,
+                313,
+                263,
+                268
+            ],
+            "area": 70484,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9150,
+            "image_id": 3376,
+            "category_id": 16550,
+            "bbox": [
+                73,
+                772,
+                279,
+                448
+            ],
+            "area": 124992,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9151,
+            "image_id": 3376,
+            "category_id": 4542,
+            "bbox": [
+                649,
+                912,
+                192,
+                195
+            ],
+            "area": 37440,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

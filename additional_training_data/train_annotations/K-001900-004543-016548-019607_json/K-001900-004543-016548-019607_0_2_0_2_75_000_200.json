@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1406,
+            "file_name": "K-001900-004543-016548-019607_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2966,
+            "image_id": 1406,
+            "category_id": 1899,
+            "bbox": [
+                130,
+                254,
+                137,
+                181
+            ],
+            "area": 24797,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2967,
+            "image_id": 1406,
+            "category_id": 4542,
+            "bbox": [
+                617,
+                153,
+                183,
+                183
+            ],
+            "area": 33489,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2968,
+            "image_id": 1406,
+            "category_id": 16547,
+            "bbox": [
+                86,
+                767,
+                216,
+                220
+            ],
+            "area": 47520,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2969,
+            "image_id": 1406,
+            "category_id": 19606,
+            "bbox": [
+                618,
+                798,
+                143,
+                144
+            ],
+            "area": 20592,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        }
+    ]
+}

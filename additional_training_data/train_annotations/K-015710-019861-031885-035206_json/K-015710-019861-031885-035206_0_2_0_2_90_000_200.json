@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6849,
+            "file_name": "K-015710-019861-031885-035206_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19825,
+            "image_id": 6849,
+            "category_id": 31884,
+            "bbox": [
+                81,
+                82,
+                324,
+                498
+            ],
+            "area": 161352,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19826,
+            "image_id": 6849,
+            "category_id": 35205,
+            "bbox": [
+                625,
+                145,
+                187,
+                376
+            ],
+            "area": 70312,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19827,
+            "image_id": 6849,
+            "category_id": 19860,
+            "bbox": [
+                128,
+                873,
+                203,
+                155
+            ],
+            "area": 31465,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

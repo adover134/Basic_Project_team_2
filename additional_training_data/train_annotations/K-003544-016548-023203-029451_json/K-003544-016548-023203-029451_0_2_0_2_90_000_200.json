@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1590,
+            "file_name": "K-003544-016548-023203-029451_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3702,
+            "image_id": 1590,
+            "category_id": 3543,
+            "bbox": [
+                189,
+                250,
+                188,
+                188
+            ],
+            "area": 35344,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3703,
+            "image_id": 1590,
+            "category_id": 16547,
+            "bbox": [
+                670,
+                162,
+                210,
+                213
+            ],
+            "area": 44730,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3704,
+            "image_id": 1590,
+            "category_id": 23202,
+            "bbox": [
+                227,
+                920,
+                118,
+                119
+            ],
+            "area": 14042,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3705,
+            "image_id": 1590,
+            "category_id": 29450,
+            "bbox": [
+                668,
+                745,
+                193,
+                382
+            ],
+            "area": 73726,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

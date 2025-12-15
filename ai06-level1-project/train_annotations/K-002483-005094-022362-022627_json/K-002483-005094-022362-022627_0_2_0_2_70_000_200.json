@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 155,
+            "file_name": "K-002483-005094-022362-022627_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 617,
+            "image_id": 155,
+            "category_id": 22361,
+            "bbox": [
+                102,
+                104,
+                211,
+                351
+            ],
+            "area": 74061,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 618,
+            "image_id": 155,
+            "category_id": 5093,
+            "bbox": [
+                534,
+                162,
+                242,
+                245
+            ],
+            "area": 59290,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 619,
+            "image_id": 155,
+            "category_id": 2482,
+            "bbox": [
+                100,
+                667,
+                167,
+                446
+            ],
+            "area": 74482,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 620,
+            "image_id": 155,
+            "category_id": 22626,
+            "bbox": [
+                547,
+                591,
+                267,
+                424
+            ],
+            "area": 113208,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        }
+    ]
+}

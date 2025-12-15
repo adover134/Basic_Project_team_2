@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5926,
+            "file_name": "K-012420-016548-024850-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17362,
+            "image_id": 5926,
+            "category_id": 33008,
+            "bbox": [
+                126,
+                241,
+                253,
+                296
+            ],
+            "area": 74888,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17363,
+            "image_id": 5926,
+            "category_id": 24849,
+            "bbox": [
+                666,
+                229,
+                142,
+                252
+            ],
+            "area": 35784,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17364,
+            "image_id": 5926,
+            "category_id": 16547,
+            "bbox": [
+                176,
+                869,
+                218,
+                221
+            ],
+            "area": 48178,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17365,
+            "image_id": 5926,
+            "category_id": 12419,
+            "bbox": [
+                655,
+                915,
+                172,
+                175
+            ],
+            "area": 30100,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

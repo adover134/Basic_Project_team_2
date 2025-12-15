@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5240,
+            "file_name": "K-011220-020238-020877-028763_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15016,
+            "image_id": 5240,
+            "category_id": 28762,
+            "bbox": [
+                142,
+                192,
+                183,
+                183
+            ],
+            "area": 33489,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15017,
+            "image_id": 5240,
+            "category_id": 20237,
+            "bbox": [
+                621,
+                193,
+                196,
+                198
+            ],
+            "area": 38808,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15018,
+            "image_id": 5240,
+            "category_id": 20876,
+            "bbox": [
+                56,
+                807,
+                300,
+                239
+            ],
+            "area": 71700,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 553,
+            "file_name": "K-003483-025469-028763-035206_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2052,
+            "image_id": 553,
+            "category_id": 28762,
+            "bbox": [
+                142,
+                206,
+                186,
+                186
+            ],
+            "area": 34596,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2053,
+            "image_id": 553,
+            "category_id": 35205,
+            "bbox": [
+                628,
+                134,
+                191,
+                377
+            ],
+            "area": 72007,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2054,
+            "image_id": 553,
+            "category_id": 25468,
+            "bbox": [
+                59,
+                868,
+                342,
+                198
+            ],
+            "area": 67716,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2055,
+            "image_id": 553,
+            "category_id": 3482,
+            "bbox": [
+                611,
+                848,
+                256,
+                178
+            ],
+            "area": 45568,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

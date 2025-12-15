@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 344,
+            "file_name": "K-003351-038162-041768_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1218,
+            "image_id": 344,
+            "category_id": 41767,
+            "bbox": [
+                74,
+                291,
+                317,
+                160
+            ],
+            "area": 50720,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1219,
+            "image_id": 344,
+            "category_id": 38161,
+            "bbox": [
+                600,
+                289,
+                157,
+                275
+            ],
+            "area": 43175,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1220,
+            "image_id": 344,
+            "category_id": 3350,
+            "bbox": [
+                449,
+                869,
+                171,
+                178
+            ],
+            "area": 30438,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        },
+        {
+            "id": 38161,
+            "supercategory": "pill",
+            "name": "로수바미브정 10/20mg"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

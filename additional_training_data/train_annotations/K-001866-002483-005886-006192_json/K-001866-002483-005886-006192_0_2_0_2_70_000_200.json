@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 916,
+            "file_name": "K-001866-002483-005886-006192_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1811,
+            "image_id": 916,
+            "category_id": 5885,
+            "bbox": [
+                134,
+                119,
+                189,
+                425
+            ],
+            "area": 80325,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1812,
+            "image_id": 916,
+            "category_id": 2482,
+            "bbox": [
+                87,
+                670,
+                234,
+                430
+            ],
+            "area": 100620,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1813,
+            "image_id": 916,
+            "category_id": 6191,
+            "bbox": [
+                610,
+                656,
+                216,
+                480
+            ],
+            "area": 103680,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        }
+    ]
+}

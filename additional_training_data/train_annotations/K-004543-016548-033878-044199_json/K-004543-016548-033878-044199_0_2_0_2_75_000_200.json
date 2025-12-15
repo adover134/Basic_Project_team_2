@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3365,
+            "file_name": "K-004543-016548-033878-044199_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9104,
+            "image_id": 3365,
+            "category_id": 4542,
+            "bbox": [
+                141,
+                184,
+                182,
+                184
+            ],
+            "area": 33488,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9105,
+            "image_id": 3365,
+            "category_id": 16547,
+            "bbox": [
+                605,
+                168,
+                206,
+                210
+            ],
+            "area": 43260,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9106,
+            "image_id": 3365,
+            "category_id": 33877,
+            "bbox": [
+                143,
+                783,
+                126,
+                201
+            ],
+            "area": 25326,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9107,
+            "image_id": 3365,
+            "category_id": 44198,
+            "bbox": [
+                636,
+                801,
+                217,
+                238
+            ],
+            "area": 51646,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        },
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        }
+    ]
+}

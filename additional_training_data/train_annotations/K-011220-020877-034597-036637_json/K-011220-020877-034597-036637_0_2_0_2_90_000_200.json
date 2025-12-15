@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5376,
+            "file_name": "K-011220-020877-034597-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15424,
+            "image_id": 5376,
+            "category_id": 34596,
+            "bbox": [
+                79,
+                114,
+                349,
+                430
+            ],
+            "area": 150070,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15425,
+            "image_id": 5376,
+            "category_id": 36636,
+            "bbox": [
+                655,
+                192,
+                163,
+                238
+            ],
+            "area": 38794,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15426,
+            "image_id": 5376,
+            "category_id": 20876,
+            "bbox": [
+                88,
+                849,
+                297,
+                232
+            ],
+            "area": 68904,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

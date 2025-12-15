@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 142,
+            "file_name": "K-000250-002483-012778-013395_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 259,
+            "image_id": 142,
+            "category_id": 13394,
+            "bbox": [
+                103,
+                124,
+                187,
+                430
+            ],
+            "area": 80410,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 260,
+            "image_id": 142,
+            "category_id": 2482,
+            "bbox": [
+                127,
+                653,
+                166,
+                445
+            ],
+            "area": 73870,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 261,
+            "image_id": 142,
+            "category_id": 12777,
+            "bbox": [
+                567,
+                618,
+                241,
+                457
+            ],
+            "area": 110137,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 143,
+            "file_name": "K-002483-005094-006192-012081_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 569,
+            "image_id": 143,
+            "category_id": 6191,
+            "bbox": [
+                148,
+                169,
+                234,
+                466
+            ],
+            "area": 109044,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 570,
+            "image_id": 143,
+            "category_id": 2482,
+            "bbox": [
+                644,
+                62,
+                212,
+                437
+            ],
+            "area": 92644,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 571,
+            "image_id": 143,
+            "category_id": 5093,
+            "bbox": [
+                117,
+                814,
+                251,
+                252
+            ],
+            "area": 63252,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 572,
+            "image_id": 143,
+            "category_id": 12080,
+            "bbox": [
+                660,
+                716,
+                196,
+                409
+            ],
+            "area": 80164,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

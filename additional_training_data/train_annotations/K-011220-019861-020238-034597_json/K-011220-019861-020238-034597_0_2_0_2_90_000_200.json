@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5178,
+            "file_name": "K-011220-019861-020238-034597_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14830,
+            "image_id": 5178,
+            "category_id": 34596,
+            "bbox": [
+                56,
+                182,
+                401,
+                388
+            ],
+            "area": 155588,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14831,
+            "image_id": 5178,
+            "category_id": 20237,
+            "bbox": [
+                651,
+                185,
+                200,
+                201
+            ],
+            "area": 40200,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14832,
+            "image_id": 5178,
+            "category_id": 19860,
+            "bbox": [
+                128,
+                872,
+                203,
+                156
+            ],
+            "area": 31668,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

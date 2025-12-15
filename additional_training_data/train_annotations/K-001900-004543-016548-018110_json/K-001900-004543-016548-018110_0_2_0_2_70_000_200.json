@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1402,
+            "file_name": "K-001900-004543-016548-018110_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2950,
+            "image_id": 1402,
+            "category_id": 18109,
+            "bbox": [
+                157,
+                218,
+                262,
+                265
+            ],
+            "area": 69430,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2951,
+            "image_id": 1402,
+            "category_id": 16547,
+            "bbox": [
+                638,
+                297,
+                206,
+                209
+            ],
+            "area": 43054,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2952,
+            "image_id": 1402,
+            "category_id": 4542,
+            "bbox": [
+                182,
+                857,
+                190,
+                194
+            ],
+            "area": 36860,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2953,
+            "image_id": 1402,
+            "category_id": 1899,
+            "bbox": [
+                711,
+                859,
+                125,
+                194
+            ],
+            "area": 24250,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

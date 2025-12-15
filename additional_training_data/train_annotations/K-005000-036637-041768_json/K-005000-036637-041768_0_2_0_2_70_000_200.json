@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3697,
+            "file_name": "K-005000-036637-041768_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9907,
+            "image_id": 3697,
+            "category_id": 41767,
+            "bbox": [
+                154,
+                330,
+                201,
+                295
+            ],
+            "area": 59295,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9908,
+            "image_id": 3697,
+            "category_id": 36636,
+            "bbox": [
+                629,
+                269,
+                166,
+                237
+            ],
+            "area": 39342,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        }
+    ]
+}

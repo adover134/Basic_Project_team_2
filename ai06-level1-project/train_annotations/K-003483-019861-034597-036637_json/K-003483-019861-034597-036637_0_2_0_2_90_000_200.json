@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 455,
+            "file_name": "K-003483-019861-034597-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1660,
+            "image_id": 455,
+            "category_id": 34596,
+            "bbox": [
+                114,
+                63,
+                282,
+                458
+            ],
+            "area": 129156,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1661,
+            "image_id": 455,
+            "category_id": 36636,
+            "bbox": [
+                627,
+                207,
+                246,
+                138
+            ],
+            "area": 33948,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1662,
+            "image_id": 455,
+            "category_id": 19860,
+            "bbox": [
+                132,
+                872,
+                203,
+                156
+            ],
+            "area": 31668,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1663,
+            "image_id": 455,
+            "category_id": 3482,
+            "bbox": [
+                609,
+                872,
+                234,
+                220
+            ],
+            "area": 51480,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

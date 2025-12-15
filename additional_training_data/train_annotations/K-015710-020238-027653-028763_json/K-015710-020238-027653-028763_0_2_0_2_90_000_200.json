@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6915,
+            "file_name": "K-015710-020238-027653-028763_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20023,
+            "image_id": 6915,
+            "category_id": 28762,
+            "bbox": [
+                146,
+                201,
+                187,
+                187
+            ],
+            "area": 34969,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20024,
+            "image_id": 6915,
+            "category_id": 20237,
+            "bbox": [
+                645,
+                172,
+                201,
+                202
+            ],
+            "area": 40602,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20025,
+            "image_id": 6915,
+            "category_id": 27652,
+            "bbox": [
+                109,
+                863,
+                188,
+                189
+            ],
+            "area": 35532,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        }
+    ]
+}
