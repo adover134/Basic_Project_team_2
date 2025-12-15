@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 547,
+            "file_name": "K-003483-025367-027777-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2028,
+            "image_id": 547,
+            "category_id": 3482,
+            "bbox": [
+                188,
+                286,
+                235,
+                197
+            ],
+            "area": 46295,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2029,
+            "image_id": 547,
+            "category_id": 27776,
+            "bbox": [
+                650,
+                300,
+                152,
+                183
+            ],
+            "area": 27816,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2030,
+            "image_id": 547,
+            "category_id": 36636,
+            "bbox": [
+                141,
+                837,
+                174,
+                243
+            ],
+            "area": 42282,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2031,
+            "image_id": 547,
+            "category_id": 25366,
+            "bbox": [
+                577,
+                693,
+                326,
+                451
+            ],
+            "area": 147026,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        }
+    ]
+}

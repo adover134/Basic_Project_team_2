@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 118,
+            "file_name": "K-002483-003743-012081-019552_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 469,
+            "image_id": 118,
+            "category_id": 19551,
+            "bbox": [
+                132,
+                143,
+                243,
+                437
+            ],
+            "area": 106191,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 470,
+            "image_id": 118,
+            "category_id": 2482,
+            "bbox": [
+                611,
+                97,
+                205,
+                437
+            ],
+            "area": 89585,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 471,
+            "image_id": 118,
+            "category_id": 3742,
+            "bbox": [
+                130,
+                800,
+                295,
+                296
+            ],
+            "area": 87320,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 472,
+            "image_id": 118,
+            "category_id": 12080,
+            "bbox": [
+                621,
+                737,
+                192,
+                409
+            ],
+            "area": 78528,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

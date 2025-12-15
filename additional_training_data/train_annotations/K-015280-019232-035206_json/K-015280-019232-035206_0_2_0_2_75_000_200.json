@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6464,
+            "file_name": "K-015280-019232-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18783,
+            "image_id": 6464,
+            "category_id": 19231,
+            "bbox": [
+                104,
+                707,
+                315,
+                253
+            ],
+            "area": 79695,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18784,
+            "image_id": 6464,
+            "category_id": 35205,
+            "bbox": [
+                540,
+                548,
+                234,
+                384
+            ],
+            "area": 89856,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        }
+    ]
+}

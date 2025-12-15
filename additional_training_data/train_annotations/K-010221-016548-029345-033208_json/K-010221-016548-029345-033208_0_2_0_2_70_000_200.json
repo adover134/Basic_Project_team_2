@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4606,
+            "file_name": "K-010221-016548-029345-033208_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12772,
+            "image_id": 4606,
+            "category_id": 33207,
+            "bbox": [
+                101,
+                292,
+                178,
+                179
+            ],
+            "area": 31862,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12773,
+            "image_id": 4606,
+            "category_id": 29344,
+            "bbox": [
+                657,
+                157,
+                214,
+                388
+            ],
+            "area": 83032,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12774,
+            "image_id": 4606,
+            "category_id": 16547,
+            "bbox": [
+                136,
+                861,
+                215,
+                220
+            ],
+            "area": 47300,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12775,
+            "image_id": 4606,
+            "category_id": 10220,
+            "bbox": [
+                634,
+                814,
+                203,
+                209
+            ],
+            "area": 42427,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

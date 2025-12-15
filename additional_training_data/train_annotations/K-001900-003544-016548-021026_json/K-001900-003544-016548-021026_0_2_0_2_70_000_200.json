@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1360,
+            "file_name": "K-001900-003544-016548-021026_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2782,
+            "image_id": 1360,
+            "category_id": 1899,
+            "bbox": [
+                185,
+                288,
+                183,
+                126
+            ],
+            "area": 23058,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2783,
+            "image_id": 1360,
+            "category_id": 21025,
+            "bbox": [
+                683,
+                280,
+                159,
+                158
+            ],
+            "area": 25122,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2784,
+            "image_id": 1360,
+            "category_id": 16547,
+            "bbox": [
+                187,
+                848,
+                217,
+                222
+            ],
+            "area": 48174,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2785,
+            "image_id": 1360,
+            "category_id": 3543,
+            "bbox": [
+                709,
+                905,
+                195,
+                198
+            ],
+            "area": 38610,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        }
+    ]
+}

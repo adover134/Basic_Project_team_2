@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5070,
+            "file_name": "K-011220-016262-019861-034597_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14506,
+            "image_id": 5070,
+            "category_id": 34596,
+            "bbox": [
+                83,
+                119,
+                356,
+                426
+            ],
+            "area": 151656,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14507,
+            "image_id": 5070,
+            "category_id": 16261,
+            "bbox": [
+                612,
+                179,
+                211,
+                211
+            ],
+            "area": 44521,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14508,
+            "image_id": 5070,
+            "category_id": 19860,
+            "bbox": [
+                128,
+                872,
+                204,
+                156
+            ],
+            "area": 31824,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

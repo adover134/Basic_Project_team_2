@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4721,
+            "file_name": "K-010221-016551-031705-033208_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13232,
+            "image_id": 4721,
+            "category_id": 10220,
+            "bbox": [
+                110,
+                171,
+                196,
+                200
+            ],
+            "area": 39200,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13233,
+            "image_id": 4721,
+            "category_id": 16550,
+            "bbox": [
+                594,
+                63,
+                232,
+                437
+            ],
+            "area": 101384,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13234,
+            "image_id": 4721,
+            "category_id": 31704,
+            "bbox": [
+                83,
+                656,
+                311,
+                385
+            ],
+            "area": 119735,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13235,
+            "image_id": 4721,
+            "category_id": 33207,
+            "bbox": [
+                642,
+                802,
+                186,
+                188
+            ],
+            "area": 34968,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}

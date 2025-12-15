@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3595,
+            "file_name": "K-005000-019232-038162_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9703,
+            "image_id": 3595,
+            "category_id": 38161,
+            "bbox": [
+                159,
+                262,
+                194,
+                252
+            ],
+            "area": 48888,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9704,
+            "image_id": 3595,
+            "category_id": 19231,
+            "bbox": [
+                554,
+                251,
+                226,
+                305
+            ],
+            "area": 68930,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 38161,
+            "supercategory": "pill",
+            "name": "로수바미브정 10/20mg"
+        },
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        }
+    ]
+}

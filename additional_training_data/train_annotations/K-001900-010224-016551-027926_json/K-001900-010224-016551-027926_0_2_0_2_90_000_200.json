@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1503,
+            "file_name": "K-001900-010224-016551-027926_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3354,
+            "image_id": 1503,
+            "category_id": 1899,
+            "bbox": [
+                166,
+                262,
+                183,
+                106
+            ],
+            "area": 19398,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3355,
+            "image_id": 1503,
+            "category_id": 10223,
+            "bbox": [
+                612,
+                139,
+                193,
+                372
+            ],
+            "area": 71796,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3356,
+            "image_id": 1503,
+            "category_id": 16550,
+            "bbox": [
+                120,
+                683,
+                255,
+                441
+            ],
+            "area": 112455,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3357,
+            "image_id": 1503,
+            "category_id": 27925,
+            "bbox": [
+                614,
+                697,
+                209,
+                443
+            ],
+            "area": 92587,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        }
+    ]
+}

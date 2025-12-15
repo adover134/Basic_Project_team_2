@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6943,
+            "file_name": "K-015710-020238-027777-031885_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20107,
+            "image_id": 6943,
+            "category_id": 27776,
+            "bbox": [
+                646,
+                301,
+                152,
+                184
+            ],
+            "area": 27968,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20108,
+            "image_id": 6943,
+            "category_id": 20237,
+            "bbox": [
+                156,
+                924,
+                206,
+                209
+            ],
+            "area": 43054,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20109,
+            "image_id": 6943,
+            "category_id": 31884,
+            "bbox": [
+                456,
+                667,
+                380,
+                491
+            ],
+            "area": 186580,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        }
+    ]
+}

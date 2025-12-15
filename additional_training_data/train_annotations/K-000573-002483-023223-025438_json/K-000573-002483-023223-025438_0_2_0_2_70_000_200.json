@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 673,
+            "file_name": "K-000573-002483-023223-025438_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1310,
+            "image_id": 673,
+            "category_id": 25437,
+            "bbox": [
+                81,
+                177,
+                231,
+                231
+            ],
+            "area": 53361,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1311,
+            "image_id": 673,
+            "category_id": 23222,
+            "bbox": [
+                529,
+                111,
+                217,
+                425
+            ],
+            "area": 92225,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1312,
+            "image_id": 673,
+            "category_id": 2482,
+            "bbox": [
+                88,
+                698,
+                186,
+                444
+            ],
+            "area": 82584,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        }
+    ]
+}

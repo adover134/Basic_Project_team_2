@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7172,
+            "file_name": "K-015710-027733-031885-036637_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20794,
+            "image_id": 7172,
+            "category_id": 31884,
+            "bbox": [
+                125,
+                91,
+                319,
+                486
+            ],
+            "area": 155034,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20795,
+            "image_id": 7172,
+            "category_id": 36636,
+            "bbox": [
+                654,
+                141,
+                156,
+                233
+            ],
+            "area": 36348,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20796,
+            "image_id": 7172,
+            "category_id": 27732,
+            "bbox": [
+                77,
+                786,
+                296,
+                247
+            ],
+            "area": 73112,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        }
+    ]
+}

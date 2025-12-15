@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 264,
+            "file_name": "K-003351-018147-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 978,
+            "image_id": 264,
+            "category_id": 3350,
+            "bbox": [
+                376,
+                220,
+                167,
+                168
+            ],
+            "area": 28056,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 979,
+            "image_id": 264,
+            "category_id": 18146,
+            "bbox": [
+                150,
+                654,
+                250,
+                395
+            ],
+            "area": 98750,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 980,
+            "image_id": 264,
+            "category_id": 36636,
+            "bbox": [
+                590,
+                748,
+                187,
+                235
+            ],
+            "area": 43945,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 18146,
+            "supercategory": "pill",
+            "name": "리리카캡슐 150mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        }
+    ]
+}

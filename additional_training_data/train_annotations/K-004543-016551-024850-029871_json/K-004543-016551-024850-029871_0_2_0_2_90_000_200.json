@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3414,
+            "file_name": "K-004543-016551-024850-029871_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9300,
+            "image_id": 3414,
+            "category_id": 4542,
+            "bbox": [
+                149,
+                146,
+                186,
+                188
+            ],
+            "area": 34968,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9301,
+            "image_id": 3414,
+            "category_id": 16550,
+            "bbox": [
+                570,
+                81,
+                259,
+                441
+            ],
+            "area": 114219,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9302,
+            "image_id": 3414,
+            "category_id": 24849,
+            "bbox": [
+                138,
+                799,
+                211,
+                225
+            ],
+            "area": 47475,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9303,
+            "image_id": 3414,
+            "category_id": 29870,
+            "bbox": [
+                638,
+                814,
+                183,
+                205
+            ],
+            "area": 37515,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

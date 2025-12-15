@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3181,
+            "file_name": "K-004543-010221-016551-024850_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8368,
+            "image_id": 3181,
+            "category_id": 24849,
+            "bbox": [
+                119,
+                299,
+                230,
+                195
+            ],
+            "area": 44850,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8369,
+            "image_id": 3181,
+            "category_id": 16550,
+            "bbox": [
+                641,
+                214,
+                233,
+                434
+            ],
+            "area": 101122,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8370,
+            "image_id": 3181,
+            "category_id": 10220,
+            "bbox": [
+                142,
+                883,
+                204,
+                211
+            ],
+            "area": 43044,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8371,
+            "image_id": 3181,
+            "category_id": 4542,
+            "bbox": [
+                677,
+                840,
+                191,
+                194
+            ],
+            "area": 37054,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

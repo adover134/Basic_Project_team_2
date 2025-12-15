@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5940,
+            "file_name": "K-012420-016548-029345-044199_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17418,
+            "image_id": 5940,
+            "category_id": 12419,
+            "bbox": [
+                149,
+                231,
+                165,
+                167
+            ],
+            "area": 27555,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17419,
+            "image_id": 5940,
+            "category_id": 16547,
+            "bbox": [
+                584,
+                257,
+                211,
+                211
+            ],
+            "area": 44521,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17420,
+            "image_id": 5940,
+            "category_id": 29344,
+            "bbox": [
+                179,
+                841,
+                218,
+                415
+            ],
+            "area": 90470,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17421,
+            "image_id": 5940,
+            "category_id": 44198,
+            "bbox": [
+                660,
+                887,
+                222,
+                219
+            ],
+            "area": 48618,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        }
+    ]
+}

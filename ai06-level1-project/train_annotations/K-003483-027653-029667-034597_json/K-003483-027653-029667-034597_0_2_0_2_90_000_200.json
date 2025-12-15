@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 569,
+            "file_name": "K-003483-027653-029667-034597_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2116,
+            "image_id": 569,
+            "category_id": 34596,
+            "bbox": [
+                109,
+                83,
+                280,
+                457
+            ],
+            "area": 127960,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2117,
+            "image_id": 569,
+            "category_id": 29666,
+            "bbox": [
+                642,
+                189,
+                201,
+                200
+            ],
+            "area": 40200,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2118,
+            "image_id": 569,
+            "category_id": 27652,
+            "bbox": [
+                106,
+                859,
+                188,
+                190
+            ],
+            "area": 35720,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2119,
+            "image_id": 569,
+            "category_id": 3482,
+            "bbox": [
+                598,
+                851,
+                259,
+                155
+            ],
+            "area": 40145,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

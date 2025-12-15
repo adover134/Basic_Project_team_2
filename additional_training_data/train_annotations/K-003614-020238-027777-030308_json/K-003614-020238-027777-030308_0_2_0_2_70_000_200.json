@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2074,
+            "file_name": "K-003614-020238-027777-030308_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5282,
+            "image_id": 2074,
+            "category_id": 27776,
+            "bbox": [
+                646,
+                300,
+                152,
+                183
+            ],
+            "area": 27816,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5283,
+            "image_id": 2074,
+            "category_id": 20237,
+            "bbox": [
+                159,
+                882,
+                204,
+                209
+            ],
+            "area": 42636,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5284,
+            "image_id": 2074,
+            "category_id": 30307,
+            "bbox": [
+                588,
+                728,
+                352,
+                399
+            ],
+            "area": 140448,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        }
+    ]
+}

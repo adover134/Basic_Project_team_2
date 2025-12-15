@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 8056,
+            "file_name": "K-016235-020877-022347-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 23081,
+            "image_id": 8056,
+            "category_id": 20876,
+            "bbox": [
+                600,
+                187,
+                240,
+                277
+            ],
+            "area": 66480,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23082,
+            "image_id": 8056,
+            "category_id": 36636,
+            "bbox": [
+                146,
+                880,
+                166,
+                248
+            ],
+            "area": 41168,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23083,
+            "image_id": 8056,
+            "category_id": 22346,
+            "bbox": [
+                677,
+                832,
+                189,
+                191
+            ],
+            "area": 36099,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        }
+    ]
+}

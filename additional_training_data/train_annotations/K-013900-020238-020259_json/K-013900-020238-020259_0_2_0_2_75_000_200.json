@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6242,
+            "file_name": "K-013900-020238-020259_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18345,
+            "image_id": 6242,
+            "category_id": 20237,
+            "bbox": [
+                129,
+                693,
+                208,
+                211
+            ],
+            "area": 43888,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18346,
+            "image_id": 6242,
+            "category_id": 13899,
+            "bbox": [
+                560,
+                727,
+                202,
+                226
+            ],
+            "area": 45652,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 13899,
+            "supercategory": "pill",
+            "name": "에빅사정(메만틴염산염)(비매품)"
+        }
+    ]
+}

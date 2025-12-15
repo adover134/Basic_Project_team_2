@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3362,
+            "file_name": "K-004543-016548-033208-033878_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9092,
+            "image_id": 3362,
+            "category_id": 4542,
+            "bbox": [
+                142,
+                185,
+                181,
+                183
+            ],
+            "area": 33123,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9093,
+            "image_id": 3362,
+            "category_id": 16547,
+            "bbox": [
+                612,
+                180,
+                207,
+                210
+            ],
+            "area": 43470,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9094,
+            "image_id": 3362,
+            "category_id": 33207,
+            "bbox": [
+                137,
+                752,
+                187,
+                189
+            ],
+            "area": 35343,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9095,
+            "image_id": 3362,
+            "category_id": 33877,
+            "bbox": [
+                632,
+                800,
+                133,
+                200
+            ],
+            "area": 26600,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        }
+    ]
+}

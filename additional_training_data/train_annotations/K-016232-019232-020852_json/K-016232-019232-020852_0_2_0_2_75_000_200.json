@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7595,
+            "file_name": "K-016232-019232-020852_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21786,
+            "image_id": 7595,
+            "category_id": 19231,
+            "bbox": [
+                165,
+                672,
+                226,
+                329
+            ],
+            "area": 74354,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21787,
+            "image_id": 7595,
+            "category_id": 16231,
+            "bbox": [
+                621,
+                717,
+                181,
+                179
+            ],
+            "area": 32399,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6293,
+            "file_name": "K-013900-021325-028424_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18447,
+            "image_id": 6293,
+            "category_id": 21324,
+            "bbox": [
+                173,
+                673,
+                144,
+                226
+            ],
+            "area": 32544,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18448,
+            "image_id": 6293,
+            "category_id": 13899,
+            "bbox": [
+                560,
+                713,
+                189,
+                235
+            ],
+            "area": 44415,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 21324,
+            "supercategory": "pill",
+            "name": "아토르바정 10mg"
+        },
+        {
+            "id": 13899,
+            "supercategory": "pill",
+            "name": "에빅사정(메만틴염산염)(비매품)"
+        }
+    ]
+}

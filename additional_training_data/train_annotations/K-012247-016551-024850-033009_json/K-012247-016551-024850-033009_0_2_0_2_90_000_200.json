@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5823,
+            "file_name": "K-012247-016551-024850-033009_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16950,
+            "image_id": 5823,
+            "category_id": 12246,
+            "bbox": [
+                162,
+                222,
+                187,
+                138
+            ],
+            "area": 25806,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16951,
+            "image_id": 5823,
+            "category_id": 16550,
+            "bbox": [
+                606,
+                66,
+                248,
+                444
+            ],
+            "area": 110112,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16952,
+            "image_id": 5823,
+            "category_id": 24849,
+            "bbox": [
+                191,
+                786,
+                141,
+                272
+            ],
+            "area": 38352,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16953,
+            "image_id": 5823,
+            "category_id": 33008,
+            "bbox": [
+                548,
+                849,
+                339,
+                186
+            ],
+            "area": 63054,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

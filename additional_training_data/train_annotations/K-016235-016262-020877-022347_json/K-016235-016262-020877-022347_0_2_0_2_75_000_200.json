@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7805,
+            "file_name": "K-016235-016262-020877-022347_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22328,
+            "image_id": 7805,
+            "category_id": 22346,
+            "bbox": [
+                131,
+                208,
+                182,
+                182
+            ],
+            "area": 33124,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22329,
+            "image_id": 7805,
+            "category_id": 16261,
+            "bbox": [
+                577,
+                171,
+                208,
+                212
+            ],
+            "area": 44096,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22330,
+            "image_id": 7805,
+            "category_id": 20876,
+            "bbox": [
+                119,
+                797,
+                246,
+                295
+            ],
+            "area": 72570,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4858,
+            "file_name": "K-010224-016548-029451-029871_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13780,
+            "image_id": 4858,
+            "category_id": 29870,
+            "bbox": [
+                141,
+                279,
+                221,
+                150
+            ],
+            "area": 33150,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13781,
+            "image_id": 4858,
+            "category_id": 29450,
+            "bbox": [
+                521,
+                253,
+                365,
+                207
+            ],
+            "area": 75555,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13782,
+            "image_id": 4858,
+            "category_id": 16547,
+            "bbox": [
+                91,
+                814,
+                216,
+                220
+            ],
+            "area": 47520,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13783,
+            "image_id": 4858,
+            "category_id": 10223,
+            "bbox": [
+                552,
+                807,
+                379,
+                209
+            ],
+            "area": 79211,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        }
+    ]
+}

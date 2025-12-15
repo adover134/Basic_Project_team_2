@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7183,
+            "file_name": "K-015710-027777-028763-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20827,
+            "image_id": 7183,
+            "category_id": 27776,
+            "bbox": [
+                649,
+                301,
+                153,
+                183
+            ],
+            "area": 27999,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20828,
+            "image_id": 7183,
+            "category_id": 35205,
+            "bbox": [
+                175,
+                728,
+                153,
+                390
+            ],
+            "area": 59670,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20829,
+            "image_id": 7183,
+            "category_id": 28762,
+            "bbox": [
+                683,
+                881,
+                191,
+                192
+            ],
+            "area": 36672,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

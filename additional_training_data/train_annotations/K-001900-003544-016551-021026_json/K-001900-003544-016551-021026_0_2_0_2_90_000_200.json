@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1380,
+            "file_name": "K-001900-003544-016551-021026_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2862,
+            "image_id": 1380,
+            "category_id": 3543,
+            "bbox": [
+                97,
+                174,
+                189,
+                189
+            ],
+            "area": 35721,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2863,
+            "image_id": 1380,
+            "category_id": 16550,
+            "bbox": [
+                559,
+                124,
+                383,
+                355
+            ],
+            "area": 135965,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2864,
+            "image_id": 1380,
+            "category_id": 21025,
+            "bbox": [
+                146,
+                876,
+                161,
+                163
+            ],
+            "area": 26243,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2865,
+            "image_id": 1380,
+            "category_id": 1899,
+            "bbox": [
+                632,
+                899,
+                186,
+                122
+            ],
+            "area": 22692,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

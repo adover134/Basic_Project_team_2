@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1501,
+            "file_name": "K-001900-010224-016551-027926_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3346,
+            "image_id": 1501,
+            "category_id": 27925,
+            "bbox": [
+                180,
+                165,
+                206,
+                421
+            ],
+            "area": 86726,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3347,
+            "image_id": 1501,
+            "category_id": 16550,
+            "bbox": [
+                619,
+                181,
+                247,
+                422
+            ],
+            "area": 104234,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3348,
+            "image_id": 1501,
+            "category_id": 10223,
+            "bbox": [
+                178,
+                744,
+                196,
+                383
+            ],
+            "area": 75068,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3349,
+            "image_id": 1501,
+            "category_id": 1899,
+            "bbox": [
+                644,
+                902,
+                189,
+                116
+            ],
+            "area": 21924,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

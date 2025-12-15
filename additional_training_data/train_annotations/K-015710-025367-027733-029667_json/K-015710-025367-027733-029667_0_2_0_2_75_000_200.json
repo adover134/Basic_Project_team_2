@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7058,
+            "file_name": "K-015710-025367-027733-029667_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20452,
+            "image_id": 7058,
+            "category_id": 25366,
+            "bbox": [
+                85,
+                90,
+                382,
+                378
+            ],
+            "area": 144396,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20453,
+            "image_id": 7058,
+            "category_id": 29666,
+            "bbox": [
+                627,
+                153,
+                196,
+                201
+            ],
+            "area": 39396,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20454,
+            "image_id": 7058,
+            "category_id": 27732,
+            "bbox": [
+                76,
+                786,
+                297,
+                247
+            ],
+            "area": 73359,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        }
+    ]
+}

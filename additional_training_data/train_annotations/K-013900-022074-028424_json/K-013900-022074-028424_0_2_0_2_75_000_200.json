@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6302,
+            "file_name": "K-013900-022074-028424_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18465,
+            "image_id": 6302,
+            "category_id": 22073,
+            "bbox": [
+                157,
+                737,
+                173,
+                179
+            ],
+            "area": 30967,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18466,
+            "image_id": 6302,
+            "category_id": 13899,
+            "bbox": [
+                628,
+                664,
+                129,
+                263
+            ],
+            "area": 33927,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22073,
+            "supercategory": "pill",
+            "name": "리피로우정 20mg"
+        },
+        {
+            "id": 13899,
+            "supercategory": "pill",
+            "name": "에빅사정(메만틴염산염)(비매품)"
+        }
+    ]
+}

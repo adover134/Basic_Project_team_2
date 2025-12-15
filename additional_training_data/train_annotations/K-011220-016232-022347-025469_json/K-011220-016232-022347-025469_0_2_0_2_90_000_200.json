@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 4986,
+            "file_name": "K-011220-016232-022347-025469_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14254,
+            "image_id": 4986,
+            "category_id": 22346,
+            "bbox": [
+                104,
+                216,
+                185,
+                186
+            ],
+            "area": 34410,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14255,
+            "image_id": 4986,
+            "category_id": 16231,
+            "bbox": [
+                618,
+                233,
+                172,
+                175
+            ],
+            "area": 30100,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14256,
+            "image_id": 4986,
+            "category_id": 25468,
+            "bbox": [
+                60,
+                867,
+                341,
+                198
+            ],
+            "area": 67518,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        }
+    ]
+}

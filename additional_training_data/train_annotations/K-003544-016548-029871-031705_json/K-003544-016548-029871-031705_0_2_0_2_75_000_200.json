@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1631,
+            "file_name": "K-003544-016548-029871-031705_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3866,
+            "image_id": 1631,
+            "category_id": 3543,
+            "bbox": [
+                158,
+                279,
+                186,
+                188
+            ],
+            "area": 34968,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3867,
+            "image_id": 1631,
+            "category_id": 16547,
+            "bbox": [
+                575,
+                242,
+                207,
+                212
+            ],
+            "area": 43884,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3868,
+            "image_id": 1631,
+            "category_id": 29870,
+            "bbox": [
+                135,
+                810,
+                163,
+                224
+            ],
+            "area": 36512,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3869,
+            "image_id": 1631,
+            "category_id": 31704,
+            "bbox": [
+                555,
+                716,
+                224,
+                422
+            ],
+            "area": 94528,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        }
+    ]
+}

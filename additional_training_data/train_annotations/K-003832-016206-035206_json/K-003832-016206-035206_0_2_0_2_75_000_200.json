@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 2840,
+            "file_name": "K-003832-016206-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7470,
+            "image_id": 2840,
+            "category_id": 3831,
+            "bbox": [
+                352,
+                67,
+                252,
+                397
+            ],
+            "area": 100044,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7471,
+            "image_id": 2840,
+            "category_id": 3831,
+            "bbox": [
+                468,
+                612,
+                317,
+                339
+            ],
+            "area": 107463,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        }
+    ]
+}

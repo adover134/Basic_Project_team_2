@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3220,
+            "file_name": "K-004543-010224-016551-029871_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8524,
+            "image_id": 3220,
+            "category_id": 29870,
+            "bbox": [
+                180,
+                285,
+                180,
+                200
+            ],
+            "area": 36000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8525,
+            "image_id": 3220,
+            "category_id": 16550,
+            "bbox": [
+                618,
+                152,
+                262,
+                413
+            ],
+            "area": 108206,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8526,
+            "image_id": 3220,
+            "category_id": 10223,
+            "bbox": [
+                160,
+                765,
+                197,
+                384
+            ],
+            "area": 75648,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8527,
+            "image_id": 3220,
+            "category_id": 4542,
+            "bbox": [
+                658,
+                931,
+                194,
+                197
+            ],
+            "area": 38218,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

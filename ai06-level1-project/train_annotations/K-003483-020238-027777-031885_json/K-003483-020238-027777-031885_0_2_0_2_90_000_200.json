@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 483,
+            "file_name": "K-003483-020238-027777-031885_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1772,
+            "image_id": 483,
+            "category_id": 31884,
+            "bbox": [
+                133,
+                83,
+                360,
+                482
+            ],
+            "area": 173520,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1773,
+            "image_id": 483,
+            "category_id": 20237,
+            "bbox": [
+                615,
+                203,
+                200,
+                199
+            ],
+            "area": 39800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1774,
+            "image_id": 483,
+            "category_id": 27776,
+            "bbox": [
+                186,
+                820,
+                155,
+                193
+            ],
+            "area": 29915,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1775,
+            "image_id": 483,
+            "category_id": 3482,
+            "bbox": [
+                574,
+                820,
+                243,
+                205
+            ],
+            "area": 49815,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

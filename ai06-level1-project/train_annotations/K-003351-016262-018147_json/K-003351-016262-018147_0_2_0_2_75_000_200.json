@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 234,
+            "file_name": "K-003351-016262-018147_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 888,
+            "image_id": 234,
+            "category_id": 3350,
+            "bbox": [
+                329,
+                167,
+                165,
+                171
+            ],
+            "area": 28215,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 889,
+            "image_id": 234,
+            "category_id": 16261,
+            "bbox": [
+                47,
+                711,
+                221,
+                224
+            ],
+            "area": 49504,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 890,
+            "image_id": 234,
+            "category_id": 18146,
+            "bbox": [
+                535,
+                636,
+                175,
+                415
+            ],
+            "area": 72625,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 18146,
+            "supercategory": "pill",
+            "name": "리리카캡슐 150mg"
+        }
+    ]
+}

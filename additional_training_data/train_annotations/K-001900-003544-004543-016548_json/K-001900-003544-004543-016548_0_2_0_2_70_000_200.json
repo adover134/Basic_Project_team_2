@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1348,
+            "file_name": "K-001900-003544-004543-016548_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2734,
+            "image_id": 1348,
+            "category_id": 16547,
+            "bbox": [
+                158,
+                264,
+                205,
+                207
+            ],
+            "area": 42435,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2735,
+            "image_id": 1348,
+            "category_id": 4542,
+            "bbox": [
+                655,
+                300,
+                182,
+                182
+            ],
+            "area": 33124,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2736,
+            "image_id": 1348,
+            "category_id": 3543,
+            "bbox": [
+                109,
+                874,
+                193,
+                195
+            ],
+            "area": 37635,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2737,
+            "image_id": 1348,
+            "category_id": 1899,
+            "bbox": [
+                704,
+                821,
+                148,
+                190
+            ],
+            "area": 28120,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

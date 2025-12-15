@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5921,
+            "file_name": "K-012420-016548-024850-029451_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17342,
+            "image_id": 5921,
+            "category_id": 12419,
+            "bbox": [
+                129,
+                214,
+                164,
+                163
+            ],
+            "area": 26732,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17343,
+            "image_id": 5921,
+            "category_id": 16547,
+            "bbox": [
+                557,
+                230,
+                207,
+                211
+            ],
+            "area": 43677,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17344,
+            "image_id": 5921,
+            "category_id": 24849,
+            "bbox": [
+                48,
+                842,
+                275,
+                150
+            ],
+            "area": 41250,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17345,
+            "image_id": 5921,
+            "category_id": 29450,
+            "bbox": [
+                536,
+                753,
+                319,
+                315
+            ],
+            "area": 100485,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

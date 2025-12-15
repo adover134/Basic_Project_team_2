@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5778,
+            "file_name": "K-012247-016551-019607-031705_0_2_1_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16770,
+            "image_id": 5778,
+            "category_id": 12246,
+            "bbox": [
+                190,
+                245,
+                109,
+                187
+            ],
+            "area": 20383,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16771,
+            "image_id": 5778,
+            "category_id": 16550,
+            "bbox": [
+                648,
+                75,
+                240,
+                447
+            ],
+            "area": 107280,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16772,
+            "image_id": 5778,
+            "category_id": 19606,
+            "bbox": [
+                182,
+                865,
+                140,
+                141
+            ],
+            "area": 19740,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16773,
+            "image_id": 5778,
+            "category_id": 31704,
+            "bbox": [
+                554,
+                779,
+                399,
+                268
+            ],
+            "area": 106932,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        }
+    ]
+}

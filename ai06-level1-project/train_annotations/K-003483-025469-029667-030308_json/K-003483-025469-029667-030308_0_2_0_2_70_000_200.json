@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 554,
+            "file_name": "K-003483-025469-029667-030308_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2056,
+            "image_id": 554,
+            "category_id": 3482,
+            "bbox": [
+                139,
+                283,
+                248,
+                169
+            ],
+            "area": 41912,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2057,
+            "image_id": 554,
+            "category_id": 25468,
+            "bbox": [
+                593,
+                195,
+                294,
+                266
+            ],
+            "area": 78204,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2058,
+            "image_id": 554,
+            "category_id": 29666,
+            "bbox": [
+                152,
+                880,
+                204,
+                212
+            ],
+            "area": 43248,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2059,
+            "image_id": 554,
+            "category_id": 30307,
+            "bbox": [
+                617,
+                800,
+                323,
+                422
+            ],
+            "area": 136306,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        }
+    ]
+}

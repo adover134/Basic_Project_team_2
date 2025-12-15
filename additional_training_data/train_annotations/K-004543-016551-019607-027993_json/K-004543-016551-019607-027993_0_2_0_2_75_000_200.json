@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3383,
+            "file_name": "K-004543-016551-019607-027993_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9176,
+            "image_id": 3383,
+            "category_id": 4542,
+            "bbox": [
+                102,
+                193,
+                182,
+                185
+            ],
+            "area": 33670,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9177,
+            "image_id": 3383,
+            "category_id": 16550,
+            "bbox": [
+                590,
+                79,
+                245,
+                433
+            ],
+            "area": 106085,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9178,
+            "image_id": 3383,
+            "category_id": 19606,
+            "bbox": [
+                140,
+                802,
+                143,
+                143
+            ],
+            "area": 20449,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9179,
+            "image_id": 3383,
+            "category_id": 27992,
+            "bbox": [
+                507,
+                864,
+                310,
+                145
+            ],
+            "area": 44950,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        }
+    ]
+}

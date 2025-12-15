@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5674,
+            "file_name": "K-012247-016548-021026-021771_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16354,
+            "image_id": 5674,
+            "category_id": 12246,
+            "bbox": [
+                196,
+                315,
+                183,
+                138
+            ],
+            "area": 25254,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16355,
+            "image_id": 5674,
+            "category_id": 21025,
+            "bbox": [
+                686,
+                290,
+                159,
+                158
+            ],
+            "area": 25122,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16356,
+            "image_id": 5674,
+            "category_id": 16547,
+            "bbox": [
+                115,
+                854,
+                216,
+                222
+            ],
+            "area": 47952,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16357,
+            "image_id": 5674,
+            "category_id": 21770,
+            "bbox": [
+                669,
+                912,
+                177,
+                179
+            ],
+            "area": 31683,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4602,
+            "file_name": "K-010221-016548-027926-033208_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12756,
+            "image_id": 4602,
+            "category_id": 10220,
+            "bbox": [
+                136,
+                189,
+                199,
+                199
+            ],
+            "area": 39601,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12757,
+            "image_id": 4602,
+            "category_id": 16547,
+            "bbox": [
+                647,
+                165,
+                211,
+                212
+            ],
+            "area": 44732,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12758,
+            "image_id": 4602,
+            "category_id": 27925,
+            "bbox": [
+                126,
+                685,
+                220,
+                443
+            ],
+            "area": 97460,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12759,
+            "image_id": 4602,
+            "category_id": 33207,
+            "bbox": [
+                632,
+                845,
+                183,
+                185
+            ],
+            "area": 33855,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}

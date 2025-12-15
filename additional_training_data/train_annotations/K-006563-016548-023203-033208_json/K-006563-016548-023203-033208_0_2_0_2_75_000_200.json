@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4382,
+            "file_name": "K-006563-016548-023203-033208_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11876,
+            "image_id": 4382,
+            "category_id": 33207,
+            "bbox": [
+                107,
+                180,
+                180,
+                181
+            ],
+            "area": 32580,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11877,
+            "image_id": 4382,
+            "category_id": 16547,
+            "bbox": [
+                589,
+                159,
+                206,
+                209
+            ],
+            "area": 43054,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11878,
+            "image_id": 4382,
+            "category_id": 6562,
+            "bbox": [
+                176,
+                689,
+                182,
+                339
+            ],
+            "area": 61698,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11879,
+            "image_id": 4382,
+            "category_id": 23202,
+            "bbox": [
+                629,
+                857,
+                123,
+                124
+            ],
+            "area": 15252,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        }
+    ]
+}

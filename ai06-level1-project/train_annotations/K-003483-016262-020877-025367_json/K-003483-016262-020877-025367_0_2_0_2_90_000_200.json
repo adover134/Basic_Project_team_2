@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 390,
+            "file_name": "K-003483-016262-020877-025367_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1400,
+            "image_id": 390,
+            "category_id": 25366,
+            "bbox": [
+                44,
+                125,
+                376,
+                403
+            ],
+            "area": 151528,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1401,
+            "image_id": 390,
+            "category_id": 16261,
+            "bbox": [
+                643,
+                201,
+                212,
+                213
+            ],
+            "area": 45156,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1402,
+            "image_id": 390,
+            "category_id": 20876,
+            "bbox": [
+                127,
+                780,
+                304,
+                215
+            ],
+            "area": 65360,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1403,
+            "image_id": 390,
+            "category_id": 3482,
+            "bbox": [
+                656,
+                756,
+                187,
+                253
+            ],
+            "area": 47311,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

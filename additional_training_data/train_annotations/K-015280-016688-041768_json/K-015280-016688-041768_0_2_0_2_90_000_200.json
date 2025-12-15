@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6408,
+            "file_name": "K-015280-016688-041768_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18677,
+            "image_id": 6408,
+            "category_id": 16687,
+            "bbox": [
+                175,
+                640,
+                230,
+                592
+            ],
+            "area": 136160,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18678,
+            "image_id": 6408,
+            "category_id": 41767,
+            "bbox": [
+                600,
+                817,
+                273,
+                264
+            ],
+            "area": 72072,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16687,
+            "supercategory": "pill",
+            "name": "오마코연질캡슐(오메가-3-산에틸에스테르90)"
+        },
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        }
+    ]
+}

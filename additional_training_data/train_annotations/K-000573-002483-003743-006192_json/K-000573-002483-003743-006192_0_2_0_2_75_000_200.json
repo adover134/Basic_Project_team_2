@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 632,
+            "file_name": "K-000573-002483-003743-006192_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1188,
+            "image_id": 632,
+            "category_id": 6191,
+            "bbox": [
+                121,
+                172,
+                265,
+                439
+            ],
+            "area": 116335,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1189,
+            "image_id": 632,
+            "category_id": 2482,
+            "bbox": [
+                620,
+                142,
+                183,
+                417
+            ],
+            "area": 76311,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1190,
+            "image_id": 632,
+            "category_id": 3742,
+            "bbox": [
+                144,
+                804,
+                300,
+                303
+            ],
+            "area": 90900,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1466,
+            "file_name": "K-001900-006563-016551-019607_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3206,
+            "image_id": 1466,
+            "category_id": 19606,
+            "bbox": [
+                138,
+                245,
+                138,
+                138
+            ],
+            "area": 19044,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3207,
+            "image_id": 1466,
+            "category_id": 16550,
+            "bbox": [
+                514,
+                102,
+                382,
+                345
+            ],
+            "area": 131790,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3208,
+            "image_id": 1466,
+            "category_id": 6562,
+            "bbox": [
+                170,
+                682,
+                183,
+                339
+            ],
+            "area": 62037,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3209,
+            "image_id": 1466,
+            "category_id": 1899,
+            "bbox": [
+                604,
+                830,
+                180,
+                165
+            ],
+            "area": 29700,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 1010,
+            "file_name": "K-001866-004378-012778-038954_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2059,
+            "image_id": 1010,
+            "category_id": 12777,
+            "bbox": [
+                166,
+                204,
+                224,
+                444
+            ],
+            "area": 99456,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2060,
+            "image_id": 1010,
+            "category_id": 4377,
+            "bbox": [
+                680,
+                733,
+                179,
+                420
+            ],
+            "area": 75180,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        },
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        }
+    ]
+}

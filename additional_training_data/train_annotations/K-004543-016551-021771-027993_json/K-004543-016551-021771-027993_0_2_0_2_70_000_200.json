@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3394,
+            "file_name": "K-004543-016551-021771-027993_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9220,
+            "image_id": 3394,
+            "category_id": 27992,
+            "bbox": [
+                165,
+                263,
+                297,
+                144
+            ],
+            "area": 42768,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9221,
+            "image_id": 3394,
+            "category_id": 21770,
+            "bbox": [
+                689,
+                326,
+                169,
+                168
+            ],
+            "area": 28392,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9222,
+            "image_id": 3394,
+            "category_id": 16550,
+            "bbox": [
+                99,
+                745,
+                243,
+                460
+            ],
+            "area": 111780,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9223,
+            "image_id": 3394,
+            "category_id": 4542,
+            "bbox": [
+                701,
+                843,
+                190,
+                195
+            ],
+            "area": 37050,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

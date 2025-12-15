@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 4133,
+            "file_name": "K-005391-032310-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10965,
+            "image_id": 4133,
+            "category_id": 32309,
+            "bbox": [
+                95,
+                678,
+                235,
+                353
+            ],
+            "area": 82955,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10966,
+            "image_id": 4133,
+            "category_id": 35205,
+            "bbox": [
+                499,
+                626,
+                334,
+                325
+            ],
+            "area": 108550,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 32309,
+            "supercategory": "pill",
+            "name": "글리아타민연질캡슐"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        }
+    ]
+}

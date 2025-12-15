@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7931,
+            "file_name": "K-016235-019861-028763-029667_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22706,
+            "image_id": 7931,
+            "category_id": 28762,
+            "bbox": [
+                129,
+                205,
+                184,
+                185
+            ],
+            "area": 34040,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22707,
+            "image_id": 7931,
+            "category_id": 29666,
+            "bbox": [
+                601,
+                220,
+                197,
+                202
+            ],
+            "area": 39794,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22708,
+            "image_id": 7931,
+            "category_id": 19860,
+            "bbox": [
+                94,
+                837,
+                207,
+                161
+            ],
+            "area": 33327,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

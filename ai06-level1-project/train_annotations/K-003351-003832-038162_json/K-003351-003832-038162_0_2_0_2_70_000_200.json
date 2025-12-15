@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 207,
+            "file_name": "K-003351-003832-038162_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 807,
+            "image_id": 207,
+            "category_id": 38161,
+            "bbox": [
+                180,
+                309,
+                162,
+                273
+            ],
+            "area": 44226,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 808,
+            "image_id": 207,
+            "category_id": 3831,
+            "bbox": [
+                535,
+                277,
+                267,
+                390
+            ],
+            "area": 104130,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 809,
+            "image_id": 207,
+            "category_id": 3350,
+            "bbox": [
+                382,
+                839,
+                169,
+                178
+            ],
+            "area": 30082,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 38161,
+            "supercategory": "pill",
+            "name": "로수바미브정 10/20mg"
+        },
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

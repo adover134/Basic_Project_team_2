@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 594,
+            "file_name": "K-003483-027777-029667-034597_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2216,
+            "image_id": 594,
+            "category_id": 34596,
+            "bbox": [
+                86,
+                61,
+                336,
+                425
+            ],
+            "area": 142800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2217,
+            "image_id": 594,
+            "category_id": 29666,
+            "bbox": [
+                611,
+                169,
+                196,
+                200
+            ],
+            "area": 39200,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2218,
+            "image_id": 594,
+            "category_id": 27776,
+            "bbox": [
+                151,
+                779,
+                159,
+                197
+            ],
+            "area": 31323,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2219,
+            "image_id": 594,
+            "category_id": 3482,
+            "bbox": [
+                542,
+                782,
+                248,
+                211
+            ],
+            "area": 52328,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

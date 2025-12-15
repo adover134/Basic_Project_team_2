@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 861,
+            "file_name": "K-000573-012778-025438-038954_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1686,
+            "image_id": 861,
+            "category_id": 12777,
+            "bbox": [
+                639,
+                108,
+                228,
+                455
+            ],
+            "area": 103740,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1687,
+            "image_id": 861,
+            "category_id": 25437,
+            "bbox": [
+                92,
+                827,
+                238,
+                238
+            ],
+            "area": 56644,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        }
+    ]
+}

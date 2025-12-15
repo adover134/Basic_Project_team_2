@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1386,
+            "file_name": "K-001900-003544-016551-029345_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2886,
+            "image_id": 1386,
+            "category_id": 1899,
+            "bbox": [
+                190,
+                276,
+                107,
+                182
+            ],
+            "area": 19474,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2887,
+            "image_id": 1386,
+            "category_id": 3543,
+            "bbox": [
+                613,
+                233,
+                189,
+                188
+            ],
+            "area": 35532,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2888,
+            "image_id": 1386,
+            "category_id": 16550,
+            "bbox": [
+                84,
+                683,
+                249,
+                445
+            ],
+            "area": 110805,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2889,
+            "image_id": 1386,
+            "category_id": 29344,
+            "bbox": [
+                592,
+                735,
+                279,
+                395
+            ],
+            "area": 110205,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        }
+    ]
+}

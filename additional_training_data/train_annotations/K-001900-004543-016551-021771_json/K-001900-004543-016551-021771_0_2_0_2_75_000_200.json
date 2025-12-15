@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1427,
+            "file_name": "K-001900-004543-016551-021771_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3050,
+            "image_id": 1427,
+            "category_id": 1899,
+            "bbox": [
+                148,
+                219,
+                112,
+                183
+            ],
+            "area": 20496,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3051,
+            "image_id": 1427,
+            "category_id": 4542,
+            "bbox": [
+                587,
+                212,
+                182,
+                184
+            ],
+            "area": 33488,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3052,
+            "image_id": 1427,
+            "category_id": 16550,
+            "bbox": [
+                85,
+                677,
+                240,
+                458
+            ],
+            "area": 109920,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3053,
+            "image_id": 1427,
+            "category_id": 21770,
+            "bbox": [
+                613,
+                819,
+                174,
+                177
+            ],
+            "area": 30798,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        }
+    ]
+}

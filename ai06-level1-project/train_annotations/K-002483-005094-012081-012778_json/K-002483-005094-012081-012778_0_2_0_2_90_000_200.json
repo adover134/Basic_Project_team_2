@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 145,
+            "file_name": "K-002483-005094-012081-012778_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 577,
+            "image_id": 145,
+            "category_id": 12777,
+            "bbox": [
+                41,
+                154,
+                354,
+                391
+            ],
+            "area": 138414,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 578,
+            "image_id": 145,
+            "category_id": 2482,
+            "bbox": [
+                648,
+                61,
+                205,
+                438
+            ],
+            "area": 89790,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 579,
+            "image_id": 145,
+            "category_id": 5093,
+            "bbox": [
+                117,
+                814,
+                251,
+                252
+            ],
+            "area": 63252,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 580,
+            "image_id": 145,
+            "category_id": 12080,
+            "bbox": [
+                660,
+                716,
+                196,
+                409
+            ],
+            "area": 80164,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

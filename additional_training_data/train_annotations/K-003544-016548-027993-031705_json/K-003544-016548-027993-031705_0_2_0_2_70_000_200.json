@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1612,
+            "file_name": "K-003544-016548-027993-031705_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3790,
+            "image_id": 1612,
+            "category_id": 31704,
+            "bbox": [
+                144,
+                225,
+                223,
+                393
+            ],
+            "area": 87639,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3791,
+            "image_id": 1612,
+            "category_id": 27992,
+            "bbox": [
+                645,
+                187,
+                157,
+                287
+            ],
+            "area": 45059,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3792,
+            "image_id": 1612,
+            "category_id": 16547,
+            "bbox": [
+                100,
+                816,
+                217,
+                220
+            ],
+            "area": 47740,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3793,
+            "image_id": 1612,
+            "category_id": 3543,
+            "bbox": [
+                660,
+                826,
+                194,
+                196
+            ],
+            "area": 38024,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        }
+    ]
+}

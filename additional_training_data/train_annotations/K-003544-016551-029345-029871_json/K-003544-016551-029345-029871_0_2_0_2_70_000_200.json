@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1690,
+            "file_name": "K-003544-016551-029345-029871_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4102,
+            "image_id": 1690,
+            "category_id": 29870,
+            "bbox": [
+                124,
+                309,
+                220,
+                152
+            ],
+            "area": 33440,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4103,
+            "image_id": 1690,
+            "category_id": 29344,
+            "bbox": [
+                655,
+                131,
+                222,
+                383
+            ],
+            "area": 85026,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4104,
+            "image_id": 1690,
+            "category_id": 16550,
+            "bbox": [
+                152,
+                732,
+                242,
+                462
+            ],
+            "area": 111804,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4105,
+            "image_id": 1690,
+            "category_id": 3543,
+            "bbox": [
+                653,
+                799,
+                193,
+                195
+            ],
+            "area": 37635,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        }
+    ]
+}

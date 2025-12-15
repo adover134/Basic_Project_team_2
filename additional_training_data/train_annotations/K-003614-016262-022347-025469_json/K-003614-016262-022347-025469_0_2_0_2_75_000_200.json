@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 1859,
+            "file_name": "K-003614-016262-022347-025469_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4637,
+            "image_id": 1859,
+            "category_id": 22346,
+            "bbox": [
+                121,
+                220,
+                182,
+                183
+            ],
+            "area": 33306,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4638,
+            "image_id": 1859,
+            "category_id": 16261,
+            "bbox": [
+                566,
+                215,
+                208,
+                211
+            ],
+            "area": 43888,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4639,
+            "image_id": 1859,
+            "category_id": 25468,
+            "bbox": [
+                49,
+                817,
+                339,
+                231
+            ],
+            "area": 78309,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        }
+    ]
+}

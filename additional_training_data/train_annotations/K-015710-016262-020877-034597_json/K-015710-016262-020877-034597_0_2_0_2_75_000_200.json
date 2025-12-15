@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6716,
+            "file_name": "K-015710-016262-020877-034597_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19426,
+            "image_id": 6716,
+            "category_id": 34596,
+            "bbox": [
+                79,
+                170,
+                418,
+                353
+            ],
+            "area": 147554,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19427,
+            "image_id": 6716,
+            "category_id": 16261,
+            "bbox": [
+                565,
+                222,
+                207,
+                212
+            ],
+            "area": 43884,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19428,
+            "image_id": 6716,
+            "category_id": 20876,
+            "bbox": [
+                83,
+                811,
+                281,
+                264
+            ],
+            "area": 74184,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4546,
+            "file_name": "K-010221-016548-019607-029345_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12532,
+            "image_id": 4546,
+            "category_id": 29344,
+            "bbox": [
+                151,
+                181,
+                225,
+                382
+            ],
+            "area": 85950,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12533,
+            "image_id": 4546,
+            "category_id": 19606,
+            "bbox": [
+                646,
+                315,
+                139,
+                137
+            ],
+            "area": 19043,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12534,
+            "image_id": 4546,
+            "category_id": 16547,
+            "bbox": [
+                173,
+                858,
+                217,
+                221
+            ],
+            "area": 47957,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12535,
+            "image_id": 4546,
+            "category_id": 10220,
+            "bbox": [
+                630,
+                818,
+                204,
+                209
+            ],
+            "area": 42636,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5526,
+            "file_name": "K-011220-027733-028763-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15874,
+            "image_id": 5526,
+            "category_id": 28762,
+            "bbox": [
+                142,
+                220,
+                188,
+                187
+            ],
+            "area": 35156,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15875,
+            "image_id": 5526,
+            "category_id": 36636,
+            "bbox": [
+                678,
+                130,
+                168,
+                236
+            ],
+            "area": 39648,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15876,
+            "image_id": 5526,
+            "category_id": 27732,
+            "bbox": [
+                114,
+                829,
+                289,
+                248
+            ],
+            "area": 71672,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        }
+    ]
+}

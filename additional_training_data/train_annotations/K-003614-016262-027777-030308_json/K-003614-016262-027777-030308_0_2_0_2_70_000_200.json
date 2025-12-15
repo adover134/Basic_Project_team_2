@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 1918,
+            "file_name": "K-003614-016262-027777-030308_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4814,
+            "image_id": 1918,
+            "category_id": 27776,
+            "bbox": [
+                646,
+                299,
+                152,
+                184
+            ],
+            "area": 27968,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4815,
+            "image_id": 1918,
+            "category_id": 16261,
+            "bbox": [
+                214,
+                868,
+                217,
+                222
+            ],
+            "area": 48174,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4816,
+            "image_id": 1918,
+            "category_id": 30307,
+            "bbox": [
+                582,
+                698,
+                267,
+                438
+            ],
+            "area": 116946,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        }
+    ]
+}

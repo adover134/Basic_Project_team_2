@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4893,
+            "file_name": "K-010224-016551-023203-029345_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13920,
+            "image_id": 4893,
+            "category_id": 10223,
+            "bbox": [
+                165,
+                132,
+                217,
+                366
+            ],
+            "area": 79422,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13921,
+            "image_id": 4893,
+            "category_id": 16550,
+            "bbox": [
+                676,
+                38,
+                252,
+                446
+            ],
+            "area": 112392,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13922,
+            "image_id": 4893,
+            "category_id": 23202,
+            "bbox": [
+                162,
+                891,
+                118,
+                118
+            ],
+            "area": 13924,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13923,
+            "image_id": 4893,
+            "category_id": 29344,
+            "bbox": [
+                627,
+                771,
+                240,
+                409
+            ],
+            "area": 98160,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        }
+    ]
+}

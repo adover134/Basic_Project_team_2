@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6547,
+            "file_name": "K-015280-031863-038162_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18949,
+            "image_id": 6547,
+            "category_id": 38161,
+            "bbox": [
+                226,
+                302,
+                165,
+                271
+            ],
+            "area": 44715,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18950,
+            "image_id": 6547,
+            "category_id": 31862,
+            "bbox": [
+                646,
+                333,
+                187,
+                192
+            ],
+            "area": 35904,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 38161,
+            "supercategory": "pill",
+            "name": "로수바미브정 10/20mg"
+        },
+        {
+            "id": 31862,
+            "supercategory": "pill",
+            "name": "아질렉트정(라사길린메실산염)"
+        }
+    ]
+}

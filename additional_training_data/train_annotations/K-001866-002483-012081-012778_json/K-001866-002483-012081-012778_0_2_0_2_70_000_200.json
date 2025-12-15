@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 940,
+            "file_name": "K-001866-002483-012081-012778_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1883,
+            "image_id": 940,
+            "category_id": 12080,
+            "bbox": [
+                92,
+                135,
+                201,
+                387
+            ],
+            "area": 77787,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1884,
+            "image_id": 940,
+            "category_id": 2482,
+            "bbox": [
+                101,
+                660,
+                174,
+                442
+            ],
+            "area": 76908,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1885,
+            "image_id": 940,
+            "category_id": 12777,
+            "bbox": [
+                515,
+                703,
+                311,
+                437
+            ],
+            "area": 135907,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

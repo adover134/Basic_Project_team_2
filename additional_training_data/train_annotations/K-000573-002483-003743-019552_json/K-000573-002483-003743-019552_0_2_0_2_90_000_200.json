@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 639,
+            "file_name": "K-000573-002483-003743-019552_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1209,
+            "image_id": 639,
+            "category_id": 19551,
+            "bbox": [
+                151,
+                152,
+                339,
+                375
+            ],
+            "area": 127125,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1210,
+            "image_id": 639,
+            "category_id": 2482,
+            "bbox": [
+                630,
+                98,
+                179,
+                442
+            ],
+            "area": 79118,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1211,
+            "image_id": 639,
+            "category_id": 3742,
+            "bbox": [
+                142,
+                794,
+                295,
+                295
+            ],
+            "area": 87025,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        }
+    ]
+}

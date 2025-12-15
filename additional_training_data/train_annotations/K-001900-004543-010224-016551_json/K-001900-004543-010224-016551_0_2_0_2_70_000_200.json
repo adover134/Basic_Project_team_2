@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1399,
+            "file_name": "K-001900-004543-010224-016551_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2938,
+            "image_id": 1399,
+            "category_id": 16550,
+            "bbox": [
+                81,
+                164,
+                307,
+                404
+            ],
+            "area": 124028,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2939,
+            "image_id": 1399,
+            "category_id": 10223,
+            "bbox": [
+                676,
+                256,
+                188,
+                360
+            ],
+            "area": 67680,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2940,
+            "image_id": 1399,
+            "category_id": 4542,
+            "bbox": [
+                140,
+                930,
+                192,
+                195
+            ],
+            "area": 37440,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2941,
+            "image_id": 1399,
+            "category_id": 1899,
+            "bbox": [
+                717,
+                856,
+                116,
+                195
+            ],
+            "area": 22620,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

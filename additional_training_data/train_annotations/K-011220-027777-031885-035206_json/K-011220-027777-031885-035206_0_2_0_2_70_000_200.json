@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5578,
+            "file_name": "K-011220-027777-031885-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16030,
+            "image_id": 5578,
+            "category_id": 27776,
+            "bbox": [
+                647,
+                296,
+                153,
+                184
+            ],
+            "area": 28152,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16031,
+            "image_id": 5578,
+            "category_id": 35205,
+            "bbox": [
+                158,
+                730,
+                204,
+                385
+            ],
+            "area": 78540,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16032,
+            "image_id": 5578,
+            "category_id": 31884,
+            "bbox": [
+                585,
+                699,
+                391,
+                478
+            ],
+            "area": 186898,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        }
+    ]
+}

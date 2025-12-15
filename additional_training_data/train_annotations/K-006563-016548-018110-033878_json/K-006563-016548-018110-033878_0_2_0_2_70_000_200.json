@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4351,
+            "file_name": "K-006563-016548-018110-033878_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11752,
+            "image_id": 4351,
+            "category_id": 33877,
+            "bbox": [
+                168,
+                319,
+                193,
+                129
+            ],
+            "area": 24897,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11753,
+            "image_id": 4351,
+            "category_id": 6562,
+            "bbox": [
+                614,
+                251,
+                175,
+                311
+            ],
+            "area": 54425,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11754,
+            "image_id": 4351,
+            "category_id": 16547,
+            "bbox": [
+                133,
+                871,
+                217,
+                222
+            ],
+            "area": 48174,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11755,
+            "image_id": 4351,
+            "category_id": 18109,
+            "bbox": [
+                646,
+                798,
+                274,
+                282
+            ],
+            "area": 77268,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        }
+    ]
+}

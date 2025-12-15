@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3340,
+            "file_name": "K-004543-016548-024850-027993_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9004,
+            "image_id": 3340,
+            "category_id": 27992,
+            "bbox": [
+                165,
+                263,
+                296,
+                144
+            ],
+            "area": 42624,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9005,
+            "image_id": 3340,
+            "category_id": 24849,
+            "bbox": [
+                683,
+                265,
+                156,
+                245
+            ],
+            "area": 38220,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9006,
+            "image_id": 3340,
+            "category_id": 16547,
+            "bbox": [
+                151,
+                888,
+                217,
+                222
+            ],
+            "area": 48174,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9007,
+            "image_id": 3340,
+            "category_id": 4542,
+            "bbox": [
+                701,
+                842,
+                190,
+                194
+            ],
+            "area": 36860,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

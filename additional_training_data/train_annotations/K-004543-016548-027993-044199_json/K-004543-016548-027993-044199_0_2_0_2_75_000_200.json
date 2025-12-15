@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3353,
+            "file_name": "K-004543-016548-027993-044199_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9056,
+            "image_id": 3353,
+            "category_id": 4542,
+            "bbox": [
+                100,
+                194,
+                182,
+                184
+            ],
+            "area": 33488,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9057,
+            "image_id": 3353,
+            "category_id": 16547,
+            "bbox": [
+                584,
+                191,
+                209,
+                212
+            ],
+            "area": 44308,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9058,
+            "image_id": 3353,
+            "category_id": 27992,
+            "bbox": [
+                77,
+                812,
+                307,
+                141
+            ],
+            "area": 43287,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9059,
+            "image_id": 3353,
+            "category_id": 44198,
+            "bbox": [
+                578,
+                825,
+                267,
+                136
+            ],
+            "area": 36312,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        },
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        }
+    ]
+}

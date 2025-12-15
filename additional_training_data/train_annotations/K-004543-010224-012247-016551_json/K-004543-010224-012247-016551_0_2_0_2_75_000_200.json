@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3194,
+            "file_name": "K-004543-010224-012247-016551_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8420,
+            "image_id": 3194,
+            "category_id": 4542,
+            "bbox": [
+                144,
+                186,
+                183,
+                185
+            ],
+            "area": 33855,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8421,
+            "image_id": 3194,
+            "category_id": 10223,
+            "bbox": [
+                637,
+                139,
+                189,
+                366
+            ],
+            "area": 69174,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8422,
+            "image_id": 3194,
+            "category_id": 12246,
+            "bbox": [
+                128,
+                794,
+                161,
+                183
+            ],
+            "area": 29463,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8423,
+            "image_id": 3194,
+            "category_id": 16550,
+            "bbox": [
+                606,
+                630,
+                246,
+                454
+            ],
+            "area": 111684,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        }
+    ]
+}

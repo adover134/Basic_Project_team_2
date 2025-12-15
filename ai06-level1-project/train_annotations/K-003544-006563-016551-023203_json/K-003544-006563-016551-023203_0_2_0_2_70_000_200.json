@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 633,
+            "file_name": "K-003544-006563-016551-023203_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2372,
+            "image_id": 633,
+            "category_id": 23202,
+            "bbox": [
+                226,
+                300,
+                116,
+                122
+            ],
+            "area": 14152,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2373,
+            "image_id": 633,
+            "category_id": 6562,
+            "bbox": [
+                605,
+                245,
+                175,
+                311
+            ],
+            "area": 54425,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2374,
+            "image_id": 633,
+            "category_id": 16550,
+            "bbox": [
+                143,
+                771,
+                243,
+                463
+            ],
+            "area": 112509,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2375,
+            "image_id": 633,
+            "category_id": 3543,
+            "bbox": [
+                670,
+                904,
+                194,
+                197
+            ],
+            "area": 38218,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        }
+    ]
+}

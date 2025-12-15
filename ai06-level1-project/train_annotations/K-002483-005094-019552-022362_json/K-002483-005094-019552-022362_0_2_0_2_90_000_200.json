@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 154,
+            "file_name": "K-002483-005094-019552-022362_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 613,
+            "image_id": 154,
+            "category_id": 19551,
+            "bbox": [
+                144,
+                183,
+                251,
+                432
+            ],
+            "area": 108432,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 614,
+            "image_id": 154,
+            "category_id": 2482,
+            "bbox": [
+                667,
+                109,
+                163,
+                445
+            ],
+            "area": 72535,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 615,
+            "image_id": 154,
+            "category_id": 5093,
+            "bbox": [
+                148,
+                861,
+                251,
+                251
+            ],
+            "area": 63001,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 616,
+            "image_id": 154,
+            "category_id": 22361,
+            "bbox": [
+                627,
+                802,
+                216,
+                374
+            ],
+            "area": 80784,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        }
+    ]
+}

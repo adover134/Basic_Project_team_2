@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 960,
+            "file_name": "K-001866-002483-013395-019552_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1943,
+            "image_id": 960,
+            "category_id": 19551,
+            "bbox": [
+                130,
+                148,
+                234,
+                442
+            ],
+            "area": 103428,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1944,
+            "image_id": 960,
+            "category_id": 2482,
+            "bbox": [
+                663,
+                96,
+                174,
+                444
+            ],
+            "area": 77256,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1945,
+            "image_id": 960,
+            "category_id": 13394,
+            "bbox": [
+                654,
+                702,
+                193,
+                453
+            ],
+            "area": 87429,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

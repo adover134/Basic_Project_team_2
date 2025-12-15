@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 434,
+            "file_name": "K-003483-019861-020238-034597_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1576,
+            "image_id": 434,
+            "category_id": 34596,
+            "bbox": [
+                134,
+                112,
+                285,
+                455
+            ],
+            "area": 129675,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1577,
+            "image_id": 434,
+            "category_id": 20237,
+            "bbox": [
+                655,
+                196,
+                200,
+                201
+            ],
+            "area": 40200,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1578,
+            "image_id": 434,
+            "category_id": 19860,
+            "bbox": [
+                134,
+                872,
+                203,
+                156
+            ],
+            "area": 31668,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1579,
+            "image_id": 434,
+            "category_id": 3482,
+            "bbox": [
+                610,
+                871,
+                235,
+                220
+            ],
+            "area": 51700,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

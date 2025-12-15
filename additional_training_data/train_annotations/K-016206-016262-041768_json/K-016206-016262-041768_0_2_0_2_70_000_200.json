@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7261,
+            "file_name": "K-016206-016262-041768_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21016,
+            "image_id": 7261,
+            "category_id": 41767,
+            "bbox": [
+                122,
+                293,
+                244,
+                268
+            ],
+            "area": 65392,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21017,
+            "image_id": 7261,
+            "category_id": 16261,
+            "bbox": [
+                569,
+                318,
+                215,
+                219
+            ],
+            "area": 47085,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        }
+    ]
+}

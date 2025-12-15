@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3410,
+            "file_name": "K-004543-016551-024850-027993_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9284,
+            "image_id": 3410,
+            "category_id": 4542,
+            "bbox": [
+                91,
+                226,
+                182,
+                184
+            ],
+            "area": 33488,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9285,
+            "image_id": 3410,
+            "category_id": 16550,
+            "bbox": [
+                545,
+                87,
+                256,
+                428
+            ],
+            "area": 109568,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9286,
+            "image_id": 3410,
+            "category_id": 24849,
+            "bbox": [
+                116,
+                748,
+                161,
+                266
+            ],
+            "area": 42826,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9287,
+            "image_id": 3410,
+            "category_id": 27992,
+            "bbox": [
+                507,
+                864,
+                309,
+                146
+            ],
+            "area": 45114,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        }
+    ]
+}

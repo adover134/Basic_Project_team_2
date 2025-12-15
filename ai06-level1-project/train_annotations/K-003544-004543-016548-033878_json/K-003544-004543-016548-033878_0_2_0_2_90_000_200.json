@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 617,
+            "file_name": "K-003544-004543-016548-033878_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2308,
+            "image_id": 617,
+            "category_id": 3543,
+            "bbox": [
+                208,
+                213,
+                188,
+                188
+            ],
+            "area": 35344,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2309,
+            "image_id": 617,
+            "category_id": 4542,
+            "bbox": [
+                648,
+                161,
+                188,
+                187
+            ],
+            "area": 35156,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2310,
+            "image_id": 617,
+            "category_id": 16547,
+            "bbox": [
+                113,
+                803,
+                213,
+                214
+            ],
+            "area": 45582,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2311,
+            "image_id": 617,
+            "category_id": 33877,
+            "bbox": [
+                655,
+                840,
+                127,
+                197
+            ],
+            "area": 25019,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        }
+    ]
+}

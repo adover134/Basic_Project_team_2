@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3642,
+            "file_name": "K-005000-021325-041768_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9797,
+            "image_id": 3642,
+            "category_id": 21324,
+            "bbox": [
+                186,
+                819,
+                170,
+                205
+            ],
+            "area": 34850,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9798,
+            "image_id": 3642,
+            "category_id": 41767,
+            "bbox": [
+                604,
+                728,
+                243,
+                290
+            ],
+            "area": 70470,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 21324,
+            "supercategory": "pill",
+            "name": "아토르바정 10mg"
+        },
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        }
+    ]
+}

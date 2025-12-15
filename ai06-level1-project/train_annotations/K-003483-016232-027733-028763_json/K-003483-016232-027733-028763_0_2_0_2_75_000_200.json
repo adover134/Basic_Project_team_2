@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 373,
+            "file_name": "K-003483-016232-027733-028763_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1332,
+            "image_id": 373,
+            "category_id": 28762,
+            "bbox": [
+                135,
+                201,
+                184,
+                183
+            ],
+            "area": 33672,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1333,
+            "image_id": 373,
+            "category_id": 16231,
+            "bbox": [
+                626,
+                182,
+                171,
+                172
+            ],
+            "area": 29412,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1334,
+            "image_id": 373,
+            "category_id": 27732,
+            "bbox": [
+                99,
+                735,
+                286,
+                269
+            ],
+            "area": 76934,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1335,
+            "image_id": 373,
+            "category_id": 3482,
+            "bbox": [
+                586,
+                762,
+                255,
+                200
+            ],
+            "area": 51000,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

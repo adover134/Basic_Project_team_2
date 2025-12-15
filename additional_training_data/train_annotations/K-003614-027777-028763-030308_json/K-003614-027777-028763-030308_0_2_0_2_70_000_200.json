@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2320,
+            "file_name": "K-003614-027777-028763-030308_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 6020,
+            "image_id": 2320,
+            "category_id": 27776,
+            "bbox": [
+                646,
+                300,
+                152,
+                183
+            ],
+            "area": 27816,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6021,
+            "image_id": 2320,
+            "category_id": 16261,
+            "bbox": [
+                213,
+                868,
+                217,
+                222
+            ],
+            "area": 48174,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6022,
+            "image_id": 2320,
+            "category_id": 28762,
+            "bbox": [
+                649,
+                894,
+                193,
+                192
+            ],
+            "area": 37056,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

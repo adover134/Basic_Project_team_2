@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 4149,
+            "file_name": "K-005391-033880-038162_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10997,
+            "image_id": 4149,
+            "category_id": 33879,
+            "bbox": [
+                122,
+                697,
+                270,
+                404
+            ],
+            "area": 109080,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10998,
+            "image_id": 4149,
+            "category_id": 38161,
+            "bbox": [
+                614,
+                799,
+                227,
+                237
+            ],
+            "area": 53799,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33879,
+            "supercategory": "pill",
+            "name": "글리틴정(콜린알포세레이트)"
+        },
+        {
+            "id": 38161,
+            "supercategory": "pill",
+            "name": "로수바미브정 10/20mg"
+        }
+    ]
+}

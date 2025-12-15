@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6727,
+            "file_name": "K-015710-016262-022347-027777_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19459,
+            "image_id": 6727,
+            "category_id": 27776,
+            "bbox": [
+                647,
+                301,
+                151,
+                183
+            ],
+            "area": 27633,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19460,
+            "image_id": 6727,
+            "category_id": 16261,
+            "bbox": [
+                177,
+                895,
+                218,
+                224
+            ],
+            "area": 48832,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19461,
+            "image_id": 6727,
+            "category_id": 22346,
+            "bbox": [
+                630,
+                876,
+                190,
+                193
+            ],
+            "area": 36670,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        }
+    ]
+}

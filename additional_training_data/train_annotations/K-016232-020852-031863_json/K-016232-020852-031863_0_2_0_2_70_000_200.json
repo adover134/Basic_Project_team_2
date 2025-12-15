@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7651,
+            "file_name": "K-016232-020852-031863_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21916,
+            "image_id": 7651,
+            "category_id": 31862,
+            "bbox": [
+                194,
+                273,
+                187,
+                191
+            ],
+            "area": 35717,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21917,
+            "image_id": 7651,
+            "category_id": 16231,
+            "bbox": [
+                367,
+                867,
+                181,
+                184
+            ],
+            "area": 33304,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31862,
+            "supercategory": "pill",
+            "name": "아질렉트정(라사길린메실산염)"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        }
+    ]
+}

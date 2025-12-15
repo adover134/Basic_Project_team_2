@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 811,
+            "file_name": "K-000573-005094-013161-023223_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1586,
+            "image_id": 811,
+            "category_id": 23222,
+            "bbox": [
+                78,
+                169,
+                230,
+                423
+            ],
+            "area": 97290,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1587,
+            "image_id": 811,
+            "category_id": 5093,
+            "bbox": [
+                81,
+                774,
+                257,
+                261
+            ],
+            "area": 67077,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        }
+    ]
+}

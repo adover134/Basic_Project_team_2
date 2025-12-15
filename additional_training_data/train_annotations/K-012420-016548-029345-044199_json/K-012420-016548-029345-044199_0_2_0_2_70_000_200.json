@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5938,
+            "file_name": "K-012420-016548-029345-044199_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17410,
+            "image_id": 5938,
+            "category_id": 44198,
+            "bbox": [
+                127,
+                211,
+                213,
+                215
+            ],
+            "area": 45795,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17411,
+            "image_id": 5938,
+            "category_id": 29344,
+            "bbox": [
+                596,
+                76,
+                212,
+                385
+            ],
+            "area": 81620,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17412,
+            "image_id": 5938,
+            "category_id": 16547,
+            "bbox": [
+                190,
+                792,
+                214,
+                219
+            ],
+            "area": 46866,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17413,
+            "image_id": 5938,
+            "category_id": 12419,
+            "bbox": [
+                679,
+                874,
+                170,
+                173
+            ],
+            "area": 29410,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

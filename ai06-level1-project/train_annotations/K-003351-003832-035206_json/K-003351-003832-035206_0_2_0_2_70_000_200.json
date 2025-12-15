@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 203,
+            "file_name": "K-003351-003832-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 795,
+            "image_id": 203,
+            "category_id": 35205,
+            "bbox": [
+                181,
+                258,
+                263,
+                352
+            ],
+            "area": 92576,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 796,
+            "image_id": 203,
+            "category_id": 3831,
+            "bbox": [
+                563,
+                298,
+                239,
+                401
+            ],
+            "area": 95839,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 797,
+            "image_id": 203,
+            "category_id": 3350,
+            "bbox": [
+                413,
+                911,
+                171,
+                178
+            ],
+            "area": 30438,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

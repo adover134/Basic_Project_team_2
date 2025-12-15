@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5990,
+            "file_name": "K-012420-016551-019607-031705_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17618,
+            "image_id": 5990,
+            "category_id": 12419,
+            "bbox": [
+                152,
+                208,
+                163,
+                164
+            ],
+            "area": 26732,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17619,
+            "image_id": 5990,
+            "category_id": 16550,
+            "bbox": [
+                560,
+                125,
+                247,
+                433
+            ],
+            "area": 106951,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17620,
+            "image_id": 5990,
+            "category_id": 19606,
+            "bbox": [
+                125,
+                858,
+                143,
+                144
+            ],
+            "area": 20592,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17621,
+            "image_id": 5990,
+            "category_id": 31704,
+            "bbox": [
+                483,
+                787,
+                414,
+                252
+            ],
+            "area": 104328,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        }
+    ]
+}

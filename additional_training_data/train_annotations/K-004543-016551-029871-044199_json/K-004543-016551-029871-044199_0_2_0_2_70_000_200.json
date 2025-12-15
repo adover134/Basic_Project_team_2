@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3427,
+            "file_name": "K-004543-016551-029871-044199_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9352,
+            "image_id": 3427,
+            "category_id": 44198,
+            "bbox": [
+                205,
+                281,
+                148,
+                252
+            ],
+            "area": 37296,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9353,
+            "image_id": 3427,
+            "category_id": 29870,
+            "bbox": [
+                669,
+                301,
+                145,
+                220
+            ],
+            "area": 31900,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9354,
+            "image_id": 3427,
+            "category_id": 16550,
+            "bbox": [
+                78,
+                687,
+                287,
+                442
+            ],
+            "area": 126854,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9355,
+            "image_id": 3427,
+            "category_id": 4542,
+            "bbox": [
+                699,
+                879,
+                192,
+                194
+            ],
+            "area": 37248,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

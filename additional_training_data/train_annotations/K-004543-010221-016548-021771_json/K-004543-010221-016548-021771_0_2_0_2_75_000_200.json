@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3161,
+            "file_name": "K-004543-010221-016548-021771_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8288,
+            "image_id": 3161,
+            "category_id": 4542,
+            "bbox": [
+                112,
+                229,
+                184,
+                184
+            ],
+            "area": 33856,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8289,
+            "image_id": 3161,
+            "category_id": 10220,
+            "bbox": [
+                609,
+                169,
+                196,
+                199
+            ],
+            "area": 39004,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8290,
+            "image_id": 3161,
+            "category_id": 16547,
+            "bbox": [
+                87,
+                744,
+                216,
+                219
+            ],
+            "area": 47304,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8291,
+            "image_id": 3161,
+            "category_id": 21770,
+            "bbox": [
+                608,
+                787,
+                175,
+                178
+            ],
+            "area": 31150,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        }
+    ]
+}

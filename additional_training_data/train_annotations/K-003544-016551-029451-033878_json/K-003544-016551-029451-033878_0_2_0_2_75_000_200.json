@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1700,
+            "file_name": "K-003544-016551-029451-033878_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4142,
+            "image_id": 1700,
+            "category_id": 3543,
+            "bbox": [
+                136,
+                255,
+                185,
+                188
+            ],
+            "area": 34780,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4143,
+            "image_id": 1700,
+            "category_id": 16550,
+            "bbox": [
+                604,
+                164,
+                243,
+                436
+            ],
+            "area": 105948,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4144,
+            "image_id": 1700,
+            "category_id": 29450,
+            "bbox": [
+                50,
+                815,
+                387,
+                201
+            ],
+            "area": 77787,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4145,
+            "image_id": 1700,
+            "category_id": 33877,
+            "bbox": [
+                617,
+                881,
+                200,
+                138
+            ],
+            "area": 27600,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        }
+    ]
+}

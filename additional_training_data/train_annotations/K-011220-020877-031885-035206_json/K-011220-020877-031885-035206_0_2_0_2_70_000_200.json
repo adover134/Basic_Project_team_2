@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5365,
+            "file_name": "K-011220-020877-031885-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15391,
+            "image_id": 5365,
+            "category_id": 20876,
+            "bbox": [
+                608,
+                228,
+                289,
+                227
+            ],
+            "area": 65603,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15392,
+            "image_id": 5365,
+            "category_id": 35205,
+            "bbox": [
+                202,
+                753,
+                181,
+                391
+            ],
+            "area": 70771,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15393,
+            "image_id": 5365,
+            "category_id": 31884,
+            "bbox": [
+                579,
+                663,
+                307,
+                514
+            ],
+            "area": 157798,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3190,
+            "file_name": "K-004543-010224-012247-016548_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8404,
+            "image_id": 3190,
+            "category_id": 16547,
+            "bbox": [
+                146,
+                285,
+                209,
+                210
+            ],
+            "area": 43890,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8405,
+            "image_id": 3190,
+            "category_id": 12246,
+            "bbox": [
+                672,
+                306,
+                154,
+                171
+            ],
+            "area": 26334,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8406,
+            "image_id": 3190,
+            "category_id": 10223,
+            "bbox": [
+                120,
+                737,
+                201,
+                382
+            ],
+            "area": 76782,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8407,
+            "image_id": 3190,
+            "category_id": 4542,
+            "bbox": [
+                645,
+                884,
+                193,
+                195
+            ],
+            "area": 37635,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

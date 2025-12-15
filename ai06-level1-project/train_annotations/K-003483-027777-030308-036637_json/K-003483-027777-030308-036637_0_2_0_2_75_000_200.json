@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 596,
+            "file_name": "K-003483-027777-030308-036637_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2224,
+            "image_id": 596,
+            "category_id": 30307,
+            "bbox": [
+                24,
+                176,
+                414,
+                277
+            ],
+            "area": 114678,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2225,
+            "image_id": 596,
+            "category_id": 36636,
+            "bbox": [
+                642,
+                185,
+                163,
+                231
+            ],
+            "area": 37653,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2226,
+            "image_id": 596,
+            "category_id": 27776,
+            "bbox": [
+                153,
+                781,
+                160,
+                196
+            ],
+            "area": 31360,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2227,
+            "image_id": 596,
+            "category_id": 3482,
+            "bbox": [
+                544,
+                781,
+                248,
+                211
+            ],
+            "area": 52328,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

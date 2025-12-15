@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1577,
+            "file_name": "K-003544-016548-021026-029871_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3650,
+            "image_id": 1577,
+            "category_id": 3543,
+            "bbox": [
+                116,
+                203,
+                186,
+                187
+            ],
+            "area": 34782,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3651,
+            "image_id": 1577,
+            "category_id": 16547,
+            "bbox": [
+                594,
+                184,
+                207,
+                211
+            ],
+            "area": 43677,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3652,
+            "image_id": 1577,
+            "category_id": 21025,
+            "bbox": [
+                110,
+                841,
+                165,
+                167
+            ],
+            "area": 27555,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3653,
+            "image_id": 1577,
+            "category_id": 29870,
+            "bbox": [
+                576,
+                802,
+                200,
+                198
+            ],
+            "area": 39600,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 630,
+            "file_name": "K-003544-006563-016548-027993_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2360,
+            "image_id": 630,
+            "category_id": 3543,
+            "bbox": [
+                115,
+                211,
+                188,
+                189
+            ],
+            "area": 35532,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2361,
+            "image_id": 630,
+            "category_id": 16547,
+            "bbox": [
+                596,
+                149,
+                211,
+                212
+            ],
+            "area": 44732,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2362,
+            "image_id": 630,
+            "category_id": 6562,
+            "bbox": [
+                210,
+                731,
+                178,
+                335
+            ],
+            "area": 59630,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2363,
+            "image_id": 630,
+            "category_id": 27992,
+            "bbox": [
+                588,
+                826,
+                279,
+                215
+            ],
+            "area": 59985,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        }
+    ]
+}

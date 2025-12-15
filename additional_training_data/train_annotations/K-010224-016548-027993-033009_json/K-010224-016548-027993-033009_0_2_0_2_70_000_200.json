@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4849,
+            "file_name": "K-010224-016548-027993-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13744,
+            "image_id": 4849,
+            "category_id": 33008,
+            "bbox": [
+                162,
+                261,
+                183,
+                325
+            ],
+            "area": 59475,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13745,
+            "image_id": 4849,
+            "category_id": 27992,
+            "bbox": [
+                607,
+                276,
+                235,
+                257
+            ],
+            "area": 60395,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13746,
+            "image_id": 4849,
+            "category_id": 16547,
+            "bbox": [
+                150,
+                849,
+                217,
+                222
+            ],
+            "area": 48174,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13747,
+            "image_id": 4849,
+            "category_id": 10223,
+            "bbox": [
+                645,
+                796,
+                236,
+                377
+            ],
+            "area": 88972,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        }
+    ]
+}

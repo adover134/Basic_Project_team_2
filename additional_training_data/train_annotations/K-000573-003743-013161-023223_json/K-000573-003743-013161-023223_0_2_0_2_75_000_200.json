@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 722,
+            "file_name": "K-000573-003743-013161-023223_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1411,
+            "image_id": 722,
+            "category_id": 23222,
+            "bbox": [
+                109,
+                202,
+                333,
+                391
+            ],
+            "area": 130203,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1412,
+            "image_id": 722,
+            "category_id": 3742,
+            "bbox": [
+                132,
+                806,
+                300,
+                301
+            ],
+            "area": 90300,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        }
+    ]
+}

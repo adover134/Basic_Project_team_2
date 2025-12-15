@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4266,
+            "file_name": "K-006563-010224-016551-029871_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11412,
+            "image_id": 4266,
+            "category_id": 6562,
+            "bbox": [
+                144,
+                129,
+                180,
+                333
+            ],
+            "area": 59940,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11413,
+            "image_id": 4266,
+            "category_id": 16550,
+            "bbox": [
+                653,
+                64,
+                250,
+                442
+            ],
+            "area": 110500,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11414,
+            "image_id": 4266,
+            "category_id": 10223,
+            "bbox": [
+                134,
+                719,
+                193,
+                376
+            ],
+            "area": 72568,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11415,
+            "image_id": 4266,
+            "category_id": 29870,
+            "bbox": [
+                650,
+                786,
+                148,
+                224
+            ],
+            "area": 33152,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

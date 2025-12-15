@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1588,
+            "file_name": "K-003544-016548-023203-029451_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3694,
+            "image_id": 1588,
+            "category_id": 29450,
+            "bbox": [
+                144,
+                188,
+                189,
+                359
+            ],
+            "area": 67851,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3695,
+            "image_id": 1588,
+            "category_id": 23202,
+            "bbox": [
+                647,
+                279,
+                115,
+                122
+            ],
+            "area": 14030,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3696,
+            "image_id": 1588,
+            "category_id": 16547,
+            "bbox": [
+                99,
+                884,
+                216,
+                221
+            ],
+            "area": 47736,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3697,
+            "image_id": 1588,
+            "category_id": 3543,
+            "bbox": [
+                615,
+                833,
+                193,
+                195
+            ],
+            "area": 37635,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        }
+    ]
+}

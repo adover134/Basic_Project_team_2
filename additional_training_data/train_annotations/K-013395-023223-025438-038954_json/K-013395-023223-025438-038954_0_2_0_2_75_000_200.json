@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6131,
+            "file_name": "K-013395-023223-025438-038954_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18118,
+            "image_id": 6131,
+            "category_id": 23222,
+            "bbox": [
+                143,
+                209,
+                223,
+                437
+            ],
+            "area": 97451,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18119,
+            "image_id": 6131,
+            "category_id": 25437,
+            "bbox": [
+                129,
+                835,
+                242,
+                246
+            ],
+            "area": 59532,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18120,
+            "image_id": 6131,
+            "category_id": 13394,
+            "bbox": [
+                622,
+                744,
+                193,
+                464
+            ],
+            "area": 89552,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

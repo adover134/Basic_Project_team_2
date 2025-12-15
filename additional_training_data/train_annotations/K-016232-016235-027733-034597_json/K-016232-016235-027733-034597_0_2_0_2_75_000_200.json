@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7547,
+            "file_name": "K-016232-016235-027733-034597_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21676,
+            "image_id": 7547,
+            "category_id": 34596,
+            "bbox": [
+                15,
+                147,
+                393,
+                386
+            ],
+            "area": 151698,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21677,
+            "image_id": 7547,
+            "category_id": 16231,
+            "bbox": [
+                609,
+                210,
+                170,
+                171
+            ],
+            "area": 29070,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21678,
+            "image_id": 7547,
+            "category_id": 27732,
+            "bbox": [
+                70,
+                783,
+                298,
+                244
+            ],
+            "area": 72712,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 8199,
+            "file_name": "K-016235-025469-030308-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 23510,
+            "image_id": 8199,
+            "category_id": 30307,
+            "bbox": [
+                92,
+                194,
+                379,
+                358
+            ],
+            "area": 135682,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23511,
+            "image_id": 8199,
+            "category_id": 36636,
+            "bbox": [
+                664,
+                188,
+                137,
+                247
+            ],
+            "area": 33839,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23512,
+            "image_id": 8199,
+            "category_id": 25468,
+            "bbox": [
+                28,
+                865,
+                343,
+                181
+            ],
+            "area": 62083,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        }
+    ]
+}

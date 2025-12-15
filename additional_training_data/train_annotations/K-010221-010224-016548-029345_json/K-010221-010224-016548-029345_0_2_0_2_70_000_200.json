@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4492,
+            "file_name": "K-010221-010224-016548-029345_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12316,
+            "image_id": 4492,
+            "category_id": 29344,
+            "bbox": [
+                89,
+                149,
+                224,
+                382
+            ],
+            "area": 85568,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12317,
+            "image_id": 4492,
+            "category_id": 16547,
+            "bbox": [
+                625,
+                231,
+                205,
+                208
+            ],
+            "area": 42640,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12318,
+            "image_id": 4492,
+            "category_id": 10223,
+            "bbox": [
+                175,
+                755,
+                205,
+                380
+            ],
+            "area": 77900,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12319,
+            "image_id": 4492,
+            "category_id": 10220,
+            "bbox": [
+                679,
+                802,
+                203,
+                209
+            ],
+            "area": 42427,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

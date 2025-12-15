@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7036,
+            "file_name": "K-015710-022347-027777-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20386,
+            "image_id": 7036,
+            "category_id": 27776,
+            "bbox": [
+                647,
+                302,
+                153,
+                182
+            ],
+            "area": 27846,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20387,
+            "image_id": 7036,
+            "category_id": 36636,
+            "bbox": [
+                152,
+                870,
+                170,
+                246
+            ],
+            "area": 41820,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20388,
+            "image_id": 7036,
+            "category_id": 22346,
+            "bbox": [
+                655,
+                844,
+                191,
+                192
+            ],
+            "area": 36672,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        }
+    ]
+}

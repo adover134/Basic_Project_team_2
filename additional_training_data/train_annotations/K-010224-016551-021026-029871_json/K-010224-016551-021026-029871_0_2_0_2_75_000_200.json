@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4883,
+            "file_name": "K-010224-016551-021026-029871_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13880,
+            "image_id": 4883,
+            "category_id": 10223,
+            "bbox": [
+                103,
+                91,
+                201,
+                362
+            ],
+            "area": 72762,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13881,
+            "image_id": 4883,
+            "category_id": 16550,
+            "bbox": [
+                524,
+                121,
+                376,
+                346
+            ],
+            "area": 130096,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13882,
+            "image_id": 4883,
+            "category_id": 21025,
+            "bbox": [
+                107,
+                840,
+                165,
+                167
+            ],
+            "area": 27555,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13883,
+            "image_id": 4883,
+            "category_id": 29870,
+            "bbox": [
+                574,
+                804,
+                199,
+                198
+            ],
+            "area": 39402,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

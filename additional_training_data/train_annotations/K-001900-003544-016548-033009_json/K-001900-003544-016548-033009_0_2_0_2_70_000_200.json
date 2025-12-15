@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1375,
+            "file_name": "K-001900-003544-016548-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2842,
+            "image_id": 1375,
+            "category_id": 33008,
+            "bbox": [
+                107,
+                268,
+                331,
+                185
+            ],
+            "area": 61235,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2843,
+            "image_id": 1375,
+            "category_id": 16547,
+            "bbox": [
+                650,
+                306,
+                206,
+                208
+            ],
+            "area": 42848,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2844,
+            "image_id": 1375,
+            "category_id": 3543,
+            "bbox": [
+                180,
+                916,
+                195,
+                197
+            ],
+            "area": 38415,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2845,
+            "image_id": 1375,
+            "category_id": 1899,
+            "bbox": [
+                655,
+                858,
+                187,
+                163
+            ],
+            "area": 30481,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

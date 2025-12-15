@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 298,
+            "file_name": "K-000250-005002-022362-023223_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 595,
+            "image_id": 298,
+            "category_id": 22361,
+            "bbox": [
+                103,
+                104,
+                212,
+                352
+            ],
+            "area": 74624,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 596,
+            "image_id": 298,
+            "category_id": 23222,
+            "bbox": [
+                508,
+                651,
+                301,
+                436
+            ],
+            "area": 131236,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        },
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        }
+    ]
+}

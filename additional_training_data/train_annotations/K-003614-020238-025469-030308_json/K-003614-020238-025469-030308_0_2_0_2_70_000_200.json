@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2041,
+            "file_name": "K-003614-020238-025469-030308_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5183,
+            "image_id": 2041,
+            "category_id": 25468,
+            "bbox": [
+                573,
+                221,
+                327,
+                220
+            ],
+            "area": 71940,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5184,
+            "image_id": 2041,
+            "category_id": 20237,
+            "bbox": [
+                152,
+                842,
+                204,
+                208
+            ],
+            "area": 42432,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5185,
+            "image_id": 2041,
+            "category_id": 30307,
+            "bbox": [
+                518,
+                663,
+                346,
+                399
+            ],
+            "area": 138054,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        }
+    ]
+}

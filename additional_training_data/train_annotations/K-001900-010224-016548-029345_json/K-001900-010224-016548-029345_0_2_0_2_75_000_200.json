@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1487,
+            "file_name": "K-001900-010224-016548-029345_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3290,
+            "image_id": 1487,
+            "category_id": 1899,
+            "bbox": [
+                170,
+                265,
+                106,
+                182
+            ],
+            "area": 19292,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3291,
+            "image_id": 1487,
+            "category_id": 10223,
+            "bbox": [
+                583,
+                64,
+                184,
+                365
+            ],
+            "area": 67160,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3292,
+            "image_id": 1487,
+            "category_id": 16547,
+            "bbox": [
+                103,
+                823,
+                215,
+                220
+            ],
+            "area": 47300,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3293,
+            "image_id": 1487,
+            "category_id": 29344,
+            "bbox": [
+                601,
+                695,
+                242,
+                415
+            ],
+            "area": 100430,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        }
+    ]
+}

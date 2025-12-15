@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 120,
+            "file_name": "K-000250-002483-005886-023223_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 193,
+            "image_id": 120,
+            "category_id": 23222,
+            "bbox": [
+                91,
+                146,
+                364,
+                383
+            ],
+            "area": 139412,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 194,
+            "image_id": 120,
+            "category_id": 2482,
+            "bbox": [
+                624,
+                92,
+                243,
+                429
+            ],
+            "area": 104247,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 195,
+            "image_id": 120,
+            "category_id": 5885,
+            "bbox": [
+                599,
+                696,
+                211,
+                448
+            ],
+            "area": 94528,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        }
+    ]
+}

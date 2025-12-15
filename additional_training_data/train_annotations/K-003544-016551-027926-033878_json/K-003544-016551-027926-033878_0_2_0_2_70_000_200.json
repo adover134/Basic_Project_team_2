@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1675,
+            "file_name": "K-003544-016551-027926-033878_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4042,
+            "image_id": 1675,
+            "category_id": 33877,
+            "bbox": [
+                195,
+                297,
+                166,
+                168
+            ],
+            "area": 27888,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4043,
+            "image_id": 1675,
+            "category_id": 27925,
+            "bbox": [
+                662,
+                190,
+                224,
+                419
+            ],
+            "area": 93856,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4044,
+            "image_id": 1675,
+            "category_id": 16550,
+            "bbox": [
+                129,
+                764,
+                247,
+                461
+            ],
+            "area": 113867,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4045,
+            "image_id": 1675,
+            "category_id": 3543,
+            "bbox": [
+                673,
+                880,
+                194,
+                197
+            ],
+            "area": 38218,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        }
+    ]
+}

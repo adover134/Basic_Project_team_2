@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 6046,
+            "file_name": "K-012420-016551-029345-044199_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17842,
+            "image_id": 6046,
+            "category_id": 44198,
+            "bbox": [
+                127,
+                211,
+                214,
+                215
+            ],
+            "area": 46010,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17843,
+            "image_id": 6046,
+            "category_id": 29344,
+            "bbox": [
+                596,
+                77,
+                212,
+                384
+            ],
+            "area": 81408,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17844,
+            "image_id": 6046,
+            "category_id": 16550,
+            "bbox": [
+                190,
+                656,
+                240,
+                457
+            ],
+            "area": 109680,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17845,
+            "image_id": 6046,
+            "category_id": 12419,
+            "bbox": [
+                678,
+                874,
+                171,
+                173
+            ],
+            "area": 29583,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

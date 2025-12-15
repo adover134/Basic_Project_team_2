@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 487,
+            "file_name": "K-003483-020877-022347-036637_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1788,
+            "image_id": 487,
+            "category_id": 22346,
+            "bbox": [
+                112,
+                238,
+                183,
+                181
+            ],
+            "area": 33123,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1789,
+            "image_id": 487,
+            "category_id": 36636,
+            "bbox": [
+                610,
+                213,
+                161,
+                232
+            ],
+            "area": 37352,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1790,
+            "image_id": 487,
+            "category_id": 20876,
+            "bbox": [
+                95,
+                735,
+                308,
+                224
+            ],
+            "area": 68992,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1791,
+            "image_id": 487,
+            "category_id": 3482,
+            "bbox": [
+                628,
+                723,
+                190,
+                255
+            ],
+            "area": 48450,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

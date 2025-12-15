@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3250,
+            "file_name": "K-004543-012247-016551-024850_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8644,
+            "image_id": 3250,
+            "category_id": 24849,
+            "bbox": [
+                154,
+                289,
+                230,
+                193
+            ],
+            "area": 44390,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8645,
+            "image_id": 3250,
+            "category_id": 16550,
+            "bbox": [
+                598,
+                239,
+                233,
+                437
+            ],
+            "area": 101821,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8646,
+            "image_id": 3250,
+            "category_id": 12246,
+            "bbox": [
+                176,
+                874,
+                153,
+                189
+            ],
+            "area": 28917,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8647,
+            "image_id": 3250,
+            "category_id": 4542,
+            "bbox": [
+                645,
+                885,
+                192,
+                194
+            ],
+            "area": 37248,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

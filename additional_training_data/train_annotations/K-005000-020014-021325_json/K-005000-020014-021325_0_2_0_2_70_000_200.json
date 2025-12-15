@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3601,
+            "file_name": "K-005000-020014-021325_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9715,
+            "image_id": 3601,
+            "category_id": 21324,
+            "bbox": [
+                209,
+                313,
+                192,
+                178
+            ],
+            "area": 34176,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9716,
+            "image_id": 3601,
+            "category_id": 20013,
+            "bbox": [
+                568,
+                320,
+                307,
+                298
+            ],
+            "area": 91486,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 21324,
+            "supercategory": "pill",
+            "name": "아토르바정 10mg"
+        },
+        {
+            "id": 20013,
+            "supercategory": "pill",
+            "name": "마도파정"
+        }
+    ]
+}

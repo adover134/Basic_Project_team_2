@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7446,
+            "file_name": "K-016206-035206-041768_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21380,
+            "image_id": 7446,
+            "category_id": 35205,
+            "bbox": [
+                235,
+                665,
+                170,
+                392
+            ],
+            "area": 66640,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21381,
+            "image_id": 7446,
+            "category_id": 41767,
+            "bbox": [
+                607,
+                737,
+                246,
+                289
+            ],
+            "area": 71094,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        }
+    ]
+}

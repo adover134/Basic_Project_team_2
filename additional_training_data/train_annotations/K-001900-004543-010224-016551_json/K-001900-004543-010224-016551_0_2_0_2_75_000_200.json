@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1400,
+            "file_name": "K-001900-004543-010224-016551_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2942,
+            "image_id": 1400,
+            "category_id": 1899,
+            "bbox": [
+                148,
+                220,
+                109,
+                184
+            ],
+            "area": 20056,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2943,
+            "image_id": 1400,
+            "category_id": 4542,
+            "bbox": [
+                624,
+                144,
+                182,
+                184
+            ],
+            "area": 33488,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2944,
+            "image_id": 1400,
+            "category_id": 10223,
+            "bbox": [
+                90,
+                628,
+                197,
+                379
+            ],
+            "area": 74663,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2945,
+            "image_id": 1400,
+            "category_id": 16550,
+            "bbox": [
+                585,
+                672,
+                311,
+                425
+            ],
+            "area": 132175,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        }
+    ]
+}

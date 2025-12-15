@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6326,
+            "file_name": "K-013900-028424-036637_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18513,
+            "image_id": 6326,
+            "category_id": 36636,
+            "bbox": [
+                182,
+                688,
+                200,
+                234
+            ],
+            "area": 46800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18514,
+            "image_id": 6326,
+            "category_id": 13899,
+            "bbox": [
+                587,
+                680,
+                160,
+                250
+            ],
+            "area": 40000,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 13899,
+            "supercategory": "pill",
+            "name": "에빅사정(메만틴염산염)(비매품)"
+        }
+    ]
+}

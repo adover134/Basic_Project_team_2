@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7518,
+            "file_name": "K-016232-016235-025469-030308_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21589,
+            "image_id": 7518,
+            "category_id": 30307,
+            "bbox": [
+                89,
+                169,
+                371,
+                365
+            ],
+            "area": 135415,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21590,
+            "image_id": 7518,
+            "category_id": 16231,
+            "bbox": [
+                644,
+                211,
+                174,
+                167
+            ],
+            "area": 29058,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21591,
+            "image_id": 7518,
+            "category_id": 25468,
+            "bbox": [
+                26,
+                865,
+                343,
+                181
+            ],
+            "area": 62083,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        }
+    ]
+}

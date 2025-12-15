@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 1117,
+            "file_name": "K-001866-005886-006192-038954_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2273,
+            "image_id": 1117,
+            "category_id": 5885,
+            "bbox": [
+                137,
+                118,
+                187,
+                425
+            ],
+            "area": 79475,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2274,
+            "image_id": 1117,
+            "category_id": 6191,
+            "bbox": [
+                573,
+                640,
+                239,
+                470
+            ],
+            "area": 112330,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        },
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        }
+    ]
+}

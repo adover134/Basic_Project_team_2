@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3266,
+            "file_name": "K-004543-012420-016548-021771_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8708,
+            "image_id": 3266,
+            "category_id": 4542,
+            "bbox": [
+                120,
+                196,
+                183,
+                185
+            ],
+            "area": 33855,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8709,
+            "image_id": 3266,
+            "category_id": 12419,
+            "bbox": [
+                607,
+                197,
+                163,
+                163
+            ],
+            "area": 26569,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8710,
+            "image_id": 3266,
+            "category_id": 16547,
+            "bbox": [
+                117,
+                764,
+                215,
+                219
+            ],
+            "area": 47085,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8711,
+            "image_id": 3266,
+            "category_id": 21770,
+            "bbox": [
+                650,
+                786,
+                175,
+                177
+            ],
+            "area": 30975,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        }
+    ]
+}

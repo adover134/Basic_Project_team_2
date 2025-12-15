@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5802,
+            "file_name": "K-012247-016551-021771-029451_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16866,
+            "image_id": 5802,
+            "category_id": 12246,
+            "bbox": [
+                146,
+                241,
+                188,
+                115
+            ],
+            "area": 21620,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16867,
+            "image_id": 5802,
+            "category_id": 16550,
+            "bbox": [
+                578,
+                122,
+                317,
+                414
+            ],
+            "area": 131238,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16868,
+            "image_id": 5802,
+            "category_id": 21770,
+            "bbox": [
+                188,
+                835,
+                171,
+                173
+            ],
+            "area": 29583,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16869,
+            "image_id": 5802,
+            "category_id": 29450,
+            "bbox": [
+                598,
+                736,
+                285,
+                336
+            ],
+            "area": 95760,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

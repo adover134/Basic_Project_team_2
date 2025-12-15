@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1564,
+            "file_name": "K-003544-012420-016551-031705_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3598,
+            "image_id": 1564,
+            "category_id": 31704,
+            "bbox": [
+                156,
+                139,
+                213,
+                392
+            ],
+            "area": 83496,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3599,
+            "image_id": 1564,
+            "category_id": 16550,
+            "bbox": [
+                602,
+                200,
+                334,
+                390
+            ],
+            "area": 130260,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3600,
+            "image_id": 1564,
+            "category_id": 12419,
+            "bbox": [
+                130,
+                906,
+                171,
+                173
+            ],
+            "area": 29583,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3601,
+            "image_id": 1564,
+            "category_id": 3543,
+            "bbox": [
+                600,
+                788,
+                192,
+                194
+            ],
+            "area": 37248,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        }
+    ]
+}

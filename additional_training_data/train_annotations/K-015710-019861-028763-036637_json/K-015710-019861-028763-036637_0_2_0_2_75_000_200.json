@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6833,
+            "file_name": "K-015710-019861-028763-036637_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19777,
+            "image_id": 6833,
+            "category_id": 28762,
+            "bbox": [
+                103,
+                198,
+                185,
+                182
+            ],
+            "area": 33670,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19778,
+            "image_id": 6833,
+            "category_id": 36636,
+            "bbox": [
+                623,
+                174,
+                148,
+                237
+            ],
+            "area": 35076,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19779,
+            "image_id": 6833,
+            "category_id": 19860,
+            "bbox": [
+                94,
+                834,
+                207,
+                161
+            ],
+            "area": 33327,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

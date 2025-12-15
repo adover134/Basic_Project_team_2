@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4659,
+            "file_name": "K-010221-016551-019607-033009_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12984,
+            "image_id": 4659,
+            "category_id": 10220,
+            "bbox": [
+                187,
+                223,
+                199,
+                201
+            ],
+            "area": 39999,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12985,
+            "image_id": 4659,
+            "category_id": 16550,
+            "bbox": [
+                686,
+                43,
+                241,
+                448
+            ],
+            "area": 107968,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12986,
+            "image_id": 4659,
+            "category_id": 19606,
+            "bbox": [
+                168,
+                847,
+                141,
+                141
+            ],
+            "area": 19881,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12987,
+            "image_id": 4659,
+            "category_id": 33008,
+            "bbox": [
+                572,
+                824,
+                337,
+                193
+            ],
+            "area": 65041,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

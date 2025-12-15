@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6983,
+            "file_name": "K-015710-020877-029667-034597_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20227,
+            "image_id": 6983,
+            "category_id": 34596,
+            "bbox": [
+                32,
+                61,
+                349,
+                418
+            ],
+            "area": 145882,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20228,
+            "image_id": 6983,
+            "category_id": 29666,
+            "bbox": [
+                604,
+                168,
+                195,
+                201
+            ],
+            "area": 39195,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20229,
+            "image_id": 6983,
+            "category_id": 20876,
+            "bbox": [
+                58,
+                809,
+                299,
+                238
+            ],
+            "area": 71162,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

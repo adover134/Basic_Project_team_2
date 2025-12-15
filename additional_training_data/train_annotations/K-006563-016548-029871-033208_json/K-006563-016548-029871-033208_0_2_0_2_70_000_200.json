@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4402,
+            "file_name": "K-006563-016548-029871-033208_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11956,
+            "image_id": 4402,
+            "category_id": 29870,
+            "bbox": [
+                213,
+                248,
+                145,
+                220
+            ],
+            "area": 31900,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11957,
+            "image_id": 4402,
+            "category_id": 6562,
+            "bbox": [
+                610,
+                251,
+                174,
+                311
+            ],
+            "area": 54114,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11958,
+            "image_id": 4402,
+            "category_id": 16547,
+            "bbox": [
+                158,
+                894,
+                216,
+                223
+            ],
+            "area": 48168,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11959,
+            "image_id": 4402,
+            "category_id": 33207,
+            "bbox": [
+                670,
+                894,
+                190,
+                192
+            ],
+            "area": 36480,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}

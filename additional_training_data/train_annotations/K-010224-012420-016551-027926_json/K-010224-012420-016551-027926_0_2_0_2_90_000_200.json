@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4791,
+            "file_name": "K-010224-012420-016551-027926_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13512,
+            "image_id": 4791,
+            "category_id": 10223,
+            "bbox": [
+                134,
+                149,
+                191,
+                373
+            ],
+            "area": 71243,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13513,
+            "image_id": 4791,
+            "category_id": 12419,
+            "bbox": [
+                664,
+                187,
+                164,
+                165
+            ],
+            "area": 27060,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13514,
+            "image_id": 4791,
+            "category_id": 16550,
+            "bbox": [
+                64,
+                687,
+                252,
+                442
+            ],
+            "area": 111384,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13515,
+            "image_id": 4791,
+            "category_id": 27925,
+            "bbox": [
+                626,
+                718,
+                204,
+                443
+            ],
+            "area": 90372,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        }
+    ]
+}

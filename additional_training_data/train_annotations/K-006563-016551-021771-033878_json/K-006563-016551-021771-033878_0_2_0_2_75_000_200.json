@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4448,
+            "file_name": "K-006563-016551-021771-033878_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12140,
+            "image_id": 4448,
+            "category_id": 21770,
+            "bbox": [
+                147,
+                209,
+                169,
+                169
+            ],
+            "area": 28561,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12141,
+            "image_id": 4448,
+            "category_id": 16550,
+            "bbox": [
+                570,
+                106,
+                281,
+                416
+            ],
+            "area": 116896,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12142,
+            "image_id": 4448,
+            "category_id": 6562,
+            "bbox": [
+                168,
+                682,
+                182,
+                339
+            ],
+            "area": 61698,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12143,
+            "image_id": 4448,
+            "category_id": 33877,
+            "bbox": [
+                609,
+                819,
+                205,
+                131
+            ],
+            "area": 26855,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        }
+    ]
+}

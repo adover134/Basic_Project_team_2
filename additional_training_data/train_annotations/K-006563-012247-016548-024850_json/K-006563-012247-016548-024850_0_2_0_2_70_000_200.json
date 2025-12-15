@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4279,
+            "file_name": "K-006563-012247-016548-024850_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11464,
+            "image_id": 4279,
+            "category_id": 12246,
+            "bbox": [
+                193,
+                308,
+                183,
+                113
+            ],
+            "area": 20679,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11465,
+            "image_id": 4279,
+            "category_id": 6562,
+            "bbox": [
+                609,
+                247,
+                175,
+                310
+            ],
+            "area": 54250,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11466,
+            "image_id": 4279,
+            "category_id": 16547,
+            "bbox": [
+                150,
+                854,
+                217,
+                221
+            ],
+            "area": 47957,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11467,
+            "image_id": 4279,
+            "category_id": 24849,
+            "bbox": [
+                682,
+                836,
+                251,
+                196
+            ],
+            "area": 49196,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        }
+    ]
+}

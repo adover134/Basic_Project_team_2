@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 349,
+            "file_name": "K-003483-016232-020877-028763_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1236,
+            "image_id": 349,
+            "category_id": 28762,
+            "bbox": [
+                80,
+                186,
+                188,
+                187
+            ],
+            "area": 35156,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1237,
+            "image_id": 349,
+            "category_id": 16231,
+            "bbox": [
+                663,
+                237,
+                175,
+                167
+            ],
+            "area": 29225,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1238,
+            "image_id": 349,
+            "category_id": 20876,
+            "bbox": [
+                128,
+                779,
+                305,
+                216
+            ],
+            "area": 65880,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1239,
+            "image_id": 349,
+            "category_id": 3482,
+            "bbox": [
+                658,
+                754,
+                187,
+                254
+            ],
+            "area": 47498,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

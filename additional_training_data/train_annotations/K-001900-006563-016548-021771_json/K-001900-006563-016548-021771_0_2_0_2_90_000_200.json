@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1452,
+            "file_name": "K-001900-006563-016548-021771_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3150,
+            "image_id": 1452,
+            "category_id": 21770,
+            "bbox": [
+                166,
+                199,
+                171,
+                174
+            ],
+            "area": 29754,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3151,
+            "image_id": 1452,
+            "category_id": 16547,
+            "bbox": [
+                649,
+                193,
+                212,
+                211
+            ],
+            "area": 44732,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3152,
+            "image_id": 1452,
+            "category_id": 6562,
+            "bbox": [
+                203,
+                724,
+                179,
+                336
+            ],
+            "area": 60144,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3153,
+            "image_id": 1452,
+            "category_id": 1899,
+            "bbox": [
+                632,
+                865,
+                175,
+                160
+            ],
+            "area": 28000,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

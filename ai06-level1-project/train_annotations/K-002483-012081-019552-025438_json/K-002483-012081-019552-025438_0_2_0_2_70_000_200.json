@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 172,
+            "file_name": "K-002483-012081-019552-025438_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 685,
+            "image_id": 172,
+            "category_id": 12080,
+            "bbox": [
+                82,
+                144,
+                194,
+                387
+            ],
+            "area": 75078,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 686,
+            "image_id": 172,
+            "category_id": 25437,
+            "bbox": [
+                565,
+                204,
+                231,
+                232
+            ],
+            "area": 53592,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 687,
+            "image_id": 172,
+            "category_id": 2482,
+            "bbox": [
+                80,
+                667,
+                265,
+                421
+            ],
+            "area": 111565,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 688,
+            "image_id": 172,
+            "category_id": 19551,
+            "bbox": [
+                561,
+                704,
+                291,
+                425
+            ],
+            "area": 123675,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        }
+    ]
+}

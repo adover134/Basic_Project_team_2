@@ -1,0 +1,33 @@
+{
+    "images": [
+        {
+            "id": 7293,
+            "file_name": "K-016206-018147-022074_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21078,
+            "image_id": 7293,
+            "category_id": 18146,
+            "bbox": [
+                158,
+                664,
+                151,
+                416
+            ],
+            "area": 62816,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 18146,
+            "supercategory": "pill",
+            "name": "리리카캡슐 150mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5954,
+            "file_name": "K-012420-016548-033009-033208_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17474,
+            "image_id": 5954,
+            "category_id": 12419,
+            "bbox": [
+                130,
+                197,
+                163,
+                164
+            ],
+            "area": 26732,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17475,
+            "image_id": 5954,
+            "category_id": 16547,
+            "bbox": [
+                577,
+                158,
+                207,
+                211
+            ],
+            "area": 43677,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17476,
+            "image_id": 5954,
+            "category_id": 33008,
+            "bbox": [
+                8,
+                740,
+                296,
+                289
+            ],
+            "area": 85544,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17477,
+            "image_id": 5954,
+            "category_id": 33207,
+            "bbox": [
+                592,
+                767,
+                186,
+                189
+            ],
+            "area": 35154,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}

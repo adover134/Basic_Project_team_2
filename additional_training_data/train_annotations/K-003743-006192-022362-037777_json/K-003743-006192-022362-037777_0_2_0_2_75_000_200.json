@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2579,
+            "file_name": "K-003743-006192-022362-037777_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 6797,
+            "image_id": 2579,
+            "category_id": 6191,
+            "bbox": [
+                137,
+                207,
+                199,
+                461
+            ],
+            "area": 91739,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6798,
+            "image_id": 2579,
+            "category_id": 3742,
+            "bbox": [
+                138,
+                854,
+                300,
+                305
+            ],
+            "area": 91500,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6799,
+            "image_id": 2579,
+            "category_id": 22361,
+            "bbox": [
+                659,
+                781,
+                224,
+                381
+            ],
+            "area": 85344,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        }
+    ]
+}

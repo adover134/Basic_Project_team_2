@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 4101,
+            "file_name": "K-005391-022074-031863_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10901,
+            "image_id": 4101,
+            "category_id": 22073,
+            "bbox": [
+                156,
+                822,
+                173,
+                176
+            ],
+            "area": 30448,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10902,
+            "image_id": 4101,
+            "category_id": 31862,
+            "bbox": [
+                607,
+                867,
+                190,
+                192
+            ],
+            "area": 36480,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22073,
+            "supercategory": "pill",
+            "name": "리피로우정 20mg"
+        },
+        {
+            "id": 31862,
+            "supercategory": "pill",
+            "name": "아질렉트정(라사길린메실산염)"
+        }
+    ]
+}

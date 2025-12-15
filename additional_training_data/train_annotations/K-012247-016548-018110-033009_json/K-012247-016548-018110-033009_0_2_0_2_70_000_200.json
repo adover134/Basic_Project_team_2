@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5653,
+            "file_name": "K-012247-016548-018110-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16270,
+            "image_id": 5653,
+            "category_id": 33008,
+            "bbox": [
+                120,
+                263,
+                330,
+                186
+            ],
+            "area": 61380,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16271,
+            "image_id": 5653,
+            "category_id": 18109,
+            "bbox": [
+                655,
+                200,
+                263,
+                263
+            ],
+            "area": 69169,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16272,
+            "image_id": 5653,
+            "category_id": 16547,
+            "bbox": [
+                142,
+                874,
+                217,
+                222
+            ],
+            "area": 48174,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16273,
+            "image_id": 5653,
+            "category_id": 12246,
+            "bbox": [
+                664,
+                885,
+                194,
+                120
+            ],
+            "area": 23280,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 527,
+            "file_name": "K-003483-022347-027777-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1948,
+            "image_id": 527,
+            "category_id": 22346,
+            "bbox": [
+                141,
+                212,
+                184,
+                185
+            ],
+            "area": 34040,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1949,
+            "image_id": 527,
+            "category_id": 36636,
+            "bbox": [
+                672,
+                189,
+                167,
+                237
+            ],
+            "area": 39579,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1950,
+            "image_id": 527,
+            "category_id": 27776,
+            "bbox": [
+                184,
+                818,
+                157,
+                193
+            ],
+            "area": 30301,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1951,
+            "image_id": 527,
+            "category_id": 3482,
+            "bbox": [
+                572,
+                818,
+                243,
+                205
+            ],
+            "area": 49815,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

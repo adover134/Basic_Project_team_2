@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1647,
+            "file_name": "K-003544-016551-021026-027993_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3930,
+            "image_id": 1647,
+            "category_id": 3543,
+            "bbox": [
+                122,
+                228,
+                188,
+                188
+            ],
+            "area": 35344,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3931,
+            "image_id": 1647,
+            "category_id": 16550,
+            "bbox": [
+                450,
+                186,
+                437,
+                267
+            ],
+            "area": 116679,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3932,
+            "image_id": 1647,
+            "category_id": 21025,
+            "bbox": [
+                156,
+                871,
+                162,
+                163
+            ],
+            "area": 26406,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3933,
+            "image_id": 1647,
+            "category_id": 27992,
+            "bbox": [
+                624,
+                792,
+                250,
+                252
+            ],
+            "area": 63000,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        }
+    ]
+}

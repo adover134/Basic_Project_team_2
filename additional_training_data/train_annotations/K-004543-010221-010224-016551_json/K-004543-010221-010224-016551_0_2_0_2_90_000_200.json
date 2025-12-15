@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3153,
+            "file_name": "K-004543-010221-010224-016551_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8256,
+            "image_id": 3153,
+            "category_id": 4542,
+            "bbox": [
+                122,
+                247,
+                186,
+                186
+            ],
+            "area": 34596,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8257,
+            "image_id": 3153,
+            "category_id": 10220,
+            "bbox": [
+                632,
+                165,
+                200,
+                199
+            ],
+            "area": 39800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8258,
+            "image_id": 3153,
+            "category_id": 10223,
+            "bbox": [
+                122,
+                756,
+                193,
+                375
+            ],
+            "area": 72375,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8259,
+            "image_id": 3153,
+            "category_id": 16550,
+            "bbox": [
+                622,
+                660,
+                259,
+                440
+            ],
+            "area": 113960,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        }
+    ]
+}

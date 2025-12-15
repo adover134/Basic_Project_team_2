@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 492,
+            "file_name": "K-003483-020877-025367-035206_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1808,
+            "image_id": 492,
+            "category_id": 25366,
+            "bbox": [
+                103,
+                168,
+                380,
+                398
+            ],
+            "area": 151240,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1809,
+            "image_id": 492,
+            "category_id": 35205,
+            "bbox": [
+                674,
+                191,
+                185,
+                377
+            ],
+            "area": 69745,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1810,
+            "image_id": 492,
+            "category_id": 20876,
+            "bbox": [
+                128,
+                780,
+                305,
+                215
+            ],
+            "area": 65575,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1811,
+            "image_id": 492,
+            "category_id": 3482,
+            "bbox": [
+                658,
+                754,
+                186,
+                254
+            ],
+            "area": 47244,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

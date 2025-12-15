@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4742,
+            "file_name": "K-010224-012247-016548-029451_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13316,
+            "image_id": 4742,
+            "category_id": 10223,
+            "bbox": [
+                117,
+                132,
+                212,
+                359
+            ],
+            "area": 76108,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13317,
+            "image_id": 4742,
+            "category_id": 12246,
+            "bbox": [
+                650,
+                227,
+                175,
+                154
+            ],
+            "area": 26950,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13318,
+            "image_id": 4742,
+            "category_id": 16547,
+            "bbox": [
+                77,
+                831,
+                217,
+                219
+            ],
+            "area": 47523,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13319,
+            "image_id": 4742,
+            "category_id": 29450,
+            "bbox": [
+                570,
+                697,
+                288,
+                339
+            ],
+            "area": 97632,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

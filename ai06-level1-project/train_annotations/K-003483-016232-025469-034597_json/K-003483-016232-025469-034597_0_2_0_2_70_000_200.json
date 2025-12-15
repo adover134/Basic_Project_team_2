@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 371,
+            "file_name": "K-003483-016232-025469-034597_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1324,
+            "image_id": 371,
+            "category_id": 3482,
+            "bbox": [
+                139,
+                283,
+                248,
+                169
+            ],
+            "area": 41912,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1325,
+            "image_id": 371,
+            "category_id": 25468,
+            "bbox": [
+                593,
+                242,
+                333,
+                196
+            ],
+            "area": 65268,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1326,
+            "image_id": 371,
+            "category_id": 16231,
+            "bbox": [
+                175,
+                862,
+                173,
+                177
+            ],
+            "area": 30621,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1327,
+            "image_id": 371,
+            "category_id": 34596,
+            "bbox": [
+                577,
+                709,
+                389,
+                430
+            ],
+            "area": 167270,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        }
+    ]
+}

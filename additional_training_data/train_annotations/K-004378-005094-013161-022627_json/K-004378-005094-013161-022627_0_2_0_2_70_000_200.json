@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3055,
+            "file_name": "K-004378-005094-013161-022627_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7957,
+            "image_id": 3055,
+            "category_id": 4377,
+            "bbox": [
+                161,
+                139,
+                169,
+                390
+            ],
+            "area": 65910,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7958,
+            "image_id": 3055,
+            "category_id": 5093,
+            "bbox": [
+                565,
+                203,
+                243,
+                247
+            ],
+            "area": 60021,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7959,
+            "image_id": 3055,
+            "category_id": 22626,
+            "bbox": [
+                530,
+                690,
+                266,
+                429
+            ],
+            "area": 114114,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        }
+    ]
+}

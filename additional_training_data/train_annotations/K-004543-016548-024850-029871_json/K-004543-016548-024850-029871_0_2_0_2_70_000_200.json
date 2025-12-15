@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3343,
+            "file_name": "K-004543-016548-024850-029871_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9016,
+            "image_id": 3343,
+            "category_id": 29870,
+            "bbox": [
+                181,
+                284,
+                180,
+                201
+            ],
+            "area": 36180,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9017,
+            "image_id": 3343,
+            "category_id": 24849,
+            "bbox": [
+                642,
+                285,
+                209,
+                215
+            ],
+            "area": 44935,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9018,
+            "image_id": 3343,
+            "category_id": 16547,
+            "bbox": [
+                147,
+                908,
+                219,
+                223
+            ],
+            "area": 48837,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9019,
+            "image_id": 3343,
+            "category_id": 4542,
+            "bbox": [
+                659,
+                931,
+                193,
+                197
+            ],
+            "area": 38021,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

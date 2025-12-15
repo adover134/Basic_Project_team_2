@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1409,
+            "file_name": "K-001900-004543-016548-021771_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2978,
+            "image_id": 1409,
+            "category_id": 1899,
+            "bbox": [
+                148,
+                219,
+                111,
+                183
+            ],
+            "area": 20313,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2979,
+            "image_id": 1409,
+            "category_id": 4542,
+            "bbox": [
+                587,
+                212,
+                182,
+                184
+            ],
+            "area": 33488,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2980,
+            "image_id": 1409,
+            "category_id": 16547,
+            "bbox": [
+                144,
+                732,
+                214,
+                220
+            ],
+            "area": 47080,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2981,
+            "image_id": 1409,
+            "category_id": 21770,
+            "bbox": [
+                612,
+                819,
+                175,
+                177
+            ],
+            "area": 30975,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7241,
+            "file_name": "K-016206-016262-018147_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20976,
+            "image_id": 7241,
+            "category_id": 16261,
+            "bbox": [
+                95,
+                672,
+                222,
+                225
+            ],
+            "area": 49950,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20977,
+            "image_id": 7241,
+            "category_id": 18146,
+            "bbox": [
+                577,
+                577,
+                175,
+                413
+            ],
+            "area": 72275,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 18146,
+            "supercategory": "pill",
+            "name": "리리카캡슐 150mg"
+        }
+    ]
+}

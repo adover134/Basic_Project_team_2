@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4616,
+            "file_name": "K-010221-016548-031705-033208_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12812,
+            "image_id": 4616,
+            "category_id": 10220,
+            "bbox": [
+                111,
+                171,
+                194,
+                199
+            ],
+            "area": 38606,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12813,
+            "image_id": 4616,
+            "category_id": 16547,
+            "bbox": [
+                591,
+                187,
+                206,
+                211
+            ],
+            "area": 43466,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12814,
+            "image_id": 4616,
+            "category_id": 31704,
+            "bbox": [
+                83,
+                657,
+                310,
+                384
+            ],
+            "area": 119040,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12815,
+            "image_id": 4616,
+            "category_id": 33207,
+            "bbox": [
+                642,
+                802,
+                186,
+                188
+            ],
+            "area": 34968,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}

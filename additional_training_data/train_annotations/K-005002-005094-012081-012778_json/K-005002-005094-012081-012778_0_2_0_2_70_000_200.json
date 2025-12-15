@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3727,
+            "file_name": "K-005002-005094-012081-012778_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9991,
+            "image_id": 3727,
+            "category_id": 12080,
+            "bbox": [
+                147,
+                131,
+                189,
+                388
+            ],
+            "area": 73332,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9992,
+            "image_id": 3727,
+            "category_id": 5093,
+            "bbox": [
+                571,
+                193,
+                243,
+                247
+            ],
+            "area": 60021,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9993,
+            "image_id": 3727,
+            "category_id": 12777,
+            "bbox": [
+                536,
+                563,
+                263,
+                451
+            ],
+            "area": 118613,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3417,
+            "file_name": "K-004543-016551-024850-033878_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9312,
+            "image_id": 3417,
+            "category_id": 4542,
+            "bbox": [
+                158,
+                168,
+                186,
+                186
+            ],
+            "area": 34596,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9313,
+            "image_id": 3417,
+            "category_id": 16550,
+            "bbox": [
+                613,
+                42,
+                297,
+                423
+            ],
+            "area": 125631,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9314,
+            "image_id": 3417,
+            "category_id": 24849,
+            "bbox": [
+                83,
+                869,
+                264,
+                156
+            ],
+            "area": 41184,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9315,
+            "image_id": 3417,
+            "category_id": 33877,
+            "bbox": [
+                657,
+                840,
+                125,
+                198
+            ],
+            "area": 24750,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7643,
+            "file_name": "K-016232-020259-032310_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21900,
+            "image_id": 7643,
+            "category_id": 16231,
+            "bbox": [
+                366,
+                163,
+                169,
+                175
+            ],
+            "area": 29575,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21901,
+            "image_id": 7643,
+            "category_id": 32309,
+            "bbox": [
+                515,
+                718,
+                361,
+                225
+            ],
+            "area": 81225,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 32309,
+            "supercategory": "pill",
+            "name": "글리아타민연질캡슐"
+        }
+    ]
+}

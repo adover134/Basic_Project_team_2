@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1459,
+            "file_name": "K-001900-006563-016548-044199_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3178,
+            "image_id": 1459,
+            "category_id": 1899,
+            "bbox": [
+                197,
+                288,
+                174,
+                153
+            ],
+            "area": 26622,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3179,
+            "image_id": 1459,
+            "category_id": 6562,
+            "bbox": [
+                613,
+                252,
+                175,
+                311
+            ],
+            "area": 54425,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3180,
+            "image_id": 1459,
+            "category_id": 16547,
+            "bbox": [
+                167,
+                862,
+                216,
+                221
+            ],
+            "area": 47736,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3181,
+            "image_id": 1459,
+            "category_id": 44198,
+            "bbox": [
+                707,
+                846,
+                136,
+                271
+            ],
+            "area": 36856,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        }
+    ]
+}

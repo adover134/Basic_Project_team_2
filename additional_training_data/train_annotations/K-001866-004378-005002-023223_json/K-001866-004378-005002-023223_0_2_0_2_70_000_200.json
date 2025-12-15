@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 988,
+            "file_name": "K-001866-004378-005002-023223_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2015,
+            "image_id": 988,
+            "category_id": 4377,
+            "bbox": [
+                124,
+                130,
+                183,
+                389
+            ],
+            "area": 71187,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2016,
+            "image_id": 988,
+            "category_id": 23222,
+            "bbox": [
+                568,
+                628,
+                261,
+                447
+            ],
+            "area": 116667,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        },
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        }
+    ]
+}

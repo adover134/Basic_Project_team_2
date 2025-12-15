@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 388,
+            "file_name": "K-003483-016262-019861-034597_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1392,
+            "image_id": 388,
+            "category_id": 34596,
+            "bbox": [
+                49,
+                118,
+                386,
+                392
+            ],
+            "area": 151312,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1393,
+            "image_id": 388,
+            "category_id": 16261,
+            "bbox": [
+                624,
+                180,
+                207,
+                211
+            ],
+            "area": 43677,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1394,
+            "image_id": 388,
+            "category_id": 19860,
+            "bbox": [
+                98,
+                833,
+                208,
+                162
+            ],
+            "area": 33696,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1395,
+            "image_id": 388,
+            "category_id": 3482,
+            "bbox": [
+                582,
+                837,
+                240,
+                225
+            ],
+            "area": 54000,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

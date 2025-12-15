@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 437,
+            "file_name": "K-003483-019861-022347-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1588,
+            "image_id": 437,
+            "category_id": 22346,
+            "bbox": [
+                153,
+                200,
+                180,
+                182
+            ],
+            "area": 32760,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1589,
+            "image_id": 437,
+            "category_id": 35205,
+            "bbox": [
+                572,
+                102,
+                240,
+                350
+            ],
+            "area": 84000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1590,
+            "image_id": 437,
+            "category_id": 19860,
+            "bbox": [
+                98,
+                833,
+                208,
+                162
+            ],
+            "area": 33696,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1591,
+            "image_id": 437,
+            "category_id": 3482,
+            "bbox": [
+                582,
+                837,
+                241,
+                225
+            ],
+            "area": 54225,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

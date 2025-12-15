@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1376,
+            "file_name": "K-001900-003544-016548-033009_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2846,
+            "image_id": 1376,
+            "category_id": 1899,
+            "bbox": [
+                140,
+                247,
+                176,
+                151
+            ],
+            "area": 26576,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2847,
+            "image_id": 1376,
+            "category_id": 3543,
+            "bbox": [
+                584,
+                154,
+                184,
+                186
+            ],
+            "area": 34224,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2848,
+            "image_id": 1376,
+            "category_id": 16547,
+            "bbox": [
+                98,
+                738,
+                215,
+                220
+            ],
+            "area": 47300,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2849,
+            "image_id": 1376,
+            "category_id": 33008,
+            "bbox": [
+                530,
+                804,
+                350,
+                192
+            ],
+            "area": 67200,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

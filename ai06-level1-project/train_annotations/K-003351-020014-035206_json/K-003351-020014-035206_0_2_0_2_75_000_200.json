@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 293,
+            "file_name": "K-003351-020014-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1065,
+            "image_id": 293,
+            "category_id": 3350,
+            "bbox": [
+                333,
+                161,
+                164,
+                174
+            ],
+            "area": 28536,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1066,
+            "image_id": 293,
+            "category_id": 20013,
+            "bbox": [
+                42,
+                640,
+                314,
+                312
+            ],
+            "area": 97968,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1067,
+            "image_id": 293,
+            "category_id": 35205,
+            "bbox": [
+                498,
+                564,
+                289,
+                358
+            ],
+            "area": 103462,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 20013,
+            "supercategory": "pill",
+            "name": "마도파정"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        }
+    ]
+}

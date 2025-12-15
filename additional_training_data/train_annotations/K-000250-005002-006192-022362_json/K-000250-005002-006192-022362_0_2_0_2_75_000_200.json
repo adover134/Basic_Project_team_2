@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 263,
+            "file_name": "K-000250-005002-006192-022362_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 525,
+            "image_id": 263,
+            "category_id": 6191,
+            "bbox": [
+                92,
+                182,
+                307,
+                419
+            ],
+            "area": 128633,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 526,
+            "image_id": 263,
+            "category_id": 22361,
+            "bbox": [
+                646,
+                801,
+                223,
+                380
+            ],
+            "area": 84740,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        }
+    ]
+}

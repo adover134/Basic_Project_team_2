@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7508,
+            "file_name": "K-016232-016235-025367-027733_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21559,
+            "image_id": 7508,
+            "category_id": 25366,
+            "bbox": [
+                52,
+                128,
+                368,
+                390
+            ],
+            "area": 143520,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21560,
+            "image_id": 7508,
+            "category_id": 16231,
+            "bbox": [
+                609,
+                209,
+                170,
+                173
+            ],
+            "area": 29410,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21561,
+            "image_id": 7508,
+            "category_id": 27732,
+            "bbox": [
+                70,
+                783,
+                298,
+                245
+            ],
+            "area": 73010,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        }
+    ]
+}

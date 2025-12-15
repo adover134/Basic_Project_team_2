@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3361,
+            "file_name": "K-004543-016548-033208-033878_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9088,
+            "image_id": 3361,
+            "category_id": 33877,
+            "bbox": [
+                216,
+                271,
+                123,
+                194
+            ],
+            "area": 23862,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9089,
+            "image_id": 3361,
+            "category_id": 33207,
+            "bbox": [
+                639,
+                327,
+                180,
+                180
+            ],
+            "area": 32400,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9090,
+            "image_id": 3361,
+            "category_id": 16547,
+            "bbox": [
+                128,
+                859,
+                216,
+                221
+            ],
+            "area": 47736,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9091,
+            "image_id": 3361,
+            "category_id": 4542,
+            "bbox": [
+                649,
+                886,
+                192,
+                195
+            ],
+            "area": 37440,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

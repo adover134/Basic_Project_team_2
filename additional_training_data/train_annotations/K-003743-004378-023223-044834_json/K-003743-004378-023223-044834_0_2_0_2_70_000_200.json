@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2428,
+            "file_name": "K-003743-004378-023223-044834_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 6344,
+            "image_id": 2428,
+            "category_id": 4377,
+            "bbox": [
+                153,
+                140,
+                184,
+                389
+            ],
+            "area": 71576,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6345,
+            "image_id": 2428,
+            "category_id": 3742,
+            "bbox": [
+                497,
+                162,
+                287,
+                282
+            ],
+            "area": 80934,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6346,
+            "image_id": 2428,
+            "category_id": 23222,
+            "bbox": [
+                585,
+                643,
+                228,
+                454
+            ],
+            "area": 103512,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        }
+    ]
+}

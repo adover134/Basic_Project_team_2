@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6723,
+            "file_name": "K-015710-016262-022347-027653_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19447,
+            "image_id": 6723,
+            "category_id": 22346,
+            "bbox": [
+                140,
+                236,
+                185,
+                184
+            ],
+            "area": 34040,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19448,
+            "image_id": 6723,
+            "category_id": 16261,
+            "bbox": [
+                606,
+                170,
+                213,
+                212
+            ],
+            "area": 45156,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19449,
+            "image_id": 6723,
+            "category_id": 27652,
+            "bbox": [
+                109,
+                863,
+                187,
+                189
+            ],
+            "area": 35343,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        }
+    ]
+}

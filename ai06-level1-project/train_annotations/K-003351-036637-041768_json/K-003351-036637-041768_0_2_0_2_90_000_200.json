@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 343,
+            "file_name": "K-003351-036637-041768_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1215,
+            "image_id": 343,
+            "category_id": 3350,
+            "bbox": [
+                340,
+                275,
+                166,
+                167
+            ],
+            "area": 27722,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1216,
+            "image_id": 343,
+            "category_id": 36636,
+            "bbox": [
+                169,
+                809,
+                172,
+                243
+            ],
+            "area": 41796,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1217,
+            "image_id": 343,
+            "category_id": 41767,
+            "bbox": [
+                608,
+                697,
+                250,
+                286
+            ],
+            "area": 71500,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        }
+    ]
+}

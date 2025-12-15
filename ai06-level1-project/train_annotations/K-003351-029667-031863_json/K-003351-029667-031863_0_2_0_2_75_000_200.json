@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 321,
+            "file_name": "K-003351-029667-031863_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1149,
+            "image_id": 321,
+            "category_id": 3350,
+            "bbox": [
+                385,
+                191,
+                165,
+                172
+            ],
+            "area": 28380,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1150,
+            "image_id": 321,
+            "category_id": 29666,
+            "bbox": [
+                130,
+                671,
+                210,
+                214
+            ],
+            "area": 44940,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1151,
+            "image_id": 321,
+            "category_id": 31862,
+            "bbox": [
+                566,
+                794,
+                193,
+                198
+            ],
+            "area": 38214,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 31862,
+            "supercategory": "pill",
+            "name": "아질렉트정(라사길린메실산염)"
+        }
+    ]
+}

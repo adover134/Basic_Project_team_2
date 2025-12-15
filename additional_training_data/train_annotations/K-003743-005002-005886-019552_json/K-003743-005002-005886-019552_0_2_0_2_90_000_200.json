@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2439,
+            "file_name": "K-003743-005002-005886-019552_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 6377,
+            "image_id": 2439,
+            "category_id": 19551,
+            "bbox": [
+                176,
+                152,
+                240,
+                440
+            ],
+            "area": 105600,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6378,
+            "image_id": 2439,
+            "category_id": 3742,
+            "bbox": [
+                77,
+                813,
+                297,
+                296
+            ],
+            "area": 87912,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6379,
+            "image_id": 2439,
+            "category_id": 5885,
+            "bbox": [
+                609,
+                730,
+                208,
+                449
+            ],
+            "area": 93392,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        }
+    ]
+}

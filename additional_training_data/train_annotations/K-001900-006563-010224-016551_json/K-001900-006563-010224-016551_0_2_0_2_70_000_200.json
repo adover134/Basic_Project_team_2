@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1441,
+            "file_name": "K-001900-006563-010224-016551_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3106,
+            "image_id": 1441,
+            "category_id": 1899,
+            "bbox": [
+                198,
+                284,
+                169,
+                161
+            ],
+            "area": 27209,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3107,
+            "image_id": 1441,
+            "category_id": 6562,
+            "bbox": [
+                612,
+                252,
+                174,
+                311
+            ],
+            "area": 54114,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3108,
+            "image_id": 1441,
+            "category_id": 16550,
+            "bbox": [
+                108,
+                752,
+                287,
+                445
+            ],
+            "area": 127715,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3109,
+            "image_id": 1441,
+            "category_id": 10223,
+            "bbox": [
+                557,
+                811,
+                364,
+                270
+            ],
+            "area": 98280,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        }
+    ]
+}

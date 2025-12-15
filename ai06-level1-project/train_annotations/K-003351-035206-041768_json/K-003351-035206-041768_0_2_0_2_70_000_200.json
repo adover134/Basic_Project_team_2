@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 340,
+            "file_name": "K-003351-035206-041768_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1206,
+            "image_id": 340,
+            "category_id": 41767,
+            "bbox": [
+                129,
+                297,
+                240,
+                272
+            ],
+            "area": 65280,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1207,
+            "image_id": 340,
+            "category_id": 35205,
+            "bbox": [
+                529,
+                260,
+                261,
+                352
+            ],
+            "area": 91872,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1208,
+            "image_id": 340,
+            "category_id": 3350,
+            "bbox": [
+                462,
+                881,
+                171,
+                178
+            ],
+            "area": 30438,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 4067,
+            "file_name": "K-005391-020014-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10833,
+            "image_id": 4067,
+            "category_id": 20013,
+            "bbox": [
+                0,
+                641,
+                289,
+                313
+            ],
+            "area": 90457,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10834,
+            "image_id": 4067,
+            "category_id": 35205,
+            "bbox": [
+                494,
+                564,
+                279,
+                362
+            ],
+            "area": 100998,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20013,
+            "supercategory": "pill",
+            "name": "마도파정"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        }
+    ]
+}

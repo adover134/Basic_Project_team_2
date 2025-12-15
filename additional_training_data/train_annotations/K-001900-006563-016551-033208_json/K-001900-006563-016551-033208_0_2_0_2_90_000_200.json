@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1476,
+            "file_name": "K-001900-006563-016551-033208_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3246,
+            "image_id": 1476,
+            "category_id": 33207,
+            "bbox": [
+                151,
+                222,
+                185,
+                184
+            ],
+            "area": 34040,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3247,
+            "image_id": 1476,
+            "category_id": 16550,
+            "bbox": [
+                548,
+                167,
+                402,
+                331
+            ],
+            "area": 133062,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3248,
+            "image_id": 1476,
+            "category_id": 6562,
+            "bbox": [
+                202,
+                724,
+                179,
+                334
+            ],
+            "area": 59786,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3249,
+            "image_id": 1476,
+            "category_id": 1899,
+            "bbox": [
+                630,
+                865,
+                177,
+                157
+            ],
+            "area": 27789,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

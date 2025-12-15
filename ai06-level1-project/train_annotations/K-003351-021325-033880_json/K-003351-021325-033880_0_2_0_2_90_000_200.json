@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 311,
+            "file_name": "K-003351-021325-033880_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1119,
+            "image_id": 311,
+            "category_id": 3350,
+            "bbox": [
+                373,
+                267,
+                166,
+                167
+            ],
+            "area": 27722,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1120,
+            "image_id": 311,
+            "category_id": 33879,
+            "bbox": [
+                138,
+                715,
+                315,
+                380
+            ],
+            "area": 119700,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1121,
+            "image_id": 311,
+            "category_id": 21324,
+            "bbox": [
+                660,
+                825,
+                178,
+                199
+            ],
+            "area": 35422,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 33879,
+            "supercategory": "pill",
+            "name": "글리틴정(콜린알포세레이트)"
+        },
+        {
+            "id": 21324,
+            "supercategory": "pill",
+            "name": "아토르바정 10mg"
+        }
+    ]
+}

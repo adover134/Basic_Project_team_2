@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2458,
+            "file_name": "K-003743-005002-012081-019552_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 6434,
+            "image_id": 2458,
+            "category_id": 12080,
+            "bbox": [
+                126,
+                140,
+                186,
+                387
+            ],
+            "area": 71982,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6435,
+            "image_id": 2458,
+            "category_id": 3742,
+            "bbox": [
+                503,
+                180,
+                287,
+                277
+            ],
+            "area": 79499,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6436,
+            "image_id": 2458,
+            "category_id": 19551,
+            "bbox": [
+                582,
+                577,
+                241,
+                445
+            ],
+            "area": 107245,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        }
+    ]
+}

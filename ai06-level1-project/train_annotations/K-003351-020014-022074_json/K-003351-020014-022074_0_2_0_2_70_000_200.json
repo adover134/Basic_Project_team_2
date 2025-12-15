@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 290,
+            "file_name": "K-003351-020014-022074_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1056,
+            "image_id": 290,
+            "category_id": 22073,
+            "bbox": [
+                175,
+                313,
+                170,
+                178
+            ],
+            "area": 30260,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1057,
+            "image_id": 290,
+            "category_id": 20013,
+            "bbox": [
+                592,
+                289,
+                308,
+                296
+            ],
+            "area": 91168,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1058,
+            "image_id": 290,
+            "category_id": 3350,
+            "bbox": [
+                419,
+                863,
+                169,
+                177
+            ],
+            "area": 29913,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22073,
+            "supercategory": "pill",
+            "name": "리피로우정 20mg"
+        },
+        {
+            "id": 20013,
+            "supercategory": "pill",
+            "name": "마도파정"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

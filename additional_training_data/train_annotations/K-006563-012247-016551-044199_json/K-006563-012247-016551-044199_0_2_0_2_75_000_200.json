@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4304,
+            "file_name": "K-006563-012247-016551-044199_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11564,
+            "image_id": 4304,
+            "category_id": 44198,
+            "bbox": [
+                109,
+                178,
+                208,
+                225
+            ],
+            "area": 46800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11565,
+            "image_id": 4304,
+            "category_id": 16550,
+            "bbox": [
+                574,
+                69,
+                325,
+                390
+            ],
+            "area": 126750,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11566,
+            "image_id": 4304,
+            "category_id": 6562,
+            "bbox": [
+                177,
+                688,
+                183,
+                339
+            ],
+            "area": 62037,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11567,
+            "image_id": 4304,
+            "category_id": 12246,
+            "bbox": [
+                601,
+                857,
+                190,
+                114
+            ],
+            "area": 21660,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        }
+    ]
+}

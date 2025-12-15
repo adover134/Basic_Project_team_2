@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 2904,
+            "file_name": "K-003832-020238-028424_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7598,
+            "image_id": 2904,
+            "category_id": 3831,
+            "bbox": [
+                319,
+                145,
+                286,
+                394
+            ],
+            "area": 112684,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7599,
+            "image_id": 2904,
+            "category_id": 20237,
+            "bbox": [
+                126,
+                814,
+                205,
+                208
+            ],
+            "area": 42640,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        }
+    ]
+}

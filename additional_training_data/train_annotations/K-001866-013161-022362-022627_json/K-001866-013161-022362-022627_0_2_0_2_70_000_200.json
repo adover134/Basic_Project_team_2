@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 1288,
+            "file_name": "K-001866-013161-022362-022627_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2614,
+            "image_id": 1288,
+            "category_id": 22361,
+            "bbox": [
+                112,
+                149,
+                218,
+                354
+            ],
+            "area": 77172,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2615,
+            "image_id": 1288,
+            "category_id": 22626,
+            "bbox": [
+                571,
+                677,
+                232,
+                437
+            ],
+            "area": 101384,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        },
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        }
+    ]
+}

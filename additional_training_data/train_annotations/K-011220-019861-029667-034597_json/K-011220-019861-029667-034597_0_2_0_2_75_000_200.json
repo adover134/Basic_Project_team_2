@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5213,
+            "file_name": "K-011220-019861-029667-034597_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14935,
+            "image_id": 5213,
+            "category_id": 34596,
+            "bbox": [
+                93,
+                112,
+                324,
+                435
+            ],
+            "area": 140940,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14936,
+            "image_id": 5213,
+            "category_id": 29666,
+            "bbox": [
+                641,
+                197,
+                196,
+                201
+            ],
+            "area": 39396,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14937,
+            "image_id": 5213,
+            "category_id": 19860,
+            "bbox": [
+                99,
+                833,
+                207,
+                162
+            ],
+            "area": 33534,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

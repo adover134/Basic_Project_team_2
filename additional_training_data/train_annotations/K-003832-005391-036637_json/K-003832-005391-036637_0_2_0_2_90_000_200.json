@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 2787,
+            "file_name": "K-003832-005391-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7364,
+            "image_id": 2787,
+            "category_id": 3831,
+            "bbox": [
+                411,
+                104,
+                225,
+                414
+            ],
+            "area": 93150,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7365,
+            "image_id": 2787,
+            "category_id": 36636,
+            "bbox": [
+                630,
+                876,
+                247,
+                159
+            ],
+            "area": 39273,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7900,
+            "file_name": "K-016235-019861-020238-028763_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22613,
+            "image_id": 7900,
+            "category_id": 19860,
+            "bbox": [
+                657,
+                282,
+                200,
+                154
+            ],
+            "area": 30800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22614,
+            "image_id": 7900,
+            "category_id": 20237,
+            "bbox": [
+                159,
+                877,
+                205,
+                208
+            ],
+            "area": 42640,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22615,
+            "image_id": 7900,
+            "category_id": 28762,
+            "bbox": [
+                653,
+                878,
+                192,
+                193
+            ],
+            "area": 37056,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

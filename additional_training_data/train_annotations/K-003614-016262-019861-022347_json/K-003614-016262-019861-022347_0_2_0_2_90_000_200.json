@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 1824,
+            "file_name": "K-003614-016262-019861-022347_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4532,
+            "image_id": 1824,
+            "category_id": 22346,
+            "bbox": [
+                125,
+                208,
+                184,
+                186
+            ],
+            "area": 34224,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4533,
+            "image_id": 1824,
+            "category_id": 16261,
+            "bbox": [
+                629,
+                197,
+                212,
+                213
+            ],
+            "area": 45156,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4534,
+            "image_id": 1824,
+            "category_id": 19860,
+            "bbox": [
+                129,
+                873,
+                203,
+                155
+            ],
+            "area": 31465,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3397,
+            "file_name": "K-004543-016551-021771-029871_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9232,
+            "image_id": 3397,
+            "category_id": 29870,
+            "bbox": [
+                181,
+                284,
+                181,
+                201
+            ],
+            "area": 36381,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9233,
+            "image_id": 3397,
+            "category_id": 21770,
+            "bbox": [
+                686,
+                302,
+                168,
+                167
+            ],
+            "area": 28056,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9234,
+            "image_id": 3397,
+            "category_id": 16550,
+            "bbox": [
+                99,
+                675,
+                250,
+                456
+            ],
+            "area": 114000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9235,
+            "image_id": 3397,
+            "category_id": 4542,
+            "bbox": [
+                658,
+                932,
+                193,
+                197
+            ],
+            "area": 38021,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

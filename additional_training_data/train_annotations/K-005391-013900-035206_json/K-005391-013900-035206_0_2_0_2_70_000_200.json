@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3913,
+            "file_name": "K-005391-013900-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10528,
+            "image_id": 3913,
+            "category_id": 13899,
+            "bbox": [
+                195,
+                289,
+                180,
+                225
+            ],
+            "area": 40500,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10529,
+            "image_id": 3913,
+            "category_id": 35205,
+            "bbox": [
+                508,
+                310,
+                315,
+                318
+            ],
+            "area": 100170,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 13899,
+            "supercategory": "pill",
+            "name": "에빅사정(메만틴염산염)(비매품)"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 417,
+            "file_name": "K-000250-012081-013161-023223_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 833,
+            "image_id": 417,
+            "category_id": 23222,
+            "bbox": [
+                136,
+                124,
+                219,
+                451
+            ],
+            "area": 98769,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 834,
+            "image_id": 417,
+            "category_id": 12080,
+            "bbox": [
+                661,
+                730,
+                194,
+                409
+            ],
+            "area": 79346,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

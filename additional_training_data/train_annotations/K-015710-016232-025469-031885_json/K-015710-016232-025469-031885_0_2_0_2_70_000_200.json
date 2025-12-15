@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6643,
+            "file_name": "K-015710-016232-025469-031885_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19207,
+            "image_id": 6643,
+            "category_id": 25468,
+            "bbox": [
+                572,
+                222,
+                326,
+                220
+            ],
+            "area": 71720,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19208,
+            "image_id": 6643,
+            "category_id": 16231,
+            "bbox": [
+                175,
+                893,
+                179,
+                180
+            ],
+            "area": 32220,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19209,
+            "image_id": 6643,
+            "category_id": 31884,
+            "bbox": [
+                488,
+                691,
+                389,
+                482
+            ],
+            "area": 187498,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 376,
+            "file_name": "K-003483-016232-027733-031885_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1344,
+            "image_id": 376,
+            "category_id": 31884,
+            "bbox": [
+                97,
+                51,
+                340,
+                475
+            ],
+            "area": 161500,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1345,
+            "image_id": 376,
+            "category_id": 16231,
+            "bbox": [
+                626,
+                183,
+                170,
+                172
+            ],
+            "area": 29240,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1346,
+            "image_id": 376,
+            "category_id": 27732,
+            "bbox": [
+                99,
+                734,
+                285,
+                270
+            ],
+            "area": 76950,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1347,
+            "image_id": 376,
+            "category_id": 3482,
+            "bbox": [
+                586,
+                763,
+                253,
+                198
+            ],
+            "area": 50094,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4699,
+            "file_name": "K-010221-016551-024850-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13144,
+            "image_id": 4699,
+            "category_id": 33008,
+            "bbox": [
+                103,
+                275,
+                288,
+                263
+            ],
+            "area": 75744,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13145,
+            "image_id": 4699,
+            "category_id": 24849,
+            "bbox": [
+                676,
+                249,
+                140,
+                252
+            ],
+            "area": 35280,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13146,
+            "image_id": 4699,
+            "category_id": 16550,
+            "bbox": [
+                79,
+                716,
+                259,
+                454
+            ],
+            "area": 117586,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13147,
+            "image_id": 4699,
+            "category_id": 10220,
+            "bbox": [
+                638,
+                833,
+                205,
+                210
+            ],
+            "area": 43050,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

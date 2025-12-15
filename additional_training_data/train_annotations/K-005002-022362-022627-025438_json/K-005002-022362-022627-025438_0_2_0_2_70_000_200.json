@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3817,
+            "file_name": "K-005002-022362-022627-025438_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10261,
+            "image_id": 3817,
+            "category_id": 22361,
+            "bbox": [
+                110,
+                134,
+                218,
+                352
+            ],
+            "area": 76736,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10262,
+            "image_id": 3817,
+            "category_id": 25437,
+            "bbox": [
+                533,
+                169,
+                229,
+                232
+            ],
+            "area": 53128,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10263,
+            "image_id": 3817,
+            "category_id": 22626,
+            "bbox": [
+                567,
+                686,
+                247,
+                434
+            ],
+            "area": 107198,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        }
+    ]
+}

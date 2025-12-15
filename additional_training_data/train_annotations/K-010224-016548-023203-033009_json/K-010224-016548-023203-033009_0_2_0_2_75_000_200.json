@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4829,
+            "file_name": "K-010224-016548-023203-033009_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13664,
+            "image_id": 4829,
+            "category_id": 10223,
+            "bbox": [
+                124,
+                100,
+                185,
+                364
+            ],
+            "area": 67340,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13665,
+            "image_id": 4829,
+            "category_id": 16547,
+            "bbox": [
+                586,
+                148,
+                207,
+                211
+            ],
+            "area": 43677,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13666,
+            "image_id": 4829,
+            "category_id": 23202,
+            "bbox": [
+                149,
+                818,
+                120,
+                123
+            ],
+            "area": 14760,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13667,
+            "image_id": 4829,
+            "category_id": 33008,
+            "bbox": [
+                610,
+                705,
+                276,
+                305
+            ],
+            "area": 84180,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

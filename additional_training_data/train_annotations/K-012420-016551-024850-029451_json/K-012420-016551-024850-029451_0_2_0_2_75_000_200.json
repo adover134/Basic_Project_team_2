@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 6029,
+            "file_name": "K-012420-016551-024850-029451_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17774,
+            "image_id": 6029,
+            "category_id": 12419,
+            "bbox": [
+                129,
+                213,
+                164,
+                164
+            ],
+            "area": 26896,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17775,
+            "image_id": 6029,
+            "category_id": 16550,
+            "bbox": [
+                578,
+                49,
+                236,
+                436
+            ],
+            "area": 102896,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17776,
+            "image_id": 6029,
+            "category_id": 24849,
+            "bbox": [
+                48,
+                842,
+                275,
+                150
+            ],
+            "area": 41250,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17777,
+            "image_id": 6029,
+            "category_id": 29450,
+            "bbox": [
+                535,
+                753,
+                320,
+                315
+            ],
+            "area": 100800,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6998,
+            "file_name": "K-015710-020877-034597-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20272,
+            "image_id": 6998,
+            "category_id": 34596,
+            "bbox": [
+                44,
+                133,
+                396,
+                380
+            ],
+            "area": 150480,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20273,
+            "image_id": 6998,
+            "category_id": 35205,
+            "bbox": [
+                641,
+                133,
+                154,
+                373
+            ],
+            "area": 57442,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20274,
+            "image_id": 6998,
+            "category_id": 20876,
+            "bbox": [
+                55,
+                808,
+                300,
+                241
+            ],
+            "area": 72300,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

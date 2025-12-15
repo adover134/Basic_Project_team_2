@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4533,
+            "file_name": "K-010221-016548-018110-029451_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12480,
+            "image_id": 4533,
+            "category_id": 10220,
+            "bbox": [
+                127,
+                249,
+                199,
+                199
+            ],
+            "area": 39601,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12481,
+            "image_id": 4533,
+            "category_id": 16547,
+            "bbox": [
+                628,
+                238,
+                212,
+                210
+            ],
+            "area": 44520,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12482,
+            "image_id": 4533,
+            "category_id": 18109,
+            "bbox": [
+                94,
+                808,
+                267,
+                268
+            ],
+            "area": 71556,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12483,
+            "image_id": 4533,
+            "category_id": 29450,
+            "bbox": [
+                600,
+                736,
+                193,
+                382
+            ],
+            "area": 73726,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

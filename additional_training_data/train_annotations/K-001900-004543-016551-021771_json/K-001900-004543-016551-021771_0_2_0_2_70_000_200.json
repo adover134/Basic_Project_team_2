@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1426,
+            "file_name": "K-001900-004543-016551-021771_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3046,
+            "image_id": 1426,
+            "category_id": 21770,
+            "bbox": [
+                191,
+                285,
+                168,
+                166
+            ],
+            "area": 27888,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3047,
+            "image_id": 1426,
+            "category_id": 16550,
+            "bbox": [
+                637,
+                132,
+                231,
+                426
+            ],
+            "area": 98406,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3048,
+            "image_id": 1426,
+            "category_id": 4542,
+            "bbox": [
+                182,
+                857,
+                190,
+                194
+            ],
+            "area": 36860,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3049,
+            "image_id": 1426,
+            "category_id": 1899,
+            "bbox": [
+                714,
+                857,
+                120,
+                193
+            ],
+            "area": 23160,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

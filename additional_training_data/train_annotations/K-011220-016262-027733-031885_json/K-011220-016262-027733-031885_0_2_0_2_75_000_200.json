@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5144,
+            "file_name": "K-011220-016262-027733-031885_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14728,
+            "image_id": 5144,
+            "category_id": 31884,
+            "bbox": [
+                68,
+                76,
+                376,
+                458
+            ],
+            "area": 172208,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14729,
+            "image_id": 5144,
+            "category_id": 16261,
+            "bbox": [
+                597,
+                171,
+                206,
+                211
+            ],
+            "area": 43466,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14730,
+            "image_id": 5144,
+            "category_id": 27732,
+            "bbox": [
+                79,
+                783,
+                295,
+                248
+            ],
+            "area": 73160,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        }
+    ]
+}

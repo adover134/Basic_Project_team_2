@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3625,
+            "file_name": "K-005000-020238-033880_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9763,
+            "image_id": 3625,
+            "category_id": 20237,
+            "bbox": [
+                94,
+                342,
+                204,
+                206
+            ],
+            "area": 42024,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9764,
+            "image_id": 3625,
+            "category_id": 33879,
+            "bbox": [
+                473,
+                258,
+                391,
+                267
+            ],
+            "area": 104397,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 33879,
+            "supercategory": "pill",
+            "name": "글리틴정(콜린알포세레이트)"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 4078,
+            "file_name": "K-005391-020238-032310_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10855,
+            "image_id": 4078,
+            "category_id": 32309,
+            "bbox": [
+                169,
+                241,
+                330,
+                231
+            ],
+            "area": 76230,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10856,
+            "image_id": 4078,
+            "category_id": 20237,
+            "bbox": [
+                667,
+                263,
+                201,
+                198
+            ],
+            "area": 39798,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 32309,
+            "supercategory": "pill",
+            "name": "글리아타민연질캡슐"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        }
+    ]
+}

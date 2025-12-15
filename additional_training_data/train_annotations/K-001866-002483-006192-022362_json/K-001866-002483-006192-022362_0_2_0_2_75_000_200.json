@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 938,
+            "file_name": "K-001866-002483-006192-022362_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1877,
+            "image_id": 938,
+            "category_id": 6191,
+            "bbox": [
+                143,
+                172,
+                204,
+                459
+            ],
+            "area": 93636,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1878,
+            "image_id": 938,
+            "category_id": 2482,
+            "bbox": [
+                636,
+                122,
+                157,
+                416
+            ],
+            "area": 65312,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1879,
+            "image_id": 938,
+            "category_id": 22361,
+            "bbox": [
+                625,
+                770,
+                240,
+                378
+            ],
+            "area": 90720,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3127,
+            "file_name": "K-004378-019552-025438-044834_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8173,
+            "image_id": 3127,
+            "category_id": 4377,
+            "bbox": [
+                95,
+                132,
+                173,
+                390
+            ],
+            "area": 67470,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8174,
+            "image_id": 3127,
+            "category_id": 25437,
+            "bbox": [
+                568,
+                185,
+                230,
+                233
+            ],
+            "area": 53590,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8175,
+            "image_id": 3127,
+            "category_id": 19551,
+            "bbox": [
+                554,
+                625,
+                238,
+                448
+            ],
+            "area": 106624,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        }
+    ]
+}

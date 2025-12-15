@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 369,
+            "file_name": "K-003483-016232-025469-028763_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1316,
+            "image_id": 369,
+            "category_id": 28762,
+            "bbox": [
+                135,
+                229,
+                182,
+                183
+            ],
+            "area": 33306,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1317,
+            "image_id": 369,
+            "category_id": 16231,
+            "bbox": [
+                610,
+                218,
+                166,
+                171
+            ],
+            "area": 28386,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1318,
+            "image_id": 369,
+            "category_id": 25468,
+            "bbox": [
+                23,
+                822,
+                348,
+                203
+            ],
+            "area": 70644,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1319,
+            "image_id": 369,
+            "category_id": 3482,
+            "bbox": [
+                583,
+                813,
+                263,
+                182
+            ],
+            "area": 47866,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

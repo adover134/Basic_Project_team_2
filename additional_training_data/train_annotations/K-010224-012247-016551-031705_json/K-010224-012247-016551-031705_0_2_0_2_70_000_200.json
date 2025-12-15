@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4762,
+            "file_name": "K-010224-012247-016551-031705_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13396,
+            "image_id": 4762,
+            "category_id": 31704,
+            "bbox": [
+                149,
+                214,
+                214,
+                393
+            ],
+            "area": 84102,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13397,
+            "image_id": 4762,
+            "category_id": 16550,
+            "bbox": [
+                674,
+                142,
+                238,
+                426
+            ],
+            "area": 101388,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13398,
+            "image_id": 4762,
+            "category_id": 12246,
+            "bbox": [
+                191,
+                845,
+                110,
+                194
+            ],
+            "area": 21340,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13399,
+            "image_id": 4762,
+            "category_id": 10223,
+            "bbox": [
+                664,
+                765,
+                200,
+                383
+            ],
+            "area": 76600,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        }
+    ]
+}

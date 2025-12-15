@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5826,
+            "file_name": "K-012247-016551-027926-033208_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16962,
+            "image_id": 5826,
+            "category_id": 12246,
+            "bbox": [
+                181,
+                159,
+                117,
+                189
+            ],
+            "area": 22113,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16963,
+            "image_id": 5826,
+            "category_id": 16550,
+            "bbox": [
+                584,
+                136,
+                250,
+                443
+            ],
+            "area": 110750,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16964,
+            "image_id": 5826,
+            "category_id": 27925,
+            "bbox": [
+                156,
+                706,
+                201,
+                445
+            ],
+            "area": 89445,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16965,
+            "image_id": 5826,
+            "category_id": 33207,
+            "bbox": [
+                644,
+                831,
+                183,
+                185
+            ],
+            "area": 33855,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}

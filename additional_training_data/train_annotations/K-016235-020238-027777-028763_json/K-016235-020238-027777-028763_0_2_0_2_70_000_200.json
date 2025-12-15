@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 8038,
+            "file_name": "K-016235-020238-027777-028763_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 23027,
+            "image_id": 8038,
+            "category_id": 27776,
+            "bbox": [
+                682,
+                298,
+                150,
+                181
+            ],
+            "area": 27150,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23028,
+            "image_id": 8038,
+            "category_id": 20237,
+            "bbox": [
+                157,
+                827,
+                205,
+                208
+            ],
+            "area": 42640,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23029,
+            "image_id": 8038,
+            "category_id": 28762,
+            "bbox": [
+                644,
+                907,
+                192,
+                194
+            ],
+            "area": 37248,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

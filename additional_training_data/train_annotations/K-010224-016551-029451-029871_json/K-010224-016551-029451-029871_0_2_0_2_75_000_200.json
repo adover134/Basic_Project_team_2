@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4931,
+            "file_name": "K-010224-016551-029451-029871_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14072,
+            "image_id": 4931,
+            "category_id": 10223,
+            "bbox": [
+                52,
+                237,
+                364,
+                201
+            ],
+            "area": 73164,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14073,
+            "image_id": 4931,
+            "category_id": 16550,
+            "bbox": [
+                576,
+                126,
+                291,
+                413
+            ],
+            "area": 120183,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14074,
+            "image_id": 4931,
+            "category_id": 29450,
+            "bbox": [
+                66,
+                803,
+                381,
+                218
+            ],
+            "area": 83058,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14075,
+            "image_id": 4931,
+            "category_id": 29870,
+            "bbox": [
+                611,
+                845,
+                229,
+                155
+            ],
+            "area": 35495,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

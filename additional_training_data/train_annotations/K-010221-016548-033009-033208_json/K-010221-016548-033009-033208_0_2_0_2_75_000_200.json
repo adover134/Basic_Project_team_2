@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4622,
+            "file_name": "K-010221-016548-033009-033208_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12836,
+            "image_id": 4622,
+            "category_id": 10220,
+            "bbox": [
+                168,
+                210,
+                195,
+                201
+            ],
+            "area": 39195,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12837,
+            "image_id": 4622,
+            "category_id": 16547,
+            "bbox": [
+                598,
+                200,
+                207,
+                211
+            ],
+            "area": 43677,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12838,
+            "image_id": 4622,
+            "category_id": 33008,
+            "bbox": [
+                70,
+                756,
+                325,
+                252
+            ],
+            "area": 81900,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12839,
+            "image_id": 4622,
+            "category_id": 33207,
+            "bbox": [
+                602,
+                807,
+                189,
+                190
+            ],
+            "area": 35910,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}

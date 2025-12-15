@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4689,
+            "file_name": "K-010221-016551-024850-027926_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13104,
+            "image_id": 4689,
+            "category_id": 10220,
+            "bbox": [
+                118,
+                181,
+                199,
+                201
+            ],
+            "area": 39999,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13105,
+            "image_id": 4689,
+            "category_id": 16550,
+            "bbox": [
+                591,
+                99,
+                247,
+                445
+            ],
+            "area": 109915,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13106,
+            "image_id": 4689,
+            "category_id": 24849,
+            "bbox": [
+                182,
+                783,
+                143,
+                271
+            ],
+            "area": 38753,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13107,
+            "image_id": 4689,
+            "category_id": 27925,
+            "bbox": [
+                605,
+                658,
+                231,
+                441
+            ],
+            "area": 101871,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        }
+    ]
+}

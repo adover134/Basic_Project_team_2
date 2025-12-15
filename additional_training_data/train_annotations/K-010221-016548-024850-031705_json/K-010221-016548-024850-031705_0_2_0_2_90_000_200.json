@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4596,
+            "file_name": "K-010221-016548-024850-031705_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12732,
+            "image_id": 4596,
+            "category_id": 10220,
+            "bbox": [
+                136,
+                207,
+                199,
+                199
+            ],
+            "area": 39601,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12733,
+            "image_id": 4596,
+            "category_id": 16547,
+            "bbox": [
+                580,
+                249,
+                212,
+                214
+            ],
+            "area": 45368,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12734,
+            "image_id": 4596,
+            "category_id": 24849,
+            "bbox": [
+                164,
+                792,
+                147,
+                266
+            ],
+            "area": 39102,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12735,
+            "image_id": 4596,
+            "category_id": 31704,
+            "bbox": [
+                621,
+                725,
+                222,
+                414
+            ],
+            "area": 91908,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        }
+    ]
+}

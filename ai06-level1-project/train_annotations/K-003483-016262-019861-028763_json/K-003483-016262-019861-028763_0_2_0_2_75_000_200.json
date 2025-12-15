@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 386,
+            "file_name": "K-003483-016262-019861-028763_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1384,
+            "image_id": 386,
+            "category_id": 28762,
+            "bbox": [
+                163,
+                206,
+                183,
+                183
+            ],
+            "area": 33489,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1385,
+            "image_id": 386,
+            "category_id": 16261,
+            "bbox": [
+                622,
+                179,
+                209,
+                212
+            ],
+            "area": 44308,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1386,
+            "image_id": 386,
+            "category_id": 19860,
+            "bbox": [
+                98,
+                833,
+                208,
+                162
+            ],
+            "area": 33696,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1387,
+            "image_id": 386,
+            "category_id": 3482,
+            "bbox": [
+                582,
+                837,
+                241,
+                224
+            ],
+            "area": 53984,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

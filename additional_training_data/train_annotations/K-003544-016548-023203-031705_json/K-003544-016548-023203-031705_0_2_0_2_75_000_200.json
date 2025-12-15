@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1592,
+            "file_name": "K-003544-016548-023203-031705_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3710,
+            "image_id": 1592,
+            "category_id": 3543,
+            "bbox": [
+                144,
+                241,
+                185,
+                186
+            ],
+            "area": 34410,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3711,
+            "image_id": 1592,
+            "category_id": 16547,
+            "bbox": [
+                629,
+                178,
+                210,
+                210
+            ],
+            "area": 44100,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3712,
+            "image_id": 1592,
+            "category_id": 23202,
+            "bbox": [
+                112,
+                836,
+                121,
+                124
+            ],
+            "area": 15004,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3713,
+            "image_id": 1592,
+            "category_id": 31704,
+            "bbox": [
+                602,
+                730,
+                241,
+                417
+            ],
+            "area": 100497,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        }
+    ]
+}

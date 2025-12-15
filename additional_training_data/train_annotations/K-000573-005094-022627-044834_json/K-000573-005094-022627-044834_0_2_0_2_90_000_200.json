@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 831,
+            "file_name": "K-000573-005094-022627-044834_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1626,
+            "image_id": 831,
+            "category_id": 5093,
+            "bbox": [
+                599,
+                199,
+                251,
+                251
+            ],
+            "area": 63001,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1627,
+            "image_id": 831,
+            "category_id": 22626,
+            "bbox": [
+                40,
+                840,
+                430,
+                229
+            ],
+            "area": 98470,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        }
+    ]
+}

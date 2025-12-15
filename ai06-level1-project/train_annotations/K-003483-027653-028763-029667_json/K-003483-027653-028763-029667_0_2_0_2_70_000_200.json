@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 562,
+            "file_name": "K-003483-027653-028763-029667_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2088,
+            "image_id": 562,
+            "category_id": 3482,
+            "bbox": [
+                147,
+                299,
+                253,
+                152
+            ],
+            "area": 38456,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2089,
+            "image_id": 562,
+            "category_id": 27652,
+            "bbox": [
+                697,
+                266,
+                183,
+                178
+            ],
+            "area": 32574,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2090,
+            "image_id": 562,
+            "category_id": 29666,
+            "bbox": [
+                138,
+                871,
+                205,
+                212
+            ],
+            "area": 43460,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2091,
+            "image_id": 562,
+            "category_id": 28762,
+            "bbox": [
+                665,
+                881,
+                193,
+                192
+            ],
+            "area": 37056,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

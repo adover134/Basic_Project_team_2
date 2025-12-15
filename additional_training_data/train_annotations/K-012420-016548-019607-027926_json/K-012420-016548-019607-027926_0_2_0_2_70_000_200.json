@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5872,
+            "file_name": "K-012420-016548-019607-027926_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17146,
+            "image_id": 5872,
+            "category_id": 27925,
+            "bbox": [
+                172,
+                145,
+                198,
+                421
+            ],
+            "area": 83358,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17147,
+            "image_id": 5872,
+            "category_id": 19606,
+            "bbox": [
+                652,
+                310,
+                138,
+                135
+            ],
+            "area": 18630,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17148,
+            "image_id": 5872,
+            "category_id": 16547,
+            "bbox": [
+                193,
+                899,
+                217,
+                223
+            ],
+            "area": 48391,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17149,
+            "image_id": 5872,
+            "category_id": 12419,
+            "bbox": [
+                663,
+                888,
+                170,
+                172
+            ],
+            "area": 29240,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

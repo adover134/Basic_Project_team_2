@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 879,
+            "file_name": "K-000573-019552-025438-038954_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1722,
+            "image_id": 879,
+            "category_id": 19551,
+            "bbox": [
+                602,
+                15,
+                274,
+                422
+            ],
+            "area": 115628,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1723,
+            "image_id": 879,
+            "category_id": 25437,
+            "bbox": [
+                102,
+                835,
+                238,
+                238
+            ],
+            "area": 56644,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        }
+    ]
+}

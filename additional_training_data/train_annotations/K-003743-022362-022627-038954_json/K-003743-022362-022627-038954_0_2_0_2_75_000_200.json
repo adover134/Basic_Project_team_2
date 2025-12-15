@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2717,
+            "file_name": "K-003743-022362-022627-038954_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7211,
+            "image_id": 2717,
+            "category_id": 22626,
+            "bbox": [
+                182,
+                151,
+                221,
+                419
+            ],
+            "area": 92599,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7212,
+            "image_id": 2717,
+            "category_id": 3742,
+            "bbox": [
+                124,
+                846,
+                301,
+                305
+            ],
+            "area": 91805,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7213,
+            "image_id": 2717,
+            "category_id": 22361,
+            "bbox": [
+                627,
+                804,
+                221,
+                380
+            ],
+            "area": 83980,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6318,
+            "file_name": "K-013900-024752-038162_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18497,
+            "image_id": 6318,
+            "category_id": 38161,
+            "bbox": [
+                162,
+                807,
+                201,
+                255
+            ],
+            "area": 51255,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18498,
+            "image_id": 6318,
+            "category_id": 13899,
+            "bbox": [
+                626,
+                794,
+                205,
+                215
+            ],
+            "area": 44075,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 38161,
+            "supercategory": "pill",
+            "name": "로수바미브정 10/20mg"
+        },
+        {
+            "id": 13899,
+            "supercategory": "pill",
+            "name": "에빅사정(메만틴염산염)(비매품)"
+        }
+    ]
+}

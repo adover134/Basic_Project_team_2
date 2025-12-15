@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4392,
+            "file_name": "K-006563-016548-024850-029871_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11916,
+            "image_id": 4392,
+            "category_id": 24849,
+            "bbox": [
+                176,
+                140,
+                145,
+                270
+            ],
+            "area": 39150,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11917,
+            "image_id": 4392,
+            "category_id": 16547,
+            "bbox": [
+                633,
+                180,
+                211,
+                212
+            ],
+            "area": 44732,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11918,
+            "image_id": 4392,
+            "category_id": 6562,
+            "bbox": [
+                196,
+                714,
+                180,
+                335
+            ],
+            "area": 60300,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11919,
+            "image_id": 4392,
+            "category_id": 29870,
+            "bbox": [
+                632,
+                836,
+                149,
+                226
+            ],
+            "area": 33674,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

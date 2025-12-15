@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5608,
+            "file_name": "K-012081-013161-023223-025438_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16120,
+            "image_id": 5608,
+            "category_id": 12080,
+            "bbox": [
+                85,
+                143,
+                193,
+                387
+            ],
+            "area": 74691,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16121,
+            "image_id": 5608,
+            "category_id": 25437,
+            "bbox": [
+                568,
+                204,
+                230,
+                232
+            ],
+            "area": 53360,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16122,
+            "image_id": 5608,
+            "category_id": 23222,
+            "bbox": [
+                537,
+                641,
+                264,
+                447
+            ],
+            "area": 118008,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        }
+    ]
+}

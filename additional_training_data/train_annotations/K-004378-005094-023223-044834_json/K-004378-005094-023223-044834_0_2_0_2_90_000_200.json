@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3087,
+            "file_name": "K-004378-005094-023223-044834_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8053,
+            "image_id": 3087,
+            "category_id": 23222,
+            "bbox": [
+                145,
+                176,
+                224,
+                450
+            ],
+            "area": 100800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8054,
+            "image_id": 3087,
+            "category_id": 5093,
+            "bbox": [
+                134,
+                826,
+                250,
+                251
+            ],
+            "area": 62750,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8055,
+            "image_id": 3087,
+            "category_id": 4377,
+            "bbox": [
+                642,
+                742,
+                180,
+                412
+            ],
+            "area": 74160,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        }
+    ]
+}

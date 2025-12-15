@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5384,
+            "file_name": "K-011220-022347-025469-036637_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15448,
+            "image_id": 5384,
+            "category_id": 22346,
+            "bbox": [
+                75,
+                202,
+                183,
+                182
+            ],
+            "area": 33306,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15449,
+            "image_id": 5384,
+            "category_id": 36636,
+            "bbox": [
+                623,
+                177,
+                138,
+                241
+            ],
+            "area": 33258,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15450,
+            "image_id": 5384,
+            "category_id": 25468,
+            "bbox": [
+                22,
+                822,
+                348,
+                204
+            ],
+            "area": 70992,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        }
+    ]
+}

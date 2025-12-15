@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4889,
+            "file_name": "K-010224-016551-023203-027926_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13904,
+            "image_id": 4889,
+            "category_id": 10223,
+            "bbox": [
+                71,
+                142,
+                278,
+                328
+            ],
+            "area": 91184,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13905,
+            "image_id": 4889,
+            "category_id": 16550,
+            "bbox": [
+                617,
+                111,
+                233,
+                439
+            ],
+            "area": 102287,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13906,
+            "image_id": 4889,
+            "category_id": 23202,
+            "bbox": [
+                163,
+                824,
+                121,
+                124
+            ],
+            "area": 15004,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13907,
+            "image_id": 4889,
+            "category_id": 27925,
+            "bbox": [
+                591,
+                655,
+                214,
+                451
+            ],
+            "area": 96514,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        }
+    ]
+}

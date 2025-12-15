@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2278,
+            "file_name": "K-003614-027653-034597-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5894,
+            "image_id": 2278,
+            "category_id": 27652,
+            "bbox": [
+                694,
+                265,
+                182,
+                178
+            ],
+            "area": 32396,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5895,
+            "image_id": 2278,
+            "category_id": 36636,
+            "bbox": [
+                195,
+                866,
+                169,
+                245
+            ],
+            "area": 41405,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5896,
+            "image_id": 2278,
+            "category_id": 34596,
+            "bbox": [
+                556,
+                689,
+                401,
+                415
+            ],
+            "area": 166415,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        }
+    ]
+}

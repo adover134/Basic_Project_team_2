@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1596,
+            "file_name": "K-003544-016548-023203-033009_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3726,
+            "image_id": 1596,
+            "category_id": 3543,
+            "bbox": [
+                146,
+                228,
+                189,
+                189
+            ],
+            "area": 35721,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3727,
+            "image_id": 1596,
+            "category_id": 16547,
+            "bbox": [
+                634,
+                135,
+                213,
+                211
+            ],
+            "area": 44943,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3728,
+            "image_id": 1596,
+            "category_id": 23202,
+            "bbox": [
+                184,
+                872,
+                118,
+                121
+            ],
+            "area": 14278,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3729,
+            "image_id": 1596,
+            "category_id": 33008,
+            "bbox": [
+                638,
+                744,
+                269,
+                299
+            ],
+            "area": 80431,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

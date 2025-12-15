@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 322,
+            "file_name": "K-003351-029667-032310_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1152,
+            "image_id": 322,
+            "category_id": 32309,
+            "bbox": [
+                82,
+                248,
+                345,
+                211
+            ],
+            "area": 72795,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1153,
+            "image_id": 322,
+            "category_id": 29666,
+            "bbox": [
+                648,
+                263,
+                199,
+                204
+            ],
+            "area": 40596,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1154,
+            "image_id": 322,
+            "category_id": 3350,
+            "bbox": [
+                417,
+                851,
+                178,
+                181
+            ],
+            "area": 32218,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 32309,
+            "supercategory": "pill",
+            "name": "글리아타민연질캡슐"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5576,
+            "file_name": "K-011220-027777-030308-036637_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16024,
+            "image_id": 5576,
+            "category_id": 30307,
+            "bbox": [
+                102,
+                141,
+                300,
+                399
+            ],
+            "area": 119700,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16025,
+            "image_id": 5576,
+            "category_id": 36636,
+            "bbox": [
+                608,
+                156,
+                155,
+                234
+            ],
+            "area": 36270,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16026,
+            "image_id": 5576,
+            "category_id": 27776,
+            "bbox": [
+                156,
+                784,
+                158,
+                197
+            ],
+            "area": 31126,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        }
+    ]
+}

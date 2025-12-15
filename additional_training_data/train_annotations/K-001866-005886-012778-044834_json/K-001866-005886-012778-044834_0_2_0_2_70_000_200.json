@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 1132,
+            "file_name": "K-001866-005886-012778-044834_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2303,
+            "image_id": 1132,
+            "category_id": 5885,
+            "bbox": [
+                137,
+                118,
+                188,
+                426
+            ],
+            "area": 80088,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2304,
+            "image_id": 1132,
+            "category_id": 12777,
+            "bbox": [
+                535,
+                680,
+                290,
+                444
+            ],
+            "area": 128760,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

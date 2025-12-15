@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4783,
+            "file_name": "K-010224-012420-016548-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13480,
+            "image_id": 4783,
+            "category_id": 33008,
+            "bbox": [
+                126,
+                241,
+                253,
+                296
+            ],
+            "area": 74888,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13481,
+            "image_id": 4783,
+            "category_id": 16547,
+            "bbox": [
+                642,
+                283,
+                206,
+                209
+            ],
+            "area": 43054,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13482,
+            "image_id": 4783,
+            "category_id": 12419,
+            "bbox": [
+                144,
+                898,
+                170,
+                172
+            ],
+            "area": 29240,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13483,
+            "image_id": 4783,
+            "category_id": 10223,
+            "bbox": [
+                633,
+                827,
+                212,
+                385
+            ],
+            "area": 81620,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        }
+    ]
+}

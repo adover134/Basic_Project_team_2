@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4874,
+            "file_name": "K-010224-016548-033009-033878_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13844,
+            "image_id": 4874,
+            "category_id": 10223,
+            "bbox": [
+                57,
+                157,
+                319,
+                291
+            ],
+            "area": 92829,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13845,
+            "image_id": 4874,
+            "category_id": 16547,
+            "bbox": [
+                630,
+                154,
+                205,
+                210
+            ],
+            "area": 43050,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13846,
+            "image_id": 4874,
+            "category_id": 33008,
+            "bbox": [
+                82,
+                757,
+                296,
+                288
+            ],
+            "area": 85248,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13847,
+            "image_id": 4874,
+            "category_id": 33877,
+            "bbox": [
+                608,
+                874,
+                205,
+                127
+            ],
+            "area": 26035,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        }
+    ]
+}

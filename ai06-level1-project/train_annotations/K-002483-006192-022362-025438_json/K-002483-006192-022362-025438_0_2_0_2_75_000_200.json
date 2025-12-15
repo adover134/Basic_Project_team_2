@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 168,
+            "file_name": "K-002483-006192-022362-025438_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 669,
+            "image_id": 168,
+            "category_id": 6191,
+            "bbox": [
+                132,
+                134,
+                200,
+                458
+            ],
+            "area": 91600,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 670,
+            "image_id": 168,
+            "category_id": 2482,
+            "bbox": [
+                618,
+                150,
+                196,
+                414
+            ],
+            "area": 81144,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 671,
+            "image_id": 168,
+            "category_id": 25437,
+            "bbox": [
+                153,
+                863,
+                241,
+                246
+            ],
+            "area": 59286,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 672,
+            "image_id": 168,
+            "category_id": 22361,
+            "bbox": [
+                611,
+                771,
+                229,
+                379
+            ],
+            "area": 86791,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6089,
+            "file_name": "K-012778-022362-025438-044834_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17992,
+            "image_id": 6089,
+            "category_id": 12777,
+            "bbox": [
+                139,
+                145,
+                220,
+                442
+            ],
+            "area": 97240,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17993,
+            "image_id": 6089,
+            "category_id": 25437,
+            "bbox": [
+                164,
+                860,
+                242,
+                246
+            ],
+            "area": 59532,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17994,
+            "image_id": 6089,
+            "category_id": 22361,
+            "bbox": [
+                632,
+                754,
+                222,
+                379
+            ],
+            "area": 84138,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        }
+    ]
+}

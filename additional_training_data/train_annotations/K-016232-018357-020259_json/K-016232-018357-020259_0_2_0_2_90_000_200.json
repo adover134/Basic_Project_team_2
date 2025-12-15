@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7578,
+            "file_name": "K-016232-018357-020259_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21752,
+            "image_id": 7578,
+            "category_id": 16231,
+            "bbox": [
+                421,
+                208,
+                178,
+                178
+            ],
+            "area": 31684,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21753,
+            "image_id": 7578,
+            "category_id": 18356,
+            "bbox": [
+                140,
+                642,
+                224,
+                344
+            ],
+            "area": 77056,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 18356,
+            "supercategory": "pill",
+            "name": "종근당글리아티린연질캡슐(콜린알포세레이트)"
+        }
+    ]
+}

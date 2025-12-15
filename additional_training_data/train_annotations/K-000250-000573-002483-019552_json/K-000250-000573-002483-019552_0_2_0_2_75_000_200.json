@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 8,
+            "file_name": "K-000250-000573-002483-019552_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15,
+            "image_id": 8,
+            "category_id": 19551,
+            "bbox": [
+                115,
+                196,
+                295,
+                394
+            ],
+            "area": 116230,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16,
+            "image_id": 8,
+            "category_id": 2482,
+            "bbox": [
+                587,
+                134,
+                260,
+                402
+            ],
+            "area": 104520,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        }
+    ]
+}

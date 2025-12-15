@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4460,
+            "file_name": "K-006563-016551-024850-027993_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12188,
+            "image_id": 4460,
+            "category_id": 24849,
+            "bbox": [
+                113,
+                188,
+                193,
+                229
+            ],
+            "area": 44197,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12189,
+            "image_id": 4460,
+            "category_id": 16550,
+            "bbox": [
+                484,
+                175,
+                400,
+                316
+            ],
+            "area": 126400,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12190,
+            "image_id": 4460,
+            "category_id": 6562,
+            "bbox": [
+                176,
+                688,
+                181,
+                339
+            ],
+            "area": 61359,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12191,
+            "image_id": 4460,
+            "category_id": 27992,
+            "bbox": [
+                559,
+                786,
+                283,
+                226
+            ],
+            "area": 63958,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        }
+    ]
+}

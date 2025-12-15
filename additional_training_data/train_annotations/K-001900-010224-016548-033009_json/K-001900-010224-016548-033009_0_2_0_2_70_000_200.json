@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1495,
+            "file_name": "K-001900-010224-016548-033009_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3322,
+            "image_id": 1495,
+            "category_id": 33008,
+            "bbox": [
+                107,
+                269,
+                331,
+                183
+            ],
+            "area": 60573,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3323,
+            "image_id": 1495,
+            "category_id": 16547,
+            "bbox": [
+                629,
+                257,
+                207,
+                206
+            ],
+            "area": 42642,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3324,
+            "image_id": 1495,
+            "category_id": 10223,
+            "bbox": [
+                51,
+                839,
+                355,
+                276
+            ],
+            "area": 97980,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3325,
+            "image_id": 1495,
+            "category_id": 1899,
+            "bbox": [
+                658,
+                855,
+                183,
+                166
+            ],
+            "area": 30378,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

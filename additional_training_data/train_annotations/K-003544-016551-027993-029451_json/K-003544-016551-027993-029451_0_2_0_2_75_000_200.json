@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1682,
+            "file_name": "K-003544-016551-027993-029451_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4070,
+            "image_id": 1682,
+            "category_id": 3543,
+            "bbox": [
+                132,
+                215,
+                185,
+                186
+            ],
+            "area": 34410,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4071,
+            "image_id": 1682,
+            "category_id": 16550,
+            "bbox": [
+                552,
+                101,
+                271,
+                423
+            ],
+            "area": 114633,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4072,
+            "image_id": 1682,
+            "category_id": 27992,
+            "bbox": [
+                121,
+                815,
+                165,
+                307
+            ],
+            "area": 50655,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4073,
+            "image_id": 1682,
+            "category_id": 29450,
+            "bbox": [
+                597,
+                739,
+                201,
+                387
+            ],
+            "area": 77787,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

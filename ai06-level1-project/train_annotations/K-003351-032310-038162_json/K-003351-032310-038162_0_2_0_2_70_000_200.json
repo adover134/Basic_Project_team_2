@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 333,
+            "file_name": "K-003351-032310-038162_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1185,
+            "image_id": 333,
+            "category_id": 38161,
+            "bbox": [
+                59,
+                267,
+                261,
+                184
+            ],
+            "area": 48024,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1186,
+            "image_id": 333,
+            "category_id": 32309,
+            "bbox": [
+                637,
+                223,
+                282,
+                281
+            ],
+            "area": 79242,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1187,
+            "image_id": 333,
+            "category_id": 3350,
+            "bbox": [
+                387,
+                863,
+                176,
+                181
+            ],
+            "area": 31856,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 38161,
+            "supercategory": "pill",
+            "name": "로수바미브정 10/20mg"
+        },
+        {
+            "id": 32309,
+            "supercategory": "pill",
+            "name": "글리아타민연질캡슐"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

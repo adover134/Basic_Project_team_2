@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5081,
+            "file_name": "K-011220-016262-020877-030308_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14539,
+            "image_id": 5081,
+            "category_id": 30307,
+            "bbox": [
+                103,
+                64,
+                338,
+                371
+            ],
+            "area": 125398,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14540,
+            "image_id": 5081,
+            "category_id": 16261,
+            "bbox": [
+                557,
+                218,
+                208,
+                213
+            ],
+            "area": 44304,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14541,
+            "image_id": 5081,
+            "category_id": 20876,
+            "bbox": [
+                55,
+                806,
+                300,
+                239
+            ],
+            "area": 71700,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

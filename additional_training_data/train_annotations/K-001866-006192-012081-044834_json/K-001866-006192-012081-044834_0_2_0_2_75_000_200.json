@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 1181,
+            "file_name": "K-001866-006192-012081-044834_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2401,
+            "image_id": 1181,
+            "category_id": 6191,
+            "bbox": [
+                163,
+                157,
+                209,
+                458
+            ],
+            "area": 95722,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2402,
+            "image_id": 1181,
+            "category_id": 12080,
+            "bbox": [
+                679,
+                741,
+                198,
+                417
+            ],
+            "area": 82566,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

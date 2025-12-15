@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7316,
+            "file_name": "K-016206-018357-029667_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21120,
+            "image_id": 7316,
+            "category_id": 18356,
+            "bbox": [
+                85,
+                643,
+                293,
+                289
+            ],
+            "area": 84677,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21121,
+            "image_id": 7316,
+            "category_id": 29666,
+            "bbox": [
+                594,
+                813,
+                209,
+                214
+            ],
+            "area": 44726,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 18356,
+            "supercategory": "pill",
+            "name": "종근당글리아티린연질캡슐(콜린알포세레이트)"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        }
+    ]
+}

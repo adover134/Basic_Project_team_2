@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 560,
+            "file_name": "K-003483-025469-031885-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2080,
+            "image_id": 560,
+            "category_id": 3482,
+            "bbox": [
+                140,
+                282,
+                247,
+                169
+            ],
+            "area": 41743,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2081,
+            "image_id": 560,
+            "category_id": 25468,
+            "bbox": [
+                593,
+                194,
+                293,
+                267
+            ],
+            "area": 78231,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2082,
+            "image_id": 560,
+            "category_id": 35205,
+            "bbox": [
+                160,
+                742,
+                202,
+                386
+            ],
+            "area": 77972,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2083,
+            "image_id": 560,
+            "category_id": 31884,
+            "bbox": [
+                605,
+                683,
+                366,
+                493
+            ],
+            "area": 180438,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        }
+    ]
+}

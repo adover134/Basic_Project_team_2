@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3040,
+            "file_name": "K-004378-005094-012778-013161_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7912,
+            "image_id": 3040,
+            "category_id": 4377,
+            "bbox": [
+                161,
+                140,
+                169,
+                389
+            ],
+            "area": 65741,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7913,
+            "image_id": 3040,
+            "category_id": 5093,
+            "bbox": [
+                565,
+                203,
+                243,
+                247
+            ],
+            "area": 60021,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7914,
+            "image_id": 3040,
+            "category_id": 12777,
+            "bbox": [
+                501,
+                684,
+                287,
+                445
+            ],
+            "area": 127715,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

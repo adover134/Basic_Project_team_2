@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3333,
+            "file_name": "K-004543-016548-023203-024850_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8976,
+            "image_id": 3333,
+            "category_id": 4542,
+            "bbox": [
+                114,
+                205,
+                186,
+                187
+            ],
+            "area": 34782,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8977,
+            "image_id": 3333,
+            "category_id": 16547,
+            "bbox": [
+                629,
+                167,
+                214,
+                213
+            ],
+            "area": 45582,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8978,
+            "image_id": 3333,
+            "category_id": 23202,
+            "bbox": [
+                194,
+                881,
+                118,
+                123
+            ],
+            "area": 14514,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8979,
+            "image_id": 3333,
+            "category_id": 24849,
+            "bbox": [
+                639,
+                790,
+                158,
+                261
+            ],
+            "area": 41238,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 23202,
+            "supercategory": "pill",
+            "name": "쿠에타핀정 25mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        }
+    ]
+}

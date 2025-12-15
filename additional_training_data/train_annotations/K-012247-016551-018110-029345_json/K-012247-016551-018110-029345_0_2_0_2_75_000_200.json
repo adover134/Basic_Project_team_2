@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5753,
+            "file_name": "K-012247-016551-018110-029345_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16670,
+            "image_id": 5753,
+            "category_id": 12246,
+            "bbox": [
+                169,
+                261,
+                110,
+                185
+            ],
+            "area": 20350,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16671,
+            "image_id": 5753,
+            "category_id": 16550,
+            "bbox": [
+                619,
+                38,
+                238,
+                433
+            ],
+            "area": 103054,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16672,
+            "image_id": 5753,
+            "category_id": 18109,
+            "bbox": [
+                90,
+                822,
+                273,
+                279
+            ],
+            "area": 76167,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16673,
+            "image_id": 5753,
+            "category_id": 29344,
+            "bbox": [
+                617,
+                715,
+                224,
+                420
+            ],
+            "area": 94080,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        }
+    ]
+}

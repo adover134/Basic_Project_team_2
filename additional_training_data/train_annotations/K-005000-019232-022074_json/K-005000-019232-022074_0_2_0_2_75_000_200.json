@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3584,
+            "file_name": "K-005000-019232-022074_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9681,
+            "image_id": 3584,
+            "category_id": 19231,
+            "bbox": [
+                179,
+                665,
+                218,
+                331
+            ],
+            "area": 72158,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9682,
+            "image_id": 3584,
+            "category_id": 22073,
+            "bbox": [
+                644,
+                729,
+                174,
+                180
+            ],
+            "area": 31320,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        },
+        {
+            "id": 22073,
+            "supercategory": "pill",
+            "name": "리피로우정 20mg"
+        }
+    ]
+}

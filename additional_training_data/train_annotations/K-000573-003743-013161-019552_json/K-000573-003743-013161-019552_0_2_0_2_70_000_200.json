@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 715,
+            "file_name": "K-000573-003743-013161-019552_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1397,
+            "image_id": 715,
+            "category_id": 3742,
+            "bbox": [
+                518,
+                190,
+                287,
+                282
+            ],
+            "area": 80934,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1398,
+            "image_id": 715,
+            "category_id": 19551,
+            "bbox": [
+                492,
+                721,
+                318,
+                408
+            ],
+            "area": 129744,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        }
+    ]
+}

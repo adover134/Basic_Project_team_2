@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 456,
+            "file_name": "K-003483-020238-020877-022347_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1664,
+            "image_id": 456,
+            "category_id": 3482,
+            "bbox": [
+                177,
+                286,
+                168,
+                245
+            ],
+            "area": 41160,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1665,
+            "image_id": 456,
+            "category_id": 20876,
+            "bbox": [
+                600,
+                181,
+                238,
+                278
+            ],
+            "area": 66164,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1666,
+            "image_id": 456,
+            "category_id": 20237,
+            "bbox": [
+                169,
+                872,
+                205,
+                209
+            ],
+            "area": 42845,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1667,
+            "image_id": 456,
+            "category_id": 22346,
+            "bbox": [
+                689,
+                838,
+                188,
+                190
+            ],
+            "area": 35720,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        }
+    ]
+}

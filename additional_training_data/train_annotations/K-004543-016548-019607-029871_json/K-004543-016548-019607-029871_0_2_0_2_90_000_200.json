@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3315,
+            "file_name": "K-004543-016548-019607-029871_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8904,
+            "image_id": 3315,
+            "category_id": 4542,
+            "bbox": [
+                113,
+                193,
+                186,
+                187
+            ],
+            "area": 34782,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8905,
+            "image_id": 3315,
+            "category_id": 16547,
+            "bbox": [
+                654,
+                196,
+                213,
+                214
+            ],
+            "area": 45582,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8906,
+            "image_id": 3315,
+            "category_id": 19606,
+            "bbox": [
+                136,
+                829,
+                141,
+                140
+            ],
+            "area": 19740,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8907,
+            "image_id": 3315,
+            "category_id": 29870,
+            "bbox": [
+                640,
+                815,
+                182,
+                205
+            ],
+            "area": 37310,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

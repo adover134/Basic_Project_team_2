@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1417,
+            "file_name": "K-001900-004543-016548-044199_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3010,
+            "image_id": 1417,
+            "category_id": 44198,
+            "bbox": [
+                221,
+                255,
+                168,
+                243
+            ],
+            "area": 40824,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3011,
+            "image_id": 1417,
+            "category_id": 16547,
+            "bbox": [
+                677,
+                276,
+                207,
+                208
+            ],
+            "area": 43056,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3012,
+            "image_id": 1417,
+            "category_id": 4542,
+            "bbox": [
+                147,
+                920,
+                192,
+                196
+            ],
+            "area": 37632,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3013,
+            "image_id": 1417,
+            "category_id": 1899,
+            "bbox": [
+                704,
+                822,
+                149,
+                190
+            ],
+            "area": 28310,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

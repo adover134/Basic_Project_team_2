@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 8131,
+            "file_name": "K-016235-022347-027777-029667_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 23306,
+            "image_id": 8131,
+            "category_id": 27776,
+            "bbox": [
+                683,
+                299,
+                151,
+                181
+            ],
+            "area": 27331,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23307,
+            "image_id": 8131,
+            "category_id": 29666,
+            "bbox": [
+                128,
+                850,
+                205,
+                210
+            ],
+            "area": 43050,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23308,
+            "image_id": 8131,
+            "category_id": 22346,
+            "bbox": [
+                632,
+                868,
+                190,
+                191
+            ],
+            "area": 36290,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        }
+    ]
+}

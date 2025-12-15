@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4476,
+            "file_name": "K-006563-016551-029871-033208_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12252,
+            "image_id": 4476,
+            "category_id": 33207,
+            "bbox": [
+                140,
+                186,
+                184,
+                186
+            ],
+            "area": 34224,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12253,
+            "image_id": 4476,
+            "category_id": 16550,
+            "bbox": [
+                581,
+                94,
+                369,
+                371
+            ],
+            "area": 136899,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12254,
+            "image_id": 4476,
+            "category_id": 6562,
+            "bbox": [
+                204,
+                724,
+                179,
+                335
+            ],
+            "area": 59965,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12255,
+            "image_id": 4476,
+            "category_id": 29870,
+            "bbox": [
+                642,
+                834,
+                148,
+                226
+            ],
+            "area": 33448,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

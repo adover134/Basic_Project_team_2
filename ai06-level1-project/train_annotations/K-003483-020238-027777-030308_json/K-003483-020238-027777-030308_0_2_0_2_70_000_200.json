@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 480,
+            "file_name": "K-003483-020238-027777-030308_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1760,
+            "image_id": 480,
+            "category_id": 3482,
+            "bbox": [
+                187,
+                284,
+                235,
+                197
+            ],
+            "area": 46295,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1761,
+            "image_id": 480,
+            "category_id": 27776,
+            "bbox": [
+                650,
+                298,
+                153,
+                184
+            ],
+            "area": 28152,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1762,
+            "image_id": 480,
+            "category_id": 20237,
+            "bbox": [
+                167,
+                858,
+                205,
+                208
+            ],
+            "area": 42640,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1763,
+            "image_id": 480,
+            "category_id": 30307,
+            "bbox": [
+                584,
+                706,
+                271,
+                439
+            ],
+            "area": 118969,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        }
+    ]
+}

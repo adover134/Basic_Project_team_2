@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5672,
+            "file_name": "K-012247-016548-019607-033009_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16346,
+            "image_id": 5672,
+            "category_id": 12246,
+            "bbox": [
+                117,
+                233,
+                184,
+                114
+            ],
+            "area": 20976,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16347,
+            "image_id": 5672,
+            "category_id": 16547,
+            "bbox": [
+                593,
+                150,
+                206,
+                210
+            ],
+            "area": 43260,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16348,
+            "image_id": 5672,
+            "category_id": 19606,
+            "bbox": [
+                133,
+                801,
+                143,
+                143
+            ],
+            "area": 20449,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16349,
+            "image_id": 5672,
+            "category_id": 33008,
+            "bbox": [
+                520,
+                809,
+                351,
+                192
+            ],
+            "area": 67392,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

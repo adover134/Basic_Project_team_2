@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5745,
+            "file_name": "K-012247-016548-033009-044199_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16638,
+            "image_id": 5745,
+            "category_id": 12246,
+            "bbox": [
+                132,
+                241,
+                188,
+                111
+            ],
+            "area": 20868,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16639,
+            "image_id": 5745,
+            "category_id": 16547,
+            "bbox": [
+                615,
+                153,
+                214,
+                213
+            ],
+            "area": 45582,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16640,
+            "image_id": 5745,
+            "category_id": 33008,
+            "bbox": [
+                75,
+                782,
+                332,
+                217
+            ],
+            "area": 72044,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16641,
+            "image_id": 5745,
+            "category_id": 44198,
+            "bbox": [
+                665,
+                762,
+                144,
+                260
+            ],
+            "area": 37440,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        }
+    ]
+}

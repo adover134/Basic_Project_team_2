@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3561,
+            "file_name": "K-005000-018357-021325_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9638,
+            "image_id": 3561,
+            "category_id": 18356,
+            "bbox": [
+                116,
+                707,
+                218,
+                346
+            ],
+            "area": 75428,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9639,
+            "image_id": 3561,
+            "category_id": 21324,
+            "bbox": [
+                634,
+                836,
+                161,
+                212
+            ],
+            "area": 34132,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 18356,
+            "supercategory": "pill",
+            "name": "종근당글리아티린연질캡슐(콜린알포세레이트)"
+        },
+        {
+            "id": 21324,
+            "supercategory": "pill",
+            "name": "아토르바정 10mg"
+        }
+    ]
+}

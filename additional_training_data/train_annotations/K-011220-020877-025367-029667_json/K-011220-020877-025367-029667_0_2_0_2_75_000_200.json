@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5333,
+            "file_name": "K-011220-020877-025367-029667_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15295,
+            "image_id": 5333,
+            "category_id": 25366,
+            "bbox": [
+                130,
+                38,
+                225,
+                451
+            ],
+            "area": 101475,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15296,
+            "image_id": 5333,
+            "category_id": 29666,
+            "bbox": [
+                631,
+                164,
+                196,
+                202
+            ],
+            "area": 39592,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15297,
+            "image_id": 5333,
+            "category_id": 20876,
+            "bbox": [
+                51,
+                805,
+                299,
+                239
+            ],
+            "area": 71461,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

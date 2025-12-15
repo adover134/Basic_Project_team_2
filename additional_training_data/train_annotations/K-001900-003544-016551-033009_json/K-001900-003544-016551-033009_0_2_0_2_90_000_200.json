@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1395,
+            "file_name": "K-001900-003544-016551-033009_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2922,
+            "image_id": 1395,
+            "category_id": 1899,
+            "bbox": [
+                156,
+                259,
+                182,
+                150
+            ],
+            "area": 27300,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2923,
+            "image_id": 1395,
+            "category_id": 3543,
+            "bbox": [
+                596,
+                217,
+                190,
+                189
+            ],
+            "area": 35910,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2924,
+            "image_id": 1395,
+            "category_id": 16550,
+            "bbox": [
+                38,
+                761,
+                314,
+                416
+            ],
+            "area": 130624,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2925,
+            "image_id": 1395,
+            "category_id": 33008,
+            "bbox": [
+                560,
+                846,
+                340,
+                183
+            ],
+            "area": 62220,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

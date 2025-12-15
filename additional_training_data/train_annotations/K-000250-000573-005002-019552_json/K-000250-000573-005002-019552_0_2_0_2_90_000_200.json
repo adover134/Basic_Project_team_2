@@ -1,0 +1,33 @@
+{
+    "images": [
+        {
+            "id": 24,
+            "file_name": "K-000250-000573-005002-019552_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 39,
+            "image_id": 24,
+            "category_id": 19551,
+            "bbox": [
+                125,
+                181,
+                328,
+                383
+            ],
+            "area": 125624,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        }
+    ]
+}

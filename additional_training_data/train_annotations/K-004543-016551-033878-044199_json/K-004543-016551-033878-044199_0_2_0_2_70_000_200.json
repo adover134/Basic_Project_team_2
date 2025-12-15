@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3433,
+            "file_name": "K-004543-016551-033878-044199_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9376,
+            "image_id": 3433,
+            "category_id": 44198,
+            "bbox": [
+                132,
+                244,
+                204,
+                224
+            ],
+            "area": 45696,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9377,
+            "image_id": 3433,
+            "category_id": 33877,
+            "bbox": [
+                693,
+                286,
+                121,
+                193
+            ],
+            "area": 23353,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9378,
+            "image_id": 3433,
+            "category_id": 16550,
+            "bbox": [
+                134,
+                664,
+                245,
+                456
+            ],
+            "area": 111720,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9379,
+            "image_id": 3433,
+            "category_id": 4542,
+            "bbox": [
+                685,
+                835,
+                191,
+                194
+            ],
+            "area": 37054,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        }
+    ]
+}

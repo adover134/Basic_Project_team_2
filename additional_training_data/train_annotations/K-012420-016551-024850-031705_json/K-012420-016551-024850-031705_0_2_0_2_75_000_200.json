@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 6032,
+            "file_name": "K-012420-016551-024850-031705_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17786,
+            "image_id": 6032,
+            "category_id": 12419,
+            "bbox": [
+                160,
+                222,
+                162,
+                163
+            ],
+            "area": 26406,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17787,
+            "image_id": 6032,
+            "category_id": 16550,
+            "bbox": [
+                630,
+                81,
+                233,
+                437
+            ],
+            "area": 101821,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17788,
+            "image_id": 6032,
+            "category_id": 24849,
+            "bbox": [
+                120,
+                731,
+                144,
+                275
+            ],
+            "area": 39600,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17789,
+            "image_id": 6032,
+            "category_id": 31704,
+            "bbox": [
+                482,
+                788,
+                414,
+                252
+            ],
+            "area": 104328,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        }
+    ]
+}

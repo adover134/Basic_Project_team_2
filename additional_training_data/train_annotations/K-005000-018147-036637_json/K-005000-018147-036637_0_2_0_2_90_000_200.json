@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3552,
+            "file_name": "K-005000-018147-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9620,
+            "image_id": 3552,
+            "category_id": 18146,
+            "bbox": [
+                131,
+                656,
+                260,
+                390
+            ],
+            "area": 101400,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9621,
+            "image_id": 3552,
+            "category_id": 36636,
+            "bbox": [
+                590,
+                749,
+                187,
+                234
+            ],
+            "area": 43758,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 18146,
+            "supercategory": "pill",
+            "name": "리리카캡슐 150mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        }
+    ]
+}

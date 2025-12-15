@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 272,
+            "file_name": "K-003351-018357-036637_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1002,
+            "image_id": 272,
+            "category_id": 18356,
+            "bbox": [
+                343,
+                146,
+                217,
+                332
+            ],
+            "area": 72044,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1003,
+            "image_id": 272,
+            "category_id": 3350,
+            "bbox": [
+                97,
+                763,
+                170,
+                174
+            ],
+            "area": 29580,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1004,
+            "image_id": 272,
+            "category_id": 36636,
+            "bbox": [
+                626,
+                783,
+                226,
+                211
+            ],
+            "area": 47686,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 18356,
+            "supercategory": "pill",
+            "name": "종근당글리아티린연질캡슐(콜린알포세레이트)"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        }
+    ]
+}

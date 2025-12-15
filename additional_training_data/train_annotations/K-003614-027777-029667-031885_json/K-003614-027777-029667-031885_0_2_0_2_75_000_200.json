@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2333,
+            "file_name": "K-003614-027777-029667-031885_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 6059,
+            "image_id": 2333,
+            "category_id": 31884,
+            "bbox": [
+                119,
+                67,
+                326,
+                485
+            ],
+            "area": 158110,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6060,
+            "image_id": 2333,
+            "category_id": 29666,
+            "bbox": [
+                641,
+                196,
+                196,
+                200
+            ],
+            "area": 39200,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6061,
+            "image_id": 2333,
+            "category_id": 27776,
+            "bbox": [
+                158,
+                781,
+                158,
+                196
+            ],
+            "area": 30968,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        }
+    ]
+}

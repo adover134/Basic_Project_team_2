@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 1774,
+            "file_name": "K-003614-016232-025469-028763_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4378,
+            "image_id": 1774,
+            "category_id": 25468,
+            "bbox": [
+                572,
+                222,
+                327,
+                219
+            ],
+            "area": 71613,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4379,
+            "image_id": 1774,
+            "category_id": 16231,
+            "bbox": [
+                179,
+                840,
+                178,
+                178
+            ],
+            "area": 31684,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4380,
+            "image_id": 1774,
+            "category_id": 28762,
+            "bbox": [
+                634,
+                849,
+                193,
+                192
+            ],
+            "area": 37056,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        }
+    ]
+}

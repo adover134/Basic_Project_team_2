@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5738,
+            "file_name": "K-012247-016548-031705-044199_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16610,
+            "image_id": 5738,
+            "category_id": 12246,
+            "bbox": [
+                170,
+                237,
+                110,
+                186
+            ],
+            "area": 20460,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16611,
+            "image_id": 5738,
+            "category_id": 16547,
+            "bbox": [
+                660,
+                220,
+                207,
+                211
+            ],
+            "area": 43677,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16612,
+            "image_id": 5738,
+            "category_id": 31704,
+            "bbox": [
+                9,
+                752,
+                393,
+                298
+            ],
+            "area": 117114,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16613,
+            "image_id": 5738,
+            "category_id": 44198,
+            "bbox": [
+                554,
+                827,
+                253,
+                182
+            ],
+            "area": 46046,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        },
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        }
+    ]
+}

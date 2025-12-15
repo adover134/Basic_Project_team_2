@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1653,
+            "file_name": "K-003544-016551-021026-033878_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3954,
+            "image_id": 1653,
+            "category_id": 3543,
+            "bbox": [
+                172,
+                190,
+                188,
+                189
+            ],
+            "area": 35532,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3955,
+            "image_id": 1653,
+            "category_id": 16550,
+            "bbox": [
+                466,
+                186,
+                392,
+                346
+            ],
+            "area": 135632,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3956,
+            "image_id": 1653,
+            "category_id": 33877,
+            "bbox": [
+                138,
+                883,
+                201,
+                130
+            ],
+            "area": 26130,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3957,
+            "image_id": 1653,
+            "category_id": 21025,
+            "bbox": [
+                608,
+                902,
+                162,
+                162
+            ],
+            "area": 26244,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        }
+    ]
+}

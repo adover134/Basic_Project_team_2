@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4598,
+            "file_name": "K-010221-016548-024850-033009_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12740,
+            "image_id": 4598,
+            "category_id": 10220,
+            "bbox": [
+                136,
+                216,
+                197,
+                201
+            ],
+            "area": 39597,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12741,
+            "image_id": 4598,
+            "category_id": 16547,
+            "bbox": [
+                618,
+                157,
+                209,
+                211
+            ],
+            "area": 44099,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12742,
+            "image_id": 4598,
+            "category_id": 24849,
+            "bbox": [
+                139,
+                758,
+                146,
+                275
+            ],
+            "area": 40150,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12743,
+            "image_id": 4598,
+            "category_id": 33008,
+            "bbox": [
+                577,
+                710,
+                307,
+                280
+            ],
+            "area": 85960,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 6823,
+            "file_name": "K-015710-019861-025367-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 19747,
+            "image_id": 6823,
+            "category_id": 19860,
+            "bbox": [
+                657,
+                283,
+                201,
+                156
+            ],
+            "area": 31356,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19748,
+            "image_id": 6823,
+            "category_id": 36636,
+            "bbox": [
+                177,
+                841,
+                157,
+                249
+            ],
+            "area": 39093,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 19749,
+            "image_id": 6823,
+            "category_id": 25366,
+            "bbox": [
+                567,
+                712,
+                362,
+                434
+            ],
+            "area": 157108,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        }
+    ]
+}

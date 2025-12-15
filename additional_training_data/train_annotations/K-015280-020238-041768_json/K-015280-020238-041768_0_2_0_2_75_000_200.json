@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6503,
+            "file_name": "K-015280-020238-041768_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18861,
+            "image_id": 6503,
+            "category_id": 20237,
+            "bbox": [
+                103,
+                739,
+                208,
+                212
+            ],
+            "area": 44096,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18862,
+            "image_id": 6503,
+            "category_id": 41767,
+            "bbox": [
+                570,
+                657,
+                256,
+                282
+            ],
+            "area": 72192,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        }
+    ]
+}

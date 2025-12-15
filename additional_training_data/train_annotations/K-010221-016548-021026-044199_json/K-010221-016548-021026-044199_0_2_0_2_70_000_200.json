@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4567,
+            "file_name": "K-010221-016548-021026-044199_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12616,
+            "image_id": 4567,
+            "category_id": 10220,
+            "bbox": [
+                176,
+                286,
+                195,
+                199
+            ],
+            "area": 38805,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12617,
+            "image_id": 4567,
+            "category_id": 21025,
+            "bbox": [
+                681,
+                291,
+                159,
+                159
+            ],
+            "area": 25281,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12618,
+            "image_id": 4567,
+            "category_id": 16547,
+            "bbox": [
+                92,
+                856,
+                218,
+                221
+            ],
+            "area": 48178,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12619,
+            "image_id": 4567,
+            "category_id": 44198,
+            "bbox": [
+                668,
+                895,
+                270,
+                188
+            ],
+            "area": 50760,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        }
+    ]
+}

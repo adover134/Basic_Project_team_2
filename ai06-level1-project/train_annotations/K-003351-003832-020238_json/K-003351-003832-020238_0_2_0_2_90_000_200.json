@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 195,
+            "file_name": "K-003351-003832-020238_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 771,
+            "image_id": 195,
+            "category_id": 3350,
+            "bbox": [
+                392,
+                186,
+                167,
+                168
+            ],
+            "area": 28056,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 772,
+            "image_id": 195,
+            "category_id": 3831,
+            "bbox": [
+                97,
+                684,
+                370,
+                324
+            ],
+            "area": 119880,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 773,
+            "image_id": 195,
+            "category_id": 20237,
+            "bbox": [
+                668,
+                808,
+                207,
+                206
+            ],
+            "area": 42642,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        }
+    ]
+}

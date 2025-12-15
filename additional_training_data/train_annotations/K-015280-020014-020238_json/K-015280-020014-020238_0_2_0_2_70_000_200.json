@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6472,
+            "file_name": "K-015280-020014-020238_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18799,
+            "image_id": 6472,
+            "category_id": 20237,
+            "bbox": [
+                196,
+                321,
+                203,
+                204
+            ],
+            "area": 41412,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18800,
+            "image_id": 6472,
+            "category_id": 20013,
+            "bbox": [
+                609,
+                278,
+                306,
+                297
+            ],
+            "area": 90882,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 20013,
+            "supercategory": "pill",
+            "name": "마도파정"
+        }
+    ]
+}

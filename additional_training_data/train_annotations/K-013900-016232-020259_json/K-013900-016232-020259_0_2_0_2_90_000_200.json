@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6198,
+            "file_name": "K-013900-016232-020259_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18257,
+            "image_id": 6198,
+            "category_id": 16231,
+            "bbox": [
+                168,
+                820,
+                174,
+                173
+            ],
+            "area": 30102,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18258,
+            "image_id": 6198,
+            "category_id": 13899,
+            "bbox": [
+                666,
+                752,
+                129,
+                261
+            ],
+            "area": 33669,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 13899,
+            "supercategory": "pill",
+            "name": "에빅사정(메만틴염산염)(비매품)"
+        }
+    ]
+}

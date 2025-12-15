@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4224,
+            "file_name": "K-006563-010221-016551-021771_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11244,
+            "image_id": 4224,
+            "category_id": 21770,
+            "bbox": [
+                174,
+                202,
+                172,
+                172
+            ],
+            "area": 29584,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11245,
+            "image_id": 4224,
+            "category_id": 16550,
+            "bbox": [
+                598,
+                112,
+                348,
+                389
+            ],
+            "area": 135372,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11246,
+            "image_id": 4224,
+            "category_id": 6562,
+            "bbox": [
+                198,
+                722,
+                178,
+                335
+            ],
+            "area": 59630,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11247,
+            "image_id": 4224,
+            "category_id": 10220,
+            "bbox": [
+                630,
+                837,
+                201,
+                200
+            ],
+            "area": 40200,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

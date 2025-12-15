@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 2754,
+            "file_name": "K-003832-005000-035206_0_2_1_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7298,
+            "image_id": 2754,
+            "category_id": 3831,
+            "bbox": [
+                392,
+                129,
+                261,
+                405
+            ],
+            "area": 105705,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7299,
+            "image_id": 2754,
+            "category_id": 35205,
+            "bbox": [
+                508,
+                710,
+                312,
+                331
+            ],
+            "area": 103272,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        }
+    ]
+}

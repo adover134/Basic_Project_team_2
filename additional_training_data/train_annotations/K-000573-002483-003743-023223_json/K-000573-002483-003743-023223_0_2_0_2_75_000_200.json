@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 644,
+            "file_name": "K-000573-002483-003743-023223_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1224,
+            "image_id": 644,
+            "category_id": 23222,
+            "bbox": [
+                104,
+                222,
+                295,
+                416
+            ],
+            "area": 122720,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1225,
+            "image_id": 644,
+            "category_id": 2482,
+            "bbox": [
+                604,
+                135,
+                202,
+                415
+            ],
+            "area": 83830,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1226,
+            "image_id": 644,
+            "category_id": 3742,
+            "bbox": [
+                129,
+                797,
+                299,
+                302
+            ],
+            "area": 90298,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        }
+    ]
+}

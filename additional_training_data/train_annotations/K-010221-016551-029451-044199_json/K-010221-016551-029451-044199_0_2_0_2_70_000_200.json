@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4717,
+            "file_name": "K-010221-016551-029451-044199_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13216,
+            "image_id": 4717,
+            "category_id": 44198,
+            "bbox": [
+                112,
+                268,
+                252,
+                155
+            ],
+            "area": 39060,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13217,
+            "image_id": 4717,
+            "category_id": 29450,
+            "bbox": [
+                658,
+                173,
+                204,
+                354
+            ],
+            "area": 72216,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13218,
+            "image_id": 4717,
+            "category_id": 16550,
+            "bbox": [
+                124,
+                669,
+                250,
+                455
+            ],
+            "area": 113750,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13219,
+            "image_id": 4717,
+            "category_id": 10220,
+            "bbox": [
+                688,
+                840,
+                206,
+                210
+            ],
+            "area": 43260,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        }
+    ]
+}

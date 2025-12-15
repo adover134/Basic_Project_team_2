@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 191,
+            "file_name": "K-003351-003832-016262_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 759,
+            "image_id": 191,
+            "category_id": 16261,
+            "bbox": [
+                168,
+                272,
+                216,
+                216
+            ],
+            "area": 46656,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 760,
+            "image_id": 191,
+            "category_id": 3831,
+            "bbox": [
+                663,
+                199,
+                241,
+                394
+            ],
+            "area": 94954,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 761,
+            "image_id": 191,
+            "category_id": 3350,
+            "bbox": [
+                424,
+                888,
+                170,
+                178
+            ],
+            "area": 30260,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

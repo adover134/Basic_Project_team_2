@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 4191,
+            "file_name": "K-006192-022362-025438-044834_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11113,
+            "image_id": 4191,
+            "category_id": 6191,
+            "bbox": [
+                146,
+                101,
+                220,
+                470
+            ],
+            "area": 103400,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11114,
+            "image_id": 4191,
+            "category_id": 25437,
+            "bbox": [
+                164,
+                854,
+                237,
+                238
+            ],
+            "area": 56406,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11115,
+            "image_id": 4191,
+            "category_id": 22361,
+            "bbox": [
+                625,
+                753,
+                216,
+                373
+            ],
+            "area": 80568,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 22361,
+            "supercategory": "pill",
+            "name": "맥시부펜이알정 300mg"
+        }
+    ]
+}

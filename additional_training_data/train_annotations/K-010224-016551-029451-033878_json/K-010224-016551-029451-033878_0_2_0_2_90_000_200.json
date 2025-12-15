@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4935,
+            "file_name": "K-010224-016551-029451-033878_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14088,
+            "image_id": 4935,
+            "category_id": 10223,
+            "bbox": [
+                60,
+                149,
+                273,
+                341
+            ],
+            "area": 93093,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14089,
+            "image_id": 4935,
+            "category_id": 16550,
+            "bbox": [
+                622,
+                99,
+                285,
+                431
+            ],
+            "area": 122835,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14090,
+            "image_id": 4935,
+            "category_id": 29450,
+            "bbox": [
+                87,
+                858,
+                380,
+                193
+            ],
+            "area": 73340,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14091,
+            "image_id": 4935,
+            "category_id": 33877,
+            "bbox": [
+                645,
+                918,
+                195,
+                126
+            ],
+            "area": 24570,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 33877,
+            "supercategory": "pill",
+            "name": "브린텔릭스정 20mg"
+        }
+    ]
+}

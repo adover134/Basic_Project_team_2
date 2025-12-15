@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3966,
+            "file_name": "K-005391-016262-033880_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10634,
+            "image_id": 3966,
+            "category_id": 33879,
+            "bbox": [
+                101,
+                789,
+                404,
+                273
+            ],
+            "area": 110292,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10635,
+            "image_id": 3966,
+            "category_id": 16261,
+            "bbox": [
+                632,
+                803,
+                217,
+                217
+            ],
+            "area": 47089,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33879,
+            "supercategory": "pill",
+            "name": "글리틴정(콜린알포세레이트)"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        }
+    ]
+}

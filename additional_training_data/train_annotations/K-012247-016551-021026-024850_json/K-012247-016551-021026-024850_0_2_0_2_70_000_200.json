@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5785,
+            "file_name": "K-012247-016551-021026-024850_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16798,
+            "image_id": 5785,
+            "category_id": 12246,
+            "bbox": [
+                195,
+                315,
+                184,
+                139
+            ],
+            "area": 25576,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16799,
+            "image_id": 5785,
+            "category_id": 21025,
+            "bbox": [
+                685,
+                290,
+                159,
+                159
+            ],
+            "area": 25281,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16800,
+            "image_id": 5785,
+            "category_id": 16550,
+            "bbox": [
+                82,
+                718,
+                344,
+                408
+            ],
+            "area": 140352,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16801,
+            "image_id": 5785,
+            "category_id": 24849,
+            "bbox": [
+                612,
+                852,
+                267,
+                168
+            ],
+            "area": 44856,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        }
+    ]
+}

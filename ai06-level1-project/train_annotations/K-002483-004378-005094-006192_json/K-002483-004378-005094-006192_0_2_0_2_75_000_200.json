@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 128,
+            "file_name": "K-002483-004378-005094-006192_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 509,
+            "image_id": 128,
+            "category_id": 6191,
+            "bbox": [
+                158,
+                180,
+                269,
+                437
+            ],
+            "area": 117553,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 510,
+            "image_id": 128,
+            "category_id": 2482,
+            "bbox": [
+                630,
+                126,
+                173,
+                414
+            ],
+            "area": 71622,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 511,
+            "image_id": 128,
+            "category_id": 5093,
+            "bbox": [
+                117,
+                824,
+                255,
+                259
+            ],
+            "area": 66045,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 512,
+            "image_id": 128,
+            "category_id": 4377,
+            "bbox": [
+                610,
+                730,
+                193,
+                420
+            ],
+            "area": 81060,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        }
+    ]
+}

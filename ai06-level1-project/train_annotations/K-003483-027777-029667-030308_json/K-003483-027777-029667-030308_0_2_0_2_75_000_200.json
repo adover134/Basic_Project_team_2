@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 590,
+            "file_name": "K-003483-027777-029667-030308_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2200,
+            "image_id": 590,
+            "category_id": 30307,
+            "bbox": [
+                36,
+                119,
+                351,
+                363
+            ],
+            "area": 127413,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2201,
+            "image_id": 590,
+            "category_id": 29666,
+            "bbox": [
+                611,
+                169,
+                196,
+                201
+            ],
+            "area": 39396,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2202,
+            "image_id": 590,
+            "category_id": 27776,
+            "bbox": [
+                150,
+                779,
+                160,
+                197
+            ],
+            "area": 31520,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2203,
+            "image_id": 590,
+            "category_id": 3482,
+            "bbox": [
+                543,
+                782,
+                247,
+                212
+            ],
+            "area": 52364,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

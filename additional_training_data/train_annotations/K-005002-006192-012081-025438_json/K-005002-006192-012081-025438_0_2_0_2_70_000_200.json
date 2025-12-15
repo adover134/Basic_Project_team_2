@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3778,
+            "file_name": "K-005002-006192-012081-025438_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10144,
+            "image_id": 3778,
+            "category_id": 12080,
+            "bbox": [
+                82,
+                144,
+                194,
+                387
+            ],
+            "area": 75078,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10145,
+            "image_id": 3778,
+            "category_id": 25437,
+            "bbox": [
+                565,
+                204,
+                231,
+                232
+            ],
+            "area": 53592,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10146,
+            "image_id": 3778,
+            "category_id": 6191,
+            "bbox": [
+                624,
+                698,
+                208,
+                483
+            ],
+            "area": 100464,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7435,
+            "file_name": "K-016206-033880-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21358,
+            "image_id": 7435,
+            "category_id": 35205,
+            "bbox": [
+                117,
+                216,
+                254,
+                353
+            ],
+            "area": 89662,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21359,
+            "image_id": 7435,
+            "category_id": 33879,
+            "bbox": [
+                475,
+                267,
+                392,
+                269
+            ],
+            "area": 105448,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 33879,
+            "supercategory": "pill",
+            "name": "글리틴정(콜린알포세레이트)"
+        }
+    ]
+}

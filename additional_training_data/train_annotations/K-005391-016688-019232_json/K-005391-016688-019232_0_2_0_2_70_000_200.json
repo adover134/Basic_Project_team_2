@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 3976,
+            "file_name": "K-005391-016688-019232_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10654,
+            "image_id": 3976,
+            "category_id": 16687,
+            "bbox": [
+                170,
+                123,
+                229,
+                544
+            ],
+            "area": 124576,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10655,
+            "image_id": 3976,
+            "category_id": 19231,
+            "bbox": [
+                556,
+                219,
+                269,
+                270
+            ],
+            "area": 72630,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16687,
+            "supercategory": "pill",
+            "name": "오마코연질캡슐(오메가-3-산에틸에스테르90)"
+        },
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        }
+    ]
+}

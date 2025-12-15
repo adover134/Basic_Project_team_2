@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 36,
+            "file_name": "K-001900-016548-021771-029451_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 141,
+            "image_id": 36,
+            "category_id": 1899,
+            "bbox": [
+                154,
+                245,
+                163,
+                170
+            ],
+            "area": 27710,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 142,
+            "image_id": 36,
+            "category_id": 16547,
+            "bbox": [
+                625,
+                222,
+                208,
+                211
+            ],
+            "area": 43888,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 143,
+            "image_id": 36,
+            "category_id": 21770,
+            "bbox": [
+                132,
+                812,
+                174,
+                177
+            ],
+            "area": 30798,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 144,
+            "image_id": 36,
+            "category_id": 29450,
+            "bbox": [
+                472,
+                822,
+                389,
+                200
+            ],
+            "area": 77800,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5975,
+            "file_name": "K-012420-016551-018110-033009_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17558,
+            "image_id": 5975,
+            "category_id": 12419,
+            "bbox": [
+                154,
+                179,
+                163,
+                164
+            ],
+            "area": 26732,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17559,
+            "image_id": 5975,
+            "category_id": 16550,
+            "bbox": [
+                630,
+                84,
+                256,
+                427
+            ],
+            "area": 109312,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17560,
+            "image_id": 5975,
+            "category_id": 18109,
+            "bbox": [
+                128,
+                726,
+                271,
+                278
+            ],
+            "area": 75338,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17561,
+            "image_id": 5975,
+            "category_id": 33008,
+            "bbox": [
+                593,
+                712,
+                258,
+                314
+            ],
+            "area": 81012,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

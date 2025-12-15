@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3866,
+            "file_name": "K-005094-005886-022627-037777_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10408,
+            "image_id": 3866,
+            "category_id": 22626,
+            "bbox": [
+                131,
+                116,
+                230,
+                414
+            ],
+            "area": 95220,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10409,
+            "image_id": 3866,
+            "category_id": 5093,
+            "bbox": [
+                110,
+                827,
+                255,
+                260
+            ],
+            "area": 66300,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10410,
+            "image_id": 3866,
+            "category_id": 5885,
+            "bbox": [
+                606,
+                712,
+                217,
+                456
+            ],
+            "area": 98952,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        }
+    ]
+}

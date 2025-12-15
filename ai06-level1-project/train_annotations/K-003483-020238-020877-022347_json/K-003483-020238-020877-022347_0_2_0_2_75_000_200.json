@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 457,
+            "file_name": "K-003483-020238-020877-022347_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1668,
+            "image_id": 457,
+            "category_id": 22346,
+            "bbox": [
+                102,
+                236,
+                183,
+                183
+            ],
+            "area": 33489,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1669,
+            "image_id": 457,
+            "category_id": 20237,
+            "bbox": [
+                584,
+                185,
+                196,
+                197
+            ],
+            "area": 38612,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1670,
+            "image_id": 457,
+            "category_id": 20876,
+            "bbox": [
+                116,
+                801,
+                245,
+                297
+            ],
+            "area": 72765,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1671,
+            "image_id": 457,
+            "category_id": 3482,
+            "bbox": [
+                624,
+                731,
+                179,
+                259
+            ],
+            "area": 46361,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

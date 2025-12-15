@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 246,
+            "file_name": "K-003351-016262-041768_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 924,
+            "image_id": 246,
+            "category_id": 41767,
+            "bbox": [
+                121,
+                292,
+                245,
+                269
+            ],
+            "area": 65905,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 925,
+            "image_id": 246,
+            "category_id": 16261,
+            "bbox": [
+                569,
+                319,
+                215,
+                218
+            ],
+            "area": 46870,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 926,
+            "image_id": 246,
+            "category_id": 3350,
+            "bbox": [
+                393,
+                903,
+                171,
+                178
+            ],
+            "area": 30438,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

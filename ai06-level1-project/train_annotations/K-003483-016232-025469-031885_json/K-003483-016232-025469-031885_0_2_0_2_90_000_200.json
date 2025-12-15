@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 370,
+            "file_name": "K-003483-016232-025469-031885_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1320,
+            "image_id": 370,
+            "category_id": 31884,
+            "bbox": [
+                50,
+                73,
+                376,
+                478
+            ],
+            "area": 179728,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1321,
+            "image_id": 370,
+            "category_id": 16231,
+            "bbox": [
+                638,
+                226,
+                170,
+                174
+            ],
+            "area": 29580,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1322,
+            "image_id": 370,
+            "category_id": 25468,
+            "bbox": [
+                59,
+                868,
+                342,
+                197
+            ],
+            "area": 67374,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1323,
+            "image_id": 370,
+            "category_id": 3482,
+            "bbox": [
+                611,
+                848,
+                256,
+                178
+            ],
+            "area": 45568,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

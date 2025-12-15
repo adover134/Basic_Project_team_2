@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4332,
+            "file_name": "K-006563-012420-016551-021771_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11676,
+            "image_id": 4332,
+            "category_id": 21770,
+            "bbox": [
+                124,
+                203,
+                172,
+                172
+            ],
+            "area": 29584,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11677,
+            "image_id": 4332,
+            "category_id": 16550,
+            "bbox": [
+                649,
+                36,
+                255,
+                442
+            ],
+            "area": 112710,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11678,
+            "image_id": 4332,
+            "category_id": 6562,
+            "bbox": [
+                206,
+                731,
+                178,
+                335
+            ],
+            "area": 59630,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11679,
+            "image_id": 4332,
+            "category_id": 12419,
+            "bbox": [
+                660,
+                857,
+                166,
+                166
+            ],
+            "area": 27556,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 6562,
+            "supercategory": "pill",
+            "name": "조인스정 200mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

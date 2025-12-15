@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3827,
+            "file_name": "K-005094-005886-006192-037777_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 10291,
+            "image_id": 3827,
+            "category_id": 6191,
+            "bbox": [
+                126,
+                139,
+                227,
+                451
+            ],
+            "area": 102377,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10292,
+            "image_id": 3827,
+            "category_id": 5093,
+            "bbox": [
+                110,
+                827,
+                255,
+                260
+            ],
+            "area": 66300,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 10293,
+            "image_id": 3827,
+            "category_id": 5885,
+            "bbox": [
+                606,
+                712,
+                217,
+                456
+            ],
+            "area": 98952,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        }
+    ]
+}

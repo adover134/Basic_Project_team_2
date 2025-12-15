@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 179,
+            "file_name": "K-002483-013395-022627-025438_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 713,
+            "image_id": 179,
+            "category_id": 22626,
+            "bbox": [
+                105,
+                171,
+                269,
+                404
+            ],
+            "area": 108676,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 714,
+            "image_id": 179,
+            "category_id": 2482,
+            "bbox": [
+                621,
+                120,
+                158,
+                414
+            ],
+            "area": 65412,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 715,
+            "image_id": 179,
+            "category_id": 25437,
+            "bbox": [
+                131,
+                830,
+                242,
+                246
+            ],
+            "area": 59532,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 716,
+            "image_id": 179,
+            "category_id": 13394,
+            "bbox": [
+                618,
+                743,
+                195,
+                463
+            ],
+            "area": 90285,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

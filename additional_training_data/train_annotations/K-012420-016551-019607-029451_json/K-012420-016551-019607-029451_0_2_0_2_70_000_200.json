@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5986,
+            "file_name": "K-012420-016551-019607-029451_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17602,
+            "image_id": 5986,
+            "category_id": 29450,
+            "bbox": [
+                144,
+                228,
+                194,
+                360
+            ],
+            "area": 69840,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17603,
+            "image_id": 5986,
+            "category_id": 19606,
+            "bbox": [
+                688,
+                296,
+                138,
+                136
+            ],
+            "area": 18768,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17604,
+            "image_id": 5986,
+            "category_id": 16550,
+            "bbox": [
+                146,
+                693,
+                263,
+                450
+            ],
+            "area": 118350,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17605,
+            "image_id": 5986,
+            "category_id": 12419,
+            "bbox": [
+                685,
+                830,
+                169,
+                172
+            ],
+            "area": 29068,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

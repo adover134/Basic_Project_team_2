@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3282,
+            "file_name": "K-004543-012420-016551-019607_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 8772,
+            "image_id": 3282,
+            "category_id": 4542,
+            "bbox": [
+                154,
+                175,
+                186,
+                187
+            ],
+            "area": 34782,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8773,
+            "image_id": 3282,
+            "category_id": 12419,
+            "bbox": [
+                664,
+                149,
+                165,
+                165
+            ],
+            "area": 27225,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8774,
+            "image_id": 3282,
+            "category_id": 16550,
+            "bbox": [
+                182,
+                637,
+                236,
+                449
+            ],
+            "area": 105964,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 8775,
+            "image_id": 3282,
+            "category_id": 19606,
+            "bbox": [
+                680,
+                838,
+                141,
+                140
+            ],
+            "area": 19740,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        }
+    ]
+}

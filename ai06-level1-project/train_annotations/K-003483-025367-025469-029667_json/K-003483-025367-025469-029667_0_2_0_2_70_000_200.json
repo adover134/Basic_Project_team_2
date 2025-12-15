@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 528,
+            "file_name": "K-003483-025367-025469-029667_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1952,
+            "image_id": 528,
+            "category_id": 3482,
+            "bbox": [
+                140,
+                282,
+                248,
+                170
+            ],
+            "area": 42160,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1953,
+            "image_id": 528,
+            "category_id": 25468,
+            "bbox": [
+                593,
+                195,
+                294,
+                266
+            ],
+            "area": 78204,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1954,
+            "image_id": 528,
+            "category_id": 29666,
+            "bbox": [
+                151,
+                880,
+                205,
+                211
+            ],
+            "area": 43255,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1955,
+            "image_id": 528,
+            "category_id": 25366,
+            "bbox": [
+                593,
+                681,
+                322,
+                454
+            ],
+            "area": 146188,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        }
+    ]
+}

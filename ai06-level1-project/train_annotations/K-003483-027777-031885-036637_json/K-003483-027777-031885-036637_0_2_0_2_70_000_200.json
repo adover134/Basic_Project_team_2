@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 598,
+            "file_name": "K-003483-027777-031885-036637_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2232,
+            "image_id": 598,
+            "category_id": 3482,
+            "bbox": [
+                189,
+                285,
+                235,
+                197
+            ],
+            "area": 46295,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2233,
+            "image_id": 598,
+            "category_id": 27776,
+            "bbox": [
+                651,
+                301,
+                153,
+                184
+            ],
+            "area": 28152,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2234,
+            "image_id": 598,
+            "category_id": 36636,
+            "bbox": [
+                141,
+                836,
+                174,
+                243
+            ],
+            "area": 42282,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2235,
+            "image_id": 598,
+            "category_id": 31884,
+            "bbox": [
+                535,
+                643,
+                387,
+                484
+            ],
+            "area": 187308,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        }
+    ]
+}

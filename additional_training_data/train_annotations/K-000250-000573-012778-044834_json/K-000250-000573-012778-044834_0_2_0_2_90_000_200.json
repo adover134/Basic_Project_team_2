@@ -1,0 +1,33 @@
+{
+    "images": [
+        {
+            "id": 54,
+            "file_name": "K-000250-000573-012778-044834_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 69,
+            "image_id": 54,
+            "category_id": 12777,
+            "bbox": [
+                178,
+                135,
+                206,
+                459
+            ],
+            "area": 94554,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

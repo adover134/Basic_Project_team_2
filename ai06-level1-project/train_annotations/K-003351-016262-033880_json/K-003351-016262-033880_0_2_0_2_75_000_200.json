@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 244,
+            "file_name": "K-003351-016262-033880_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 918,
+            "image_id": 244,
+            "category_id": 3350,
+            "bbox": [
+                326,
+                161,
+                164,
+                172
+            ],
+            "area": 28208,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 919,
+            "image_id": 244,
+            "category_id": 33879,
+            "bbox": [
+                54,
+                686,
+                408,
+                278
+            ],
+            "area": 113424,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 920,
+            "image_id": 244,
+            "category_id": 16261,
+            "bbox": [
+                593,
+                709,
+                220,
+                224
+            ],
+            "area": 49280,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        },
+        {
+            "id": 33879,
+            "supercategory": "pill",
+            "name": "글리틴정(콜린알포세레이트)"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2663,
+            "file_name": "K-003743-013161-013395-022627_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7049,
+            "image_id": 2663,
+            "category_id": 22626,
+            "bbox": [
+                143,
+                225,
+                221,
+                424
+            ],
+            "area": 93704,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7050,
+            "image_id": 2663,
+            "category_id": 3742,
+            "bbox": [
+                129,
+                854,
+                301,
+                302
+            ],
+            "area": 90902,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7051,
+            "image_id": 2663,
+            "category_id": 13394,
+            "bbox": [
+                652,
+                707,
+                204,
+                461
+            ],
+            "area": 94044,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22626,
+            "supercategory": "pill",
+            "name": "메가파워정 90mg/병"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

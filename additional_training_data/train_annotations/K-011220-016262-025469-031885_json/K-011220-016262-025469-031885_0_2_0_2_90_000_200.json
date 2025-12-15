@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5121,
+            "file_name": "K-011220-016262-025469-031885_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 14659,
+            "image_id": 5121,
+            "category_id": 31884,
+            "bbox": [
+                52,
+                81,
+                403,
+                459
+            ],
+            "area": 184977,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14660,
+            "image_id": 5121,
+            "category_id": 16261,
+            "bbox": [
+                616,
+                199,
+                212,
+                215
+            ],
+            "area": 45580,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 14661,
+            "image_id": 5121,
+            "category_id": 25468,
+            "bbox": [
+                86,
+                769,
+                322,
+                253
+            ],
+            "area": 81466,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 4170,
+            "file_name": "K-006192-013161-013395-025438_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 11050,
+            "image_id": 4170,
+            "category_id": 6191,
+            "bbox": [
+                98,
+                85,
+                264,
+                455
+            ],
+            "area": 120120,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11051,
+            "image_id": 4170,
+            "category_id": 25437,
+            "bbox": [
+                129,
+                817,
+                237,
+                240
+            ],
+            "area": 56880,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 11052,
+            "image_id": 4170,
+            "category_id": 13394,
+            "bbox": [
+                605,
+                742,
+                198,
+                454
+            ],
+            "area": 89892,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

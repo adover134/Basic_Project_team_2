@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 1953,
+            "file_name": "K-003614-019861-025367-029667_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 4919,
+            "image_id": 1953,
+            "category_id": 25366,
+            "bbox": [
+                98,
+                162,
+                356,
+                418
+            ],
+            "area": 148808,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4920,
+            "image_id": 1953,
+            "category_id": 29666,
+            "bbox": [
+                632,
+                210,
+                201,
+                200
+            ],
+            "area": 40200,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 4921,
+            "image_id": 1953,
+            "category_id": 19860,
+            "bbox": [
+                129,
+                872,
+                203,
+                156
+            ],
+            "area": 31668,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

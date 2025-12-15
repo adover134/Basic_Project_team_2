@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5451,
+            "file_name": "K-011220-025469-028763-035206_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15649,
+            "image_id": 5451,
+            "category_id": 28762,
+            "bbox": [
+                123,
+                233,
+                186,
+                187
+            ],
+            "area": 34782,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15650,
+            "image_id": 5451,
+            "category_id": 35205,
+            "bbox": [
+                623,
+                138,
+                179,
+                379
+            ],
+            "area": 67841,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15651,
+            "image_id": 5451,
+            "category_id": 25468,
+            "bbox": [
+                60,
+                868,
+                341,
+                197
+            ],
+            "area": 67177,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        }
+    ]
+}

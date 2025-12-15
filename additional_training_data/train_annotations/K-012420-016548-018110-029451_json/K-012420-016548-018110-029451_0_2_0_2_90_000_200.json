@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5862,
+            "file_name": "K-012420-016548-018110-029451_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17106,
+            "image_id": 5862,
+            "category_id": 12419,
+            "bbox": [
+                157,
+                219,
+                165,
+                165
+            ],
+            "area": 27225,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17107,
+            "image_id": 5862,
+            "category_id": 16547,
+            "bbox": [
+                596,
+                259,
+                212,
+                211
+            ],
+            "area": 44732,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17108,
+            "image_id": 5862,
+            "category_id": 18109,
+            "bbox": [
+                106,
+                793,
+                268,
+                268
+            ],
+            "area": 71824,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17109,
+            "image_id": 5862,
+            "category_id": 29450,
+            "bbox": [
+                564,
+                793,
+                318,
+                309
+            ],
+            "area": 98262,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5899,
+            "file_name": "K-012420-016548-021771-027926_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17254,
+            "image_id": 5899,
+            "category_id": 27925,
+            "bbox": [
+                174,
+                146,
+                199,
+                420
+            ],
+            "area": 83580,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17255,
+            "image_id": 5899,
+            "category_id": 21770,
+            "bbox": [
+                673,
+                300,
+                168,
+                167
+            ],
+            "area": 28056,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17256,
+            "image_id": 5899,
+            "category_id": 16547,
+            "bbox": [
+                162,
+                899,
+                217,
+                223
+            ],
+            "area": 48391,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17257,
+            "image_id": 5899,
+            "category_id": 12419,
+            "bbox": [
+                678,
+                894,
+                171,
+                172
+            ],
+            "area": 29412,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        },
+        {
+            "id": 21770,
+            "supercategory": "pill",
+            "name": "라비에트정 20mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

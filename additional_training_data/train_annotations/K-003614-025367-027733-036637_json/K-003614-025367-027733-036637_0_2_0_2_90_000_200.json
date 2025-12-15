@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2199,
+            "file_name": "K-003614-025367-027733-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5657,
+            "image_id": 2199,
+            "category_id": 25366,
+            "bbox": [
+                86,
+                182,
+                379,
+                400
+            ],
+            "area": 151600,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5658,
+            "image_id": 2199,
+            "category_id": 36636,
+            "bbox": [
+                690,
+                171,
+                151,
+                242
+            ],
+            "area": 36542,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5659,
+            "image_id": 2199,
+            "category_id": 27732,
+            "bbox": [
+                114,
+                829,
+                290,
+                247
+            ],
+            "area": 71630,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        }
+    ]
+}

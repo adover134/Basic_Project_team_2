@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7941,
+            "file_name": "K-016235-019861-029667-031885_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22736,
+            "image_id": 7941,
+            "category_id": 31884,
+            "bbox": [
+                129,
+                114,
+                302,
+                501
+            ],
+            "area": 151302,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22737,
+            "image_id": 7941,
+            "category_id": 29666,
+            "bbox": [
+                630,
+                229,
+                200,
+                200
+            ],
+            "area": 40000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22738,
+            "image_id": 7941,
+            "category_id": 19860,
+            "bbox": [
+                128,
+                876,
+                204,
+                156
+            ],
+            "area": 31824,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 19860,
+            "supercategory": "pill",
+            "name": "노바스크정 5mg"
+        }
+    ]
+}

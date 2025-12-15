@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2300,
+            "file_name": "K-003614-027733-030308-035206_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 5960,
+            "image_id": 2300,
+            "category_id": 30307,
+            "bbox": [
+                78,
+                138,
+                346,
+                369
+            ],
+            "area": 127674,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5961,
+            "image_id": 2300,
+            "category_id": 35205,
+            "bbox": [
+                619,
+                116,
+                191,
+                366
+            ],
+            "area": 69906,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 5962,
+            "image_id": 2300,
+            "category_id": 27732,
+            "bbox": [
+                78,
+                784,
+                296,
+                247
+            ],
+            "area": 73112,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 27732,
+            "supercategory": "pill",
+            "name": "트윈스타정 40/5mg"
+        }
+    ]
+}

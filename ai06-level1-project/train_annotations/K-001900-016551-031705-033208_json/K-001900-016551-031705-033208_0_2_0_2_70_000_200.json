@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 95,
+            "file_name": "K-001900-016551-031705-033208_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 377,
+            "image_id": 95,
+            "category_id": 33207,
+            "bbox": [
+                172,
+                243,
+                179,
+                179
+            ],
+            "area": 32041,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 378,
+            "image_id": 95,
+            "category_id": 31704,
+            "bbox": [
+                591,
+                194,
+                217,
+                391
+            ],
+            "area": 84847,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 379,
+            "image_id": 95,
+            "category_id": 16550,
+            "bbox": [
+                166,
+                703,
+                249,
+                457
+            ],
+            "area": 113793,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 380,
+            "image_id": 95,
+            "category_id": 1899,
+            "bbox": [
+                697,
+                887,
+                188,
+                117
+            ],
+            "area": 21996,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 1899,
+            "supercategory": "pill",
+            "name": "보령부스파정 5mg"
+        }
+    ]
+}

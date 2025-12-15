@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4788,
+            "file_name": "K-010224-012420-016551-021026_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13500,
+            "image_id": 4788,
+            "category_id": 10223,
+            "bbox": [
+                82,
+                129,
+                209,
+                369
+            ],
+            "area": 77121,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13501,
+            "image_id": 4788,
+            "category_id": 16550,
+            "bbox": [
+                602,
+                129,
+                240,
+                448
+            ],
+            "area": 107520,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13502,
+            "image_id": 4788,
+            "category_id": 21025,
+            "bbox": [
+                154,
+                872,
+                161,
+                164
+            ],
+            "area": 26404,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13503,
+            "image_id": 4788,
+            "category_id": 12419,
+            "bbox": [
+                668,
+                878,
+                166,
+                165
+            ],
+            "area": 27390,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 21025,
+            "supercategory": "pill",
+            "name": "펠루비정(펠루비프로펜)"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

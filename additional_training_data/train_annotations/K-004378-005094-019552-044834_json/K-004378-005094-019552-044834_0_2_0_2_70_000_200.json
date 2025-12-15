@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 3067,
+            "file_name": "K-004378-005094-019552-044834_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7993,
+            "image_id": 3067,
+            "category_id": 4377,
+            "bbox": [
+                128,
+                125,
+                170,
+                389
+            ],
+            "area": 66130,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7994,
+            "image_id": 3067,
+            "category_id": 5093,
+            "bbox": [
+                551,
+                194,
+                243,
+                247
+            ],
+            "area": 60021,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7995,
+            "image_id": 3067,
+            "category_id": 19551,
+            "bbox": [
+                522,
+                603,
+                293,
+                418
+            ],
+            "area": 122474,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4377,
+            "supercategory": "pill",
+            "name": "타이레놀정500mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        }
+    ]
+}

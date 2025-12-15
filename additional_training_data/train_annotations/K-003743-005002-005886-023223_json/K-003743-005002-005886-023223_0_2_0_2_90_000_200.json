@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 2445,
+            "file_name": "K-003743-005002-005886-023223_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 6395,
+            "image_id": 2445,
+            "category_id": 23222,
+            "bbox": [
+                116,
+                78,
+                224,
+                449
+            ],
+            "area": 100576,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6396,
+            "image_id": 2445,
+            "category_id": 3742,
+            "bbox": [
+                72,
+                811,
+                297,
+                296
+            ],
+            "area": 87912,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 6397,
+            "image_id": 2445,
+            "category_id": 5885,
+            "bbox": [
+                605,
+                730,
+                208,
+                448
+            ],
+            "area": 93184,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        }
+    ]
+}

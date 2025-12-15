@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6527,
+            "file_name": "K-015280-022074-041768_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18909,
+            "image_id": 6527,
+            "category_id": 22073,
+            "bbox": [
+                134,
+                754,
+                173,
+                180
+            ],
+            "area": 31140,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18910,
+            "image_id": 6527,
+            "category_id": 41767,
+            "bbox": [
+                565,
+                636,
+                245,
+                290
+            ],
+            "area": 71050,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 22073,
+            "supercategory": "pill",
+            "name": "리피로우정 20mg"
+        },
+        {
+            "id": 41767,
+            "supercategory": "pill",
+            "name": "카발린캡슐 25mg"
+        }
+    ]
+}

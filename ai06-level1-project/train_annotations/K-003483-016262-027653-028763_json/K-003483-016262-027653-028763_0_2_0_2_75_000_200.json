@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 411,
+            "file_name": "K-003483-016262-027653-028763_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1484,
+            "image_id": 411,
+            "category_id": 28762,
+            "bbox": [
+                131,
+                223,
+                184,
+                182
+            ],
+            "area": 33488,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1485,
+            "image_id": 411,
+            "category_id": 16261,
+            "bbox": [
+                607,
+                184,
+                207,
+                211
+            ],
+            "area": 43677,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1486,
+            "image_id": 411,
+            "category_id": 27652,
+            "bbox": [
+                73,
+                820,
+                196,
+                192
+            ],
+            "area": 37632,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1487,
+            "image_id": 411,
+            "category_id": 3482,
+            "bbox": [
+                570,
+                814,
+                265,
+                163
+            ],
+            "area": 43195,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

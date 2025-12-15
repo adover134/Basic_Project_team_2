@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7890,
+            "file_name": "K-016235-016262-027777-031885_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 22583,
+            "image_id": 7890,
+            "category_id": 31884,
+            "bbox": [
+                156,
+                135,
+                271,
+                513
+            ],
+            "area": 139023,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22584,
+            "image_id": 7890,
+            "category_id": 16261,
+            "bbox": [
+                636,
+                181,
+                212,
+                212
+            ],
+            "area": 44944,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 22585,
+            "image_id": 7890,
+            "category_id": 27776,
+            "bbox": [
+                156,
+                824,
+                152,
+                189
+            ],
+            "area": 28728,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 31884,
+            "supercategory": "pill",
+            "name": "자누메트엑스알서방정 100/1000mg"
+        },
+        {
+            "id": 16261,
+            "supercategory": "pill",
+            "name": "크레스토정 20mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        }
+    ]
+}

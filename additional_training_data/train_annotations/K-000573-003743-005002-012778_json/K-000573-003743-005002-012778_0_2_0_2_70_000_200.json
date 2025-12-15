@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 679,
+            "file_name": "K-000573-003743-005002-012778_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1325,
+            "image_id": 679,
+            "category_id": 3742,
+            "bbox": [
+                517,
+                190,
+                287,
+                283
+            ],
+            "area": 81221,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1326,
+            "image_id": 679,
+            "category_id": 12777,
+            "bbox": [
+                592,
+                600,
+                226,
+                461
+            ],
+            "area": 104186,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        },
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        }
+    ]
+}

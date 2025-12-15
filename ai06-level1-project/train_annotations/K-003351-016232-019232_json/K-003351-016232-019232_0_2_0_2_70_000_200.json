@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 225,
+            "file_name": "K-003351-016232-019232_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 861,
+            "image_id": 225,
+            "category_id": 16231,
+            "bbox": [
+                162,
+                315,
+                177,
+                177
+            ],
+            "area": 31329,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 862,
+            "image_id": 225,
+            "category_id": 19231,
+            "bbox": [
+                507,
+                244,
+                301,
+                239
+            ],
+            "area": 71939,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 863,
+            "image_id": 225,
+            "category_id": 3350,
+            "bbox": [
+                421,
+                890,
+                171,
+                177
+            ],
+            "area": 30267,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        },
+        {
+            "id": 19231,
+            "supercategory": "pill",
+            "name": "콜리네이트연질캡슐 400mg"
+        },
+        {
+            "id": 3350,
+            "supercategory": "pill",
+            "name": "일양하이트린정 2mg"
+        }
+    ]
+}

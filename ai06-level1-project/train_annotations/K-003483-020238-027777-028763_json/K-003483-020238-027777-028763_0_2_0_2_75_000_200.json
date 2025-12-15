@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 479,
+            "file_name": "K-003483-020238-027777-028763_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1756,
+            "image_id": 479,
+            "category_id": 28762,
+            "bbox": [
+                123,
+                215,
+                182,
+                181
+            ],
+            "area": 32942,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1757,
+            "image_id": 479,
+            "category_id": 20237,
+            "bbox": [
+                585,
+                197,
+                198,
+                198
+            ],
+            "area": 39204,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1758,
+            "image_id": 479,
+            "category_id": 27776,
+            "bbox": [
+                153,
+                782,
+                159,
+                196
+            ],
+            "area": 31164,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1759,
+            "image_id": 479,
+            "category_id": 3482,
+            "bbox": [
+                546,
+                784,
+                248,
+                211
+            ],
+            "area": 52328,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 28762,
+            "supercategory": "pill",
+            "name": "트라젠타정(리나글립틴)"
+        },
+        {
+            "id": 20237,
+            "supercategory": "pill",
+            "name": "플라빅스정 75mg"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5662,
+            "file_name": "K-012247-016548-019607-029345_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16306,
+            "image_id": 5662,
+            "category_id": 29344,
+            "bbox": [
+                141,
+                150,
+                214,
+                386
+            ],
+            "area": 82604,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16307,
+            "image_id": 5662,
+            "category_id": 19606,
+            "bbox": [
+                688,
+                290,
+                138,
+                138
+            ],
+            "area": 19044,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16308,
+            "image_id": 5662,
+            "category_id": 16547,
+            "bbox": [
+                146,
+                849,
+                214,
+                221
+            ],
+            "area": 47294,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16309,
+            "image_id": 5662,
+            "category_id": 12246,
+            "bbox": [
+                685,
+                881,
+                163,
+                188
+            ],
+            "area": 30644,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 29344,
+            "supercategory": "pill",
+            "name": "비모보정 500/20mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        }
+    ]
+}

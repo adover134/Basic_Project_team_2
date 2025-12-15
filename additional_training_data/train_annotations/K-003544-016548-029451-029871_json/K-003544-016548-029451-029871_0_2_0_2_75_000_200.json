@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 1625,
+            "file_name": "K-003544-016548-029451-029871_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 3842,
+            "image_id": 1625,
+            "category_id": 3543,
+            "bbox": [
+                133,
+                235,
+                185,
+                187
+            ],
+            "area": 34595,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3843,
+            "image_id": 1625,
+            "category_id": 16547,
+            "bbox": [
+                601,
+                219,
+                208,
+                211
+            ],
+            "area": 43888,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3844,
+            "image_id": 1625,
+            "category_id": 29450,
+            "bbox": [
+                67,
+                803,
+                379,
+                219
+            ],
+            "area": 83001,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 3845,
+            "image_id": 1625,
+            "category_id": 29870,
+            "bbox": [
+                638,
+                853,
+                215,
+                175
+            ],
+            "area": 37625,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3543,
+            "supercategory": "pill",
+            "name": "무코스타정(레바미피드)(비매품)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        },
+        {
+            "id": 29870,
+            "supercategory": "pill",
+            "name": "렉사프로정 15mg"
+        }
+    ]
+}

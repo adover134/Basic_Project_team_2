@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4638,
+            "file_name": "K-010221-016551-018110-029451_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12900,
+            "image_id": 4638,
+            "category_id": 10220,
+            "bbox": [
+                127,
+                249,
+                199,
+                199
+            ],
+            "area": 39601,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12901,
+            "image_id": 4638,
+            "category_id": 16550,
+            "bbox": [
+                595,
+                97,
+                252,
+                443
+            ],
+            "area": 111636,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12902,
+            "image_id": 4638,
+            "category_id": 18109,
+            "bbox": [
+                94,
+                808,
+                267,
+                268
+            ],
+            "area": 71556,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12903,
+            "image_id": 4638,
+            "category_id": 29450,
+            "bbox": [
+                600,
+                737,
+                193,
+                381
+            ],
+            "area": 73533,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 18109,
+            "supercategory": "pill",
+            "name": "란스톤엘에프디티정 30mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 677,
+            "file_name": "K-000573-003743-005002-006192_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1321,
+            "image_id": 677,
+            "category_id": 6191,
+            "bbox": [
+                117,
+                154,
+                217,
+                450
+            ],
+            "area": 97650,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1322,
+            "image_id": 677,
+            "category_id": 3742,
+            "bbox": [
+                122,
+                797,
+                300,
+                302
+            ],
+            "area": 90600,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 6191,
+            "supercategory": "pill",
+            "name": "삐콤씨에프정 618.6mg/병"
+        },
+        {
+            "id": 3742,
+            "supercategory": "pill",
+            "name": "알드린정"
+        }
+    ]
+}

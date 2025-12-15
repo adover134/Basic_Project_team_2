@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6489,
+            "file_name": "K-015280-020014-036637_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18833,
+            "image_id": 6489,
+            "category_id": 20013,
+            "bbox": [
+                124,
+                736,
+                309,
+                311
+            ],
+            "area": 96099,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18834,
+            "image_id": 6489,
+            "category_id": 36636,
+            "bbox": [
+                640,
+                791,
+                183,
+                239
+            ],
+            "area": 43737,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 20013,
+            "supercategory": "pill",
+            "name": "마도파정"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        }
+    ]
+}

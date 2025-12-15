@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5363,
+            "file_name": "K-011220-020877-030308-036637_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 15385,
+            "image_id": 5363,
+            "category_id": 30307,
+            "bbox": [
+                20,
+                115,
+                383,
+                325
+            ],
+            "area": 124475,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15386,
+            "image_id": 5363,
+            "category_id": 36636,
+            "bbox": [
+                624,
+                219,
+                197,
+                209
+            ],
+            "area": 41173,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 15387,
+            "image_id": 5363,
+            "category_id": 20876,
+            "bbox": [
+                118,
+                800,
+                245,
+                297
+            ],
+            "area": 72765,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        },
+        {
+            "id": 36636,
+            "supercategory": "pill",
+            "name": "로수젯정10/5밀리그램"
+        },
+        {
+            "id": 20876,
+            "supercategory": "pill",
+            "name": "엑스포지정 5/160mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 523,
+            "file_name": "K-003483-022347-027777-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1932,
+            "image_id": 523,
+            "category_id": 3482,
+            "bbox": [
+                187,
+                285,
+                236,
+                197
+            ],
+            "area": 46492,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1933,
+            "image_id": 523,
+            "category_id": 27776,
+            "bbox": [
+                650,
+                299,
+                153,
+                184
+            ],
+            "area": 28152,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1934,
+            "image_id": 523,
+            "category_id": 35205,
+            "bbox": [
+                164,
+                720,
+                195,
+                386
+            ],
+            "area": 75270,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 1935,
+            "image_id": 523,
+            "category_id": 22346,
+            "bbox": [
+                691,
+                878,
+                190,
+                192
+            ],
+            "area": 36480,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3482,
+            "supercategory": "pill",
+            "name": "기넥신에프정(은행엽엑스)(수출용)"
+        },
+        {
+            "id": 27776,
+            "supercategory": "pill",
+            "name": "카나브정 60mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 22346,
+            "supercategory": "pill",
+            "name": "자누비아정 50mg"
+        }
+    ]
+}

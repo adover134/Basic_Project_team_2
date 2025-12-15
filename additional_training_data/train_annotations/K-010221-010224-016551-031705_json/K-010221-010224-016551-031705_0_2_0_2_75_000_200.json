@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4517,
+            "file_name": "K-010221-010224-016551-031705_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 12416,
+            "image_id": 4517,
+            "category_id": 10220,
+            "bbox": [
+                121,
+                190,
+                194,
+                200
+            ],
+            "area": 38800,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12417,
+            "image_id": 4517,
+            "category_id": 10223,
+            "bbox": [
+                617,
+                99,
+                198,
+                361
+            ],
+            "area": 71478,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12418,
+            "image_id": 4517,
+            "category_id": 16550,
+            "bbox": [
+                114,
+                616,
+                238,
+                455
+            ],
+            "area": 108290,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 12419,
+            "image_id": 4517,
+            "category_id": 31704,
+            "bbox": [
+                587,
+                687,
+                226,
+                420
+            ],
+            "area": 94920,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10220,
+            "supercategory": "pill",
+            "name": "쎄로켈정 100mg"
+        },
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 31704,
+            "supercategory": "pill",
+            "name": "낙소졸정 500/20mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3351,
+            "file_name": "K-004543-016548-027993-033208_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9048,
+            "image_id": 3351,
+            "category_id": 4542,
+            "bbox": [
+                118,
+                203,
+                185,
+                187
+            ],
+            "area": 34595,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9049,
+            "image_id": 3351,
+            "category_id": 16547,
+            "bbox": [
+                656,
+                125,
+                213,
+                214
+            ],
+            "area": 45582,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9050,
+            "image_id": 3351,
+            "category_id": 27992,
+            "bbox": [
+                107,
+                851,
+                304,
+                140
+            ],
+            "area": 42560,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9051,
+            "image_id": 3351,
+            "category_id": 33207,
+            "bbox": [
+                662,
+                802,
+                185,
+                184
+            ],
+            "area": 34040,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        },
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        }
+    ]
+}

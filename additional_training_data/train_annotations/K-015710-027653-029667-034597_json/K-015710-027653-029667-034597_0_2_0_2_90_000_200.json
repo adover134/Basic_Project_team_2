@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 7125,
+            "file_name": "K-015710-027653-029667-034597_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 20653,
+            "image_id": 7125,
+            "category_id": 34596,
+            "bbox": [
+                87,
+                127,
+                382,
+                402
+            ],
+            "area": 153564,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20654,
+            "image_id": 7125,
+            "category_id": 29666,
+            "bbox": [
+                654,
+                162,
+                200,
+                200
+            ],
+            "area": 40000,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 20655,
+            "image_id": 7125,
+            "category_id": 27652,
+            "bbox": [
+                111,
+                864,
+                188,
+                188
+            ],
+            "area": 35344,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 34596,
+            "supercategory": "pill",
+            "name": "제미메트서방정 50/1000mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        }
+    ]
+}

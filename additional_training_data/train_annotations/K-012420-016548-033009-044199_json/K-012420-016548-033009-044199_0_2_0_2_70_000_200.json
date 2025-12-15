@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5956,
+            "file_name": "K-012420-016548-033009-044199_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17482,
+            "image_id": 5956,
+            "category_id": 44198,
+            "bbox": [
+                190,
+                255,
+                156,
+                248
+            ],
+            "area": 38688,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17483,
+            "image_id": 5956,
+            "category_id": 33008,
+            "bbox": [
+                662,
+                237,
+                271,
+                273
+            ],
+            "area": 73983,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17484,
+            "image_id": 5956,
+            "category_id": 16547,
+            "bbox": [
+                143,
+                918,
+                219,
+                223
+            ],
+            "area": 48837,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17485,
+            "image_id": 5956,
+            "category_id": 12419,
+            "bbox": [
+                701,
+                881,
+                170,
+                173
+            ],
+            "area": 29410,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 44198,
+            "supercategory": "pill",
+            "name": "케이캡정 50mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        }
+    ]
+}

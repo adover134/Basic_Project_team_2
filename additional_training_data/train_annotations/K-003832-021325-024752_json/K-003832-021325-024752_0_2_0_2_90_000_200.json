@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 2946,
+            "file_name": "K-003832-021325-024752_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7682,
+            "image_id": 2946,
+            "category_id": 3831,
+            "bbox": [
+                356,
+                194,
+                200,
+                417
+            ],
+            "area": 83400,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7683,
+            "image_id": 2946,
+            "category_id": 21324,
+            "bbox": [
+                128,
+                884,
+                226,
+                132
+            ],
+            "area": 29832,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 21324,
+            "supercategory": "pill",
+            "name": "아토르바정 10mg"
+        }
+    ]
+}

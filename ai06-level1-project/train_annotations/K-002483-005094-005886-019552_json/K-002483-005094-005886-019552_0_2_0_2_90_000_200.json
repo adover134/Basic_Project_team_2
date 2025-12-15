@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 139,
+            "file_name": "K-002483-005094-005886-019552_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 553,
+            "image_id": 139,
+            "category_id": 19551,
+            "bbox": [
+                179,
+                119,
+                254,
+                432
+            ],
+            "area": 109728,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 554,
+            "image_id": 139,
+            "category_id": 2482,
+            "bbox": [
+                630,
+                75,
+                220,
+                436
+            ],
+            "area": 95920,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 555,
+            "image_id": 139,
+            "category_id": 5093,
+            "bbox": [
+                119,
+                818,
+                251,
+                253
+            ],
+            "area": 63503,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 556,
+            "image_id": 139,
+            "category_id": 5885,
+            "bbox": [
+                609,
+                712,
+                204,
+                448
+            ],
+            "area": 91392,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 19551,
+            "supercategory": "pill",
+            "name": "트루비타정 60mg/병"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 5093,
+            "supercategory": "pill",
+            "name": "삼남건조수산화알루미늄겔정"
+        },
+        {
+            "id": 5885,
+            "supercategory": "pill",
+            "name": "타이레놀이알서방정(아세트아미노펜)(수출용)"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 5591,
+            "file_name": "K-012081-012778-013161-025438_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16069,
+            "image_id": 5591,
+            "category_id": 12777,
+            "bbox": [
+                111,
+                222,
+                202,
+                449
+            ],
+            "area": 90698,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16070,
+            "image_id": 5591,
+            "category_id": 25437,
+            "bbox": [
+                128,
+                841,
+                241,
+                245
+            ],
+            "area": 59045,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16071,
+            "image_id": 5591,
+            "category_id": 12080,
+            "bbox": [
+                667,
+                735,
+                214,
+                418
+            ],
+            "area": 89452,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12777,
+            "supercategory": "pill",
+            "name": "다보타민큐정 10mg/병"
+        },
+        {
+            "id": 25437,
+            "supercategory": "pill",
+            "name": "큐시드정 31.5mg/PTP"
+        },
+        {
+            "id": 12080,
+            "supercategory": "pill",
+            "name": "리렉스펜정 300mg/PTP"
+        }
+    ]
+}

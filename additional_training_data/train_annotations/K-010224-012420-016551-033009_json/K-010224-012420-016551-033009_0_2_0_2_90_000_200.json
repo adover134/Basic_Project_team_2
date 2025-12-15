@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 4803,
+            "file_name": "K-010224-012420-016551-033009_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 13560,
+            "image_id": 4803,
+            "category_id": 10223,
+            "bbox": [
+                156,
+                60,
+                203,
+                370
+            ],
+            "area": 75110,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13561,
+            "image_id": 4803,
+            "category_id": 12419,
+            "bbox": [
+                671,
+                201,
+                166,
+                166
+            ],
+            "area": 27556,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13562,
+            "image_id": 4803,
+            "category_id": 16550,
+            "bbox": [
+                144,
+                573,
+                237,
+                448
+            ],
+            "area": 106176,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 13563,
+            "image_id": 4803,
+            "category_id": 33008,
+            "bbox": [
+                621,
+                754,
+                255,
+                307
+            ],
+            "area": 78285,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 10223,
+            "supercategory": "pill",
+            "name": "넥시움정 40mg"
+        },
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16550,
+            "supercategory": "pill",
+            "name": "동아가바펜틴정 800mg"
+        },
+        {
+            "id": 33008,
+            "supercategory": "pill",
+            "name": "신바로정"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 2858,
+            "file_name": "K-003832-016232-028424_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 7506,
+            "image_id": 2858,
+            "category_id": 3831,
+            "bbox": [
+                377,
+                129,
+                192,
+                411
+            ],
+            "area": 78912,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 7507,
+            "image_id": 2858,
+            "category_id": 16231,
+            "bbox": [
+                77,
+                737,
+                179,
+                183
+            ],
+            "area": 32757,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 3831,
+            "supercategory": "pill",
+            "name": "뉴로메드정(옥시라세탐)"
+        },
+        {
+            "id": 16231,
+            "supercategory": "pill",
+            "name": "리피토정 20mg"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 154,
+            "file_name": "K-000250-002483-013395-023223_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 295,
+            "image_id": 154,
+            "category_id": 13394,
+            "bbox": [
+                103,
+                124,
+                187,
+                430
+            ],
+            "area": 80410,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 296,
+            "image_id": 154,
+            "category_id": 2482,
+            "bbox": [
+                125,
+                653,
+                170,
+                445
+            ],
+            "area": 75650,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 297,
+            "image_id": 154,
+            "category_id": 23222,
+            "bbox": [
+                568,
+                628,
+                237,
+                453
+            ],
+            "area": 107361,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        },
+        {
+            "id": 2482,
+            "supercategory": "pill",
+            "name": "뮤테란캡슐 100mg"
+        },
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        }
+    ]
+}

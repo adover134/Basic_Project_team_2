@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 6510,
+            "file_name": "K-015280-021325-032310_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 18875,
+            "image_id": 6510,
+            "category_id": 21324,
+            "bbox": [
+                128,
+                893,
+                183,
+                195
+            ],
+            "area": 35685,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 18876,
+            "image_id": 6510,
+            "category_id": 32309,
+            "bbox": [
+                588,
+                827,
+                353,
+                229
+            ],
+            "area": 80837,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 21324,
+            "supercategory": "pill",
+            "name": "아토르바정 10mg"
+        },
+        {
+            "id": 32309,
+            "supercategory": "pill",
+            "name": "글리아타민연질캡슐"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 1317,
+            "file_name": "K-001866-013395-023223-038954_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 2672,
+            "image_id": 1317,
+            "category_id": 23222,
+            "bbox": [
+                151,
+                127,
+                221,
+                450
+            ],
+            "area": 99450,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 2673,
+            "image_id": 1317,
+            "category_id": 13394,
+            "bbox": [
+                612,
+                739,
+                200,
+                454
+            ],
+            "area": 90800,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 23222,
+            "supercategory": "pill",
+            "name": "비타비백정 100mg/병"
+        },
+        {
+            "id": 13394,
+            "supercategory": "pill",
+            "name": "써스펜8시간이알서방정 650mg"
+        }
+    ]
+}

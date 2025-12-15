@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 8230,
+            "file_name": "K-016235-027653-030308-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 23603,
+            "image_id": 8230,
+            "category_id": 27652,
+            "bbox": [
+                697,
+                264,
+                182,
+                178
+            ],
+            "area": 32396,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23604,
+            "image_id": 8230,
+            "category_id": 35205,
+            "bbox": [
+                132,
+                682,
+                200,
+                383
+            ],
+            "area": 76600,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23605,
+            "image_id": 8230,
+            "category_id": 30307,
+            "bbox": [
+                551,
+                740,
+                336,
+                411
+            ],
+            "area": 138096,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 27652,
+            "supercategory": "pill",
+            "name": "세비카정 10/40mg"
+        },
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 30307,
+            "supercategory": "pill",
+            "name": "트라젠타듀오정 2.5/850mg"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 3341,
+            "file_name": "K-004543-016548-024850-027993_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 9008,
+            "image_id": 3341,
+            "category_id": 4542,
+            "bbox": [
+                90,
+                226,
+                183,
+                184
+            ],
+            "area": 33672,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9009,
+            "image_id": 3341,
+            "category_id": 16547,
+            "bbox": [
+                589,
+                152,
+                206,
+                211
+            ],
+            "area": 43466,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9010,
+            "image_id": 3341,
+            "category_id": 24849,
+            "bbox": [
+                117,
+                748,
+                160,
+                266
+            ],
+            "area": 42560,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 9011,
+            "image_id": 3341,
+            "category_id": 27992,
+            "bbox": [
+                507,
+                863,
+                309,
+                147
+            ],
+            "area": 45423,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 4542,
+            "supercategory": "pill",
+            "name": "에어탈정(아세클로페낙)"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 24849,
+            "supercategory": "pill",
+            "name": "놀텍정 10mg"
+        },
+        {
+            "id": 27992,
+            "supercategory": "pill",
+            "name": "졸로푸트정 100mg"
+        }
+    ]
+}

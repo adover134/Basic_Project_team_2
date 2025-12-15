@@ -1,0 +1,52 @@
+{
+    "images": [
+        {
+            "id": 7318,
+            "file_name": "K-016206-018357-035206_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 21124,
+            "image_id": 7318,
+            "category_id": 35205,
+            "bbox": [
+                156,
+                228,
+                297,
+                327
+            ],
+            "area": 97119,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 21125,
+            "image_id": 7318,
+            "category_id": 18356,
+            "bbox": [
+                548,
+                266,
+                253,
+                305
+            ],
+            "area": 77165,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 35205,
+            "supercategory": "pill",
+            "name": "아토젯정 10/40mg"
+        },
+        {
+            "id": 18356,
+            "supercategory": "pill",
+            "name": "종근당글리아티린연질캡슐(콜린알포세레이트)"
+        }
+    ]
+}

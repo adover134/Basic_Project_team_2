@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5880,
+            "file_name": "K-012420-016548-019607-029451_0_2_0_2_90_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 17178,
+            "image_id": 5880,
+            "category_id": 12419,
+            "bbox": [
+                144,
+                278,
+                165,
+                165
+            ],
+            "area": 27225,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17179,
+            "image_id": 5880,
+            "category_id": 16547,
+            "bbox": [
+                614,
+                162,
+                211,
+                212
+            ],
+            "area": 44732,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17180,
+            "image_id": 5880,
+            "category_id": 19606,
+            "bbox": [
+                162,
+                884,
+                140,
+                141
+            ],
+            "area": 19740,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 17181,
+            "image_id": 5880,
+            "category_id": 29450,
+            "bbox": [
+                662,
+                702,
+                198,
+                379
+            ],
+            "area": 75042,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 12419,
+            "supercategory": "pill",
+            "name": "자이프렉사정 2.5mg"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 19606,
+            "supercategory": "pill",
+            "name": "스토가정 10mg"
+        },
+        {
+            "id": 29450,
+            "supercategory": "pill",
+            "name": "레일라정"
+        }
+    ]
+}

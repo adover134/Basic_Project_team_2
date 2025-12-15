@@ -1,0 +1,71 @@
+{
+    "images": [
+        {
+            "id": 8141,
+            "file_name": "K-016235-025367-025469-029667_0_2_0_2_75_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 23336,
+            "image_id": 8141,
+            "category_id": 25366,
+            "bbox": [
+                47,
+                98,
+                320,
+                423
+            ],
+            "area": 135360,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23337,
+            "image_id": 8141,
+            "category_id": 29666,
+            "bbox": [
+                615,
+                145,
+                196,
+                201
+            ],
+            "area": 39396,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 23338,
+            "image_id": 8141,
+            "category_id": 25468,
+            "bbox": [
+                0,
+                821,
+                341,
+                183
+            ],
+            "area": 62403,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 25366,
+            "supercategory": "pill",
+            "name": "자누메트정 50/850mg"
+        },
+        {
+            "id": 29666,
+            "supercategory": "pill",
+            "name": "리바로정 4mg"
+        },
+        {
+            "id": 25468,
+            "supercategory": "pill",
+            "name": "아모잘탄정 5/100mg"
+        }
+    ]
+}

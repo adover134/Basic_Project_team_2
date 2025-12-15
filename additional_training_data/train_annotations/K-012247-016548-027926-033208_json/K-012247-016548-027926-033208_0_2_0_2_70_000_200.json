@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "id": 5716,
+            "file_name": "K-012247-016548-027926-033208_0_2_0_2_70_000_200.png",
+            "height": 1280,
+            "width": 976
+        }
+    ],
+    "annotations": [
+        {
+            "id": 16522,
+            "image_id": 5716,
+            "category_id": 33207,
+            "bbox": [
+                176,
+                289,
+                180,
+                180
+            ],
+            "area": 32400,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16523,
+            "image_id": 5716,
+            "category_id": 27925,
+            "bbox": [
+                636,
+                160,
+                196,
+                418
+            ],
+            "area": 81928,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16524,
+            "image_id": 5716,
+            "category_id": 16547,
+            "bbox": [
+                142,
+                904,
+                217,
+                223
+            ],
+            "area": 48391,
+            "iscrowd": 0,
+            "segmentation": []
+        },
+        {
+            "id": 16525,
+            "image_id": 5716,
+            "category_id": 12246,
+            "bbox": [
+                696,
+                923,
+                122,
+                197
+            ],
+            "area": 24034,
+            "iscrowd": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 33207,
+            "supercategory": "pill",
+            "name": "에스원엠프정 20mg"
+        },
+        {
+            "id": 27925,
+            "supercategory": "pill",
+            "name": "울트라셋이알서방정"
+        },
+        {
+            "id": 16547,
+            "supercategory": "pill",
+            "name": "가바토파정 100mg"
+        },
+        {
+            "id": 12246,
+            "supercategory": "pill",
+            "name": "아빌리파이정 10mg"
+        }
+    ]
+}
