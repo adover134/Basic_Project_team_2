@@ -49,7 +49,7 @@
 # 업데이트 내역
 2025/12/09
 추가 데이터의 라벨링 데이터 업로드</br>
-[추가 데이터의 배경 지운 이미지 링크](https://drive.google.com/drive/folders/1D-aRz5nsbGubS3pPAP_DnG4oK4K3Kbx5?usp=drive_link)
+[추가 데이터의 배경 지운 이미지 링크](https://drive.google.com/drive/folders/1USyioMVhVSsnp1XBnuTKZPm0DulvMpuZ?usp=sharing)
 
 2025/12/21
 최종 버전 파일들 업로드</br>
