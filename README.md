@@ -55,5 +55,7 @@
 최종 버전 파일들 업로드</br>
 Readme 파일을 최종 버전에 맞춰 업데이트
 
+# 프로젝트 보고서 ([발표 자료](https://drive.google.com/file/d/1pwl3B_8qbDhlW1PzKCUas6LmAX1pFXXP/view?usp=sharing))
+
 # 팀원 별 일지 링크
 ## [김경태 링크](https://www.notion.so/2d18dd9ffeba806caa9aedec166c98a8?v=2d18dd9ffeba804e9344000c06a759cc&source=copy_link)
