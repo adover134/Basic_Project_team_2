@@ -61,9 +61,6 @@ prezi로 작성하였기에 동일한 페이지가 중복적으로 나타납니�
 # 팀원 별 일지 링크
 ## [김경태 링크](https://www.notion.so/2d18dd9ffeba806caa9aedec166c98a8?v=2d18dd9ffeba804e9344000c06a759cc&source=copy_link)
 ## [김상엽 링크](https://www.notion.so/Daily-2d1895ca709880afb35ae443a8089ee1?source=copy_link)
-## [김우영 링크]
-## [서정언 링크]
-## [이상원 링크]
 
 # 최고 성적 모델 관련
 최고 성적이 나온 모델의 경우, 분류기를 통해 클래스만 분류한 모델로 bbox를 후처리하였습니다.
